@@ -19,13 +19,13 @@ We provide detailed results for our analysis in this repository. Our repository 
 
 * **Clustering results for All Regulations**
 
-    Results for regulatoins are presented by topics. Each topic file contains a set of words associated with the topic, a list of all the relevant documents and evolution of the topic.
+    Results for regulatoins are presented by topics. Each topic file contains a set of words associated with the topic, a list of all the relevant documents and evolution of the topic. There are 50 topics for regulations.
     
     [Browse results](clusteringRegulations)
 
 * **Clustering Results for All Acts**
 
-    Results for acts are presented by topics. Each topic file contains a set of words associated with the topic, a list of all the relevant documents and evolution of the topic.
+    Results for acts are presented by topics. Each topic file contains a set of words associated with the topic, a list of all the relevant documents and evolution of the topic. There are 25 topics for acts.
     
     [Browse results](clusteringActs)
 
