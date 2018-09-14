@@ -21,6 +21,7 @@
   * Condition
   * Entities
   * Dates
+* Structured Analysis with Context
 
 ## Structural Analysis for Acts
 
@@ -40,4 +41,5 @@ A-1 has a corresponding [A-1.md](acts/A-1.md). Each file has the following struc
   * Condition
   * Entities
   * Dates
+* Structured Analysis with Context
 
