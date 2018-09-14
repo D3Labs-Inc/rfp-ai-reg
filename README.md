@@ -3,7 +3,7 @@
 
 
 
-We provide detailed results for our analysis in this repository. Our repository structure is as follows
+We provide detailed results for our analysis in this repository. Our repository structure is as follows:
 
 * **Results for Each Regulation**
     
