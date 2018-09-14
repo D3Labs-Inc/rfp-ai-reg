@@ -29,5 +29,6 @@ We provide detailed results for our analysis in this repository. Our repository 
 
     Each regulation file contains summary of regulation, tags for the regulation and Structured Analysis(named entities).
 
+## Search
 [Search regulations or acts file by id](https://github.com/D3Labs-Inc/rfp-ai-reg/find/master)
 
