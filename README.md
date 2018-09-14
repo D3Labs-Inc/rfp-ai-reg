@@ -1,6 +1,15 @@
-# Response to RFP for the Provision of Artificial Intelligence
+# Response to RFP for the Provision of Artificial Intelligence Insights into Regulations
 
-## Insights into Regulations
+
+We provide detailed results for our analysis in this repository. Our repository structure is as follows
+
+* Individual Results for Regulations
+* Individual Results for Acts
+* Clustering Results for Regulations
+* Clustering Results for Acts
+* Results for US Regulations
+
+## Individual Results for Regulations
 
 [Link to files .md files for analysis on Federal Regulations](regulations). The link has .md files for each regulation with the following naming pattern <regulation_id>.md. For instance, the file for structural analysis results on SOR-2000-1 has a corresponding [2000-1.md](regulations/SOR-2000-1.md). Each file has the following structure
  
@@ -23,7 +32,7 @@
   * Dates
 * Structured Analysis with Context
 
-## Results for Acts
+## Individual Results for Acts
 
 [Link to files .md files for analysis Results on Acts](acts). The link has .md files for each act with the following naming pattern <act_id>.md. For instance, the file for structural analysis results on 
 A-1 has a corresponding [A-1.md](acts/A-1.md). Each file has the following structure
