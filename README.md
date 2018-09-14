@@ -15,10 +15,29 @@
   * Level 2 Codes
   * Level 3 Codes
 * Strutured Analysis Summary
+  * Money
   * Constraints
   * Durations
   * Condition
+  * Entities
+  * Dates
+
+## Structural Analysis for Acts
+
+[Link to files .md files for Strutural Analysis Results on Acts](acts). The link has .md files for each act with the following naming pattern <act_id>.md. For instance, the file for structural analysis results on 
+A-1 has a corresponding [A-1.md](acts/A-1.md). Each file has the following structure
+ 
+* Title
+* ID
+* URL
+* Summary
+* Tags
+* Inconsistent Words
+* Strutured Analysis Summary
   * Money
+  * Constraints
+  * Durations
+  * Condition
   * Entities
   * Dates
 
