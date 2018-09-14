@@ -4,6 +4,7 @@
 We provide detailed results for our analysis in this repository. Our repository structure is as follows
 
 * Individual Results for Regulations
+Each regulation file contains structural analysis (), summary of the regulation
 * Individual Results for Acts
 * Clustering Results for Regulations
 * Clustering Results for Acts
