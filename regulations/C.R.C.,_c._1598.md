@@ -23,10 +23,15 @@ Subject to this section, the Attorney General may waive the primary right of a c
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1
+
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 1270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1912a, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7
+
 
 
 

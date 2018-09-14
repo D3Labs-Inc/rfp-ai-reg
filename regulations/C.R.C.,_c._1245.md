@@ -25,10 +25,15 @@ This Order does not apply to over-flying aircraft.
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 260, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 20, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1
+
 File Name: CFR-2018-title17-vol3, Reg (Part) Id: Pt. 200, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol3/xml/CFR-2018-title17-vol3
+
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 2103, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6
+
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+
 
 
 

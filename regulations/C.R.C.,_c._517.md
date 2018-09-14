@@ -23,10 +23,15 @@ Certified seed potatoes, imported under tariff item 7120-1, shall have attached 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 95, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 361, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5
+
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 12, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5
+
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 271, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2
+
 
 
 

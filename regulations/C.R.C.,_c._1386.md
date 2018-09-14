@@ -23,10 +23,15 @@ It is a condition of a development incentive in respect of a facility that if, d
 
 # Overlapping US Regulations
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 1206, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3
+
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 1208, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3
+
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 242, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2
+
 File Name: CFR-2018-title24-vol4, Reg (Part) Id: Pt. 904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol4/xml/CFR-2018-title24-vol4
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 
 
 

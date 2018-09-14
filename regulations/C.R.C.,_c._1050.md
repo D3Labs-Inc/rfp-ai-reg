@@ -27,10 +27,15 @@ Leave of absence granted under these Regulations to a temporary employee shall n
 
 # Overlapping US Regulations
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1060, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 706, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2
+
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 6401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3
+
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1
+
 
 
 

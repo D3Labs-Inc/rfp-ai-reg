@@ -24,10 +24,15 @@ A person shall be determined to have passed a medical examination required by se
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 243, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 1659, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6
+
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1
+
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 955, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 356, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 
 
 

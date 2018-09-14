@@ -27,10 +27,15 @@ This Company shall not be liable in any case for damages, unless the same be cla
 
 # Overlapping US Regulations
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 108, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1
+
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 366, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1
+
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 275, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10
+
 
 
 

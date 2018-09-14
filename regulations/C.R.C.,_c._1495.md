@@ -25,10 +25,15 @@ This Order may be cited as the  Tariff of Fees of Shipping Masters .
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3
+
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2
+
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 868, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7
+
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 61, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3
+
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 735, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7
+
 
 
 

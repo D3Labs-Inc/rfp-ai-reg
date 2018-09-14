@@ -24,10 +24,15 @@ Subject to the terms and conditions of these Regulations, telephone, telegraph a
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3
+
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 432, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 770, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2
+
 File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1317, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9
+
 File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 109-27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3
+
 
 
 

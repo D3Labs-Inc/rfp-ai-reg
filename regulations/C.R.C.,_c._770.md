@@ -27,10 +27,15 @@ Remission is hereby granted to I.O.S., any shareholder or unitholder of I.O.S. o
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 781, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 601, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 801, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3
+
 File Name: CFR-2018-title26-vol19, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol19/xml/CFR-2018-title26-vol19
+
 File Name: CFR-2018-title26-vol15, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol15/xml/CFR-2018-title26-vol15
+
 
 
 

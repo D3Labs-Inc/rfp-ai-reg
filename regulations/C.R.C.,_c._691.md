@@ -25,10 +25,15 @@ The Minister shall report annually to the Treasury Board any major item such as 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1788, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12
+
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1434, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10
+
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1250, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 286, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1427, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10
+
 
 
 

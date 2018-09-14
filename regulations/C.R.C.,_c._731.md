@@ -35,10 +35,15 @@ The Departments of National Defence, External Affairs and Finance shall act in c
 
 # Overlapping US Regulations
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1421, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2
+
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 264b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4
+
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2
+
 
 
 

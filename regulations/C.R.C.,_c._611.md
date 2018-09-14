@@ -26,10 +26,15 @@ Subsection (1) does not authorize the exportation of goods that are separated in
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 102, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 10, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 134, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 54, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 7, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+
 
 
 

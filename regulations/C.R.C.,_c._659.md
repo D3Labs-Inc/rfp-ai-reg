@@ -20,10 +20,15 @@ With respect to turkeys from the regulated area shipped into the unregulated are
 
 # Overlapping US Regulations
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1203a, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5
+
 File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 552, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3
+
 File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 525, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3
+
 
 
 

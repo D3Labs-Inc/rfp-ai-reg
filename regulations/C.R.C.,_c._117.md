@@ -25,10 +25,15 @@ Being a surface consisting of an inclined plane having a ratio of one (1) foot m
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 110, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 80, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 334, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3
+
 File Name: CFR-2018-title14-vol2, Reg (Part) Id: Pt. 95, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol2/xml/CFR-2018-title14-vol2
+
 
 
 

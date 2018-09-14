@@ -23,10 +23,15 @@ Returns of all imports and exports into and from Canada and details of the means
 
 # Overlapping US Regulations
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 41, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2
+
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 28, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1
+
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 44, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2
+
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 40, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2
+
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1
+
 
 
 

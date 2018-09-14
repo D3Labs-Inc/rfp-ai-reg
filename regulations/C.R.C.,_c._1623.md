@@ -25,10 +25,15 @@ A Cross shall not be issued to a person referred to in section 4 unless that per
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 4, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 99, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 935, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6
+
 
 
 

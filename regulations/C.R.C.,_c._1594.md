@@ -23,10 +23,15 @@ The notice referred to in subsection (1) shall be in writing over the signature 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 227, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 215, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 214, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1
+
 
 
 

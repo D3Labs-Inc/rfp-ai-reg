@@ -22,10 +22,15 @@ Notwithstanding this Order, where it appears in any particular case that injusti
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 795, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 104, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 111, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title26-vol19, Reg (Part) Id: Pt. 143, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol19/xml/CFR-2018-title26-vol19
+
 
 
 

@@ -24,10 +24,15 @@ The Superintendent may permit the following signs to be erected in respect of a 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 118, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 100, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 83, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 
 
 

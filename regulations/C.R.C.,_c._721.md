@@ -23,10 +23,15 @@ The Minister of National Defence, or such authority as he may designate, is auth
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 264b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4
+
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 23, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1
+
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 22, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1
+
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 228, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1
+
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+
 
 
 

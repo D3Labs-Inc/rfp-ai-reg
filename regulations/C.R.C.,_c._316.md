@@ -25,10 +25,15 @@ Notwithstanding subsection (1), section 60 of the  Unemployment Insurance Regula
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 302, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 325, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 336, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 221, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 
 
 

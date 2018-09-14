@@ -25,10 +25,15 @@ The Minister may, without calling for tenders, grant a lease of natural gas righ
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 212, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 715, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 211, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 961, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 
 
 
@@ -133,10 +138,15 @@ The Minister may, without calling for tenders, grant a lease of natural gas righ
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 212, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 715, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 211, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 961, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 
 
 

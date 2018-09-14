@@ -25,10 +25,15 @@ When goods are purchased under appropriate certificates from manufacturers or wh
 
 # Overlapping US Regulations
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1
+
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2
+
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2
+
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1
+
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 148, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2
+
 
 
 

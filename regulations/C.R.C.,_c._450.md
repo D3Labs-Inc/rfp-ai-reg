@@ -27,10 +27,15 @@ Subsidiary coin of Canada that has been called in or that is unfit for circulati
 
 # Overlapping US Regulations
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 383, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 85, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 380, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5
+
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1
+
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3
+
 
 
 

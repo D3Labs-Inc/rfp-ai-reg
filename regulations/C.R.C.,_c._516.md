@@ -28,10 +28,15 @@ Where a product referred to in section 2 is submitted to the National Film Board
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3
+
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1019, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 11, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+
 File Name: CFR-2018-title25-vol2, Reg (Part) Id: Pt. 309, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol2/xml/CFR-2018-title25-vol2
+
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 301, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2
+
 
 
 

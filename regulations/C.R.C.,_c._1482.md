@@ -27,10 +27,15 @@ When an inspection of elevators or escalators is performed by a competent person
 
 # Overlapping US Regulations
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 11, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 710, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3
+
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 815, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3
+
 
 
 

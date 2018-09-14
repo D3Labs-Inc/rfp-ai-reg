@@ -25,10 +25,15 @@ The Minister of National Defence is authorized to give appropriate indemnity und
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6
+
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 502, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1048, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 770, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 25, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1
+
 
 
 

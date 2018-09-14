@@ -28,10 +28,15 @@ Subject to subsection (2), in every sleeping room, dining area, recreation space
 
 # Overlapping US Regulations
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 77, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 18, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 56, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+
 File Name: CFR-2018-title24-vol5, Reg (Part) Id: Pt. 3285, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol5/xml/CFR-2018-title24-vol5
+
 
 
 

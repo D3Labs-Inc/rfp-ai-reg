@@ -28,10 +28,15 @@ No sublease referred to in section 5 shall be issued without prior public advert
 
 # Overlapping US Regulations
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 291, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2
+
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 714, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+
 File Name: CFR-2018-title32-vol4, Reg (Part) Id: Pt. 644, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol4/xml/CFR-2018-title32-vol4
+
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2
+
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1
+
 
 
 

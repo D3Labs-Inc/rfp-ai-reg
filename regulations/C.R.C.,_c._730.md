@@ -25,10 +25,15 @@ Where money has been paid into a Revenue Trust Account for any purpose and the a
 
 # Overlapping US Regulations
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 367, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1
+
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 701, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22
+
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22
+
 File Name: CFR-2018-title12-vol5, Reg (Part) Id: Pt. 330, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol5/xml/CFR-2018-title12-vol5
+
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 745, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+
 
 
 

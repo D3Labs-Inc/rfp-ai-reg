@@ -24,10 +24,15 @@ The Canadian Radio-television and Telecommunications Commission is hereby direct
 
 # Overlapping US Regulations
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1049, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 38, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1002, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 511, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 
 
 

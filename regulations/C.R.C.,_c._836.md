@@ -22,10 +22,15 @@ Dogfish and other fish caught incidental to fishing for dogfish in the Goose Isl
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 42, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2
+
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1411, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10
+
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 281, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4
+
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1440, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 380, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5
+
 
 
 

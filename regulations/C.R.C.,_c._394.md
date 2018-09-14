@@ -24,10 +24,15 @@ In the case of every Bill introduced in or presented to the House of Commons by 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 811, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 344, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1
+
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 1290, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 61, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 105, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1
+
 
 
 

@@ -24,10 +24,15 @@ Subject to subsections (1.1) and (2), a pre-retirement benefit may be paid by th
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 302, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 325, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 336, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1625, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+
 
 
 

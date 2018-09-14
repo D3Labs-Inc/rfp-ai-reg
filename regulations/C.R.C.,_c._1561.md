@@ -23,10 +23,15 @@ In these Regulations, department  means a department of the Public Service and i
 
 # Overlapping US Regulations
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 45, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 600, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 15, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1
+
 
 
 

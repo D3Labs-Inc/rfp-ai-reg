@@ -25,10 +25,15 @@ The Board may, to the extent that it deems advisable, take, accept or acquire an
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 141, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 1208, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3
+
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 242, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2
+
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1788, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12
+
 File Name: CFR-2018-title12-vol5, Reg (Part) Id: Pt. 366, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol5/xml/CFR-2018-title12-vol5
+
 
 
 

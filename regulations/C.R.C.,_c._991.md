@@ -27,10 +27,15 @@ For the purposes of these Regulations, hours of work may be scheduled and actual
 
 # Overlapping US Regulations
 File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1
+
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 551, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 301, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 64, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 5201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3
+
 
 
 

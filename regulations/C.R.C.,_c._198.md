@@ -28,10 +28,15 @@ Where fresh grapes are sold through a dealer-shipper, the dealer-shipper shall d
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2
+
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 46, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2
+
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 17, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1
+
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1212, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10
+
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1
+
 
 
 

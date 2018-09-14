@@ -27,10 +27,15 @@ Unless the Minister of National Defence otherwise directs, aircraft referred to 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 234, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1
+
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 375, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4
+
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 251, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4
+
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 257, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4
+
 File Name: CFR-2018-title14-vol1, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol1/xml/CFR-2018-title14-vol1
+
 
 
 

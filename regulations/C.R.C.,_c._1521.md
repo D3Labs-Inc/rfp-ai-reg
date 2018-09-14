@@ -24,10 +24,15 @@ Where permits or blocks of permits are granted pursuant to the same call for ten
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 167, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 552, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 168, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 262, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 
 
 

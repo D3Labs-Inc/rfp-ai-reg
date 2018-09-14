@@ -26,10 +26,15 @@ Subject to subsections 31(2), (3) and (4) of the  Financial Administration Act ,
 
 # Overlapping US Regulations
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 709, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1018, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 955, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 109, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1912, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7
+
 
 
 

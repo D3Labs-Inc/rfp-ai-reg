@@ -23,10 +23,15 @@ Subject to these Regulations, where a pensioner is awarded a pension under the  
 
 # Overlapping US Regulations
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 1659, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6
+
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 211, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 350, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 340, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title34-vol2, Reg (Part) Id: Pt. 304, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol2/xml/CFR-2018-title34-vol2
+
 
 
 

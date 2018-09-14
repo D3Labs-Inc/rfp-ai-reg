@@ -23,10 +23,15 @@ The making of grants and loans to individuals and the making of loans to persons
 
 # Overlapping US Regulations
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 30, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1
+
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1
+
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1
+
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 504, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6
+
 File Name: CFR-2018-title2-vol1, Reg (Part) Id: Pt. 2424, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title2-vol1/xml/CFR-2018-title2-vol1
+
 
 
 

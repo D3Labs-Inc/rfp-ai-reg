@@ -23,10 +23,15 @@ This subsection is not reproduced in the R.S.C., 1970, see S.C., 1959, c.
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4
+
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1440, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 281, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4
+
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+
 File Name: CFR-2018-title12-vol6, Reg (Part) Id: Pt. 500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol6/xml/CFR-2018-title12-vol6
+
 
 
 

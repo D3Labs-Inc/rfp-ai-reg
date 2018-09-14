@@ -24,10 +24,15 @@ Five copies of every order and regulation of a class described in section 2 that
 
 # Overlapping US Regulations
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 1180, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3
+
 File Name: CFR-2018-title7-vol4, Reg (Part) Id: Pt. 252, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol4/xml/CFR-2018-title7-vol4
+
 File Name: CFR-2018-title21-vol1, Reg (Part) Id: Pt. 25, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol1/xml/CFR-2018-title21-vol1
+
 File Name: CFR-2018-title21-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol1/xml/CFR-2018-title21-vol1
+
 File Name: CFR-2018-title7-vol4, Reg (Part) Id: Pt. 250, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol4/xml/CFR-2018-title7-vol4
+
 
 
 

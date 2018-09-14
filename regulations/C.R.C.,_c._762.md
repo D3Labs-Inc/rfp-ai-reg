@@ -23,10 +23,15 @@ Remission is hereby granted of the customs duties paid or payable on goods impor
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 358, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3
+
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 173, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 142, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title2-vol1, Reg (Part) Id: Pt. 176, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title2-vol1/xml/CFR-2018-title2-vol1
+
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1470, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+
 
 
 

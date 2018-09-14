@@ -22,10 +22,15 @@ Interest is payable, pursuant to subsection (1), from the first day of the first
 
 # Overlapping US Regulations
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 701, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22
+
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22
+
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 19, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1
+
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 367, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1
+
 File Name: CFR-2018-title26-vol17, Reg (Part) Id: Pt. 35, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol17/xml/CFR-2018-title26-vol17
+
 
 
 

@@ -23,10 +23,15 @@ It is hereby directed that the  Government Vessels Discipline Act  shall apply t
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 42, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2
+
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 281, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4
+
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1609, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 88, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 
 
 

@@ -25,10 +25,15 @@ Subject to section 15, an amount equal to the total amount paid to a recipient 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol15, Reg (Part) Id: Pt. 4290, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol15/xml/CFR-2018-title7-vol15
+
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 955, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 795, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7
+
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 82, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3
+
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 986, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+
 
 
 

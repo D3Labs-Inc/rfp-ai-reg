@@ -26,10 +26,15 @@ No person shall pay brokerage fees in the Province of Ontario or Quebec to any p
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 238, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 301, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 255, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title14-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol1/xml/CFR-2018-title14-vol1
+
 
 
 

@@ -25,10 +25,15 @@ Where a claim for payment out of the Investors’ Indemnity Account is made in r
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 243, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22
+
 File Name: CFR-2018-title12-vol3, Reg (Part) Id: Pt. 220, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol3/xml/CFR-2018-title12-vol3
+
 
 
 

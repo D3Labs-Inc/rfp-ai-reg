@@ -20,10 +20,15 @@ Where, in the 1972 or any subsequent taxation year, a settlement was or is recei
 
 # Overlapping US Regulations
 File Name: CFR-2018-title26-vol17, Reg (Part) Id: Pt. 31, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol17/xml/CFR-2018-title26-vol17
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 211, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 230, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+
 File Name: CFR-2018-title26-vol17, Reg (Part) Id: Pt. 32, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol17/xml/CFR-2018-title26-vol17
+
 File Name: CFR-2018-title5-vol2, Reg (Part) Id: Pt. 842, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol2/xml/CFR-2018-title5-vol2
+
 
 
 

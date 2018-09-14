@@ -15,10 +15,15 @@ http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._946/FullText.html
 
 # Overlapping US Regulations
 File Name: CFR-2018-title26-vol11, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol11/xml/CFR-2018-title26-vol11
+
 File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 303, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20
+
 File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 302, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20
+
 File Name: CFR-2018-title26-vol21, Reg (Part) Id: Pt. 513, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol21/xml/CFR-2018-title26-vol21
+
 File Name: CFR-2018-title26-vol19, Reg (Part) Id: Pt. 50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol19/xml/CFR-2018-title26-vol19
+
 
 
 

@@ -27,10 +27,15 @@ The Minister of National Defence is authorized, when he considers that the publi
 
 # Overlapping US Regulations
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 103, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1
+
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1789, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1706, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 137, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1
+
 
 
 

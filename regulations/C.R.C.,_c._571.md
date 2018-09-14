@@ -23,10 +23,15 @@ Every person to whom a licence is granted under the  Excise Act  for a purpose s
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 316, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 700, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8
+
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 72, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 
 
 
@@ -103,10 +108,15 @@ Every person to whom a licence is granted under the  Excise Act  for a purpose s
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 316, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 700, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8
+
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 72, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 
 
 
@@ -183,10 +193,15 @@ Every person to whom a licence is granted under the  Excise Act  for a purpose s
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 316, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 700, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+
 File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8
+
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 72, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+
 
 
 

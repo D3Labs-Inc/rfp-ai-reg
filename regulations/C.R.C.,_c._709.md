@@ -25,10 +25,15 @@ The loans referred to in section 2 are to be made through the Department of Supp
 
 # Overlapping US Regulations
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 103, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 800, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1789, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12
+
 File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1015, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8
+
 File Name: CFR-2018-title2-vol1, Reg (Part) Id: Pt. 2701, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title2-vol1/xml/CFR-2018-title2-vol1
+
 
 
 

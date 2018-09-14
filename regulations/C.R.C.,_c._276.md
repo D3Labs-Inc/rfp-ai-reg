@@ -26,10 +26,15 @@ Every small processor shall submit to the Commission a weekly statement indicati
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1608, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+
 File Name: CFR-2018-title10-vol2, Reg (Part) Id: Pt. 95, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol2/xml/CFR-2018-title10-vol2
+
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 180, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2
+
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 3a, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1
+
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 166, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2
+
 
 
 

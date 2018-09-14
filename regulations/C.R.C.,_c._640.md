@@ -22,10 +22,15 @@ For the purpose of section 33 of the  Expropriation Act , the basic rate shall b
 
 # Overlapping US Regulations
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 715, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 5, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1
+
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 903, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+
 File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 726, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4
+
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 351, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3
+
 
 
 

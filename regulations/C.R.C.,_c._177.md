@@ -27,10 +27,15 @@ For the purpose of accepting a sample of beans as a fair sample pursuant to para
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 275, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 180, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2
+
 File Name: CFR-2018-title17-vol1, Reg (Part) Id: Pt. 32, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol1/xml/CFR-2018-title17-vol1
+
 File Name: CFR-2018-title17-vol3, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol3/xml/CFR-2018-title17-vol3
+
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+
 
 
 

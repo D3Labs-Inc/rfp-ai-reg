@@ -28,10 +28,15 @@ No drawback shall be paid under these Regulations in respect of any imported fab
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 54, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 191, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2
+
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 152, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2
+
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 159, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2
+
 File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 303, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2
+
 
 
 

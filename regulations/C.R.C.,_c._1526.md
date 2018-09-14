@@ -21,10 +21,15 @@ This Order applies to shares described in subsection 2(1) acquired by an officer
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 651, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+
 File Name: CFR-2018-title34-vol1, Reg (Part) Id: Pt. 7, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol1/xml/CFR-2018-title34-vol1
+
 File Name: CFR-2018-title26-vol17, Reg (Part) Id: Pt. 36, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol17/xml/CFR-2018-title26-vol17
+
 File Name: CFR-2018-title41-vol4, Reg (Part) Id: Pt. 304-7, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol4/xml/CFR-2018-title41-vol4
+
 File Name: CFR-2018-title34-vol1, Reg (Part) Id: Pt. 73, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol1/xml/CFR-2018-title34-vol1
+
 
 
 

@@ -24,10 +24,15 @@ An account submitted by a Parliamentary Secretary in respect of expenses incurre
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 955, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 953, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 383, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4
+
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 1659, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6
+
 File Name: CFR-2018-title34-vol2, Reg (Part) Id: Pt. 304, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol2/xml/CFR-2018-title34-vol2
+
 
 
 

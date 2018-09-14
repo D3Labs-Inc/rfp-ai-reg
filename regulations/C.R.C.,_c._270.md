@@ -27,10 +27,15 @@ Every producer shall, in respect of every period, pay to the Commodity Board, no
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 726, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4
+
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 5, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1
+
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1210, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10
+
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10
+
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 351, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3
+
 
 
 
