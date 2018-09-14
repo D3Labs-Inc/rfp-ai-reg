@@ -7,11 +7,15 @@ We provide detailed results for our analysis in this repository. Our repository 
 
 * **Results for Each Regulation**
     
-    Each regulation file contains summary of regulation, tags, inconsistent words for the regulation, overlapping US regulations, North American Industry Classification System (NAICS) codes and Structured Analysis(named entities). [Link to results](regulations)
+    Each regulation file contains summary of regulation, tags, inconsistent words for the regulation, overlapping US regulations, North American Industry Classification System (NAICS) codes and Structured Analysis(named entities). 
+    
+    [Go to results](regulations)
     
 * **Results for Each Act**
 
-    Each act file contains summary of act, tags, inconsistent words for the act and Structured Analysis(named entities). [Link to results](acts)
+    Each act file contains summary of act, tags, inconsistent words for the act and Structured Analysis(named entities). 
+    
+    [Go to results](acts)
 
 * **Clustering results for All Regulations**
 
