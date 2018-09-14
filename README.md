@@ -30,5 +30,7 @@ We provide detailed results for our analysis in this repository. Our repository 
     Each regulation file contains summary of regulation, tags for the regulation and Structured Analysis(named entities).
 
 ## Search
+Search individual regulations or acts by entering their id on the link below. For example, search regulation with id SOR-2014-10 by entering
+
 [Search regulations or acts file by id](https://github.com/D3Labs-Inc/rfp-ai-reg/find/master)
 
