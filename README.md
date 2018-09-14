@@ -1,6 +1,7 @@
 # Response to RFP for the Provision of Artificial Intelligence Insights into Regulations
 
 
+[SEARCH](https://github.com/D3Labs-Inc/rfp-ai-reg/find/)
 We provide detailed results for our analysis in this repository. Our repository structure is as follows
 
 * Results for Each Regulation [Link to files .md files for analysis on Federal Regulations](regulations)
