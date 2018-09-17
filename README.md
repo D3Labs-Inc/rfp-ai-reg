@@ -32,6 +32,7 @@ We provide detailed results for our analysis in this repository. Our repository 
 * **Results for Each US Regulation**
 
     Each regulation file contains summary of regulation, tags for the regulation and Structured Analysis(named entities).
+    [Browse results](regulations/us)
 
 ## Search
 Search individual regulations or acts by entering their id on the link below. For example, to find regulation with id SOR-2014-10 go to the link and type the id.
