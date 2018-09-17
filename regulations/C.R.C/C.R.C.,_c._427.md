@@ -21,15 +21,15 @@ The Minister of Consumer and Corporate Affairs is hereby designated as the membe
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 650, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 650, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
-File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
 
-File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 909, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3
+File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 909, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
 
-File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3
+File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
 
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 651, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 651, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
 
 

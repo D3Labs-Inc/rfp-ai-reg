@@ -22,15 +22,15 @@ Every railway company affected by changes in Railway Passenger Services shall pr
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1202, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1202, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
 
-File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4
+File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
 
-File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 7, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1
+File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 7, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1.xml
 
-File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1204, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1204, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
 
-File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 30, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 30, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
 
 
 

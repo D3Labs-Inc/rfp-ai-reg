@@ -23,15 +23,15 @@ All experts performing missions for the Organization shall, to such extent as ma
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3
+File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
 
-File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 758, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2
+File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 758, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2.xml
 
-File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 91, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1
+File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 91, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
 
-File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 30, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1
+File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 30, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
 
-File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 92, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1
+File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 92, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
 
 
 

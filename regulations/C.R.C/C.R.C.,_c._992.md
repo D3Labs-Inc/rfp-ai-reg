@@ -24,15 +24,15 @@ Subject to these Regulations, where an employee is entitled to not less than 0.4
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1605, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1605, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
 
-File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 332, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 332, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
 
-File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1620, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1620, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
 
-File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1
+File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
 
-File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 551, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1
+File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 551, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
 
 
 

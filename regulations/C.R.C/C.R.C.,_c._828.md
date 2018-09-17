@@ -24,15 +24,15 @@ For the purpose of paragraph 5(1)(c), the authorized deposit for a refinery of 
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 429, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3
+File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 429, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3.xml
 
-File Name: CFR-2018-title40-vol6, Reg (Part) Id: Pt. 59, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title40-vol6/xml/CFR-2018-title40-vol6
+File Name: CFR-2018-title40-vol6, Reg (Part) Id: Pt. 59, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title40-vol6/xml/CFR-2018-title40-vol6.xml
 
-File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 430, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3
+File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 430, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3.xml
 
-File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 439, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2
+File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 439, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
 
-File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 460, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 460, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
 
 
 

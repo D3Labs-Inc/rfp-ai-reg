@@ -22,15 +22,15 @@ The place of meeting for the business of the ( here insert name of trade union )
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 982, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 982, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
 
-File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1409, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10
+File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1409, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
 
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 709, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 709, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 604, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 604, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 747, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 747, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
 
 

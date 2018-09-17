@@ -24,15 +24,15 @@ Commercial air services provided by means of air cushion vehicles are excluded f
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
 
-File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 335, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3
+File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 335, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
 
-File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
 
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1049, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1049, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
-File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5
+File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
 
 
 

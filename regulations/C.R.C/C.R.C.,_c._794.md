@@ -14,15 +14,15 @@ http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._794/FullText.html
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1
+File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
 
-File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 81, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1
+File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 81, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
 
-File Name: CFR-2018-title26-vol16, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol16/xml/CFR-2018-title26-vol16
+File Name: CFR-2018-title26-vol16, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol16/xml/CFR-2018-title26-vol16.xml
 
-File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
 
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 625, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 625, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
 
 

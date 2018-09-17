@@ -23,15 +23,15 @@ For the purposes of the  Fitness and Amateur Sport Act , amateur sport  means an
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3
+File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
 
-File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1
+File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1.xml
 
-File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1
+File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
 
-File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5
+File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
 
-File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 153, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1
+File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 153, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
 
 
 

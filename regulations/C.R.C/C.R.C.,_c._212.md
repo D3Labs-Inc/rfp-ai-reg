@@ -28,15 +28,15 @@ The platform and storage facilities of every shipper and the records of every sh
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 18, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 18, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
 
-File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
 
-File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
 
-File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 238, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 238, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
 
-File Name: CFR-2018-title21-vol7, Reg (Part) Id: Pt. 607, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol7/xml/CFR-2018-title21-vol7
+File Name: CFR-2018-title21-vol7, Reg (Part) Id: Pt. 607, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol7/xml/CFR-2018-title21-vol7.xml
 
 
 

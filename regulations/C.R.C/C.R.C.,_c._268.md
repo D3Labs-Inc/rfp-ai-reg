@@ -21,15 +21,15 @@ The Commodity Board is authorized to regulate the marketing of broiler chickens 
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
 
-File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 746, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3
+File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 746, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
 
-File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 219, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2
+File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 219, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
 
-File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2
+File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
 
-File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1236, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10
+File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1236, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
 
 
 

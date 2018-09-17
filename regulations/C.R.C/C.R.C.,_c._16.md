@@ -26,15 +26,15 @@ Unless the Minister of National Defence otherwise directs, aircraft referred to 
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 234, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1
+File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 234, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
 
-File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 375, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4
+File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 375, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
 
-File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 258, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4
+File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 258, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
 
-File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1
+File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
 
-File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 343, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1
+File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 343, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
 
 
 

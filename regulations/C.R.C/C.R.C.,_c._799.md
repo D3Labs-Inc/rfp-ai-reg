@@ -22,15 +22,15 @@ Remission is hereby granted to an eligible carrier, in an amount determined in a
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title26-vol18, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol18/xml/CFR-2018-title26-vol18
+File Name: CFR-2018-title26-vol18, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol18/xml/CFR-2018-title26-vol18.xml
 
-File Name: CFR-2018-title26-vol18, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol18/xml/CFR-2018-title26-vol18
+File Name: CFR-2018-title26-vol18, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol18/xml/CFR-2018-title26-vol18.xml
 
-File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2
+File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
 
-File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2
+File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
 
-File Name: CFR-2018-title26-vol19, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol19/xml/CFR-2018-title26-vol19
+File Name: CFR-2018-title26-vol19, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol19/xml/CFR-2018-title26-vol19.xml
 
 
 

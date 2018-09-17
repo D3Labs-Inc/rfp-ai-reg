@@ -22,15 +22,15 @@ The notes or legend on the drawing shall include the following information: evid
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 77, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 77, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 717, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3
+File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 717, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
 
-File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 86, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 86, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
 
 
 

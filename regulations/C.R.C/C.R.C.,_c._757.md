@@ -26,15 +26,15 @@ An application for remission shall be made on a form acceptable to the Minister 
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title21-vol8, Reg (Part) Id: Pt. 1230, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol8/xml/CFR-2018-title21-vol8
+File Name: CFR-2018-title21-vol8, Reg (Part) Id: Pt. 1230, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol8/xml/CFR-2018-title21-vol8.xml
 
-File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
 
-File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 44, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2
+File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 44, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
 
-File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 162, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2
+File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 162, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
 
-File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1076, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9
+File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1076, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9.xml
 
 
 

@@ -26,15 +26,15 @@ Any person aggrieved by any act or decision of any member or authorized represen
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1704, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1704, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
-File Name: CFR-2018-title6-vol1, Reg (Part) Id: Pt. 1003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title6-vol1/xml/CFR-2018-title6-vol1
+File Name: CFR-2018-title6-vol1, Reg (Part) Id: Pt. 1003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title6-vol1/xml/CFR-2018-title6-vol1.xml
 
-File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
 
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 623, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 623, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
 
 

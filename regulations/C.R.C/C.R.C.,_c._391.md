@@ -22,15 +22,15 @@ The Province of Quebec is hereby prescribed, for the purposes of the  Canada Pen
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title26-vol7, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol7/xml/CFR-2018-title26-vol7
+File Name: CFR-2018-title26-vol7, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol7/xml/CFR-2018-title26-vol7.xml
 
-File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1751, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11
+File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1751, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
 
-File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 219, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2
+File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 219, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
 
-File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 290, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 290, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
 
-File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 756, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3
+File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 756, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
 
 
 

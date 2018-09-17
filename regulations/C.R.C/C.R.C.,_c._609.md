@@ -26,15 +26,15 @@ Where completion and validation of a customs entry form is required with respect
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 980, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 980, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
 
-File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 525, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3
+File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 525, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3.xml
 
-File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 355, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5
+File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 355, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5.xml
 
-File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 35, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2
+File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 35, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
 
-File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 122, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 122, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
 
 
 

@@ -27,15 +27,15 @@ That the hiring of the equipment to the Charterer may be terminated at any time 
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 76, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 76, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
 
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 56, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 56, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 109-38, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3
+File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 109-38, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
 
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1917, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7
+File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1917, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
 
 
 

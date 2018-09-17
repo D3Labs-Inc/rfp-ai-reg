@@ -25,15 +25,15 @@ A fee of $0.75 shall be paid for each search required to obtain a document for p
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 206, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3
+File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 206, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
 
-File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1080, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9
+File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1080, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9.xml
 
-File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2017, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3
+File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2017, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
 
-File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 705, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2
+File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 705, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2.xml
 
-File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1316, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9
+File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1316, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9.xml
 
 
 

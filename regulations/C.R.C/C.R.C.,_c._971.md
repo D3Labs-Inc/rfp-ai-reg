@@ -23,15 +23,15 @@ Where, in the opinion of the Board, a manufacturer requires a loan in order to a
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5
+File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
 
-File Name: CFR-2018-title12-vol6, Reg (Part) Id: Pt. 535, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol6/xml/CFR-2018-title12-vol6
+File Name: CFR-2018-title12-vol6, Reg (Part) Id: Pt. 535, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol6/xml/CFR-2018-title12-vol6.xml
 
-File Name: CFR-2018-title7-vol15, Reg (Part) Id: Pt. 2201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol15/xml/CFR-2018-title7-vol15
+File Name: CFR-2018-title7-vol15, Reg (Part) Id: Pt. 2201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol15/xml/CFR-2018-title7-vol15.xml
 
-File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1015, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8
+File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1015, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8.xml
 
-File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 141, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 141, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
 
 
 

@@ -23,15 +23,15 @@ An undertaking to indemnify given to the Bank under these Regulations shall be e
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 51, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1
+File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 51, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
 
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 810, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 810, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
-File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10
+File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
 
-File Name: CFR-2018-title12-vol3, Reg (Part) Id: Pt. 229, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol3/xml/CFR-2018-title12-vol3
+File Name: CFR-2018-title12-vol3, Reg (Part) Id: Pt. 229, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol3/xml/CFR-2018-title12-vol3.xml
 
-File Name: CFR-2018-title12-vol6, Reg (Part) Id: Pt. 561, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol6/xml/CFR-2018-title12-vol6
+File Name: CFR-2018-title12-vol6, Reg (Part) Id: Pt. 561, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol6/xml/CFR-2018-title12-vol6.xml
 
 
 

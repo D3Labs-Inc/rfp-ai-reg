@@ -21,15 +21,15 @@ Every producer shall pay to the Commodity Board at its office at 11826-100th Ave
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 1690, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3
+File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 1690, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
 
-File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1777, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10
+File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1777, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
 
-File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10
+File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
 
-File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 245, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4
+File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 245, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
 
-File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1236, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10
+File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1236, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
 
 
 

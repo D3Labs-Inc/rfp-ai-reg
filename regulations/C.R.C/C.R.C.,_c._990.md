@@ -23,15 +23,15 @@ Subject to subsection (2), where an employee is employed in any day or in any we
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1620, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1620, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
 
-File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1915, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7
+File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1915, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
 
-File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 551, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1
+File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 551, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
 
-File Name: CFR-2018-title29-vol5, Reg (Part) Id: Pt. 1904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol5/xml/CFR-2018-title29-vol5
+File Name: CFR-2018-title29-vol5, Reg (Part) Id: Pt. 1904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol5/xml/CFR-2018-title29-vol5.xml
 
-File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1605, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1605, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
 
 
 

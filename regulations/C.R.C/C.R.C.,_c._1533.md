@@ -22,15 +22,15 @@ The lands described in the schedule are set apart and appropriated for the purpo
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1
+File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
 
-File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 31, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1
+File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 31, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
 
-File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 750, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7
+File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 750, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
 
-File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1
+File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
 
-File Name: CFR-2018-title12-vol2, Reg (Part) Id: Pt. 209, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol2/xml/CFR-2018-title12-vol2
+File Name: CFR-2018-title12-vol2, Reg (Part) Id: Pt. 209, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol2/xml/CFR-2018-title12-vol2.xml
 
 
 

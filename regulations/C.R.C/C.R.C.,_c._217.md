@@ -22,15 +22,15 @@ The Commodity Board shall deduct from the moneys payable to a producer all levie
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
 
-File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
 
-File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1777, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10
+File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1777, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
 
-File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1470, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1470, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
 
-File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 801, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4
+File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 801, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
 
 
 

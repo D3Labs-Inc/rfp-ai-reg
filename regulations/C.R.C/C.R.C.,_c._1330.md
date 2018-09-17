@@ -23,15 +23,15 @@ The rental or other consideration payable under any lease or licence entered int
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2
+File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
 
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
-File Name: CFR-2018-title32-vol4, Reg (Part) Id: Pt. 643, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol4/xml/CFR-2018-title32-vol4
+File Name: CFR-2018-title32-vol4, Reg (Part) Id: Pt. 643, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol4/xml/CFR-2018-title32-vol4.xml
 
-File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 137, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1
+File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 137, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
 
-File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2
+File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
 
 
 

@@ -23,15 +23,15 @@ An excess flow valve or other automatic device as prescribed in subsection (1) 
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 56, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 56, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 77, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 77, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1
+File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
 
-File Name: CFR-2018-title24-vol5, Reg (Part) Id: Pt. 3280, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol5/xml/CFR-2018-title24-vol5
+File Name: CFR-2018-title24-vol5, Reg (Part) Id: Pt. 3280, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol5/xml/CFR-2018-title24-vol5.xml
 
 
 

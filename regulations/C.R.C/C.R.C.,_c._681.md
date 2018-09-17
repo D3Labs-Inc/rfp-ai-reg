@@ -25,15 +25,15 @@ In these Regulations, barge  means any barge owned and operated by Her Majesty i
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 100, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1
+File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 100, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
 
-File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 956, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 956, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
 
-File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 920, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 920, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
 
-File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 959, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 959, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
 
-File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 925, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8
+File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 925, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
 
 
 

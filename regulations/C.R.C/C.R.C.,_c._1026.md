@@ -22,15 +22,15 @@ The City of Montreal in the Province of Quebec is designated as the City in whic
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 321, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 321, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
 
-File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 900, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4
+File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 900, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
 
-File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1
+File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
 
-File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 902, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 902, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
 
-File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1209, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5
+File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1209, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
 
 
 

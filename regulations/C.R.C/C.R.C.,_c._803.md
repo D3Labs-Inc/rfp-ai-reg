@@ -29,15 +29,15 @@ Where a carrier is exempted pursuant to section 3, the bills of lading or other 
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 655, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 655, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
-File Name: CFR-2018-title12-vol5, Reg (Part) Id: Pt. 311, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol5/xml/CFR-2018-title12-vol5
+File Name: CFR-2018-title12-vol5, Reg (Part) Id: Pt. 311, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol5/xml/CFR-2018-title12-vol5.xml
 
-File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2
+File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
 
-File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1
+File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
 
-File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 651, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7
+File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 651, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
 
 
 

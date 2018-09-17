@@ -22,15 +22,15 @@ Subject to subsections (2) and (3) and section 4, where an employee dies or is i
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title41-vol4, Reg (Part) Id: Pt. 301-70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol4/xml/CFR-2018-title41-vol4
+File Name: CFR-2018-title41-vol4, Reg (Part) Id: Pt. 301-70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol4/xml/CFR-2018-title41-vol4.xml
 
-File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 97, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1
+File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 97, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
 
-File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1
+File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
 
-File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1
+File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
 
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1060, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1060, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
 
 

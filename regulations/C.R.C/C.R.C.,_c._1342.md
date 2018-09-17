@@ -22,15 +22,15 @@ The exclusion, by the Public Service Commission, from the operation of the  Publ
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 5801, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3
+File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 5801, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
 
-File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 5101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3
+File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 5101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
 
-File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 8401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3
+File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 8401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
 
-File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 64, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2
+File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 64, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
 
-File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4
+File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
 
 
 

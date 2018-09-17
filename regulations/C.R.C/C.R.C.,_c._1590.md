@@ -24,15 +24,15 @@ Gibson District Superintendent John Gilbert Settlement Officer 2, Property Divis
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 128-50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3
+File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 128-50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
 
-File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1306, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2
+File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1306, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
 
-File Name: CFR-2018-title10-vol2, Reg (Part) Id: Pt. 160, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol2/xml/CFR-2018-title10-vol2
+File Name: CFR-2018-title10-vol2, Reg (Part) Id: Pt. 160, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol2/xml/CFR-2018-title10-vol2.xml
 
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 860, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 860, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
-File Name: CFR-2018-title7-vol14, Reg (Part) Id: Pt. 1965, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol14/xml/CFR-2018-title7-vol14
+File Name: CFR-2018-title7-vol14, Reg (Part) Id: Pt. 1965, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol14/xml/CFR-2018-title7-vol14.xml
 
 
 

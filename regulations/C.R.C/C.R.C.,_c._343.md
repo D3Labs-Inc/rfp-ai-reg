@@ -23,15 +23,15 @@ The Minister may, in determining the amount of any grant to a province or provin
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1306, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2
+File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1306, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
 
-File Name: CFR-2018-title26-vol16, Reg (Part) Id: Pt. 5c, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol16/xml/CFR-2018-title26-vol16
+File Name: CFR-2018-title26-vol16, Reg (Part) Id: Pt. 5c, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol16/xml/CFR-2018-title26-vol16.xml
 
-File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-41, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3
+File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-41, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
 
-File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-84, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3
+File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-84, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
 
-File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-35, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3
+File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-35, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
 
 
 

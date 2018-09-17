@@ -21,15 +21,15 @@ These Regulations apply in respect of a development tax or redevelopment tax on 
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 303, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20
+File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 303, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
 
-File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 302, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20
+File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 302, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
 
-File Name: CFR-2018-title26-vol16, Reg (Part) Id: Pt. 5c, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol16/xml/CFR-2018-title26-vol16
+File Name: CFR-2018-title26-vol16, Reg (Part) Id: Pt. 5c, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol16/xml/CFR-2018-title26-vol16.xml
 
-File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1306, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2
+File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1306, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
 
-File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20
+File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
 
 
 

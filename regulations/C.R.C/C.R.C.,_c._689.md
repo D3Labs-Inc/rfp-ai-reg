@@ -22,15 +22,15 @@ The Minister of National Defence is authorized to lend, on such terms and condit
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
 
-File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 216, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3
+File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 216, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3.xml
 
-File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 335, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3
+File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 335, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
 
-File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 76, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1
+File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 76, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
 
-File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 51, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1
+File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 51, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
 
 
 

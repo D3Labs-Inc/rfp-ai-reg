@@ -27,15 +27,15 @@ Each member of the Commission shall, before taking up his duties, take and subsc
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 140, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2
+File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 140, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
 
-File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1
+File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
 
-File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1
+File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
 
-File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 376, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1
+File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 376, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
 
-File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1013, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2
+File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1013, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
 
 
 

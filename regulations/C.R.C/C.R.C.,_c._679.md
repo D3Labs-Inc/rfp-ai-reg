@@ -25,15 +25,15 @@ Claims in respect of loss or damage to personal property accepted for laundering
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 502, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6
+File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 502, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
 
-File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 501, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6
+File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 501, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
 
-File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 262, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2
+File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 262, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
 
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1048, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1048, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
-File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6
+File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
 
 
 

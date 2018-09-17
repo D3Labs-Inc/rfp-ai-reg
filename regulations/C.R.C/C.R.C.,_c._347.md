@@ -22,15 +22,15 @@ Every agreement entered into pursuant to these Regulations shall provide for pay
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9004, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1
+File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9004, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
 
-File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9035, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1
+File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9035, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
 
-File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9034, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1
+File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9034, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
 
-File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1
+File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
 
-File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1463, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10
+File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1463, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
 
 
 

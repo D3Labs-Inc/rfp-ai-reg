@@ -25,15 +25,15 @@ There shall be a pooling committee that shall deal with matters relating to both
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title1-vol1, Reg (Part) Id: Pt. 51, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title1-vol1/xml/CFR-2018-title1-vol1
+File Name: CFR-2018-title1-vol1, Reg (Part) Id: Pt. 51, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title1-vol1/xml/CFR-2018-title1-vol1.xml
 
-File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1
+File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
 
-File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 261b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4
+File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 261b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4.xml
 
-File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3
+File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
 
-File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 10, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1
+File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 10, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
 
 
 

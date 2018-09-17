@@ -26,15 +26,15 @@ If an assignment is accompanied by a duplicate or a notarially certified copy th
 
 
 # Overlapping US Regulations
-File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9
+File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9.xml
 
-File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 97, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3
+File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 97, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3.xml
 
-File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1309, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9
+File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1309, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9.xml
 
-File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4
+File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
 
-File Name: CFR-2018-title10-vol2, Reg (Part) Id: Pt. 81, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol2/xml/CFR-2018-title10-vol2
+File Name: CFR-2018-title10-vol2, Reg (Part) Id: Pt. 81, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol2/xml/CFR-2018-title10-vol2.xml
 
 
 
