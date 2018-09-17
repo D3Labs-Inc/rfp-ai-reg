@@ -24,14 +24,19 @@ Where, in the opinion of the Board, a manufacturer requires a loan in order to a
 
 # Overlapping US Regulations
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1300—AVIATION DISASTER RELIEF—AIR CARRIER GUARANTEE LOAN PROGRAM
 
 File Name: CFR-2018-title12-vol6, Reg (Part) Id: Pt. 535, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol6/xml/CFR-2018-title12-vol6.xml
+,Title's Name: Banks and Banking, Part's Name: PART 535—UNFAIR OR DECEPTIVE ACTS OR PRACTICES
 
 File Name: CFR-2018-title7-vol15, Reg (Part) Id: Pt. 2201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol15/xml/CFR-2018-title7-vol15.xml
+,Title's Name: Agriculture, Part's Name: PART 2201—LOCAL TELEVISION LOAN GUARANTEE PROGRAM—PROGRAM REGULATIONS
 
 File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1015, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1015—MORTGAGE ASSISTANCE RELIEF SERVICES (REGULATION O)
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 141, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 141—BUSINESS PRACTICES ON THE NAVAJO, HOPI AND ZUNI RESERVATIONS
 
 
 

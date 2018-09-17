@@ -25,14 +25,19 @@ Where a railway or line is constructed across or near an existing line, such exi
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 67, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 67—AIDS TO NAVIGATION ON ARTIFICIAL ISLANDS AND FIXED STRUCTURES
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 89, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 89—INLAND NAVIGATION RULES: IMPLEMENTING RULES
 
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 334, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 334—DANGER ZONE AND RESTRICTED AREA REGULATIONS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 110, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 110—ANCHORAGE REGULATIONS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 117, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 117—DRAWBRIDGE OPERATION REGULATIONS
 
 
 

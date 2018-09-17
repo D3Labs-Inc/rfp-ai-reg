@@ -25,14 +25,19 @@ If the holder of a permit issued pursuant to section 5 operates a garbage dump i
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 168, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 168—GRAZING REGULATIONS FOR THE HOPI PARTITIONED LANDS AREA
 
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 503—CONDUCT ON PLUM ISLAND ANIMAL DISEASE CENTER
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 405, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 405—INVESTIGATIONS AND ENFORCEMENT
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 167, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 167—NAVAJO GRAZING REGULATIONS
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 274, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 274—SEIZURE AND FORFEITURE OF CONVEYANCES
 
 
 

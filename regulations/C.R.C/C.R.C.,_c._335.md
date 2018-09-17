@@ -23,14 +23,19 @@ Subject to subsection (3), the amount of import compensation that may be authori
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 152, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 152—CLASSIFICATION AND APPRAISEMENT OF MERCHANDISE
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 201—RULES AND PROCEDURES APPLICABLE TO COMMODITY TRANSACTIONS FINANCED BY USAID
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 191, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 191—DRAWBACK
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 429, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 429—RULE CONCERNING COOLING-OFF PERIOD FOR SALES MADE AT HOMES OR AT CERTAIN OTHER LOCATIONS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 24, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 24—CUSTOMS FINANCIAL AND ACCOUNTING PROCEDURE
 
 
 

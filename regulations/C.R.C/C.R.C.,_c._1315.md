@@ -23,14 +23,19 @@ The Commissioners and members of the staff of the Organization shall have immuni
 
 # Overlapping US Regulations
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1621, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1621—PROCEDURES—THE EQUAL PAY ACT
 
 File Name: CFR-2018-title17-vol1, Reg (Part) Id: Pt. 11, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol1/xml/CFR-2018-title17-vol1.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 11—RULES RELATING TO INVESTIGATIONS
 
 File Name: CFR-2018-title17-vol3, Reg (Part) Id: Pt. 200, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol3/xml/CFR-2018-title17-vol3.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 200—ORGANIZATION; CONDUCT AND ETHICS; AND INFORMATION AND REQUESTS
 
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 206, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
+,Title's Name: Customs Duties, Part's Name: PART 206—INVESTIGATIONS RELATING TO GLOBAL AND BILATERAL SAFEGUARD ACTIONS, MARKET DISRUPTION, TRADE DIVERSION, AND REVIEW OF RELIEF ACTIONS
 
 File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 111, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
+,Title's Name: Federal Elections, Part's Name: PART 111—COMPLIANCE PROCEDURE (52 U.S.C. 30109, 30107(a))
 
 
 

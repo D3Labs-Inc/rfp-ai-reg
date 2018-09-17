@@ -26,14 +26,19 @@ Certification by Person Proposing to Conduct the Activity statement certifying t
 
 # Overlapping US Regulations
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 908, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 908—MAINTAINING RECORDS AND SUBMITTING REPORTS ON WEATHER MODIFICATION ACTIVITIES
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 11, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 11—HORSE PROTECTION REGULATIONS
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 772, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 772—REQUIREMENTS FOR COAL EXPLORATION
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 75—CHILD PROTECTION RESTORATION AND PENALTIES ENHANCEMENT ACT OF 1990; PROTECT ACT; ADAM WALSH CHILD PROTECTION AND SAFETY ACT OF 2006; RECORDKEEPING AND RECORD-INSPECTION PROVISIONS
 
 File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3.xml
+,Title's Name: Energy, Part's Name: PART 217—ENERGY PRIORITIES AND ALLOCATIONS SYSTEM
 
 
 

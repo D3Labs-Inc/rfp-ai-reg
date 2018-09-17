@@ -24,14 +24,19 @@ An employee in respect of whom an amount is paid into the Superannuation Account
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 211, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 211—CREDITABLE RAILROAD COMPENSATION
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 234, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 234—LUMP-SUM PAYMENTS
 
 File Name: CFR-2018-title5-vol2, Reg (Part) Id: Pt. 842, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol2/xml/CFR-2018-title5-vol2.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 842—FEDERAL EMPLOYEES RETIREMENT SYSTEM—BASIC ANNUITY
 
 File Name: CFR-2018-title5-vol2, Reg (Part) Id: Pt. 839, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol2/xml/CFR-2018-title5-vol2.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 839—CORRECTION OF RETIREMENT COVERAGE ERRORS UNDER THE FEDERAL ERRONEOUS RETIREMENT COVERAGE CORRECTIONS ACT
 
 File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 5, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1.xml
+,Title's Name: Accounts, Part's Name: PART 5—COMPENSATION
 
 
 

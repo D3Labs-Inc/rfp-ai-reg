@@ -25,14 +25,19 @@ Commercial air services provided by means of air cushion vehicles are excluded f
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 8—UNITED STATES COAST GUARD RESERVE
 
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 335, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 335—OPERATION AND MAINTENANCE OF ARMY CORPS OF ENGINEERS CIVIL WORKS PROJECTS INVOLVING THE DISCHARGE OF DREDGED OR FILL MATERIAL INTO WATERS OF THE U.S. OR OCEAN WATERS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 26—VESSEL BRIDGE-TO-BRIDGE RADIOTELEPHONE REGULATIONS
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1049, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1049—LIMITED ARREST AUTHORITY AND USE OF FORCE BY PROTECTIVE FORCE OFFICERS OF THE STRATEGIC PETROLEUM RESERVE
 
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1201—STATEMENT OF ORGANIZATION AND GENERAL INFORMATION
 
 
 

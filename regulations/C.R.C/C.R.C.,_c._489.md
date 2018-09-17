@@ -22,14 +22,19 @@ No payment shall be made in respect of any claim for drawback unless the customs
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 10, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 10—ARTICLES CONDITIONALLY FREE, SUBJECT TO A REDUCED RATE, ETC.
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 147, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 147—TRADE FAIRS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 145—MAIL IMPORTATIONS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 181, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 181—NORTH AMERICAN FREE TRADE AGREEMENT
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 141, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 141—ENTRY OF MERCHANDISE
 
 
 

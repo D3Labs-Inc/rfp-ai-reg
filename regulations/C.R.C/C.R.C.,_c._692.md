@@ -25,14 +25,19 @@ The Minister of National Defence is authorized to give appropriate indemnity und
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 503—CONDUCT ON PLUM ISLAND ANIMAL DISEASE CENTER
 
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 502, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 502—CONDUCT ON BELTSVILLE AGRICULTURE RESEARCH CENTER PROPERTY, BELTSVILLE, MARYLAND
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1048, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1048—TRESPASSING ON STRATEGIC PETROLEUM RESERVE FACILITIES AND OTHER PROPERTY
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 770, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 770—TRANSFER OF REAL PROPERTY AT DEFENSE NUCLEAR FACILITIES FOR ECONOMIC DEVELOPMENT
 
 File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 25, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1.xml
+,Title's Name: Accounts, Part's Name: PART 25—CONDUCT IN THE GOVERNMENT ACCOUNTABILITY OFFICE BUILDING AND ON ITS GROUNDS
 
 
 

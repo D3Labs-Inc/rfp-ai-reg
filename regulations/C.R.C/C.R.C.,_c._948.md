@@ -25,14 +25,19 @@ Where, following such application, it appears to the satisfaction of the Ministe
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 147, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 147—TRADE FAIRS
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 48—REGULATIONS OF THE SECRETARY OF AGRICULTURE FOR THE ENFORCEMENT OF THE PRODUCE AGENCY ACT
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 782, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 782—CLAIMS FOR PATENT AND COPYRIGHT INFRINGEMENT
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 127, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 127—GENERAL ORDER, UNCLAIMED, AND ABANDONED MERCHANDISE
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 511, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 511—FEDERAL TORT CLAIMS PROCEDURE
 
 
 

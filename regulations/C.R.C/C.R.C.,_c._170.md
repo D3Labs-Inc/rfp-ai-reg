@@ -25,14 +25,19 @@ The Board and the Commission are each authorized to regulate the marketing of ap
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1420—REQUIREMENTS FOR ALL TERRAIN VEHICLES
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 123—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE VIRUS-SERUM-TOXIN ACT
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1602, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1602—STATEMENTS OF POLICY OR INTERPRETATION
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 0—ORGANIZATION
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 708—UPPER MISSISSIPPI RIVER BASIN COMMISSION: PUBLIC PARTICIPATION IN UPPER MISSISSIPPI RIVER SYSTEM MASTER PLAN
 
 
 

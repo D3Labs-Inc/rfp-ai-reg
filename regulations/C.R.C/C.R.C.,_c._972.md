@@ -28,14 +28,19 @@ Each member of the Commission shall, before taking up his duties, take and subsc
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 140, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 140—ORGANIZATION, FUNCTIONS, AND PROCEDURES OF THE COMMISSION
 
 File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
+,Title's Name: Federal Elections, Part's Name: PART 2—SUNSHINE REGULATIONS; MEETINGS
 
 File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
+,Title's Name: Federal Elections, Part's Name: PART 201—EX PARTE COMMUNICATIONS
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 376, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 376—ORGANIZATION, MISSION, AND FUNCTIONS; OPERATIONS DURING EMERGENCY CONDITIONS
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1013, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1013—GOVERNMENT IN THE SUNSHINE ACT, RULES FOR COMMISSION MEETINGS
 
 
 

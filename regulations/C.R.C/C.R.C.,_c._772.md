@@ -20,14 +20,19 @@ Where, in the 1972 or any subsequent taxation year, a settlement was or is recei
 
 # Overlapping US Regulations
 File Name: CFR-2018-title26-vol17, Reg (Part) Id: Pt. 31, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol17/xml/CFR-2018-title26-vol17.xml
+,Title's Name: Internal Revenue, Part's Name: PART 31—EMPLOYMENT TAXES AND COLLECTION OF INCOME TAX AT SOURCE
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 211, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 211—CREDITABLE RAILROAD COMPENSATION
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 230, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 230—MONTHS ANNUITIES NOT PAYABLE BY REASON OF WORK
 
 File Name: CFR-2018-title26-vol17, Reg (Part) Id: Pt. 32, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol17/xml/CFR-2018-title26-vol17.xml
+,Title's Name: Internal Revenue, Part's Name: PART 32—TEMPORARY EMPLOYMENT TAX REGULATIONS UNDER THE ACT OF DECEMBER 29, 1981 (PUB. L. 97-123)
 
 File Name: CFR-2018-title5-vol2, Reg (Part) Id: Pt. 842, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol2/xml/CFR-2018-title5-vol2.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 842—FEDERAL EMPLOYEES RETIREMENT SYSTEM—BASIC ANNUITY
 
 
 

@@ -33,14 +33,19 @@ Subject to subsections 31(2), (3) and (4) of the  Financial Administration Act ,
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 955, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 955—VIDALIA ONIONS GROWN IN GEORGIA
 
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1912, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
+,Title's Name: Labor, Part's Name: PART 1912—ADVISORY COMMITTEES ON STANDARDS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 152, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 152—ISSUANCE OF PATENTS IN FEE, CERTIFICATES OF COMPETENCY, REMOVAL OF RESTRICTIONS, AND SALE OF CERTAIN INDIAN LANDS
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 953, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 953—IRISH POTATOES GROWN IN SOUTHEASTERN STATES
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 847, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 847—ALTERNATIVE ENFORCEMENT
 
 
 

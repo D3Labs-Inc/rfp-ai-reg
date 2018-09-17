@@ -22,14 +22,19 @@ The Minister of Consumer and Corporate Affairs, a member of the Queen’s Privy 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1609, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1609—TEXT OF THE FLAMMABLE FABRICS ACT OF 1953, AS AMENDED IN 1954, PRIOR TO 1967 AMENDMENT AND REVISION
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 6—CIVIL MONETARY PENALTY ADJUSTMENTS FOR INFLATION
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 85, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 85—CIVIL MONETARY PENALTIES INFLATION ADJUSTMENT
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 0—ORGANIZATION
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 909, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 909—MARINE DEBRIS
 
 
 
@@ -98,14 +103,19 @@ The Minister of Consumer and Corporate Affairs, a member of the Queen’s Privy 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1609, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1609—TEXT OF THE FLAMMABLE FABRICS ACT OF 1953, AS AMENDED IN 1954, PRIOR TO 1967 AMENDMENT AND REVISION
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 6—CIVIL MONETARY PENALTY ADJUSTMENTS FOR INFLATION
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 85, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 85—CIVIL MONETARY PENALTIES INFLATION ADJUSTMENT
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 0—ORGANIZATION
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 909, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 909—MARINE DEBRIS
 
 
 

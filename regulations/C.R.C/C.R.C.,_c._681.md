@@ -26,14 +26,19 @@ In these Regulations, barge  means any barge owned and operated by Her Majesty i
 
 # Overlapping US Regulations
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 100, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 100—DISCRIMINATORY CONDUCT UNDER THE FAIR HOUSING ACT
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 956, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 956—SWEET ONIONS GROWN IN THE WALLA WALLA VALLEY OF SOUTHEAST WASHINGTON AND NORTHEAST OREGON
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 920, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 920—KIWIFRUIT GROWN IN CALIFORNIA
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 959, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 959—ONIONS GROWN IN SOUTH TEXAS
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 925, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 925—GRAPES GROWN IN A DESIGNATED AREA OF SOUTHEASTERN CALIFORNIA
 
 
 

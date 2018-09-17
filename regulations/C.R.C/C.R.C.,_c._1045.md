@@ -27,14 +27,19 @@ No payment shall be made unless the civilian dental practitioner submits a signe
 
 # Overlapping US Regulations
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 1659, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6.xml
+,Title's Name: National Defense, Part's Name: PART 1659—EXTRAORDINARY EXPENSES OF REGISTRANTS
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 130, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 130—USER FEES
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 350, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 350—GARNISHMENT OF BENEFITS PAID UNDER THE RAILROAD RETIREMENT ACT, THE RAILROAD UNEMPLOYMENT INSURANCE ACT, AND UNDER ANY OTHER ACT ADMINISTERED BY THE BOARD
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 104, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 104—SEPTEMBER 11TH VICTIM COMPENSATION FUND
 
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3.xml
+,Title's Name: Agriculture, Part's Name: PART 53—LIVESTOCK (GRADING, CERTIFICATION, AND STANDARDS)
 
 
 

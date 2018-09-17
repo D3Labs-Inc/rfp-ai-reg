@@ -23,14 +23,19 @@ senior officials shall have in Canada, to such extent as may be necessary for th
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
+,Title's Name: Customs Duties, Part's Name: PART 205—INVESTIGATIONS TO DETERMINE THE PROBABLE ECONOMIC EFFECT ON THE ECONOMY OF THE UNITED STATES OF PROPOSED MODIFICATIONS OF DUTIES OR OF ANY BARRIER TO (OR OTHER DISTORTION OF) INTERNATIONAL TRADE OR OF TAKING RETALIATORY ACTIONS TO OBTAIN THE ELIMINATION OF UNJUSTIFIABLE OR UNREASONABLE FOREIGN ACTS OR POLICIES WHICH RESTRICT U.S. COMMERCE
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 91, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 91—IMPORT CONTROLS
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 127, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 127—VIOLATIONS AND PENALTIES
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 287, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 287—FIELD OFFICERS; POWERS AND DUTIES
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 95, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 95—IMPLEMENTATION OF TORTURE CONVENTION IN EXTRADITION CASES
 
 
 

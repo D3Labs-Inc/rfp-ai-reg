@@ -22,14 +22,19 @@ Interest is payable, pursuant to subsection (1), from the first day of the first
 
 # Overlapping US Regulations
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 701, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22.xml
+,Title's Name: Internal Revenue, Part's Name: PART 701—PRESIDENTIAL ELECTION CAMPAIGN FUND
 
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22.xml
+,Title's Name: Internal Revenue, Part's Name: PART 702—PRESIDENTIAL PRIMARY MATCHING PAYMENT ACCOUNT
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 19, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 19—BENEFITS FOR SPOUSES AND FORMER SPOUSES OF PARTICIPANTS IN THE FOREIGN SERVICE RETIREMENT AND DISABILITY SYSTEM
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 367, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 367—UNIFORM SYSTEM OF ACCOUNTS FOR CENTRALIZED SERVICE COMPANIES SUBJECT TO THE PROVISIONS OF THE PUBLIC UTILITY HOLDING COMPANY ACT OF 2005, FEDERAL POWER ACT AND NATURAL GAS ACT
 
 File Name: CFR-2018-title26-vol17, Reg (Part) Id: Pt. 35, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol17/xml/CFR-2018-title26-vol17.xml
+,Title's Name: Internal Revenue, Part's Name: PART 35—EMPLOYMENT TAX AND COLLECTION OF INCOME TAX AT SOURCE REGULATIONS UNDER THE TAX EQUITY AND FISCAL RESPONSIBILITY ACT OF 1982
 
 
 

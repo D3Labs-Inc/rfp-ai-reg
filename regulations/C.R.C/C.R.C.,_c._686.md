@@ -27,14 +27,19 @@ The Minister of National Defence is authorized, when he considers that the publi
 
 # Overlapping US Regulations
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 103, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1.xml
+,Title's Name: Business Credit and Assistance, Part's Name: PART 103—STANDARDS FOR CONDUCTING BUSINESS WITH SBA
 
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1789, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12.xml
+,Title's Name: Agriculture, Part's Name: PART 1789—USE OF CONSULTANTS FUNDED BY BORROWERS
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1706, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1706—ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTERESTS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 137, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 137—REIMBURSEMENT OF CONSTRUCTION COSTS, SAN CARLOS INDIAN IRRIGATION PROJECT, ARIZONA
 
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1.xml
+,Title's Name: Business Credit and Assistance, Part's Name: PART 400—EMERGENCY STEEL GUARANTEE LOAN PROGRAM
 
 
 

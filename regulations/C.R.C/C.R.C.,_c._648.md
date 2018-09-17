@@ -24,14 +24,19 @@ Five copies of every order and regulation of a class described in section 2 that
 
 # Overlapping US Regulations
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 1180, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 1180—TRANSFER BY FEDERAL AGENCIES OF SCIENTIFIC, TECHNICAL AND ENGINEERING INFORMATION TO THE NATIONAL TECHNICAL INFORMATION SERVICE
 
 File Name: CFR-2018-title7-vol4, Reg (Part) Id: Pt. 252, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol4/xml/CFR-2018-title7-vol4.xml
+,Title's Name: Agriculture, Part's Name: PART 252—NATIONAL COMMODITY PROCESSING PROGRAM
 
 File Name: CFR-2018-title21-vol1, Reg (Part) Id: Pt. 25, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol1/xml/CFR-2018-title21-vol1.xml
+,Title's Name: Food and Drugs, Part's Name: PART 25—ENVIRONMENTAL IMPACT CONSIDERATIONS
 
 File Name: CFR-2018-title21-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol1/xml/CFR-2018-title21-vol1.xml
+,Title's Name: Food and Drugs, Part's Name: PART 3—PRODUCT JURISDICTION
 
 File Name: CFR-2018-title7-vol4, Reg (Part) Id: Pt. 250, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol4/xml/CFR-2018-title7-vol4.xml
+,Title's Name: Agriculture, Part's Name: PART 250—DONATION OF FOODS FOR USE IN THE UNITED STATES, ITS TERRITORIES AND POSSESSIONS AND AREAS UNDER ITS JURISDICTION
 
 
 

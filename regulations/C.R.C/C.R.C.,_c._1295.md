@@ -34,14 +34,19 @@ No letter or other mailable matter referred to in section 2 that does not compl
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 177, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 177—ADMINISTRATIVE RULINGS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 173, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 173—ADMINISTRATIVE REVIEW IN GENERAL
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 174, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 174—PROTESTS
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 2427, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 2427—GENERAL STATEMENTS OF POLICY OR GUIDANCE
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 165, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 165—INVESTIGATION OF CLAIMS OF EVASION OF ANTIDUMPING AND COUNTERVAILING DUTIES
 
 
 
@@ -138,14 +143,19 @@ No letter or other mailable matter referred to in section 2 that does not compl
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 177, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 177—ADMINISTRATIVE RULINGS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 173, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 173—ADMINISTRATIVE REVIEW IN GENERAL
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 174, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 174—PROTESTS
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 2427, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 2427—GENERAL STATEMENTS OF POLICY OR GUIDANCE
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 165, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 165—INVESTIGATION OF CLAIMS OF EVASION OF ANTIDUMPING AND COUNTERVAILING DUTIES
 
 
 

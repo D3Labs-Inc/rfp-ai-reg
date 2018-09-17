@@ -27,14 +27,19 @@ Leave of absence granted under these Regulations to a temporary employee shall n
 
 # Overlapping US Regulations
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1060, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1060—PAYMENT OF TRAVEL EXPENSES OF PERSONS WHO ARE NOT GOVERNMENT EMPLOYEES
 
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1400—STANDARDS OF CONDUCT, RESPONSIBILITIES, AND DISCIPLINE
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 706, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 706—EMPLOYEE RESPONSIBILITIES AND CONDUCT
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 6401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 6401—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE ENVIRONMENTAL PROTECTION AGENCY
 
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 1—COVERAGE AND DEFINITIONS (RULE I)
 
 
 

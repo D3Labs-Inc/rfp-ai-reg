@@ -23,14 +23,19 @@ Remission of the excise duty set out in subsection 1(1) of Part I of the schedul
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 123—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE VIRUS-SERUM-TOXIN ACT
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1145—REGULATION OF PRODUCTS SUBJECT TO OTHER ACTS UNDER THE CONSUMER PRODUCT SAFETY ACT
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 49—ANTITRUST CIVIL PROCESS ACT
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 962, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 962—BYPRODUCT MATERIAL
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 85, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 85—CIVIL MONETARY PENALTIES INFLATION ADJUSTMENT
 
 
 

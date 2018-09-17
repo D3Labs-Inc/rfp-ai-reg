@@ -22,14 +22,19 @@ The Canadian National Railway Company is hereby exempted from the application of
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 0—ORGANIZATION
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 12, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 12—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE HORSE PROTECTION ACT
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 123—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE VIRUS-SERUM-TOXIN ACT
 
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1440, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1440—ARBITRATION OF PESTICIDE DATA DISPUTES
 
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1621, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1621—PROCEDURES—THE EQUAL PAY ACT
 
 
 

@@ -24,14 +24,19 @@ TABLE OF GUARANTEED VALUES In Accordance with Provisions 11, 12 and 13 PLAN AGE 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 340, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 340—RECOVERY OF BENEFITS
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 19, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 19—BENEFITS FOR SPOUSES AND FORMER SPOUSES OF PARTICIPANTS IN THE FOREIGN SERVICE RETIREMENT AND DISABILITY SYSTEM
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 111, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 111—ANNUITY AND OTHER PER CAPITA PAYMENTS
 
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 207—MULTIFAMILY HOUSING MORTGAGE INSURANCE
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 350, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 350—GARNISHMENT OF BENEFITS PAID UNDER THE RAILROAD RETIREMENT ACT, THE RAILROAD UNEMPLOYMENT INSURANCE ACT, AND UNDER ANY OTHER ACT ADMINISTERED BY THE BOARD
 
 
 

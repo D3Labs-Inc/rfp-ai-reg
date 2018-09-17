@@ -27,14 +27,19 @@ This Company shall not be liable in any case for damages, unless the same be cla
 
 # Overlapping US Regulations
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 108, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1.xml
+,Title's Name: Business Credit and Assistance, Part's Name: PART 108—NEW MARKETS VENTURE CAPITAL (“NMVC”) PROGRAM
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 270—RULES AND REGULATIONS, INVESTMENT COMPANY ACT OF 1940
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 366, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 366—BOOKS AND RECORDS
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 275, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 275—RULES AND REGULATIONS, INVESTMENT ADVISERS ACT OF 1940
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1500—MERCHANT BANKING INVESTMENTS
 
 
 

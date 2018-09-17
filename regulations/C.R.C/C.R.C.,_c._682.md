@@ -26,14 +26,19 @@ Where, in respect of any dental treatment provided pursuant to these Regulations
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 142, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 142—ALASKA RESUPPLY OPERATION
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 456, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 456—OPHTHALMIC PRACTICE RULES (EYEGLASS RULE)
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 201—RULES AND PROCEDURES APPLICABLE TO COMMODITY TRANSACTIONS FINANCED BY USAID
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 453, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 453—FUNERAL INDUSTRY PRACTICES
 
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 17, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1.xml
+,Title's Name: Agriculture, Part's Name: PART 17—SALES OF AGRICULTURAL COMMODITIES MADE AVAILABLE UNDER TITLE I OF THE AGRICULTURAL TRADE DEVELOPMENT AND ASSISTANCE ACT OF 1954, AS AMENDED
 
 
 

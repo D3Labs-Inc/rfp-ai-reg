@@ -23,14 +23,19 @@ Every railway company affected by changes in Railway Passenger Services shall pr
 
 # Overlapping US Regulations
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1202, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1202—RULES OF PROCEDURE
 
 File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 702—ADMINISTRATION AND PROCEDURE
 
 File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 7, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1.xml
+,Title's Name: Accounts, Part's Name: PART 7—PERSONNEL RELATIONS AND SERVICES
 
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1204, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1204—LABOR CONTRACTS
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 30, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 30—CLAIMS FOR COMPENSATION UNDER THE ENERGY EMPLOYEES OCCUPATIONAL ILLNESS COMPENSATION PROGRAM ACT OF 2000, AS AMENDED
 
 
 

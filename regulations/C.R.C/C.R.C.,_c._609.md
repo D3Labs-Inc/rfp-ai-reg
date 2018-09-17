@@ -27,14 +27,19 @@ Where completion and validation of a customs entry form is required with respect
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 980, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 980—VEGETABLES; IMPORT REGULATIONS
 
 File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 525, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3.xml
+,Title's Name: National Defense, Part's Name: PART 525—ENTRY AUTHORIZATION REGULATION FOR KWAJALEIN MISSILE RANGE
 
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 355, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5.xml
+,Title's Name: Agriculture, Part's Name: PART 355—ENDANGERED SPECIES REGULATIONS CONCERNING TERRESTRIAL PLANTS
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 35, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 35—EXPORT GRAPES AND PLUMS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 122, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 122—AIR COMMERCE REGULATIONS
 
 
 

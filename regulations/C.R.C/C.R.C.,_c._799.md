@@ -23,14 +23,19 @@ Remission is hereby granted to an eligible carrier, in an amount determined in a
 
 # Overlapping US Regulations
 File Name: CFR-2018-title26-vol18, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol18/xml/CFR-2018-title26-vol18.xml
+,Title's Name: Internal Revenue, Part's Name: PART 49—FACILITIES AND SERVICES EXCISE TAXES
 
 File Name: CFR-2018-title26-vol18, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol18/xml/CFR-2018-title26-vol18.xml
+,Title's Name: Internal Revenue, Part's Name: PART 48—MANUFACTURERS AND RETAILERS EXCISE TAXES
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 53—MANUFACTURERS EXCISE TAXES—FIREARMS AND AMMUNITION
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 70—PROCEDURE AND ADMINISTRATION
 
 File Name: CFR-2018-title26-vol19, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol19/xml/CFR-2018-title26-vol19.xml
+,Title's Name: Internal Revenue, Part's Name: PART 145—TEMPORARY EXCISE TAX REGULATIONS UNDER THE HIGHWAY REVENUE ACT OF 1982 (PUB. L. 97-424)
 
 
 

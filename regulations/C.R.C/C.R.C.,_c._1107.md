@@ -25,14 +25,19 @@ The maximum rate of interest per annum payable by a borrower in respect of a loa
 
 # Overlapping US Regulations
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 220, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 220—MORTGAGE INSURANCE AND INSURED IMPROVEMENT LOANS FOR URBAN RENEWAL AND CONCENTRATED DEVELOPMENT AREAS
 
 File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1703, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
+,Title's Name: Agriculture, Part's Name: PART 1703—RURAL DEVELOPMENT
 
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 221, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 221—LOW COST AND MODERATE INCOME MORTGAGE INSURANCE—SAVINGS CLAUSE
 
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 213—COOPERATIVE HOUSING MORTGAGE INSURANCE
 
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 203, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 203—SINGLE FAMILY MORTGAGE INSURANCE
 
 
 

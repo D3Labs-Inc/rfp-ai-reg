@@ -26,14 +26,19 @@ No person shall pay brokerage fees in the Province of Ontario or Quebec to any p
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 238, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 238—GUIDES AGAINST BAIT ADVERTISING
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 301, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 301—RULES AND REGULATIONS UNDER FUR PRODUCTS LABELING ACT
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 503—STATEMENTS OF GENERAL POLICY OR INTERPRETATION
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 255, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 255—GUIDES CONCERNING USE OF ENDORSEMENTS AND TESTIMONIALS IN ADVERTISING
 
 File Name: CFR-2018-title14-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol1/xml/CFR-2018-title14-vol1.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 3—GENERAL REQUIREMENTS
 
 
 

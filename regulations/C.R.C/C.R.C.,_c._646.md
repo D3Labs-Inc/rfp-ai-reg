@@ -23,14 +23,19 @@ TABLE Column I Column II Column III 1 British Columbia 57,250,000 12.055 per cen
 
 # Overlapping US Regulations
 File Name: CFR-2018-title5-vol2, Reg (Part) Id: Pt. 732, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol2/xml/CFR-2018-title5-vol2.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 732—NATIONAL SECURITY POSITIONS
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1011, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1011—NOTICE OF AGENCY ACTIVITIES
 
 File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
+,Title's Name: Public Contracts and Property Management, Part's Name: PART 102-3—FEDERAL ADVISORY COMMITTEE MANAGEMENT
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1012, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1012—MEETINGS POLICY—MEETINGS BETWEEN AGENCY PERSONNEL AND OUTSIDE PARTIES
 
 File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
+,Title's Name: Public Contracts and Property Management, Part's Name: PART 102-2—FEDERAL MANAGEMENT REGULATION SYSTEM
 
 
 

@@ -20,14 +20,19 @@ Where a ratio is calculated for the purposes of paragraph 4(2)(b) of the Act and
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 340, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 340—RECOVERY OF BENEFITS
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 228, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 228—COMPUTATION OF SURVIVOR ANNUITIES
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 233, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 233—REDUCTION IN THE WINDFALL BENEFIT ANNUITY COMPONENT
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 19, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 19—BENEFITS FOR SPOUSES AND FORMER SPOUSES OF PARTICIPANTS IN THE FOREIGN SERVICE RETIREMENT AND DISABILITY SYSTEM
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 255, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 255—RECOVERY OF OVERPAYMENTS
 
 
 

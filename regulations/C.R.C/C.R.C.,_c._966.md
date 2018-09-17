@@ -25,14 +25,19 @@ The Board may, to the extent that it deems advisable, take, accept or acquire an
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 141, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 141—BUSINESS PRACTICES ON THE NAVAJO, HOPI AND ZUNI RESERVATIONS
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 1208, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 1208—SALE OF FEDERAL ROYALTY OIL
 
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 242, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 242—MORTGAGE INSURANCE FOR HOSPITALS
 
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1788, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12.xml
+,Title's Name: Agriculture, Part's Name: PART 1788—RUS FIDELITY AND INSURANCE REQUIREMENTS FOR ELECTRIC AND TELECOMMUNICATIONS BORROWERS
 
 File Name: CFR-2018-title12-vol5, Reg (Part) Id: Pt. 366, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol5/xml/CFR-2018-title12-vol5.xml
+,Title's Name: Banks and Banking, Part's Name: PART 366—MINIMUM STANDARDS OF INTEGRITY AND FITNESS FOR AN FDIC CONTRACTOR
 
 
 

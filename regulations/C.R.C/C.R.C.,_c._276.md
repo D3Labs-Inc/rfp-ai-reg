@@ -26,14 +26,19 @@ Every small processor shall submit to the Commission a weekly statement indicati
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1608, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1608—GENERAL RULES AND REGULATIONS UNDER THE FLAMMABLE FABRICS ACT
 
 File Name: CFR-2018-title10-vol2, Reg (Part) Id: Pt. 95, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol2/xml/CFR-2018-title10-vol2.xml
+,Title's Name: Energy, Part's Name: PART 95—FACILITY SECURITY CLEARANCE AND SAFEGUARDING OF NATIONAL SECURITY INFORMATION AND RESTRICTED DATA
 
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 180, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 180—PROHIBITION AGAINST MANIPULATION
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 3a, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 3a—NATIONAL SECURITY INFORMATION
 
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 166, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 166—CUSTOMER PROTECTION RULES
 
 
 

@@ -26,14 +26,19 @@ Subject to subsection (2), every person required by section 4 to deduct levies
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 4, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 4—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE ANIMAL WELFARE ACT
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 12, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 12—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE HORSE PROTECTION ACT
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1207—POTATO RESEARCH AND PROMOTION PLAN
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 167, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 167—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE SWINE HEALTH PROTECTION ACT
 
 File Name: CFR-2018-title7-vol9, Reg (Part) Id: Pt. 1160, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol9/xml/CFR-2018-title7-vol9.xml
+,Title's Name: Agriculture, Part's Name: PART 1160—FLUID MILK PROMOTION PROGRAM
 
 
 

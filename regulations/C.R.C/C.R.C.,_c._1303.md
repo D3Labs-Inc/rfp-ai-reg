@@ -25,14 +25,19 @@ Where a quality mark specified in Column I of item 1 or 2 of the table to this s
 
 # Overlapping US Regulations
 File Name: CFR-2018-title21-vol4, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol4/xml/CFR-2018-title21-vol4.xml
+,Title's Name: Food and Drugs, Part's Name: PART 226—CURRENT GOOD MANUFACTURING PRACTICE FOR TYPE A MEDICATED ARTICLES
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1611, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1611—STANDARD FOR THE FLAMMABILITY OF VINYL PLASTIC FILM
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1501, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1501—METHOD FOR IDENTIFYING TOYS AND OTHER ARTICLES INTENDED FOR USE BY CHILDREN UNDER 3 YEARS OF AGE WHICH PRESENT CHOKING, ASPIRATION, OR INGESTION HAZARDS BECAUSE OF SMALL PARTS
 
 File Name: CFR-2018-title25-vol2, Reg (Part) Id: Pt. 310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol2/xml/CFR-2018-title25-vol2.xml
+,Title's Name: Indians, Part's Name: PART 310—USE OF GOVERNMENT MARKS OF GENUINENESS FOR ALASKAN INDIAN AND ALASKAN ESKIMO HAND-MADE PRODUCTS
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 52, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 52—PROCESSED FRUITS AND VEGETABLES, PROCESSED PRODUCTS THEREOF, AND CERTAIN OTHER PROCESSED FOOD PRODUCTS 
 
 
 

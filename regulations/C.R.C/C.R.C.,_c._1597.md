@@ -23,14 +23,19 @@ Every member of the Canadian Forces shall, for the purpose of Part VI of the Act
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol2, Reg (Part) Id: Pt. 501, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol2/xml/CFR-2018-title25-vol2.xml
+,Title's Name: Indians, Part's Name: PART 501—PURPOSE AND SCOPE OF THIS CHAPTER
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 909, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 909—MARINE DEBRIS
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 1300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 1300—REPORTS ON EXPORTS OF TECHNOLOGY
 
 File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 9, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1.xml
+,Title's Name: Accounts, Part's Name: PART 9—SENIOR EXECUTIVE SERVICE
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 88, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 88—RECOGNITION OF ATTORNEYS AND AGENTS TO REPRESENT CLAIMANTS
 
 
 

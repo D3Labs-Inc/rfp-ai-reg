@@ -25,14 +25,19 @@ Notwithstanding subsection (1), section 60 of the  Unemployment Insurance Regula
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 302, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 302—QUALIFIED EMPLOYEE
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 325, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 325—REGISTRATION FOR RAILROAD UNEMPLOYMENT BENEFITS
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 336, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 336—DURATION OF NORMAL AND EXTENDED BENEFITS
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 221, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 221—JURISDICTION DETERMINATIONS
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 226—COMPUTING EMPLOYEE, SPOUSE, AND DIVORCED SPOUSE ANNUITIES
 
 
 

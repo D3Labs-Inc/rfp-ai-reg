@@ -30,14 +30,19 @@ Kunglit Island 51°56′37″N 131°01′52″W 3825 Dixon Entrance 1.
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 110, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 110—ANCHORAGE REGULATIONS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 3—COAST GUARD AREAS, DISTRICTS, SECTORS, MARINE INSPECTION ZONES, AND CAPTAIN OF THE PORT ZONES
 
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 334, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 334—DANGER ZONE AND RESTRICTED AREA REGULATIONS
 
 File Name: CFR-2018-title14-vol2, Reg (Part) Id: Pt. 95, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol2/xml/CFR-2018-title14-vol2.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 95—IFR ALTITUDES
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 80, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 80—COLREGS DEMARCATION LINES
 
 
 

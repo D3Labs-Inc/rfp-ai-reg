@@ -25,14 +25,19 @@ SI/82-116, Sch. I, s.
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol2, Reg (Part) Id: Pt. 310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol2/xml/CFR-2018-title25-vol2.xml
+,Title's Name: Indians, Part's Name: PART 310—USE OF GOVERNMENT MARKS OF GENUINENESS FOR ALASKAN INDIAN AND ALASKAN ESKIMO HAND-MADE PRODUCTS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 11, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 11—PACKING AND STAMPING; MARKING
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 54, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 54—CERTAIN IMPORTATIONS TEMPORARILY FREE OF DUTY
 
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 351, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5.xml
+,Title's Name: Agriculture, Part's Name: PART 351—IMPORTATION OF PLANTS OR PLANT PRODUCTS BY MAIL
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 325, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 325—TRANSPORTATION
 
 
 

@@ -25,14 +25,19 @@ Where money has been paid into a Revenue Trust Account for any purpose and the a
 
 # Overlapping US Regulations
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 367, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 367—UNIFORM SYSTEM OF ACCOUNTS FOR CENTRALIZED SERVICE COMPANIES SUBJECT TO THE PROVISIONS OF THE PUBLIC UTILITY HOLDING COMPANY ACT OF 2005, FEDERAL POWER ACT AND NATURAL GAS ACT
 
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 701, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22.xml
+,Title's Name: Internal Revenue, Part's Name: PART 701—PRESIDENTIAL ELECTION CAMPAIGN FUND
 
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22.xml
+,Title's Name: Internal Revenue, Part's Name: PART 702—PRESIDENTIAL PRIMARY MATCHING PAYMENT ACCOUNT
 
 File Name: CFR-2018-title12-vol5, Reg (Part) Id: Pt. 330, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol5/xml/CFR-2018-title12-vol5.xml
+,Title's Name: Banks and Banking, Part's Name: PART 330—DEPOSIT INSURANCE COVERAGE
 
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 745, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 745—SHARE INSURANCE AND APPENDIX
 
 
 

@@ -25,14 +25,19 @@ For the purpose of paragraph 5(1)(c), the authorized deposit for a refinery of 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 429, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3.xml
+,Title's Name: Energy, Part's Name: PART 429—CERTIFICATION, COMPLIANCE, AND ENFORCEMENT FOR CONSUMER PRODUCTS AND COMMERCIAL AND INDUSTRIAL EQUIPMENT
 
 File Name: CFR-2018-title40-vol6, Reg (Part) Id: Pt. 59, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title40-vol6/xml/CFR-2018-title40-vol6.xml
+,Title's Name: Protection of Environment, Part's Name: PART 59—NATIONAL VOLATILE ORGANIC COMPOUND EMISSION STANDARDS FOR CONSUMER AND COMMERCIAL PRODUCTS
 
 File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 430, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3.xml
+,Title's Name: Energy, Part's Name: PART 430—ENERGY CONSERVATION PROGRAM FOR CONSUMER PRODUCTS
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 439, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 439—ACCREDITATION OF NON-FEDERAL CHEMISTRY LABORATORIES
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 460, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 460—LABELING AND ADVERTISING OF HOME INSULATION
 
 
 

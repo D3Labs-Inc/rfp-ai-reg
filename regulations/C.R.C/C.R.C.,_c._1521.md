@@ -24,14 +24,19 @@ Where permits or blocks of permits are granted pursuant to the same call for ten
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 167, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 167—NAVAJO GRAZING REGULATIONS
 
 File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 552, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3.xml
+,Title's Name: National Defense, Part's Name: PART 552—REGULATIONS AFFECTING MILITARY RESERVATIONS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 168, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 168—GRAZING REGULATIONS FOR THE HOPI PARTITIONED LANDS AREA
 
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 500—NATIONAL ARBORETUM
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 262, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 262—PROTECTION OF ARCHAEOLOGICAL RESOURCES
 
 
 

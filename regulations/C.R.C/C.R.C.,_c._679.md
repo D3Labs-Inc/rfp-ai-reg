@@ -26,14 +26,19 @@ Claims in respect of loss or damage to personal property accepted for laundering
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 502, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 502—CONDUCT ON BELTSVILLE AGRICULTURE RESEARCH CENTER PROPERTY, BELTSVILLE, MARYLAND
 
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 501, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 501—CONDUCT ON U.S. MEAT ANIMAL RESEARCH CENTER, CLAY CENTER, NEBRASKA
 
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 262, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 262—LAW ENFORCEMENT SUPPORT ACTIVITIES
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1048, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1048—TRESPASSING ON STRATEGIC PETROLEUM RESERVE FACILITIES AND OTHER PROPERTY
 
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 503—CONDUCT ON PLUM ISLAND ANIMAL DISEASE CENTER
 
 
 

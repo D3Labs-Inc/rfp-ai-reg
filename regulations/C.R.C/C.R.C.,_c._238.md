@@ -28,14 +28,19 @@ Any licence issued pursuant to section 5 may be suspended by the Commodity Board
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 16, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 16—ADVISORY COMMITTEE MANAGEMENT
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 217—MANAGEMENT OF TRIBAL ASSETS OF UTE INDIAN TRIBE, UINTAH AND OURAY RESERVATION, UTAH, BY THE TRIBE AND THE UTE DISTRIBUTION CORP.
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1018, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1018—ADVISORY COMMITTEE MANAGEMENT
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 376, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 376—ORGANIZATION, MISSION, AND FUNCTIONS; OPERATIONS DURING EMERGENCY CONDITIONS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 109, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 109—GENERAL
 
 
 

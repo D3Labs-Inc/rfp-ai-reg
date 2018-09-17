@@ -28,14 +28,19 @@ That the hiring of the equipment to the Charterer may be terminated at any time 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 76, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 76—SALE AND TRANSFER OF AIDS TO NAVIGATION EQUIPMENT
 
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 56, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
+,Title's Name: Mineral Resources, Part's Name: PART 56—SAFETY AND HEALTH STANDARDS—SURFACE METAL AND NONMETAL MINES
 
 File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 109-38, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
+,Title's Name: Public Contracts and Property Management, Part's Name: PART 109-38—MOTOR EQUIPMENT MANAGEMENT
 
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
+,Title's Name: Mineral Resources, Part's Name: PART 57—SAFETY AND HEALTH STANDARDS—UNDERGROUND METAL AND NONMETAL MINES
 
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1917, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
+,Title's Name: Labor, Part's Name: PART 1917—MARINE TERMINALS
 
 
 

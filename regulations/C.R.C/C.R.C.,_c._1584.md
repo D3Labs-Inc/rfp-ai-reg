@@ -24,14 +24,19 @@ Where a bank, financial institution or any person has in its or his custody or c
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 49—PAYMENT OF AMOUNTS DUE MENTALLY INCOMPETENT COAST GUARD PERSONNEL
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 350, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 350—GARNISHMENT OF BENEFITS PAID UNDER THE RAILROAD RETIREMENT ACT, THE RAILROAD UNEMPLOYMENT INSURANCE ACT, AND UNDER ANY OTHER ACT ADMINISTERED BY THE BOARD
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 363, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 363—GARNISHMENT OF REMUNERATION OF BOARD PERSONNEL
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 1243, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 1243—SUSPENSIONS PENDING APPEAL AND BONDING—OFFICE OF NATURAL RESOURCES REVENUE
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 340, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 340—RECOVERY OF BENEFITS
 
 
 

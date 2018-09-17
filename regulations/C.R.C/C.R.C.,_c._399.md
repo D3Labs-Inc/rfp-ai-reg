@@ -21,14 +21,19 @@ Definition of  amending regulation In subsection (2),  amending regulation  mean
 
 # Overlapping US Regulations
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 110, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 110—STANDARDIZED RATES OF SUBSISTENCE ALLOWANCE AND COMMUTATION INSTEAD OF UNIFORMS FOR MEMBERS OF THE SENIOR RESERVE OFFICERS' TRAINING CORPS
 
 File Name: CFR-2018-title34-vol3, Reg (Part) Id: Pt. 608, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol3/xml/CFR-2018-title34-vol3.xml
+,Title's Name: Education, Part's Name: PART 608—STRENGTHENING HISTORICALLY BLACK COLLEGES AND UNIVERSITIES PROGRAM
 
 File Name: CFR-2018-title34-vol3, Reg (Part) Id: Pt. 650, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol3/xml/CFR-2018-title34-vol3.xml
+,Title's Name: Education, Part's Name: PART 650—JACOB K. JAVITS FELLOWSHIP PROGRAM
 
 File Name: CFR-2018-title34-vol3, Reg (Part) Id: Pt. 410, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol3/xml/CFR-2018-title34-vol3.xml
+,Title's Name: Education, Part's Name: PART 410—TRIBALLY CONTROLLED POSTSECONDARY VOCATIONAL INSTITUTIONS PROGRAM
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 39, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 39—THE INDIAN SCHOOL EQUALIZATION PROGRAM
 
 
 

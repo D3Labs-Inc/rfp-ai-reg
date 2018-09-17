@@ -23,14 +23,19 @@ Materials from used or second-hand mattresses may be imported only if they have 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol2, Reg (Part) Id: Pt. 310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol2/xml/CFR-2018-title25-vol2.xml
+,Title's Name: Indians, Part's Name: PART 310—USE OF GOVERNMENT MARKS OF GENUINENESS FOR ALASKAN INDIAN AND ALASKAN ESKIMO HAND-MADE PRODUCTS
 
 File Name: CFR-2018-title21-vol4, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol4/xml/CFR-2018-title21-vol4.xml
+,Title's Name: Food and Drugs, Part's Name: PART 226—CURRENT GOOD MANUFACTURING PRACTICE FOR TYPE A MEDICATED ARTICLES
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1611, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1611—STANDARD FOR THE FLAMMABILITY OF VINYL PLASTIC FILM
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1305—BAN OF ARTIFICIAL EMBERIZING MATERIALS (ASH AND EMBERS) CONTAINING RESPIRABLE FREE-FORM ASBESTOS
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1501, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1501—METHOD FOR IDENTIFYING TOYS AND OTHER ARTICLES INTENDED FOR USE BY CHILDREN UNDER 3 YEARS OF AGE WHICH PRESENT CHOKING, ASPIRATION, OR INGESTION HAZARDS BECAUSE OF SMALL PARTS
 
 
 

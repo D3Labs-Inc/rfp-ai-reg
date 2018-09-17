@@ -24,14 +24,19 @@ Except in so far as in any particular case any privilege or immunity is waived b
 
 # Overlapping US Regulations
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 70—PROCEDURE AND ADMINISTRATION
 
 File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
+,Title's Name: Internal Revenue, Part's Name: PART 305—TEMPORARY PROCEDURAL AND ADMINISTRATIVE TAX REGULATIONS UNDER THE INDIAN TRIBAL GOVERNMENTAL TAX STATUS ACT OF 1982
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 162, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 162—INSPECTION, SEARCH, AND SEIZURE
 
 File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 302, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
+,Title's Name: Internal Revenue, Part's Name: PART 302—TAXES UNDER THE INTERNATIONAL CLAIMS SETTLEMENT ACT, AS AMENDED AUGUST 9, 1955
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 26—LIQUORS AND ARTICLES FROM PUERTO RICO AND THE VIRGIN ISLANDS
 
 
 

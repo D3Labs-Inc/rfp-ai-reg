@@ -28,14 +28,19 @@ The District Authority shall refer applicants for assistance from the Assistance
 
 # Overlapping US Regulations
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 121, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 121—COLLECTION OF DATA
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 44, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 44—GRANTS UNDER THE TRIBALLY CONTROLLED SCHOOLS ACT
 
 File Name: CFR-2018-title7-vol15, Reg (Part) Id: Pt. 2003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol15/xml/CFR-2018-title7-vol15.xml
+,Title's Name: Agriculture, Part's Name: PART 2003—ORGANIZATION
 
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 1c, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1.xml
+,Title's Name: Agriculture, Part's Name: PART 1c—PROTECTION OF HUMAN SUBJECTS (Eff. until 7-19-18)
 
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 16, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1.xml
+,Title's Name: Agriculture, Part's Name: PART 16—EQUAL OPPORTUNITY FOR RELIGIOUS ORGANIZATIONS
 
 
 

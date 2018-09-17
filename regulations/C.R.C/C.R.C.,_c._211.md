@@ -26,14 +26,19 @@ Where a product is sold through the Commodity Board, the Commodity Board shall d
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 238, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 238—GUIDES AGAINST BAIT ADVERTISING
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 700, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 700—INTERPRETATIONS OF MAGNUSON-MOSS WARRANTY ACT
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 255, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 255—GUIDES CONCERNING USE OF ENDORSEMENTS AND TESTIMONIALS IN ADVERTISING
 
 File Name: CFR-2018-title25-vol2, Reg (Part) Id: Pt. 309, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol2/xml/CFR-2018-title25-vol2.xml
+,Title's Name: Indians, Part's Name: PART 309—PROTECTION OF INDIAN ARTS AND CRAFTS PRODUCTS
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 503—STATEMENTS OF GENERAL POLICY OR INTERPRETATION
 
 
 

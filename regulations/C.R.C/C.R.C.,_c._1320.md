@@ -25,14 +25,19 @@ When goods are purchased under appropriate certificates from manufacturers or wh
 
 # Overlapping US Regulations
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 26—LIQUORS AND ARTICLES FROM PUERTO RICO AND THE VIRGIN ISLANDS
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 53—MANUFACTURERS EXCISE TAXES—FIREARMS AND AMMUNITION
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 145—MAIL IMPORTATIONS
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 27—IMPORTATION OF DISTILLED SPIRITS, WINES, AND BEER
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 148, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 148—PERSONAL DECLARATIONS AND EXEMPTIONS
 
 
 

@@ -22,14 +22,19 @@ These Regulations apply in respect of a development tax or redevelopment tax on 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 303, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
+,Title's Name: Internal Revenue, Part's Name: PART 303—TAXES UNDER THE TRADING WITH THE ENEMY ACT
 
 File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 302, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
+,Title's Name: Internal Revenue, Part's Name: PART 302—TAXES UNDER THE INTERNATIONAL CLAIMS SETTLEMENT ACT, AS AMENDED AUGUST 9, 1955
 
 File Name: CFR-2018-title26-vol16, Reg (Part) Id: Pt. 5c, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol16/xml/CFR-2018-title26-vol16.xml
+,Title's Name: Internal Revenue, Part's Name: PART 5c—TEMPORARY INCOME TAX REGULATIONS UNDER THE ECONOMIC RECOVERY TAX ACT OF 1981
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1306, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 1306—RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION POLICIES
 
 File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
+,Title's Name: Internal Revenue, Part's Name: PART 305—TEMPORARY PROCEDURAL AND ADMINISTRATIVE TAX REGULATIONS UNDER THE INDIAN TRIBAL GOVERNMENTAL TAX STATUS ACT OF 1982
 
 
 

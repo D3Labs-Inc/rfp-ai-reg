@@ -25,14 +25,19 @@ Where the recipient of an advance payment has discharged his undertaking, the Bo
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1075, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1075—CONSUMER FINANCIAL CIVIL PENALTY FUND RULE
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 1653, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 1653—COURT ORDERS AND LEGAL PROCESSES AFFECTING THRIFT SAVINGS PLAN ACCOUNTS
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 1218, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 1218—COLLECTION OF ROYALTIES, RENTALS, BONUSES, AND OTHER MONIES DUE THE FEDERAL GOVERNMENT
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 111, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 111—ANNUITY AND OTHER PER CAPITA PAYMENTS
 
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 207—MULTIFAMILY HOUSING MORTGAGE INSURANCE
 
 
 

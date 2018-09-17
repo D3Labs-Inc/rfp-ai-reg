@@ -29,14 +29,19 @@ SOR/81-136, s.
 
 # Overlapping US Regulations
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 383, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 383—CIVIL PENALTIES
 
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 1659, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6.xml
+,Title's Name: National Defense, Part's Name: PART 1659—EXTRAORDINARY EXPENSES OF REGISTRANTS
 
 File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1001—FINANCIAL PRODUCTS OR SERVICES
 
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 14, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1.xml
+,Title's Name: Agriculture, Part's Name: PART 14—DETERMINING THE PRIMARY PURPOSE OF CERTAIN PAYMENTS FOR FEDERAL TAX PURPOSES
 
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 80, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3.xml
+,Title's Name: Agriculture, Part's Name: PART 80—FRESH RUSSET POTATO DIVERSION PROGRAM
 
 
 

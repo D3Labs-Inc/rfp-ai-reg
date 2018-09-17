@@ -24,14 +24,19 @@ The Minister of Consumer and Corporate Affairs hereby certifies that the countri
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1609, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1609—TEXT OF THE FLAMMABLE FABRICS ACT OF 1953, AS AMENDED IN 1954, PRIOR TO 1967 AMENDMENT AND REVISION
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 88, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 88—RECOGNITION OF ATTORNEYS AND AGENTS TO REPRESENT CLAIMANTS
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 132, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 132—BOOKS, MAPS, NEWSPAPERS, ETC.
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 6—CIVIL MONETARY PENALTY ADJUSTMENTS FOR INFLATION
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 85, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 85—CIVIL MONETARY PENALTIES INFLATION ADJUSTMENT
 
 
 

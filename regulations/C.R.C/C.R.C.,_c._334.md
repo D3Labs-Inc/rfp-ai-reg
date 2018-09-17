@@ -23,14 +23,19 @@ Where an assistance agreement is in force, the Minister may enter into an agreem
 
 # Overlapping US Regulations
 File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9034, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
+,Title's Name: Federal Elections, Part's Name: PART 9034—ENTITLEMENTS
 
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 48—RETIRED SERVICEMAN'S FAMILY PROTECTION PLAN
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 391, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 391—FEES AND CHARGES FOR INSPECTION SERVICES AND LABORATORY ACCREDITATION
 
 File Name: CFR-2018-title11-vol1, Reg (Part) Id: Pt. 9035, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title11-vol1/xml/CFR-2018-title11-vol1.xml
+,Title's Name: Federal Elections, Part's Name: PART 9035—EXPENDITURE LIMITATIONS
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1463, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1463—2005-2014 TOBACCO TRANSITION PROGRAM
 
 
 

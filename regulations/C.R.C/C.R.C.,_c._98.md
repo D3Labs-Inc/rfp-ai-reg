@@ -27,14 +27,19 @@ COMMENCING at a point situated at the intersection of the lot line between lots�
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 80, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 80—COLREGS DEMARCATION LINES
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 3—COAST GUARD AREAS, DISTRICTS, SECTORS, MARINE INSPECTION ZONES, AND CAPTAIN OF THE PORT ZONES
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 9, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 9—AMERICAN VITICULTURAL AREAS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 110, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 110—ANCHORAGE REGULATIONS
 
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 334, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 334—DANGER ZONE AND RESTRICTED AREA REGULATIONS
 
 
 

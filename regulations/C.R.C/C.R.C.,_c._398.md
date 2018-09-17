@@ -19,14 +19,19 @@ http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._398/FullText.html
 
 # Overlapping US Regulations
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 131, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 131—CERTIFICATES OF AUTHENTICATION
 
 File Name: CFR-2018-title27-vol3, Reg (Part) Id: Pt. 447, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol3/xml/CFR-2018-title27-vol3.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 447—IMPORTATION OF ARMS, AMMUNITION AND IMPLEMENTS OF WAR
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 61, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 61—WORLD-WIDE FREE FLOW OF AUDIO-VISUAL MATERIALS
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 91, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 91—IMPORT CONTROLS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 4, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 4—VESSELS IN FOREIGN AND DOMESTIC TRADES
 
 
 

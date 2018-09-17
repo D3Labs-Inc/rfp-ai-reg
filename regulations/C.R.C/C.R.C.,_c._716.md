@@ -22,14 +22,19 @@ The Chief of the Defence Staff shall not approve a transfer of an official memen
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 243, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 243—REINDEER IN ALASKA
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 152, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 152—ISSUANCE OF PATENTS IN FEE, CERTIFICATES OF COMPETENCY, REMOVAL OF RESTRICTIONS, AND SALE OF CERTAIN INDIAN LANDS
 
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 254, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 254—LANDOWNERSHIP ADJUSTMENTS
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1312, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 1312—PROTECTION OF ARCHAEOLOGICAL RESOURCES: UNIFORM REGULATIONS
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 274, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 274—SEIZURE AND FORFEITURE OF CONVEYANCES
 
 
 

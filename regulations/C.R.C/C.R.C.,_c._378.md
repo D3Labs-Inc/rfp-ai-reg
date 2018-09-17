@@ -24,14 +24,19 @@ The Canadian Radio-television and Telecommunications Commission is hereby direct
 
 # Overlapping US Regulations
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1049, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1049—LIMITED ARREST AUTHORITY AND USE OF FORCE BY PROTECTIVE FORCE OFFICERS OF THE STRATEGIC PETROLEUM RESERVE
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 38, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 38—STANDARDS FOR PUBLIC UTILITY BUSINESS OPERATIONS AND COMMUNICATIONS
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1002, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1002—OFFICIAL SEAL AND DISTINGUISHING FLAG
 
 File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3.xml
+,Title's Name: Energy, Part's Name: PART 217—ENERGY PRIORITIES AND ALLOCATIONS SYSTEM
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 511, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 511—GENERAL MANAGEMENT POLICY
 
 
 

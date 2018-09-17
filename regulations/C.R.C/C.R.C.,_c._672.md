@@ -28,14 +28,19 @@ For the purposes of paragraph 81(1)(b) of the  Financial Administration Act , th
 
 # Overlapping US Regulations
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 383, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 383—CIVIL PENALTIES
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 85, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 85—CIVIL MONETARY PENALTIES INFLATION ADJUSTMENT
 
 File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1083, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1083—CIVIL PENALTY ADJUSTMENTS
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 316, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 316—CAN-SPAM RULE
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 6—CIVIL MONETARY PENALTY ADJUSTMENTS FOR INFLATION
 
 
 

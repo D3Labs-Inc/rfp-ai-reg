@@ -24,14 +24,19 @@ Subject to subsection (2), where an employee is employed in any day or in any we
 
 # Overlapping US Regulations
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1620, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1620—THE EQUAL PAY ACT
 
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1915, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
+,Title's Name: Labor, Part's Name: PART 1915—OCCUPATIONAL SAFETY AND HEALTH STANDARDS FOR SHIPYARD EMPLOYMENT
 
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 551, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 551—PAY ADMINISTRATION UNDER THE FAIR LABOR STANDARDS ACT
 
 File Name: CFR-2018-title29-vol5, Reg (Part) Id: Pt. 1904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol5/xml/CFR-2018-title29-vol5.xml
+,Title's Name: Labor, Part's Name: PART 1904—RECORDING AND REPORTING OCCUPATIONAL INJURIES AND ILLNESSES
 
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1605, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1605—GUIDELINES ON DISCRIMINATION BECAUSE OF RELIGION
 
 
 

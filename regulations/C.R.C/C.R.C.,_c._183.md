@@ -21,14 +21,19 @@ The Board and the Commodity Board may, in relation to the powers granted to it b
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 123—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE VIRUS-SERUM-TOXIN ACT
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 12, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 12—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE HORSE PROTECTION ACT
 
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 380, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5.xml
+,Title's Name: Agriculture, Part's Name: PART 380—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER CERTAIN ACTS
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1470, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1470—GENERAL
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1207—POTATO RESEARCH AND PROMOTION PLAN
 
 
 

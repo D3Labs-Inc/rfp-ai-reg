@@ -27,14 +27,19 @@ No purchaser, processor, assembly yard operator or trucker shall hold a licence 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 317, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 317—PROHIBITION OF ENERGY MARKET MANIPULATION RULE
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 49—ANTITRUST CIVIL PROCESS ACT
 
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1203b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1203b—SECURITY PROGRAMS; ARREST AUTHORITY AND USE OF FORCE BY NASA SECURITY FORCE PERSONNEL
 
 File Name: CFR-2018-title6-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title6-vol1/xml/CFR-2018-title6-vol1.xml
+,Title's Name: Domestic Security, Part's Name: PART 27—CHEMICAL FACILITY ANTI-TERRORISM STANDARDS
 
 File Name: CFR-2018-title17-vol3, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol3/xml/CFR-2018-title17-vol3.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 205—STANDARDS OF PROFESSIONAL CONDUCT FOR ATTORNEYS APPEARING AND PRACTICING BEFORE THE COMMISSION IN THE REPRESENTATION OF AN ISSUER
 
 
 

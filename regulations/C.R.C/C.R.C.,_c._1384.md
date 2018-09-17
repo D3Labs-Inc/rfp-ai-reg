@@ -25,14 +25,19 @@ The bridge roadways may be closed to traffic by means of notices, gates, or othe
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 207—NAVIGATION REGULATIONS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 5, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 5—COAST GUARD AUXILIARY
 
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 855, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6.xml
+,Title's Name: National Defense, Part's Name: PART 855—CIVIL AIRCRAFT USE OF UNITED STATES AIR FORCE AIRFIELDS
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 307, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 307—FACILITIES FOR INSPECTION
 
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1919, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
+,Title's Name: Labor, Part's Name: PART 1919—GEAR CERTIFICATION
 
 
 

@@ -23,14 +23,19 @@ The following reports shall, where applicable, be made, in writing, to the Chief
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 132, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 132—QUOTAS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 122, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 122—AIR COMMERCE REGULATIONS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 141, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 141—ENTRY OF MERCHANDISE
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 18, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 18—TRANSPORTATION IN BOND AND MERCHANDISE IN TRANSIT
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 145—MAIL IMPORTATIONS
 
 
 

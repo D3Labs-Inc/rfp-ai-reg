@@ -27,14 +27,19 @@ Unless the Minister of National Defence otherwise directs, aircraft referred to 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 234, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 234—DESIGNATION OF PORTS OF ENTRY FOR ALIENS ARRIVING BY CIVIL AIRCRAFT
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 375, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 375—NAVIGATION OF FOREIGN CIVIL AIRCRAFT WITHIN THE UNITED STATES
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 258, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 258—DISCLOSURE OF CHANGE-OF-GAUGE SERVICES
 
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 8—APPOINTMENTS TO OVERSEAS POSITIONS (RULE VIII)
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 343, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 343—CERTIFICATE OF NATURALIZATION OR REPATRIATION; PERSONS WHO RESUMED CITIZENSHIP UNDER SECTION 323 OF THE NATIONALITY ACT OF 1940, AS AMENDED, OR SECTION 4 OF THE ACT OF JUNE 29, 1906
 
 
 

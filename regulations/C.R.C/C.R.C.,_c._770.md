@@ -27,14 +27,19 @@ Remission is hereby granted to I.O.S., any shareholder or unitholder of I.O.S. o
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 781, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
+,Title's Name: Agriculture, Part's Name: PART 781—DISCLOSURE OF FOREIGN INVESTMENT IN AGRICULTURAL LAND
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 601, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 601—JURISDICTION OF THE INDEPENDENT COUNSEL: IRAN/CONTRA
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 801, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 801—SURVEY OF INTERNATIONAL TRADE IN SERVICES BETWEEN U.S. AND FOREIGN PERSONS AND SURVEYS OF DIRECT INVESTMENT
 
 File Name: CFR-2018-title26-vol19, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol19/xml/CFR-2018-title26-vol19.xml
+,Title's Name: Internal Revenue, Part's Name: PART 53—FOUNDATION AND SIMILAR EXCISE TAXES
 
 File Name: CFR-2018-title26-vol15, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol15/xml/CFR-2018-title26-vol15.xml
+,Title's Name: Internal Revenue, Part's Name: PART 1—INCOME TAXES (CONTINUED)
 
 
 

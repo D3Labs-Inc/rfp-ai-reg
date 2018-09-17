@@ -24,14 +24,19 @@ All experts performing missions for the Organization in Canada shall, to such ex
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 4, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 4—VESSELS IN FOREIGN AND DOMESTIC TRADES
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 30, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 30—FOREIGN TRADE REGULATIONS
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 123—LICENSES FOR THE EXPORT AND TEMPORARY IMPORT OF DEFENSE ARTICLES
 
 File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 758, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 758—EXPORT CLEARANCE REQUIREMENTS
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 126, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 126—GENERAL POLICIES AND PROVISIONS
 
 
 

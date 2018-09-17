@@ -27,14 +27,19 @@ Unless the Minister of National Defence otherwise directs, aircraft referred to 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 234, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 234—DESIGNATION OF PORTS OF ENTRY FOR ALIENS ARRIVING BY CIVIL AIRCRAFT
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 375, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 375—NAVIGATION OF FOREIGN CIVIL AIRCRAFT WITHIN THE UNITED STATES
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 251, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 251—CARRIAGE OF MUSICAL INSTRUMENTS
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 257, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 257—DISCLOSURE OF CODE-SHARING ARRANGEMENTS AND LONG-TERM WET LEASES
 
 File Name: CFR-2018-title14-vol1, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol1/xml/CFR-2018-title14-vol1.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 48—REGISTRATION AND MARKING REQUIREMENTS FOR SMALL UNMANNED AIRCRAFT
 
 
 

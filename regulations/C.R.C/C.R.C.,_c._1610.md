@@ -22,14 +22,19 @@ Bison (buffalo) Black-tailed deer Elk Musk-oxen
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1609, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1609—TEXT OF THE FLAMMABLE FABRICS ACT OF 1953, AS AMENDED IN 1954, PRIOR TO 1967 AMENDMENT AND REVISION
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 6—CIVIL MONETARY PENALTY ADJUSTMENTS FOR INFLATION
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 2—AUTHORITY OF THE SECRETARY OF HOMELAND SECURITY
 
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 42, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 42—ANTI-MONEY LAUNDERING, TERRORIST FINANCING
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 0—TRANSFERRED OR DELEGATED AUTHORITY
 
 
 

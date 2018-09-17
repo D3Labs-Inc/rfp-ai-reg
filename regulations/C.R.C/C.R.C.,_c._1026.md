@@ -23,14 +23,19 @@ The City of Montreal in the Province of Quebec is designated as the City in whic
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 321, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 321—MORTGAGE ACTS AND PRACTICES—ADVERTISING
 
 File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 900, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 900—STATEMENT OF ORGANIZATION
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 0—ORGANIZATION
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 902, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 902—ORGANIZATION
 
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1209, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1209—BOARDS AND COMMITTEES
 
 
 

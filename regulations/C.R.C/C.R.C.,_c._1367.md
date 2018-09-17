@@ -23,14 +23,19 @@ The overhang on the inside of the covers at the head, side and foot of every vol
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol2, Reg (Part) Id: Pt. 304, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol2/xml/CFR-2018-title25-vol2.xml
+,Title's Name: Indians, Part's Name: PART 304—NAVAJO, PUEBLO, AND HOPI SILVER, USE OF GOVERNMENT MARK
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1251, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1251—TOYS: DETERMINATIONS REGARDING HEAVY ELEMENTS LIMITS FOR CERTAIN MATERIALS
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1460, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1460—CHILDREN'S GASOLINE BURN PREVENTION ACT REGULATION
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1406, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1406—COAL AND WOOD BURNING APPLIANCES—NOTIFICATION OF PERFORMANCE AND TECHNICAL DATA
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1228, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1228—SAFETY STANDARD FOR SLING CARRIERS; (eff. 1-30-18)
 
 
 

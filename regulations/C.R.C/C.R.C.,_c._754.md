@@ -23,14 +23,19 @@ Remission is hereby granted of the amount by which the customs duties imposed un
 
 # Overlapping US Regulations
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 70—PROCEDURE AND ADMINISTRATION
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 46, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 46—MISCELLANEOUS REGULATIONS RELATING TO TOBACCO PRODUCTS AND CIGARETTE PAPERS AND TUBES
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 162, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 162—INSPECTION, SEARCH, AND SEIZURE
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 127, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 127—GENERAL ORDER, UNCLAIMED, AND ABANDONED MERCHANDISE
 
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 714, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
+,Title's Name: Agriculture, Part's Name: PART 714—REFUNDS OF PENALTIES ERRONEOUSLY, ILLEGALLY, OR WRONGFULLY COLLECTED
 
 
 

@@ -24,14 +24,19 @@ For the purposes of section 4, where the agricultural product in respect of whic
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 530, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 530—GENERAL REQUIREMENTS; DEFINITIONS
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 118, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 118—DETENTION; SEIZURE AND CONDEMNATION
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 238, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 238—GUIDES AGAINST BAIT ADVERTISING
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 301, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 301—RULES AND REGULATIONS UNDER FUR PRODUCTS LABELING ACT
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 559, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 559—DETENTION, SEIZURE, CONDEMNATION
 
 
 

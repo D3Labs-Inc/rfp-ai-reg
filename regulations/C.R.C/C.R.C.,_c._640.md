@@ -22,14 +22,19 @@ For the purpose of section 33 of the  Expropriation Act , the basic rate shall b
 
 # Overlapping US Regulations
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 715, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 715—DEFINITION OF NON-RECOURSE PROJECT-FINANCED
 
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 5, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1.xml
+,Title's Name: Agriculture, Part's Name: PART 5—DETERMINATION OF PARITY PRICES
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 903, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 903—POWER AND TRANSMISSION RATES
 
 File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 726, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 726—BLACK LUNG BENEFITS; REQUIREMENTS FOR COAL MINE OPERATOR'S INSURANCE
 
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 351, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
+,Title's Name: Customs Duties, Part's Name: PART 351—ANTIDUMPING AND COUNTERVAILING DUTIES
 
 
 

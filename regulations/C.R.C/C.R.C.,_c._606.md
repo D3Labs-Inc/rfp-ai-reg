@@ -26,14 +26,19 @@ An application for a transit authorization certificate shall be made on a form p
 
 # Overlapping US Regulations
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1217—DUTY-FREE ENTRY OF SPACE ARTICLES
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 132, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 132—QUOTAS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 134, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 134—COUNTRY OF ORIGIN MARKING
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 123—LICENSES FOR THE EXPORT AND TEMPORARY IMPORT OF DEFENSE ARTICLES
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 145—MAIL IMPORTATIONS
 
 
 

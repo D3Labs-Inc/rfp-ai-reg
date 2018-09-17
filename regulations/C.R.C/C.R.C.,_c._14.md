@@ -24,14 +24,19 @@ Unless the Minister of National Defence otherwise directs, all aircraft referred
 
 # Overlapping US Regulations
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 171, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 171—IMPLEMENTATION OF WILDFIRE SUPPRESSION AIRCRAFT TRANSFER ACT OF 1996
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 207—CHARTER TRIPS BY U.S. SCHEDULED AIR CARRIERS
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 251, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 251—CARRIAGE OF MUSICAL INSTRUMENTS
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 208, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 208—CHARTER TRIPS BY U.S. CHARTER AIR CARRIERS
 
 File Name: CFR-2018-title14-vol3, Reg (Part) Id: Pt. 137, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol3/xml/CFR-2018-title14-vol3.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 137—AGRICULTURAL AIRCRAFT OPERATIONS
 
 
 

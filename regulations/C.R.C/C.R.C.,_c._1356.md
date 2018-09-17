@@ -24,14 +24,19 @@ The Company shall pay into the Consolidated Revenue Fund to the credit of the Su
 
 # Overlapping US Regulations
 File Name: CFR-2018-title5-vol2, Reg (Part) Id: Pt. 839, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol2/xml/CFR-2018-title5-vol2.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 839—CORRECTION OF RETIREMENT COVERAGE ERRORS UNDER THE FEDERAL ERRONEOUS RETIREMENT COVERAGE CORRECTIONS ACT
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 211, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 211—CREDITABLE RAILROAD COMPENSATION
 
 File Name: CFR-2018-title5-vol2, Reg (Part) Id: Pt. 847, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol2/xml/CFR-2018-title5-vol2.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 847—ELECTIONS OF RETIREMENT COVERAGE BY CURRENT AND FORMER EMPLOYEES OF NONAPPROPRIATED FUND INSTRUMENTALITIES
 
 File Name: CFR-2018-title5-vol2, Reg (Part) Id: Pt. 837, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol2/xml/CFR-2018-title5-vol2.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 837—REEMPLOYMENT OF ANNUITANTS
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 341, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 341—STATUTORY LIEN WHERE SICKNESS BENEFITS PAID
 
 
 

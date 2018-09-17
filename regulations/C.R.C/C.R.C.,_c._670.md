@@ -33,14 +33,19 @@ Subject to subsections 31(2), (3) and (4) of the  Financial Administration Act ,
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 152, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 152—ISSUANCE OF PATENTS IN FEE, CERTIFICATES OF COMPETENCY, REMOVAL OF RESTRICTIONS, AND SALE OF CERTAIN INDIAN LANDS
 
 File Name: CFR-2018-title6-vol1, Reg (Part) Id: Pt. 25, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title6-vol1/xml/CFR-2018-title6-vol1.xml
+,Title's Name: Domestic Security, Part's Name: PART 25—REGULATIONS TO SUPPORT ANTI-TERRORISM BY FOSTERING EFFECTIVE TECHNOLOGIES
 
 File Name: CFR-2018-title34-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol1/xml/CFR-2018-title34-vol1.xml
+,Title's Name: Education, Part's Name: PART 6—INVENTIONS AND PATENTS (GENERAL)
 
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 27—NONJUDICIAL FORECLOSURE OF MULTIFAMILY AND SINGLE FAMILY MORTGAGES
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 956, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 956—SWEET ONIONS GROWN IN THE WALLA WALLA VALLEY OF SOUTHEAST WASHINGTON AND NORTHEAST OREGON
 
 
 

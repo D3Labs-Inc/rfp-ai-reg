@@ -24,14 +24,19 @@ The amount that the Minister shall, pursuant to section 10 of the Act, pay on ac
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1412, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1412—AGRICULTURE RISK COVERAGE, PRICE LOSS COVERAGE, AND COTTON TRANSITION ASSISTANCE PROGRAMS
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 1206, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 1206—PRODUCT VALUATION
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 1208, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 1208—SALE OF FEDERAL ROYALTY OIL
 
 File Name: CFR-2018-title24-vol4, Reg (Part) Id: Pt. 904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol4/xml/CFR-2018-title24-vol4.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 904—LOW RENT HOUSING HOMEOWNERSHIP OPPORTUNITIES
 
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1770, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12.xml
+,Title's Name: Agriculture, Part's Name: PART 1770—ACCOUNTING REQUIREMENTS FOR RUS TELECOMMUNICATIONS BORROWERS
 
 
 

@@ -26,14 +26,19 @@ Subject to subsections 31(2), (3) and (4) of the  Financial Administration Act ,
 
 # Overlapping US Regulations
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 709, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 709—FOREIGN CORRUPT PRACTICES ACT OF 1977
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1018, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1018—ADVISORY COMMITTEE MANAGEMENT
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 955, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 955—VIDALIA ONIONS GROWN IN GEORGIA
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 109, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 109—GENERAL
 
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1912, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
+,Title's Name: Labor, Part's Name: PART 1912—ADVISORY COMMITTEES ON STANDARDS
 
 
 

@@ -23,14 +23,19 @@ The Minister of National Defence is authorized to lend, on such terms and condit
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 8—UNITED STATES COAST GUARD RESERVE
 
 File Name: CFR-2018-title10-vol3, Reg (Part) Id: Pt. 216, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol3/xml/CFR-2018-title10-vol3.xml
+,Title's Name: Energy, Part's Name: PART 216—MATERIALS ALLOCATION AND PRIORITY PERFORMANCE UNDER CONTRACTS OR ORDERS TO MAXIMIZE DOMESTIC ENERGY SUPPLIES
 
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 335, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 335—OPERATION AND MAINTENANCE OF ARMY CORPS OF ENGINEERS CIVIL WORKS PROJECTS INVOLVING THE DISCHARGE OF DREDGED OR FILL MATERIAL INTO WATERS OF THE U.S. OR OCEAN WATERS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 76, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 76—SALE AND TRANSFER OF AIDS TO NAVIGATION EQUIPMENT
 
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 51, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 51—ENVIRONMENTAL CRITERIA AND STANDARDS
 
 
 

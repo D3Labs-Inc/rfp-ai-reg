@@ -22,14 +22,19 @@ The Minister of Consumer and Corporate Affairs is hereby designated as the membe
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 650, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 650—FEDERAL AGRICULTURAL MORTGAGE CORPORATION GENERAL PROVISIONS
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1300—ORGANIZATION AND FUNCTIONS OF THE MILLENNIUM CHALLENGE CORPORATION
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 909, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 909—MARINE DEBRIS
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 2001—CREATION, ORGANIZATION, AND FUNCTIONS
 
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 651, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 651—FEDERAL AGRICULTURAL MORTGAGE CORPORATION GOVERNANCE
 
 
 

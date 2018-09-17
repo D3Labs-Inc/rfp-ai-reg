@@ -19,14 +19,19 @@ OCEANS ACT Order Prescribing as a Fishing Zone of Canada Certain Areas of the Se
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 334, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 334—DANGER ZONE AND RESTRICTED AREA REGULATIONS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 265—ESTABLISHMENT OF ROADLESS AND WILD AREAS ON INDIAN RESERVATIONS
 
 File Name: CFR-2018-title14-vol2, Reg (Part) Id: Pt. 95, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol2/xml/CFR-2018-title14-vol2.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 95—IFR ALTITUDES
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 110, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 110—ANCHORAGE REGULATIONS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 241, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 241—INDIAN FISHING IN ALASKA
 
 
 

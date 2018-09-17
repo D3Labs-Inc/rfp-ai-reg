@@ -22,14 +22,19 @@ In addition to the fees established by subsections (1) and (2), a fee of $5 is t
 
 # Overlapping US Regulations
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 219, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 219—PLANNING
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 756, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 756—INDIAN TRIBE ABANDONED MINE LAND RECLAMATION PROGRAMS
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 746, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 746—REVIEW AND APPROVAL OF MINING PLANS
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1236, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1236—PRUDENTIAL MANAGEMENT AND OPERATIONS STANDARDS
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 708—UPPER MISSISSIPPI RIVER BASIN COMMISSION: PUBLIC PARTICIPATION IN UPPER MISSISSIPPI RIVER SYSTEM MASTER PLAN
 
 
 

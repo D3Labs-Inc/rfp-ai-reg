@@ -27,14 +27,19 @@ For the purpose of accepting a sample of beans as a fair sample pursuant to para
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 275, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 275—RULES AND REGULATIONS, INVESTMENT ADVISERS ACT OF 1940
 
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 180, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 180—PROHIBITION AGAINST MANIPULATION
 
 File Name: CFR-2018-title17-vol1, Reg (Part) Id: Pt. 32, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol1/xml/CFR-2018-title17-vol1.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 32—REGULATION OF COMMODITY OPTION TRANSACTIONS
 
 File Name: CFR-2018-title17-vol3, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol3/xml/CFR-2018-title17-vol3.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 205—STANDARDS OF PROFESSIONAL CONDUCT FOR ATTORNEYS APPEARING AND PRACTICING BEFORE THE COMMISSION IN THE REPRESENTATION OF AN ISSUER
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 270—RULES AND REGULATIONS, INVESTMENT COMPANY ACT OF 1940
 
 
 

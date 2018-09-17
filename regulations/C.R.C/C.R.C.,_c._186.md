@@ -31,14 +31,19 @@ No person to whom a marketing quota has been fixed and allotted shall market any
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 4, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 4—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE ANIMAL WELFARE ACT
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 49—ANTITRUST CIVIL PROCESS ACT
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 317, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 317—PROHIBITION OF ENERGY MARKET MANIPULATION RULE
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 0—TRANSFERRED OR DELEGATED AUTHORITY
 
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 380, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5.xml
+,Title's Name: Agriculture, Part's Name: PART 380—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER CERTAIN ACTS
 
 
 

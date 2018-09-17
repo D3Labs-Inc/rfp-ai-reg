@@ -23,14 +23,19 @@ The Minister of Indian Affairs and Northern Development may, notwithstanding sub
 
 # Overlapping US Regulations
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 213—ADMINISTRATION OF LANDS UNDER TITLE III OF THE BANKHEAD-JONES FARM TENANT ACT BY THE FOREST SERVICE
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 904—GENERAL REGULATIONS FOR THE CHARGES FOR THE SALE OF POWER FROM THE BOULDER CANYON PROJECT
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 1310—ADMINISTRATIVE COST RECOVERY
 
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 176, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 176—REVITALIZING BASE CLOSURE COMMUNITIES AND COMMUNITY ASSISTANCE—COMMUNITY REDEVELOPMENT AND HOMELESS ASSISTANCE
 
 File Name: CFR-2018-title1-vol1, Reg (Part) Id: Pt. 11, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title1-vol1/xml/CFR-2018-title1-vol1.xml
+,Title's Name: General Provisions, Part's Name: PART 11—SUBSCRIPTIONS
 
 
 

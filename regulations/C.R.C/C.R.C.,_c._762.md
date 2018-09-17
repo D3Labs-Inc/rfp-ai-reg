@@ -23,14 +23,19 @@ Remission is hereby granted of the customs duties paid or payable on goods impor
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 358, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
+,Title's Name: Customs Duties, Part's Name: PART 358—SUPPLIES FOR USE IN EMERGENCY RELIEF WORK
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 173, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 173—AVAILABILITY OF PUBLIC DIPLOMACY PROGRAM MATERIAL IN THE UNITED STATES
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 142, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 142—ALASKA RESUPPLY OPERATION
 
 File Name: CFR-2018-title2-vol1, Reg (Part) Id: Pt. 176, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title2-vol1/xml/CFR-2018-title2-vol1.xml
+,Title's Name: Grants and Agreements, Part's Name: PART 176—AWARD TERMS FOR ASSISTANCE AGREEMENTS THAT INCLUDE FUNDS UNDER THE AMERICAN RECOVERY AND REINVESTMENT ACT OF 2009, PUBLIC LAW 111-5
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1470, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1470—GENERAL
 
 
 

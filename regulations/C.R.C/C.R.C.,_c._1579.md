@@ -25,14 +25,19 @@ The Deputy Minister may accept and administer in accordance with the conditions 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 502, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 502—CONDUCT ON BELTSVILLE AGRICULTURE RESEARCH CENTER PROPERTY, BELTSVILLE, MARYLAND
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 152, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 152—ISSUANCE OF PATENTS IN FEE, CERTIFICATES OF COMPETENCY, REMOVAL OF RESTRICTIONS, AND SALE OF CERTAIN INDIAN LANDS
 
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 27—NONJUDICIAL FORECLOSURE OF MULTIFAMILY AND SINGLE FAMILY MORTGAGES
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 4, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 4—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE ANIMAL WELFARE ACT
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 162, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 162—INSPECTION, SEARCH, AND SEIZURE
 
 
 

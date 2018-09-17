@@ -23,14 +23,19 @@ Authority is hereby granted, effective January 2, 1952, for free entry, refund o
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 11, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 11—PACKING AND STAMPING; MARKING
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 27—IMPORTATION OF DISTILLED SPIRITS, WINES, AND BEER
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 147, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 147—TRADE FAIRS
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 26—LIQUORS AND ARTICLES FROM PUERTO RICO AND THE VIRGIN ISLANDS
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 45, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 45—REMOVAL OF TOBACCO PRODUCTS AND CIGARETTE PAPERS AND TUBES, WITHOUT PAYMENT OF TAX, FOR USE OF THE UNITED STATES
 
 
 

@@ -25,14 +25,19 @@ The Minister shall report annually to the Treasury Board any major item such as 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1788, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12.xml
+,Title's Name: Agriculture, Part's Name: PART 1788—RUS FIDELITY AND INSURANCE REQUIREMENTS FOR ELECTRIC AND TELECOMMUNICATIONS BORROWERS
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1434, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1434—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYMENTS FOR HONEY
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1250, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1250—FLOOD INSURANCE
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 286, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 286—INDIAN BUSINESS DEVELOPMENT PROGRAM
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1427, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1427—COTTON
 
 
 

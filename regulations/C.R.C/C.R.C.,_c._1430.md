@@ -22,14 +22,19 @@ A minor waters voyage, Class I, means a minor waters voyage in the course of whi
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 89, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 89—INLAND NAVIGATION RULES: IMPLEMENTING RULES
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 83, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 83—NAVIGATION RULES
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 23, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 23—DISTINCTIVE MARKINGS FOR COAST GUARD VESSELS AND AIRCRAFT
 
 File Name: CFR-2018-title14-vol2, Reg (Part) Id: Pt. 71, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol2/xml/CFR-2018-title14-vol2.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 71—DESIGNATION OF CLASS A, B, C, D, AND E AIRSPACE AREAS; AIR TRAFFIC SERVICE ROUTES; AND REPORTING POINTS
 
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 207—NAVIGATION REGULATIONS
 
 
 

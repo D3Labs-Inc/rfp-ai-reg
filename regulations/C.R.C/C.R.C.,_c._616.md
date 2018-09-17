@@ -24,14 +24,19 @@ Subject to section 3, any person may, under the authority of this General Export
 
 # Overlapping US Regulations
 File Name: CFR-2018-title27-vol3, Reg (Part) Id: Pt. 447, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol3/xml/CFR-2018-title27-vol3.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 447—IMPORTATION OF ARMS, AMMUNITION AND IMPLEMENTS OF WAR
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 12, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 12—SPECIAL CLASSES OF MERCHANDISE
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 122, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 122—ORGANISMS AND VECTORS
 
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1217—DUTY-FREE ENTRY OF SPACE ARTICLES
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 126, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 126—GENERAL POLICIES AND PROVISIONS
 
 
 

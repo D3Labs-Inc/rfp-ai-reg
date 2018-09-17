@@ -27,14 +27,19 @@ Finance Vote 20a of the  Appropriation Act, No. 9, 1966 .
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1609, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1609—TEXT OF THE FLAMMABLE FABRICS ACT OF 1953, AS AMENDED IN 1954, PRIOR TO 1967 AMENDMENT AND REVISION
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 6—CIVIL MONETARY PENALTY ADJUSTMENTS FOR INFLATION
 
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 2 , URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1.xml
+,Title's Name: Agriculture, Part's Name: PART 2—DELEGATIONS OF AUTHORITY BY THE SECRETARY OF AGRICULTURE AND GENERAL OFFICERS OF THE DEPARTMENT
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 85, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 85—CIVIL MONETARY PENALTIES INFLATION ADJUSTMENT
 
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 42, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 42—ANTI-MONEY LAUNDERING, TERRORIST FINANCING
 
 
 

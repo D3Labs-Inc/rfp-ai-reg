@@ -22,14 +22,19 @@ Every election made by a contributor under these Regulations shall be made by hi
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 1—PERFORMANCE OF FUNCTIONS
 
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 380, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5.xml
+,Title's Name: Agriculture, Part's Name: PART 380—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER CERTAIN ACTS
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 2420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 2420—PURPOSE AND SCOPE
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 6—CIVIL MONETARY PENALTY ADJUSTMENTS FOR INFLATION
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 85, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 85—CIVIL MONETARY PENALTIES INFLATION ADJUSTMENT
 
 
 

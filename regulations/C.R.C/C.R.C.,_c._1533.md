@@ -23,14 +23,19 @@ The lands described in the schedule are set apart and appropriated for the purpo
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
+,Title's Name: Banks and Banking, Part's Name: PART 6—PROMPT CORRECTIVE ACTION
 
 File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 31, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
+,Title's Name: Banks and Banking, Part's Name: PART 31—EXTENSIONS OF CREDIT TO INSIDERS AND TRANSACTIONS WITH AFFILIATES
 
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 750, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
+,Title's Name: Agriculture, Part's Name: PART 750—SOIL BANK
 
 File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
+,Title's Name: Banks and Banking, Part's Name: PART 50—LIQUIDITY RISK MEASUREMENT STANDARDS
 
 File Name: CFR-2018-title12-vol2, Reg (Part) Id: Pt. 209, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol2/xml/CFR-2018-title12-vol2.xml
+,Title's Name: Banks and Banking, Part's Name: PART 209—ISSUE AND CANCELLATION OF FEDERAL RESERVE BANK CAPITAL STOCK (REGULATION I)
 
 
 

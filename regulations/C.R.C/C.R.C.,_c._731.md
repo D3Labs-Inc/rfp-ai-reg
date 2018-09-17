@@ -35,14 +35,19 @@ The Departments of National Defence, External Affairs and Finance shall act in c
 
 # Overlapping US Regulations
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1420—PURPOSE AND SCOPE
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1421, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1421—MEANING OF TERMS AS USED IN THIS SUBCHAPTER
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 50—RULES OF PRACTICE GOVERNING WITHDRAWAL OF INSPECTION AND GRADING SERVICES
 
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 264b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4.xml
+,Title's Name: Banks and Banking, Part's Name: PART 264b—RULES REGARDING FOREIGN GIFTS AND DECORATIONS
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 48—REGULATIONS OF THE SECRETARY OF AGRICULTURE FOR THE ENFORCEMENT OF THE PRODUCE AGENCY ACT
 
 
 

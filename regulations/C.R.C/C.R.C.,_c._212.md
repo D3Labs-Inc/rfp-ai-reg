@@ -29,14 +29,19 @@ The platform and storage facilities of every shipper and the records of every sh
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 18, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 18—GUIDES FOR THE NURSERY INDUSTRY
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 300—RULES AND REGULATIONS UNDER THE WOOL PRODUCTS LABELING ACT OF 1939
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1401—SELF PRESSURIZED CONSUMER PRODUCTS CONTAINING CHLOROFLUOROCARBONS: REQUIREMENTS TO PROVIDE THE COMMISSION WITH PERFORMANCE AND TECHNICAL DATA; REQUIREMENTS TO NOTIFY CONSUMERS AT POINT OF PURCHASE OF PERFORMANCE AND TECHNICAL DATA
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 238, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 238—GUIDES AGAINST BAIT ADVERTISING
 
 File Name: CFR-2018-title21-vol7, Reg (Part) Id: Pt. 607, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol7/xml/CFR-2018-title21-vol7.xml
+,Title's Name: Food and Drugs, Part's Name: PART 607—ESTABLISHMENT REGISTRATION AND PRODUCT LISTING FOR MANUFACTURERS OF HUMAN BLOOD AND BLOOD PRODUCTS AND LICENSED DEVICES
 
 
 

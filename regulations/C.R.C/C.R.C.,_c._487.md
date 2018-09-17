@@ -28,14 +28,19 @@ No drawback shall be paid under these Regulations in respect of any imported fab
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 54, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 54—CERTAIN IMPORTATIONS TEMPORARILY FREE OF DUTY
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 191, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 191—DRAWBACK
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 152, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 152—CLASSIFICATION AND APPRAISEMENT OF MERCHANDISE
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 159, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 159—LIQUIDATION OF DUTIES
 
 File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 303, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 303—WATCHES, WATCH MOVEMENTS AND JEWELRY PROGRAM
 
 
 

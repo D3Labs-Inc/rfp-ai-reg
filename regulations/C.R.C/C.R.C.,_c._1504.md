@@ -23,14 +23,19 @@ Returns of all imports and exports into and from Canada and details of the means
 
 # Overlapping US Regulations
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 41, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 41—IMPORTATION OF TOBACCO PRODUCTS, CIGARETTE PAPERS AND TUBES, AND PROCESSED TOBACCO
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 28, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 28—EXPORTATION OF ALCOHOL
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 44, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 44—EXPORTATION OF TOBACCO PRODUCTS AND CIGARETTE PAPERS AND TUBES, WITHOUT PAYMENT OF TAX, OR WITH DRAWBACK OF TAX
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 40, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 40—MANUFACTURE OF TOBACCO PRODUCTS, CIGARETTE PAPERS AND TUBES, AND PROCESSED TOBACCO
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 27—IMPORTATION OF DISTILLED SPIRITS, WINES, AND BEER
 
 
 

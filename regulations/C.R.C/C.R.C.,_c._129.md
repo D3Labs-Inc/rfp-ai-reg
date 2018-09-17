@@ -23,14 +23,19 @@ The levies, from the time of their deduction to the time of accounting and payme
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1207—POTATO RESEARCH AND PROMOTION PLAN
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1212, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1212—HONEY PACKERS AND IMPORTERS RESEARCH, PROMOTION, CONSUMER EDUCATION AND INDUSTRY INFORMATION ORDER
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1250, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1250—EGG RESEARCH AND PROMOTION
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 48—REGULATIONS OF THE SECRETARY OF AGRICULTURE FOR THE ENFORCEMENT OF THE PRODUCE AGENCY ACT
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1206, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1206—MANGO PROMOTION, RESEARCH, AND INFORMATION
 
 
 

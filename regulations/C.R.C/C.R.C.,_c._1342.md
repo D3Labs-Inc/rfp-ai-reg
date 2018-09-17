@@ -23,14 +23,19 @@ The exclusion, by the Public Service Commission, from the operation of the  Publ
 
 # Overlapping US Regulations
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 5801, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 5801—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE NUCLEAR REGULATORY COMMISSION
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 5101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 5101—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE COMMODITY FUTURES TRADING COMMISSION
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 8401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 8401—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE FEDERAL MINE SAFETY AND HEALTH REVIEW COMMISSION
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 64, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 64—DESIGNATION OF OFFICERS AND EMPLOYEES OF THE UNITED STATES FOR COVERAGE UNDER SECTION 1114 OF TITLE 18 OF THE U.S. CODE
 
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1205—NOTICES IN RE: RAILWAY LABOR ACT
 
 
 

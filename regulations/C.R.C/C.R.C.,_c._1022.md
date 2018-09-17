@@ -24,14 +24,19 @@ Where any amount payable by a contributor under these Regulations has become due
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 340, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 340—RECOVERY OF BENEFITS
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 19, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 19—BENEFITS FOR SPOUSES AND FORMER SPOUSES OF PARTICIPANTS IN THE FOREIGN SERVICE RETIREMENT AND DISABILITY SYSTEM
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 350, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 350—GARNISHMENT OF BENEFITS PAID UNDER THE RAILROAD RETIREMENT ACT, THE RAILROAD UNEMPLOYMENT INSURANCE ACT, AND UNDER ANY OTHER ACT ADMINISTERED BY THE BOARD
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 243, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 243—TRANSFER, ASSIGNMENT, OR WAIVER OF PAYMENTS
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 295, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 295—PAYMENTS PURSUANT TO COURT DECREE OR COURT-APPROVED PROPERTY SETTLEMENT
 
 
 

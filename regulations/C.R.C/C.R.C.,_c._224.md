@@ -25,14 +25,19 @@ For the purpose of accepting a sample of wheat as a fair sample pursuant to para
 
 # Overlapping US Regulations
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 6, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 6—“TIED-HOUSE”
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 46, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 46—REGULATIONS (OTHER THAN RULES OF PRACTICE) UNDER THE PERISHABLE AGRICULTURAL COMMODITIES ACT, 1930
 
 File Name: CFR-2018-title14-vol4, Reg (Part) Id: Pt. 200, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol4/xml/CFR-2018-title14-vol4.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 200—DEFINITIONS AND INSTRUCTIONS
 
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 17, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1.xml
+,Title's Name: Agriculture, Part's Name: PART 17—SALES OF AGRICULTURAL COMMODITIES MADE AVAILABLE UNDER TITLE I OF THE AGRICULTURAL TRADE DEVELOPMENT AND ASSISTANCE ACT OF 1954, AS AMENDED
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 48—REGULATIONS OF THE SECRETARY OF AGRICULTURE FOR THE ENFORCEMENT OF THE PRODUCE AGENCY ACT
 
 
 

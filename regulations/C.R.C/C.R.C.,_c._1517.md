@@ -23,14 +23,19 @@ The application shall set forth the location of each intake well; the location o
 
 # Overlapping US Regulations
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
+,Title's Name: Mineral Resources, Part's Name: PART 75—MANDATORY SAFETY STANDARDS—UNDERGROUND COAL MINES
 
 File Name: CFR-2018-title24-vol5, Reg (Part) Id: Pt. 3285, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol5/xml/CFR-2018-title24-vol5.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 3285—MODEL MANUFACTURED HOME INSTALLATION STANDARDS
 
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
+,Title's Name: Mineral Resources, Part's Name: PART 57—SAFETY AND HEALTH STANDARDS—UNDERGROUND METAL AND NONMETAL MINES
 
 File Name: CFR-2018-title24-vol5, Reg (Part) Id: Pt. 3280, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol5/xml/CFR-2018-title24-vol5.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 3280—MANUFACTURED HOME CONSTRUCTION AND SAFETY STANDARDS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 86, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 86—ANNEX III: TECHNICAL DETAILS OF SOUND SIGNAL APPLIANCES
 
 
 

@@ -25,14 +25,19 @@ This Order may be cited as the  Tariff of Fees of Shipping Masters .
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3.xml
+,Title's Name: Agriculture, Part's Name: PART 75—REGULATIONS FOR INSPECTION AND CERTIFICATION OF QUALITY OF AGRICULTURAL AND VEGETABLE SEEDS
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 27—COTTON CLASSIFICATION UNDER COTTON FUTURES LEGISLATION
 
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 868, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
+,Title's Name: Agriculture, Part's Name: PART 868—GENERAL REGULATIONS AND STANDARDS FOR CERTAIN AGRICULTURAL COMMODITIES
 
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 61, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3.xml
+,Title's Name: Agriculture, Part's Name: PART 61—COTTONSEED SOLD OR OFFERED FOR SALE FOR CRUSHING PURPOSES (INSPECTION, SAMPLING AND CERTIFICATION)
 
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 735, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
+,Title's Name: Agriculture, Part's Name: PART 735—REGULATIONS FOR THE UNITED STATES WAREHOUSE ACT
 
 
 

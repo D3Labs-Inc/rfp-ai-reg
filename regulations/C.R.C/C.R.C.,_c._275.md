@@ -24,14 +24,19 @@ A producer may apply to the Commission for a farm unit registration number at th
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 245, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 245—REGULATION BLACKOUT TRADING RESTRICTION
 
 File Name: CFR-2018-title17-vol1, Reg (Part) Id: Pt. 32, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol1/xml/CFR-2018-title17-vol1.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 32—REGULATION OF COMMODITY OPTION TRANSACTIONS
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 275, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 275—RULES AND REGULATIONS, INVESTMENT ADVISERS ACT OF 1940
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 0—TRANSFERRED OR DELEGATED AUTHORITY
 
 File Name: CFR-2018-title17-vol1, Reg (Part) Id: Pt. 35, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol1/xml/CFR-2018-title17-vol1.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 35—SWAPS IN AN AGRICULTURAL COMMODITY (AGRICULTURAL SWAPS)
 
 
 

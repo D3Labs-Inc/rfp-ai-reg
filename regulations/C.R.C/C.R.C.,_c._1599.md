@@ -22,14 +22,19 @@ Notwithstanding this Order, where it appears in any particular case that injusti
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 795, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
+,Title's Name: Agriculture, Part's Name: PART 795—PAYMENT LIMITATION
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 49—PAYMENT OF AMOUNTS DUE MENTALLY INCOMPETENT COAST GUARD PERSONNEL
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 104, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 104—SEPTEMBER 11TH VICTIM COMPENSATION FUND
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 111, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 111—ANNUITY AND OTHER PER CAPITA PAYMENTS
 
 File Name: CFR-2018-title26-vol19, Reg (Part) Id: Pt. 143, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol19/xml/CFR-2018-title26-vol19.xml
+,Title's Name: Internal Revenue, Part's Name: PART 143—TEMPORARY EXCISE TAX REGULATIONS UNDER THE TAX REFORM ACT OF 1969
 
 
 

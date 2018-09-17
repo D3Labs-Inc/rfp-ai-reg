@@ -23,14 +23,19 @@ The Commodity Board shall deduct from the moneys payable to a producer all levie
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 217—MANAGEMENT OF TRIBAL ASSETS OF UTE INDIAN TRIBE, UINTAH AND OURAY RESERVATION, UTAH, BY THE TRIBE AND THE UTE DISTRIBUTION CORP.
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 123—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE VIRUS-SERUM-TOXIN ACT
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1777, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1777—PROMPT CORRECTIVE ACTION
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1470, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1470—GENERAL
 
 File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 801, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 801—ESTABLISHMENT AND OPERATION OF THE BOARD
 
 
 

@@ -26,14 +26,19 @@ The Commodity Board is authorized to regulate the marketing of maple sugar and s
 
 # Overlapping US Regulations
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 746, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 746—REVIEW AND APPROVAL OF MINING PLANS
 
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 219, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 219—PLANNING
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1420—REQUIREMENTS FOR ALL TERRAIN VEHICLES
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 756, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 756—INDIAN TRIBE ABANDONED MINE LAND RECLAMATION PROGRAMS
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 43, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 43—STANDARDS FOR SAMPLING PLANS
 
 
 

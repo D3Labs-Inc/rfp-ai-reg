@@ -21,14 +21,19 @@ The authority granted to the Minister under section 3 is subject to the followin
 
 # Overlapping US Regulations
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 169, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 169—COMMERCIAL ACTIVITIES PROGRAM
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 228, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 228—RULES FOR PROCUREMENT OF COMMODITIES AND SERVICES FINANCED BY USAID
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1484, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1484—PROGRAMS TO HELP DEVELOP FOREIGN MARKETS FOR AGRICULTURAL COMMODITIES
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 142, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 142—ALASKA RESUPPLY OPERATION
 
 File Name: CFR-2018-title2-vol1, Reg (Part) Id: Pt. 1800, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title2-vol1/xml/CFR-2018-title2-vol1.xml
+,Title's Name: Grants and Agreements, Part's Name: PART 1800—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS
 
 
 

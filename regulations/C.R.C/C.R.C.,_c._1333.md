@@ -23,14 +23,19 @@ Application of Act. Notwithstanding Part I of the  Corrections and Conditional R
 
 # Overlapping US Regulations
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1912, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
+,Title's Name: Labor, Part's Name: PART 1912—ADVISORY COMMITTEES ON STANDARDS
 
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 77, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 77—PROGRAM TO ENCOURAGE PUBLIC AND COMMUNITY SERVICE
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 88, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 88—RECOGNITION OF ATTORNEYS AND AGENTS TO REPRESENT CLAIMANTS
 
 File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 900, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 900—STATEMENT OF ORGANIZATION
 
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 112, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 112—INDEBTEDNESS OF MILITARY PERSONNEL
 
 
 

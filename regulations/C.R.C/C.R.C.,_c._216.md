@@ -21,14 +21,19 @@ Every producer shall pay to the Commodity Board, in addition to the licence fees
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 175, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 175—PETITIONS BY DOMESTIC INTERESTED PARTIES
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 147, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 147—TRADE FAIRS
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1019, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1019—EXPORT OF NONCOMPLYING, MISBRANDED, OR BANNED PRODUCTS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 217, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 217—MANAGEMENT OF TRIBAL ASSETS OF UTE INDIAN TRIBE, UINTAH AND OURAY RESERVATION, UTAH, BY THE TRIBE AND THE UTE DISTRIBUTION CORP.
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 49—ANTITRUST CIVIL PROCESS ACT
 
 
 

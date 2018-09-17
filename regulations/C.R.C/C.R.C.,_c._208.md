@@ -27,14 +27,19 @@ A licence may be issued to a producer by the Commodity Board to sell, transport 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 238, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 238—GUIDES AGAINST BAIT ADVERTISING
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 18, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 18—GUIDES FOR THE NURSERY INDUSTRY
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 105, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 105—SUSPENSION, REVOCATION, OR TERMINATION OF BIOLOGICAL LICENSES OR PERMITS
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 300—RULES AND REGULATIONS UNDER THE WOOL PRODUCTS LABELING ACT OF 1939
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1401—SELF PRESSURIZED CONSUMER PRODUCTS CONTAINING CHLOROFLUOROCARBONS: REQUIREMENTS TO PROVIDE THE COMMISSION WITH PERFORMANCE AND TECHNICAL DATA; REQUIREMENTS TO NOTIFY CONSUMERS AT POINT OF PURCHASE OF PERFORMANCE AND TECHNICAL DATA
 
 
 

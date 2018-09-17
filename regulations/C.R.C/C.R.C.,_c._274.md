@@ -27,14 +27,19 @@ These Regulations do not apply to a producer who holds a dispensation certificat
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 317, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 317—PROHIBITION OF ENERGY MARKET MANIPULATION RULE
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 275, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 275—RULES AND REGULATIONS, INVESTMENT ADVISERS ACT OF 1940
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1608, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1608—GENERAL RULES AND REGULATIONS UNDER THE FLAMMABLE FABRICS ACT
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 49—ANTITRUST CIVIL PROCESS ACT
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 48, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 48—REGULATIONS OF THE SECRETARY OF AGRICULTURE FOR THE ENFORCEMENT OF THE PRODUCE AGENCY ACT
 
 
 

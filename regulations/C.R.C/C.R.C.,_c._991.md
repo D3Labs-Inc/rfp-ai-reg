@@ -27,14 +27,19 @@ For the purposes of these Regulations, hours of work may be scheduled and actual
 
 # Overlapping US Regulations
 File Name: CFR-2018-title4-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title4-vol1/xml/CFR-2018-title4-vol1.xml
+,Title's Name: Accounts, Part's Name: PART 2—PURPOSE AND GENERAL PROVISION
 
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 551, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 551—PAY ADMINISTRATION UNDER THE FAIR LABOR STANDARDS ACT
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 301, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 301—EMPLOYERS UNDER THE ACT
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 64, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 64—DESIGNATION OF OFFICERS AND EMPLOYEES OF THE UNITED STATES FOR COVERAGE UNDER SECTION 1114 OF TITLE 18 OF THE U.S. CODE
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 5201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 5201—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE DEPARTMENT OF LABOR
 
 
 

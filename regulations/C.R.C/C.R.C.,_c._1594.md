@@ -23,14 +23,19 @@ The notice referred to in subsection (1) shall be in writing over the signature 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 213—LEASING OF RESTRICTED LANDS OF MEMBERS OF FIVE CIVILIZED TRIBES, OKLAHOMA, FOR MINING
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 227, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 227—LEASING OF CERTAIN LANDS IN WIND RIVER INDIAN RESERVATION, WYOMING, FOR OIL AND GAS MINING
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 215, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 215—LEAD AND ZINC MINING OPERATIONS AND LEASES, QUAPAW AGENCY
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 214, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 214—LEASING OF OSAGE RESERVATION LANDS, OKLAHOMA, FOR MINING, EXCEPT OIL AND GAS
 
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 27—NONJUDICIAL FORECLOSURE OF MULTIFAMILY AND SINGLE FAMILY MORTGAGES
 
 
 

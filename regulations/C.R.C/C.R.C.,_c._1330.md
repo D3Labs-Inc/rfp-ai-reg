@@ -24,14 +24,19 @@ The rental or other consideration payable under any lease or licence entered int
 
 # Overlapping US Regulations
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 1310—ADMINISTRATIVE COST RECOVERY
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 904, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 904—GENERAL REGULATIONS FOR THE CHARGES FOR THE SALE OF POWER FROM THE BOULDER CANYON PROJECT
 
 File Name: CFR-2018-title32-vol4, Reg (Part) Id: Pt. 643, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol4/xml/CFR-2018-title32-vol4.xml
+,Title's Name: National Defense, Part's Name: PART 643—REAL ESTATE
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 137, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 137—REIMBURSEMENT OF CONSTRUCTION COSTS, SAN CARLOS INDIAN IRRIGATION PROJECT, ARIZONA
 
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 213—ADMINISTRATION OF LANDS UNDER TITLE III OF THE BANKHEAD-JONES FARM TENANT ACT BY THE FOREST SERVICE
 
 
 

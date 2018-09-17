@@ -22,14 +22,19 @@ Notwithstanding section 38 of the  Enterprise Development Regulations , where a 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1250, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1250—FLOOD INSURANCE
 
 File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1703, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
+,Title's Name: Agriculture, Part's Name: PART 1703—RURAL DEVELOPMENT
 
 File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1720, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
+,Title's Name: Agriculture, Part's Name: PART 1720—GUARANTEES FOR BONDS AND NOTES ISSUED FOR ELECTRIFICATION OR TELEPHONE PURPOSES
 
 File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1015, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1015—MORTGAGE ASSISTANCE RELIEF SERVICES (REGULATION O)
 
 File Name: CFR-2018-title24-vol4, Reg (Part) Id: Pt. 1005, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol4/xml/CFR-2018-title24-vol4.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 1005—LOAN GUARANTEES FOR INDIAN HOUSING
 
 
 

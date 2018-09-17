@@ -27,14 +27,19 @@ This Order does not apply to a producer who holds a dispensation certificate iss
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 245, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 245—REGULATION BLACKOUT TRADING RESTRICTION
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 317, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 317—PROHIBITION OF ENERGY MARKET MANIPULATION RULE
 
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 166, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 166—CUSTOMER PROTECTION RULES
 
 File Name: CFR-2018-title17-vol3, Reg (Part) Id: Pt. 200, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol3/xml/CFR-2018-title17-vol3.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 200—ORGANIZATION; CONDUCT AND ETHICS; AND INFORMATION AND REQUESTS
 
 File Name: CFR-2018-title17-vol3, Reg (Part) Id: Pt. 205, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol3/xml/CFR-2018-title17-vol3.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 205—STANDARDS OF PROFESSIONAL CONDUCT FOR ATTORNEYS APPEARING AND PRACTICING BEFORE THE COMMISSION IN THE REPRESENTATION OF AN ISSUER
 
 
 

@@ -23,14 +23,19 @@ Subject to these Regulations, where a pensioner is awarded a pension under the  
 
 # Overlapping US Regulations
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 1659, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6.xml
+,Title's Name: National Defense, Part's Name: PART 1659—EXTRAORDINARY EXPENSES OF REGISTRANTS
 
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 211, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 211—VETERAN PREFERENCE
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 350, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 350—GARNISHMENT OF BENEFITS PAID UNDER THE RAILROAD RETIREMENT ACT, THE RAILROAD UNEMPLOYMENT INSURANCE ACT, AND UNDER ANY OTHER ACT ADMINISTERED BY THE BOARD
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 340, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 340—RECOVERY OF BENEFITS
 
 File Name: CFR-2018-title34-vol2, Reg (Part) Id: Pt. 304, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title34-vol2/xml/CFR-2018-title34-vol2.xml
+,Title's Name: Education, Part's Name: PART 304—SERVICE OBLIGATIONS UNDER SPECIAL EDUCATION—PERSONNEL DEVELOPMENT TO IMPROVE SERVICES AND RESULTS FOR CHILDREN WITH DISABILITIES
 
 
 

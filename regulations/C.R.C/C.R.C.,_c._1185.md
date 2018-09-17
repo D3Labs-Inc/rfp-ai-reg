@@ -24,14 +24,19 @@ Subject to the terms and conditions of these Regulations, telephone, telegraph a
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 401, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 401—SEAWAY REGULATIONS AND RULES
 
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 432, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 432—POWER OUTPUT CLAIMS FOR AMPLIFIERS UTILIZED IN HOME ENTERTAINMENT PRODUCTS
 
 File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 770, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 770—INTERPRETATIONS
 
 File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1317, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9.xml
+,Title's Name: Food and Drugs, Part's Name: PART 1317—DISPOSAL
 
 File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 109-27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
+,Title's Name: Public Contracts and Property Management, Part's Name: PART 109-27—INVENTORY MANAGEMENT
 
 
 

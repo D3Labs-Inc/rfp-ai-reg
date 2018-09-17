@@ -15,14 +15,19 @@ http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1596/FullText.html
 
 # Overlapping US Regulations
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 301, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 301—NATIONALS AND CITIZENS OF THE UNITED STATES AT BIRTH
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1—INSIGNIA OF RANK
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 101—PRESUMPTION OF LAWFUL ADMISSION
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 1101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 1101—PRESUMPTION OF LAWFUL ADMISSION
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 329, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 329—SPECIAL CLASSES OF PERSONS WHO MAY BE NATURALIZED: PERSONS WITH ACTIVE DUTY OR CERTAIN READY RESERVE SERVICE IN THE UNITED STATES ARMED FORCES DURING SPECIFIED PERIODS OF HOSTILITIES
 
 
 

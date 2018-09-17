@@ -23,14 +23,19 @@ The Minister of National Defence is authorized to transfer, gratuitously, to NAT
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 18, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 18—TRIBAL PROBATE CODES
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 602, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 602—JURISDICTION OF THE INDEPENDENT COUNSEL: IN RE FRANKLYN C. NOFZIGER
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1252, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1252—PORTFOLIO HOLDINGS
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1312, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 1312—PROTECTION OF ARCHAEOLOGICAL RESOURCES: UNIFORM REGULATIONS
 
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 296, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 296—PROTECTION OF ARCHAEOLOGICAL RESOURCES: UNIFORM REGULATIONS
 
 
 

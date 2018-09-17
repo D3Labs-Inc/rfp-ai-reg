@@ -25,14 +25,19 @@ Where the owner of any working area, structure, machinery or equipment, any pers
 
 # Overlapping US Regulations
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 77, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
+,Title's Name: Mineral Resources, Part's Name: PART 77—MANDATORY SAFETY STANDARDS, SURFACE COAL MINES AND SURFACE WORK AREAS OF UNDERGROUND COAL MINES
 
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 56, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
+,Title's Name: Mineral Resources, Part's Name: PART 56—SAFETY AND HEALTH STANDARDS—SURFACE METAL AND NONMETAL MINES
 
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 57, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
+,Title's Name: Mineral Resources, Part's Name: PART 57—SAFETY AND HEALTH STANDARDS—UNDERGROUND METAL AND NONMETAL MINES
 
 File Name: CFR-2018-title30-vol1, Reg (Part) Id: Pt. 75, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol1/xml/CFR-2018-title30-vol1.xml
+,Title's Name: Mineral Resources, Part's Name: PART 75—MANDATORY SAFETY STANDARDS—UNDERGROUND COAL MINES
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 118, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 118—BRIDGE LIGHTING AND OTHER SIGNALS
 
 
 

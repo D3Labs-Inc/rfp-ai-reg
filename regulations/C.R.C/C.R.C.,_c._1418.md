@@ -24,14 +24,19 @@ The sleeping spaces appropriated for officers and crew shall not be certified to
 
 # Overlapping US Regulations
 File Name: CFR-2018-title29-vol7, Reg (Part) Id: Pt. 1919, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol7/xml/CFR-2018-title29-vol7.xml
+,Title's Name: Labor, Part's Name: PART 1919—GEAR CERTIFICATION
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 265—REGULATIONS GOVERNING TRAFFIC AND CONDUCT ON THE GROUNDS OF THE NATIONAL INSTITUTE OF STANDARDS & TECHNOLOGY, GAITHERSBURG, MARYLAND, AND BOULDER AND FORT COLLINS, COLORADO
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 861, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 861—CONTROL OF TRAFFIC AT NEVADA TEST SITE
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 3—STANDARDS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 62, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 62—UNITED STATES AIDS TO NAVIGATION SYSTEM
 
 
 

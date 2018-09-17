@@ -28,14 +28,19 @@ No person shall use or permit to be used any label or tag issued by the Commodit
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 201—REGULATIONS UNDER THE PACKERS AND STOCKYARDS ACT
 
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 1903, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6.xml
+,Title's Name: National Defense, Part's Name: PART 1903—CONDUCT ON AGENCY INSTALLATIONS
 
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6.xml
+,Title's Name: National Defense, Part's Name: PART 2001—CLASSIFIED NATIONAL SECURITY INFORMATION
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 203, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 203—STATEMENTS OF GENERAL POLICY UNDER THE PACKERS AND STOCKYARDS ACT
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 501, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 501—SCOPE OF RULES
 
 
 

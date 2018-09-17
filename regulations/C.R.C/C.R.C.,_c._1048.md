@@ -25,14 +25,19 @@ Compliance with these Regulations with respect to the administration of a servic
 
 # Overlapping US Regulations
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 54, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 54—ALLOTMENTS FOR CHILD AND SPOUSAL SUPPORT
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 363, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 363—GARNISHMENT OF REMUNERATION OF BOARD PERSONNEL
 
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 17, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 17—ADMINISTRATIVE CLAIMS
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 350, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 350—GARNISHMENT OF BENEFITS PAID UNDER THE RAILROAD RETIREMENT ACT, THE RAILROAD UNEMPLOYMENT INSURANCE ACT, AND UNDER ANY OTHER ACT ADMINISTERED BY THE BOARD
 
 File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 584, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3.xml
+,Title's Name: National Defense, Part's Name: PART 584—FAMILY SUPPORT, CHILD CUSTODY, AND PATERNITY
 
 
 

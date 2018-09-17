@@ -23,14 +23,19 @@ This subsection is not reproduced in the R.S.C., 1970, see S.C., 1959, c.
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4.xml
+,Title's Name: Banks and Banking, Part's Name: PART 265—RULES REGARDING DELEGATION OF AUTHORITY
 
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1440, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1440—ARBITRATION OF PESTICIDE DATA DISPUTES
 
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 281, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4.xml
+,Title's Name: Banks and Banking, Part's Name: PART 281—STATEMENTS OF POLICY
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 123, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 123—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE VIRUS-SERUM-TOXIN ACT
 
 File Name: CFR-2018-title12-vol6, Reg (Part) Id: Pt. 500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol6/xml/CFR-2018-title12-vol6.xml
+,Title's Name: Banks and Banking, Part's Name: PART 500—AGENCY ORGANIZATION AND FUNCTIONS
 
 
 

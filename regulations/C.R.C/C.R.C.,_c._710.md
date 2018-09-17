@@ -25,14 +25,19 @@ The Director, on behalf of the Department, may loan an animal to an association 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 162, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
+,Title's Name: Banks and Banking, Part's Name: PART 162—ACCOUNTING AND DISCLOSURE STANDARDS
 
 File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 7, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
+,Title's Name: Banks and Banking, Part's Name: PART 7—ACTIVITIES AND OPERATIONS
 
 File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 22, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
+,Title's Name: Banks and Banking, Part's Name: PART 22—LOANS IN AREAS HAVING SPECIAL FLOOD HAZARDS
 
 File Name: CFR-2018-title12-vol2, Reg (Part) Id: Pt. 210, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol2/xml/CFR-2018-title12-vol2.xml
+,Title's Name: Banks and Banking, Part's Name: PART 210—COLLECTION OF CHECKS AND OTHER ITEMS BY FEDERAL RESERVE BANKS AND FUNDS TRANSFERS THROUGH FEDWIRE (REGULATION J)
 
 File Name: CFR-2018-title12-vol1, Reg (Part) Id: Pt. 14, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol1/xml/CFR-2018-title12-vol1.xml
+,Title's Name: Banks and Banking, Part's Name: PART 14—CONSUMER PROTECTION IN SALES OF INSURANCE
 
 
 

@@ -24,14 +24,19 @@ The requirement of section 7 and the prohibitions set out in paragraph 8(c) shal
 
 # Overlapping US Regulations
 File Name: CFR-2018-title21-vol1, Reg (Part) Id: Pt. 7, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol1/xml/CFR-2018-title21-vol1.xml
+,Title's Name: Food and Drugs, Part's Name: PART 7—ENFORCEMENT POLICY
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1115, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1115—SUBSTANTIAL PRODUCT HAZARD REPORTS
 
 File Name: CFR-2018-title21-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol1/xml/CFR-2018-title21-vol1.xml
+,Title's Name: Food and Drugs, Part's Name: PART 3—PRODUCT JURISDICTION
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 118, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 118—DETENTION; SEIZURE AND CONDEMNATION
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1116, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1116—REPORTS SUBMITTED PURSUANT TO SECTION 37 OF THE CONSUMER PRODUCT SAFETY ACT
 
 
 

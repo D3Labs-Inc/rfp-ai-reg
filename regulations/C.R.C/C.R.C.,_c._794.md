@@ -15,14 +15,19 @@ http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._794/FullText.html
 
 # Overlapping US Regulations
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 27—NONJUDICIAL FORECLOSURE OF MULTIFAMILY AND SINGLE FAMILY MORTGAGES
 
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 81, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 81—THE SECRETARY OF HUD'S REGULATION OF THE FEDERAL NATIONAL MORTGAGE ASSOCIATION (FANNIE MAE) AND THE FEDERAL HOME LOAN MORTGAGE CORPORATION (FREDDIE MAC)
 
 File Name: CFR-2018-title26-vol16, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol16/xml/CFR-2018-title26-vol16.xml
+,Title's Name: Internal Revenue, Part's Name: PART 2—MARITIME CONSTRUCTION RESERVE FUND
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 213—LEASING OF RESTRICTED LANDS OF MEMBERS OF FIVE CIVILIZED TRIBES, OKLAHOMA, FOR MINING
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 625, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 625—PRICE COMPETITIVE SALE OF STRATEGIC PETROLEUM RESERVE PETROLEUM
 
 
 

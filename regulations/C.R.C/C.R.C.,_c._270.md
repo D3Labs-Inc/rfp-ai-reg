@@ -27,14 +27,19 @@ Every producer shall, in respect of every period, pay to the Commodity Board, no
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol4, Reg (Part) Id: Pt. 726, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol4/xml/CFR-2018-title20-vol4.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 726—BLACK LUNG BENEFITS; REQUIREMENTS FOR COAL MINE OPERATOR'S INSURANCE
 
 File Name: CFR-2018-title7-vol1, Reg (Part) Id: Pt. 5, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol1/xml/CFR-2018-title7-vol1.xml
+,Title's Name: Agriculture, Part's Name: PART 5—DETERMINATION OF PARITY PRICES
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1210, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1210—WATERMELON RESEARCH AND PROMOTION PLAN
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1207—POTATO RESEARCH AND PROMOTION PLAN
 
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 351, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
+,Title's Name: Customs Duties, Part's Name: PART 351—ANTIDUMPING AND COUNTERVAILING DUTIES
 
 
 

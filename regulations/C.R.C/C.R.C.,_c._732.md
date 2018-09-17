@@ -26,14 +26,19 @@ A fee of $0.75 shall be paid for each search required to obtain a document for p
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 206, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
+,Title's Name: Customs Duties, Part's Name: PART 206—INVESTIGATIONS RELATING TO GLOBAL AND BILATERAL SAFEGUARD ACTIONS, MARKET DISRUPTION, TRADE DIVERSION, AND REVIEW OF RELIEF ACTIONS
 
 File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1080, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1080—RULES RELATING TO INVESTIGATIONS
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2017, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 2017—PETITION PROCESS TO REVIEW ELIGIBILITY OF COUNTRIES UNDER THE AFRICAN GROWTH AND OPPORTUNITY ACT (AGOA)
 
 File Name: CFR-2018-title15-vol2, Reg (Part) Id: Pt. 705, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol2/xml/CFR-2018-title15-vol2.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 705—EFFECT OF IMPORTED ARTICLES ON THE NATIONAL SECURITY
 
 File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1316, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9.xml
+,Title's Name: Food and Drugs, Part's Name: PART 1316—ADMINISTRATIVE FUNCTIONS, PRACTICES, AND PROCEDURES
 
 
 

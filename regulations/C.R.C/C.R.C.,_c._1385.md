@@ -25,14 +25,19 @@ Where a transportation plan and an urban development plan are prepared in respec
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1751, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
+,Title's Name: Agriculture, Part's Name: PART 1751—TELECOMMUNICATIONS SYSTEM PLANNING AND DESIGN CRITERIA, AND PROCEDURES
 
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 219, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 219—PLANNING
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 756, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 756—INDIAN TRIBE ABANDONED MINE LAND RECLAMATION PROGRAMS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 290, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 290—TRIBAL REVENUE ALLOCATION PLANS
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 746, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 746—REVIEW AND APPROVAL OF MINING PLANS
 
 
 

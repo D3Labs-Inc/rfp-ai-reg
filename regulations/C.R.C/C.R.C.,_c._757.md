@@ -27,14 +27,19 @@ An application for remission shall be made on a form acceptable to the Minister 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title21-vol8, Reg (Part) Id: Pt. 1230, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol8/xml/CFR-2018-title21-vol8.xml
+,Title's Name: Food and Drugs, Part's Name: PART 1230—REGULATIONS UNDER THE FEDERAL CAUSTIC POISON ACT
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1503, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1503—OFFICIAL SEAL
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 44, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 44—EXPORTATION OF TOBACCO PRODUCTS AND CIGARETTE PAPERS AND TUBES, WITHOUT PAYMENT OF TAX, OR WITH DRAWBACK OF TAX
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 162, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 162—INSPECTION, SEARCH, AND SEIZURE
 
 File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1076, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1076—CLAIMS AGAINST THE UNITED STATES
 
 
 

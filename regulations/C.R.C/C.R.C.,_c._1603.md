@@ -23,14 +23,19 @@ An application for a licence to divert, use or store water for power purposes ma
 
 # Overlapping US Regulations
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 42, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 42—LONG-TERM FIRM TRANSMISSION RIGHTS IN ORGANIZED ELECTRICITY MARKETS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 167, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 167—NAVAJO GRAZING REGULATIONS
 
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 500—NATIONAL ARBORETUM
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 169, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 169—RIGHTS-OF-WAY OVER INDIAN LAND
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 161, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 161—NAVAJO PARTITIONED LANDS GRAZING PERMITS
 
 
 

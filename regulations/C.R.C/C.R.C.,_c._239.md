@@ -26,14 +26,19 @@ Where, at the conclusion of the hearing referred to in subsection (1), the Commo
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 791, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 791—RULES OF NCUA BOARD PROCEDURE; PROMULGATION OF NCUA RULES AND REGULATIONS; PUBLIC OBSERVATION OF NCUA BOARD MEETINGS
 
 File Name: CFR-2018-title6-vol1, Reg (Part) Id: Pt. 1003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title6-vol1/xml/CFR-2018-title6-vol1.xml
+,Title's Name: Domestic Security, Part's Name: PART 1003—IMPLEMENTATION OF THE GOVERNMENT IN THE SUNSHINE ACT
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 1632, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 1632—RULES REGARDING PUBLIC OBSERVATION OF MEETINGS
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1018, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1018—ADVISORY COMMITTEE MANAGEMENT
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 507, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 507—RULES FOR IMPLEMENTING OPEN MEETINGS UNDER THE SUNSHINE ACT FOR THE BROADCASTING BOARD OF GOVERNORS
 
 
 

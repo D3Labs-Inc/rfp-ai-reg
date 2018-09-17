@@ -28,14 +28,19 @@ The rate of interest for any loan shall be determined as of the day the applicat
 
 # Overlapping US Regulations
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1300—AVIATION DISASTER RELIEF—AIR CARRIER GUARANTEE LOAN PROGRAM
 
 File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1717, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
+,Title's Name: Agriculture, Part's Name: PART 1717—POST-LOAN POLICIES AND PROCEDURES COMMON TO INSURED AND GUARANTEED ELECTRIC LOANS
 
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 120, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1.xml
+,Title's Name: Business Credit and Assistance, Part's Name: PART 120—BUSINESS LOANS
 
 File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1744, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
+,Title's Name: Agriculture, Part's Name: PART 1744—POST-LOAN POLICIES AND PROCEDURES COMMON TO GUARANTEED AND INSURED TELEPHONE LOANS
 
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1786, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12.xml
+,Title's Name: Agriculture, Part's Name: PART 1786—PREPAYMENT OF RUS GUARANTEED AND INSURED LOANS TO ELECTRIC AND TELEPHONE BORROWERS
 
 
 

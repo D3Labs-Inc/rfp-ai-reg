@@ -25,14 +25,19 @@ Every shipper shall, on the day of settlement of any claim, furnish the Commodit
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 118, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 118—DETENTION; SEIZURE AND CONDEMNATION
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1019, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1019—EXPORT OF NONCOMPLYING, MISBRANDED, OR BANNED PRODUCTS
 
 File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1314, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9.xml
+,Title's Name: Food and Drugs, Part's Name: PART 1314—RETAIL SALE OF SCHEDULED LISTED CHEMICAL PRODUCTS
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1115, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1115—SUBSTANTIAL PRODUCT HAZARD REPORTS
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 320, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 320—RECORDS, REGISTRATION, AND REPORTS
 
 
 

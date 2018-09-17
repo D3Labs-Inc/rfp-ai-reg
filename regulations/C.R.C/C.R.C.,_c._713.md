@@ -23,14 +23,19 @@ The Minister of Indian Affairs and Northern Development is authorized to prescri
 
 # Overlapping US Regulations
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 12, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 12—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE HORSE PROTECTION ACT
 
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 661, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 661—PUBLIC INFORMATION AND RIGHT TO PRIVACY
 
 File Name: CFR-2018-title19-vol3, Reg (Part) Id: Pt. 204, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol3/xml/CFR-2018-title19-vol3.xml
+,Title's Name: Customs Duties, Part's Name: PART 204—INVESTIGATIONS OF EFFECTS OF IMPORTS ON AGRICULTURAL PROGRAMS
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 167, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 167—RULES OF PRACTICE GOVERNING PROCEEDINGS UNDER THE SWINE HEALTH PROTECTION ACT
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 204, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 204—ORGANIZATION AND FUNCTIONS
 
 
 

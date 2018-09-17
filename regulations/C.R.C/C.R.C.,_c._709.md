@@ -25,14 +25,19 @@ The loans referred to in section 2 are to be made through the Department of Supp
 
 # Overlapping US Regulations
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 103, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1.xml
+,Title's Name: Business Credit and Assistance, Part's Name: PART 103—STANDARDS FOR CONDUCTING BUSINESS WITH SBA
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 800, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 800—LOANS FOR BID OR PROPOSAL PREPARATION BY MINORITY BUSINESS ENTERPRISES SEEKING DOE CONTRACTS AND ASSISTANCE
 
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1789, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12.xml
+,Title's Name: Agriculture, Part's Name: PART 1789—USE OF CONSULTANTS FUNDED BY BORROWERS
 
 File Name: CFR-2018-title12-vol8, Reg (Part) Id: Pt. 1015, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol8/xml/CFR-2018-title12-vol8.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1015—MORTGAGE ASSISTANCE RELIEF SERVICES (REGULATION O)
 
 File Name: CFR-2018-title2-vol1, Reg (Part) Id: Pt. 2701, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title2-vol1/xml/CFR-2018-title2-vol1.xml
+,Title's Name: Grants and Agreements, Part's Name: PART 2701—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS
 
 
 

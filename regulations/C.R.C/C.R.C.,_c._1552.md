@@ -27,14 +27,19 @@ If an assignment is accompanied by a duplicate or a notarially certified copy th
 
 # Overlapping US Regulations
 File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1305, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9.xml
+,Title's Name: Food and Drugs, Part's Name: PART 1305—ORDERS FOR SCHEDULE I AND II CONTROLLED SUBSTANCES
 
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 97, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3.xml
+,Title's Name: Agriculture, Part's Name: PART 97—PLANT VARIETY AND PROTECTION
 
 File Name: CFR-2018-title21-vol9, Reg (Part) Id: Pt. 1309, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title21-vol9/xml/CFR-2018-title21-vol9.xml
+,Title's Name: Food and Drugs, Part's Name: PART 1309—REGISTRATION OF MANUFACTURERS, DISTRIBUTORS, IMPORTERS AND EXPORTERS OF LIST I CHEMICALS
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1003—OFFICE OF HEARINGS AND APPEALS PROCEDURAL REGULATIONS
 
 File Name: CFR-2018-title10-vol2, Reg (Part) Id: Pt. 81, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol2/xml/CFR-2018-title10-vol2.xml
+,Title's Name: Energy, Part's Name: PART 81—STANDARD SPECIFICATIONS FOR THE GRANTING OF PATENT LICENSES
 
 
 

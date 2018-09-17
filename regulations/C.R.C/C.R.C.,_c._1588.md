@@ -31,14 +31,19 @@ Saunders Property Rights and Estates Analyst Property Management Directorate SOR
 
 # Overlapping US Regulations
 File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 128-50, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
+,Title's Name: Public Contracts and Property Management, Part's Name: PART 128-50—SEIZED PERSONAL PROPERTY
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1306, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 1306—RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION POLICIES
 
 File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 128-18, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
+,Title's Name: Public Contracts and Property Management, Part's Name: PART 128-18—ACQUISITION OF REAL PROPERTY
 
 File Name: CFR-2018-title7-vol14, Reg (Part) Id: Pt. 1965, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol14/xml/CFR-2018-title7-vol14.xml
+,Title's Name: Agriculture, Part's Name: PART 1965—REAL PROPERTY
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 860, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 860—TRESPASSING ON DEPARTMENT OF ENERGY PROPERTY
 
 
 

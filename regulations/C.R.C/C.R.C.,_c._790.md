@@ -24,14 +24,19 @@ Remission of duties, including the tax imposed under Division III of Part IX of 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 147, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 147—TRADE FAIRS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 127, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 127—GENERAL ORDER, UNCLAIMED, AND ABANDONED MERCHANDISE
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 145—MAIL IMPORTATIONS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 148, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 148—PERSONAL DECLARATIONS AND EXEMPTIONS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 152, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 152—CLASSIFICATION AND APPRAISEMENT OF MERCHANDISE
 
 
 

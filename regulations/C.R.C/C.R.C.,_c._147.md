@@ -26,14 +26,19 @@ There shall be a pooling committee that shall deal with matters relating to both
 
 # Overlapping US Regulations
 File Name: CFR-2018-title1-vol1, Reg (Part) Id: Pt. 51, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title1-vol1/xml/CFR-2018-title1-vol1.xml
+,Title's Name: General Provisions, Part's Name: PART 51—INCORPORATION BY REFERENCE
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 8, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 8—EXCLUSIVE OUTLETS
 
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 261b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4.xml
+,Title's Name: Banks and Banking, Part's Name: PART 261b—RULES REGARDING PUBLIC OBSERVATION OF MEETINGS
 
 File Name: CFR-2018-title41-vol3, Reg (Part) Id: Pt. 102-3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol3/xml/CFR-2018-title41-vol3.xml
+,Title's Name: Public Contracts and Property Management, Part's Name: PART 102-3—FEDERAL ADVISORY COMMITTEE MANAGEMENT
 
 File Name: CFR-2018-title27-vol1, Reg (Part) Id: Pt. 10, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol1/xml/CFR-2018-title27-vol1.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 10—COMMERCIAL BRIBERY
 
 
 

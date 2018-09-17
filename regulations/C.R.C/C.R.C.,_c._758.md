@@ -23,14 +23,19 @@ Remission is hereby granted of the customs duties paid or payable under the  Cus
 
 # Overlapping US Regulations
 File Name: CFR-2018-title16-vol1, Reg (Part) Id: Pt. 260, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol1/xml/CFR-2018-title16-vol1.xml
+,Title's Name: Commercial Practices, Part's Name: PART 260—GUIDES FOR THE USE OF ENVIRONMENTAL MARKETING CLAIMS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 11, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 11—PACKING AND STAMPING; MARKING
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 329, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 329—DETENTION; SEIZURE AND CONDEMNATION; CRIMINAL OFFENSES
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1019, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1019—EXPORT OF NONCOMPLYING, MISBRANDED, OR BANNED PRODUCTS
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 782, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 782—CLAIMS FOR PATENT AND COPYRIGHT INFRINGEMENT
 
 
 

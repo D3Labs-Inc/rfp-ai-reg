@@ -24,14 +24,19 @@ For the purposes of the  Fitness and Amateur Sport Act , amateur sport  means an
 
 # Overlapping US Regulations
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 2001—CREATION, ORGANIZATION, AND FUNCTIONS
 
 File Name: CFR-2018-title13-vol1, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title13-vol1/xml/CFR-2018-title13-vol1.xml
+,Title's Name: Business Credit and Assistance, Part's Name: PART 300—GENERAL INFORMATION
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 101—RELEASE OF DECENNIAL CENSUS POPULATION INFORMATION
 
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1201—STATEMENT OF ORGANIZATION AND GENERAL INFORMATION
 
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 153, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 153—CRIMINAL JURISDICTION OVER CIVILIANS EMPLOYED BY OR ACCOMPANYING THE ARMED FORCES OUTSIDE THE UNITED STATES, CERTAIN SERVICE MEMBERS, AND FORMER SERVICE MEMBERS
 
 
 

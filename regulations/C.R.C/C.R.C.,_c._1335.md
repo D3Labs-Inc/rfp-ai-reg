@@ -22,14 +22,19 @@ Application of the Act. Notwithstanding paragraph 53(a) of the  National Defence
 
 # Overlapping US Regulations
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 1, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 1—PERFORMANCE OF FUNCTIONS
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 64, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 64—DESIGNATION OF OFFICERS AND EMPLOYEES OF THE UNITED STATES FOR COVERAGE UNDER SECTION 1114 OF TITLE 18 OF THE U.S. CODE
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 301, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 301—EMPLOYERS UNDER THE ACT
 
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1400—STANDARDS OF CONDUCT, RESPONSIBILITIES, AND DISCIPLINE
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 201—DEFINITIONS
 
 
 

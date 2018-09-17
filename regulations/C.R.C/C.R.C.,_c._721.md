@@ -23,14 +23,19 @@ The Minister of National Defence, or such authority as he may designate, is auth
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 264b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4.xml
+,Title's Name: Banks and Banking, Part's Name: PART 264b—RULES REGARDING FOREIGN GIFTS AND DECORATIONS
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 23, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 23—FINANCE AND ACCOUNTING
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 22, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 22—SCHEDULE OF FEES FOR CONSULAR SERVICES—DEPARTMENT OF STATE AND FOREIGN SERVICE
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 228, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 228—RULES FOR PROCUREMENT OF COMMODITIES AND SERVICES FINANCED BY USAID
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 1420—PURPOSE AND SCOPE
 
 
 

@@ -25,14 +25,19 @@ Every producer shall pay to the Commodity Board at its office, 515 Viger Street 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1236, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1236—PRUDENTIAL MANAGEMENT AND OPERATIONS STANDARDS
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1420, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1420—REQUIREMENTS FOR ALL TERRAIN VEHICLES
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 1690, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 1690—THRIFT SAVINGS PLAN
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 746, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 746—REVIEW AND APPROVAL OF MINING PLANS
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 87, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 87—USE OR DISTRIBUTION OF INDIAN JUDGMENT FUNDS
 
 
 

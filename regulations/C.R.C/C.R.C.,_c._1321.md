@@ -24,14 +24,19 @@ The Minister of National Revenue shall give such instructions and directions as 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 101—GENERAL PROVISIONS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 147, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 147—TRADE FAIRS
 
 File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 536, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3.xml
+,Title's Name: National Defense, Part's Name: PART 536—CLAIMS AGAINST THE UNITED STATES
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 12, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 12—SPECIAL CLASSES OF MERCHANDISE
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 25, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 25—CLAIMS
 
 
 

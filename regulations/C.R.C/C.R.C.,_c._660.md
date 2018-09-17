@@ -26,14 +26,19 @@ Each licensed hatcheryman shall provide the Agency with the following informatio
 
 # Overlapping US Regulations
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 906, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 906—OUTSOURCING OF NONCRIMINAL JUSTICE ADMINISTRATIVE FUNCTIONS
 
 File Name: CFR-2018-title9-vol2, Reg (Part) Id: Pt. 201, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol2/xml/CFR-2018-title9-vol2.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 201—REGULATIONS UNDER THE PACKERS AND STOCKYARDS ACT
 
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 2001, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6.xml
+,Title's Name: National Defense, Part's Name: PART 2001—CLASSIFIED NATIONAL SECURITY INFORMATION
 
 File Name: CFR-2018-title32-vol1, Reg (Part) Id: Pt. 147, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol1/xml/CFR-2018-title32-vol1.xml
+,Title's Name: National Defense, Part's Name: PART 147—ADJUDICATIVE GUIDELINES FOR DETERMINING ELIGIBILITY FOR ACCESS TO CLASSIFIED INFORMATION
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 3a, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 3a—NATIONAL SECURITY INFORMATION
 
 
 

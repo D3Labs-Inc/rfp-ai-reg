@@ -22,14 +22,19 @@ Notwithstanding section 17 of the  General Adjustment Assistance Regulations , w
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1703, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
+,Title's Name: Agriculture, Part's Name: PART 1703—RURAL DEVELOPMENT
 
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 701, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22.xml
+,Title's Name: Internal Revenue, Part's Name: PART 701—PRESIDENTIAL ELECTION CAMPAIGN FUND
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1250, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1250—FLOOD INSURANCE
 
 File Name: CFR-2018-title7-vol14, Reg (Part) Id: Pt. 1951, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol14/xml/CFR-2018-title7-vol14.xml
+,Title's Name: Agriculture, Part's Name: PART 1951—SERVICING AND COLLECTIONS
 
 File Name: CFR-2018-title7-vol11, Reg (Part) Id: Pt. 1720, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol11/xml/CFR-2018-title7-vol11.xml
+,Title's Name: Agriculture, Part's Name: PART 1720—GUARANTEES FOR BONDS AND NOTES ISSUED FOR ELECTRIFICATION OR TELEPHONE PURPOSES
 
 
 

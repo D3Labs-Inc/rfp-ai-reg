@@ -23,14 +23,19 @@ The place of meeting for the business of the ( here insert name of trade union )
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 982, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 982—HAZELNUTS GROWN IN OREGON AND WASHINGTON
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1409, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1409—MEETINGS OF THE BOARD OF DIRECTORS OF COMMODITY CREDIT CORPORATION
 
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 709, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 709—INVOLUNTARY LIQUIDATION OF FEDERAL CREDIT UNIONS AND ADJUDICATION OF CREDITOR CLAIMS INVOLVING FEDERALLY INSURED CREDIT UNIONS IN LIQUIDATION
 
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 604, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 604—FARM CREDIT ADMINISTRATION BOARD MEETINGS
 
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 747, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 747—ADMINISTRATIVE ACTIONS, ADJUDICATIVE HEARINGS, RULES OF PRACTICE AND PROCEDURE, AND INVESTIGATIONS
 
 
 

@@ -23,14 +23,19 @@ Subject to subsections (2) and (3) and section 4, where an employee dies or is i
 
 # Overlapping US Regulations
 File Name: CFR-2018-title41-vol4, Reg (Part) Id: Pt. 301-70, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title41-vol4/xml/CFR-2018-title41-vol4.xml
+,Title's Name: Public Contracts and Property Management, Part's Name: PART 301-70—INTERNAL POLICY AND PROCEDURE REQUIREMENTS
 
 File Name: CFR-2018-title9-vol1, Reg (Part) Id: Pt. 97, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title9-vol1/xml/CFR-2018-title9-vol1.xml
+,Title's Name: Animals and Animal Products, Part's Name: PART 97—OVERTIME SERVICES RELATING TO IMPORTS AND EXPORTS
 
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 3, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 3—NONCOMPETITIVE ACQUISITION OF STATUS (RULE III)
 
 File Name: CFR-2018-title5-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol1/xml/CFR-2018-title5-vol1.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 2—APPOINTMENT THROUGH THE COMPETITIVE SERVICE; RELATED MATTERS (RULE II)
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1060, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1060—PAYMENT OF TRAVEL EXPENSES OF PERSONS WHO ARE NOT GOVERNMENT EMPLOYEES
 
 
 

@@ -28,14 +28,19 @@ Subject to section 4, remission is hereby granted of all taxes paid or payable u
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1076, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1076—CLAIMS AGAINST THE UNITED STATES
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 161, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 161—GENERAL ENFORCEMENT PROVISIONS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 101, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 101—GENERAL PROVISIONS
 
 File Name: CFR-2018-title19-vol2, Reg (Part) Id: Pt. 145, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol2/xml/CFR-2018-title19-vol2.xml
+,Title's Name: Customs Duties, Part's Name: PART 145—MAIL IMPORTATIONS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 127, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 127—GENERAL ORDER, UNCLAIMED, AND ABANDONED MERCHANDISE
 
 
 

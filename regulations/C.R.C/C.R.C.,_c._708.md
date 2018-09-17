@@ -25,14 +25,19 @@ Where a claim for payment out of the Investors’ Indemnity Account is made in r
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 300, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 300—RULES OF THE SECURITIES INVESTOR PROTECTION CORPORATION
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 270, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 270—RULES AND REGULATIONS, INVESTMENT COMPANY ACT OF 1940
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 243, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 243—TRANSFER, ASSIGNMENT, OR WAIVER OF PAYMENTS
 
 File Name: CFR-2018-title26-vol22, Reg (Part) Id: Pt. 702, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol22/xml/CFR-2018-title26-vol22.xml
+,Title's Name: Internal Revenue, Part's Name: PART 702—PRESIDENTIAL PRIMARY MATCHING PAYMENT ACCOUNT
 
 File Name: CFR-2018-title12-vol3, Reg (Part) Id: Pt. 220, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol3/xml/CFR-2018-title12-vol3.xml
+,Title's Name: Banks and Banking, Part's Name: PART 220—CREDIT BY BROKERS AND DEALERS (REGULATION T)
 
 
 

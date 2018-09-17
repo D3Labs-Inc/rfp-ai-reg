@@ -21,14 +21,19 @@ The Airport Manager shall, within the period referred to in subsection (1), send
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol5, Reg (Part) Id: Pt. 356, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol5/xml/CFR-2018-title7-vol5.xml
+,Title's Name: Agriculture, Part's Name: PART 356—FORFEITURE PROCEDURES
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1048, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1048—TRESPASSING ON STRATEGIC PETROLEUM RESERVE FACILITIES AND OTHER PROPERTY
 
 File Name: CFR-2018-title36-vol2, Reg (Part) Id: Pt. 262, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title36-vol2/xml/CFR-2018-title36-vol2.xml
+,Title's Name: Parks, Forests, and Public Property, Part's Name: PART 262—LAW ENFORCEMENT SUPPORT ACTIVITIES
 
 File Name: CFR-2018-title27-vol2, Reg (Part) Id: Pt. 72, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title27-vol2/xml/CFR-2018-title27-vol2.xml
+,Title's Name: Alcohol, Tobacco Products and Firearms, Part's Name: PART 72—DISPOSITION OF SEIZED PERSONAL PROPERTY
 
 File Name: CFR-2018-title26-vol20, Reg (Part) Id: Pt. 403, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title26-vol20/xml/CFR-2018-title26-vol20.xml
+,Title's Name: Internal Revenue, Part's Name: PART 403—DISPOSITION OF SEIZED PERSONAL PROPERTY
 
 
 

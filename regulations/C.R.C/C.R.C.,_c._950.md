@@ -28,14 +28,19 @@ Any member may appeal the decision of the presiding officer to the council and a
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 53, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 53—COAST GUARD WHISTLEBLOWER PROTECTION
 
 File Name: CFR-2018-title6-vol1, Reg (Part) Id: Pt. 1003, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title6-vol1/xml/CFR-2018-title6-vol1.xml
+,Title's Name: Domestic Security, Part's Name: PART 1003—IMPLEMENTATION OF THE GOVERNMENT IN THE SUNSHINE ACT
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 1704, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 1704—RULES IMPLEMENTING THE GOVERNMENT IN THE SUNSHINE ACT
 
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 1200, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 1200—BOARD ORGANIZATION
 
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 791, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 791—RULES OF NCUA BOARD PROCEDURE; PROMULGATION OF NCUA RULES AND REGULATIONS; PUBLIC OBSERVATION OF NCUA BOARD MEETINGS
 
 
 

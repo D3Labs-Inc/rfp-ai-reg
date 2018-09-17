@@ -22,14 +22,19 @@ Experts, other than officials of the United Nations within the meaning of sectio
 
 # Overlapping US Regulations
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2009, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 2009—PROCEDURES FOR REPRESENTATIONS UNDER SECTION 422 OF THE TRADE AGREEMENTS ACT OF 1979
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 92, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 92—NOTARIAL AND RELATED SERVICES
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 4, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 4—VESSELS IN FOREIGN AND DOMESTIC TRADES
 
 File Name: CFR-2018-title22-vol1, Reg (Part) Id: Pt. 131, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol1/xml/CFR-2018-title22-vol1.xml
+,Title's Name: Foreign Relations, Part's Name: PART 131—CERTIFICATES OF AUTHENTICATION
 
 File Name: CFR-2018-title15-vol3, Reg (Part) Id: Pt. 2011, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol3/xml/CFR-2018-title15-vol3.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 2011—ALLOCATION OF TARIFF-RATE QUOTA ON IMPORTED SUGARS, SYRUPS AND MOLASSES
 
 
 

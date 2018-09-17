@@ -30,14 +30,19 @@ Where a carrier is exempted pursuant to section 3, the bills of lading or other 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 655, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 655—FEDERAL AGRICULTURAL MORTGAGE CORPORATION DISCLOSURE AND REPORTING REQUIREMENTS
 
 File Name: CFR-2018-title12-vol5, Reg (Part) Id: Pt. 311, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol5/xml/CFR-2018-title12-vol5.xml
+,Title's Name: Banks and Banking, Part's Name: PART 311—RULES GOVERNING PUBLIC OBSERVATION OF MEETINGS OF THE CORPORATION'S BOARD OF DIRECTORS
 
 File Name: CFR-2018-title22-vol2, Reg (Part) Id: Pt. 708, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title22-vol2/xml/CFR-2018-title22-vol2.xml
+,Title's Name: Foreign Relations, Part's Name: PART 708—SUNSHINE REGULATIONS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 0, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 0—TRANSFERRED OR DELEGATED AUTHORITY
 
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 651, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 651—FEDERAL AGRICULTURAL MORTGAGE CORPORATION GOVERNANCE
 
 
 

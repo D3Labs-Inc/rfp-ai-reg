@@ -25,14 +25,19 @@ This Order does not apply to over-flying aircraft.
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 260, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 260—GENERAL RULES AND REGULATIONS, TRUST INDENTURE ACT OF 1939
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 20, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 20—AUTHORIZATION OF THE ISSUANCE OF SECURITIES BY LICENSEES AND COMPANIES SUBJECT TO SECTIONS 19 AND 20 OF THE FEDERAL POWER ACT
 
 File Name: CFR-2018-title17-vol3, Reg (Part) Id: Pt. 200, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol3/xml/CFR-2018-title17-vol3.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 200—ORGANIZATION; CONDUCT AND ETHICS; AND INFORMATION AND REQUESTS
 
 File Name: CFR-2018-title32-vol6, Reg (Part) Id: Pt. 2103, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol6/xml/CFR-2018-title32-vol6.xml
+,Title's Name: National Defense, Part's Name: PART 2103—REGULATIONS TO IMPLEMENT E.O. 12065—INCLUDING PROCEDURES FOR PUBLIC ACCESS TO DOCUMENTS THAT MAY BE DECLASSIFIED
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 400—RULES OF GENERAL APPLICATION
 
 
 

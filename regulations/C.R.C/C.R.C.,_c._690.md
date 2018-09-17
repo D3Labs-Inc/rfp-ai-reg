@@ -21,14 +21,19 @@ Materiel of a consumable nature shall not be loaned but may be provided for purp
 
 # Overlapping US Regulations
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1250, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1250—FLOOD INSURANCE
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1206, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1206—ASSESSMENTS
 
 File Name: CFR-2018-title12-vol6, Reg (Part) Id: Pt. 572, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol6/xml/CFR-2018-title12-vol6.xml
+,Title's Name: Banks and Banking, Part's Name: PART 572—LOANS IN AREAS HAVING SPECIAL FLOOD HAZARDS
 
 File Name: CFR-2018-title10-vol4, Reg (Part) Id: Pt. 609, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title10-vol4/xml/CFR-2018-title10-vol4.xml
+,Title's Name: Energy, Part's Name: PART 609—LOAN GUARANTEES FOR PROJECTS THAT EMPLOY INNOVATIVE TECHNOLOGIES
 
 File Name: CFR-2018-title7-vol12, Reg (Part) Id: Pt. 1788, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol12/xml/CFR-2018-title7-vol12.xml
+,Title's Name: Agriculture, Part's Name: PART 1788—RUS FIDELITY AND INSURANCE REQUIREMENTS FOR ELECTRIC AND TELECOMMUNICATIONS BORROWERS
 
 
 

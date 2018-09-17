@@ -23,14 +23,19 @@ The Minister of National Defence is authorized to transfer academic hoods from t
 
 # Overlapping US Regulations
 File Name: CFR-2018-title29-vol4, Reg (Part) Id: Pt. 1440, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title29-vol4/xml/CFR-2018-title29-vol4.xml
+,Title's Name: Labor, Part's Name: PART 1440—ARBITRATION OF PESTICIDE DATA DISPUTES
 
 File Name: CFR-2018-title28-vol2, Reg (Part) Id: Pt. 602, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title28-vol2/xml/CFR-2018-title28-vol2.xml
+,Title's Name: Judicial Administration, Part's Name: PART 602—JURISDICTION OF THE INDEPENDENT COUNSEL: IN RE FRANKLYN C. NOFZIGER
 
 File Name: CFR-2018-title12-vol4, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol4/xml/CFR-2018-title12-vol4.xml
+,Title's Name: Banks and Banking, Part's Name: PART 265—RULES REGARDING DELEGATION OF AUTHORITY
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 27—ADJUSTMENT OF CIVIL MONETARY PENALTIES FOR INFLATION
 
 File Name: CFR-2018-title12-vol9, Reg (Part) Id: Pt. 1083, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol9/xml/CFR-2018-title12-vol9.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1083—CIVIL PENALTY ADJUSTMENTS
 
 
 

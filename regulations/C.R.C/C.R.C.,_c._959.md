@@ -28,14 +28,19 @@ No person shall park or station any vehicle upon any road unless permission to d
 
 # Overlapping US Regulations
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 265—REGULATIONS GOVERNING TRAFFIC AND CONDUCT ON THE GROUNDS OF THE NATIONAL INSTITUTE OF STANDARDS & TECHNOLOGY, GAITHERSBURG, MARYLAND, AND BOULDER AND FORT COLLINS, COLORADO
 
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 207—NAVIGATION REGULATIONS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 26, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 26—VESSEL BRIDGE-TO-BRIDGE RADIOTELEPHONE REGULATIONS
 
 File Name: CFR-2018-title30-vol3, Reg (Part) Id: Pt. 815, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title30-vol3/xml/CFR-2018-title30-vol3.xml
+,Title's Name: Mineral Resources, Part's Name: PART 815—PERMANENT PROGRAM PERFORMANCE STANDARDS—COAL EXPLORATION
 
 File Name: CFR-2018-title32-vol3, Reg (Part) Id: Pt. 552, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol3/xml/CFR-2018-title32-vol3.xml
+,Title's Name: National Defense, Part's Name: PART 552—REGULATIONS AFFECTING MILITARY RESERVATIONS
 
 
 

@@ -22,14 +22,19 @@ Every producer shall pay to the Commodity Board at its office at 11826-100th Ave
 
 # Overlapping US Regulations
 File Name: CFR-2018-title5-vol3, Reg (Part) Id: Pt. 1690, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title5-vol3/xml/CFR-2018-title5-vol3.xml
+,Title's Name: Administrative Personnel, Part's Name: PART 1690—THRIFT SAVINGS PLAN
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1777, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1777—PROMPT CORRECTIVE ACTION
 
 File Name: CFR-2018-title7-vol10, Reg (Part) Id: Pt. 1207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol10/xml/CFR-2018-title7-vol10.xml
+,Title's Name: Agriculture, Part's Name: PART 1207—POTATO RESEARCH AND PROMOTION PLAN
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 245, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 245—REGULATION BLACKOUT TRADING RESTRICTION
 
 File Name: CFR-2018-title12-vol10, Reg (Part) Id: Pt. 1236, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol10/xml/CFR-2018-title12-vol10.xml
+,Title's Name: Banks and Banking, Part's Name: PART 1236—PRUDENTIAL MANAGEMENT AND OPERATIONS STANDARDS
 
 
 

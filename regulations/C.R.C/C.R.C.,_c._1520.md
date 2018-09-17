@@ -23,14 +23,19 @@ Tenders for an oil and gas lease will, pursuant to section 57 of the Regulations
 
 # Overlapping US Regulations
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 226, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 226—LEASING OF OSAGE RESERVATION LANDS FOR OIL AND GAS MINING
 
 File Name: CFR-2018-title7-vol6, Reg (Part) Id: Pt. 500, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol6/xml/CFR-2018-title7-vol6.xml
+,Title's Name: Agriculture, Part's Name: PART 500—NATIONAL ARBORETUM
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 213, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 213—LEASING OF RESTRICTED LANDS OF MEMBERS OF FIVE CIVILIZED TRIBES, OKLAHOMA, FOR MINING
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 227, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 227—LEASING OF CERTAIN LANDS IN WIND RIVER INDIAN RESERVATION, WYOMING, FOR OIL AND GAS MINING
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 214, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 214—LEASING OF OSAGE RESERVATION LANDS, OKLAHOMA, FOR MINING, EXCEPT OIL AND GAS
 
 
 

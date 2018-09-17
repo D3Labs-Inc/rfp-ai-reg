@@ -19,14 +19,19 @@ http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._535/FullText.html
 
 # Overlapping US Regulations
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 54, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 54—CERTAIN IMPORTATIONS TEMPORARILY FREE OF DUTY
 
 File Name: CFR-2018-title25-vol2, Reg (Part) Id: Pt. 310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol2/xml/CFR-2018-title25-vol2.xml
+,Title's Name: Indians, Part's Name: PART 310—USE OF GOVERNMENT MARKS OF GENUINENESS FOR ALASKAN INDIAN AND ALASKAN ESKIMO HAND-MADE PRODUCTS
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 10, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 10—ARTICLES CONDITIONALLY FREE, SUBJECT TO A REDUCED RATE, ETC.
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 102, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 102—RULES OF ORIGIN
 
 File Name: CFR-2018-title19-vol1, Reg (Part) Id: Pt. 19, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title19-vol1/xml/CFR-2018-title19-vol1.xml
+,Title's Name: Customs Duties, Part's Name: PART 19—CUSTOMS WAREHOUSES, CONTAINER STATIONS AND CONTROL OF MERCHANDISE THEREIN
 
 
 

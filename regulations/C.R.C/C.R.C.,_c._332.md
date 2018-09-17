@@ -25,14 +25,19 @@ Subject to section 15, an amount equal to the total amount paid to a recipient 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title7-vol15, Reg (Part) Id: Pt. 4290, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol15/xml/CFR-2018-title7-vol15.xml
+,Title's Name: Agriculture, Part's Name: PART 4290—RURAL BUSINESS INVESTMENT COMPANY (“RBIC”) PROGRAM
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 955, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 955—VIDALIA ONIONS GROWN IN GEORGIA
 
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 795, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
+,Title's Name: Agriculture, Part's Name: PART 795—PAYMENT LIMITATION
 
 File Name: CFR-2018-title7-vol3, Reg (Part) Id: Pt. 82, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol3/xml/CFR-2018-title7-vol3.xml
+,Title's Name: Agriculture, Part's Name: PART 82—CLINGSTONE PEACH DIVERSION PROGRAM
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 986, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 986—PECANS GROWN IN THE STATES OF ALABAMA, ARKANSAS, ARIZONA, CALIFORNIA, FLORIDA, GEORGIA, KANSAS, LOUISIANA, MISSOURI, MISSISSIPPI, NORTH CAROLINA, NEW MEXICO, OKLAHOMA, SOUTH CAROLINA, AND TEXAS
 
 
 

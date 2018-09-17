@@ -24,14 +24,19 @@ The Superintendent may permit the following signs to be erected in respect of a 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol3, Reg (Part) Id: Pt. 207, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol3/xml/CFR-2018-title33-vol3.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 207—NAVIGATION REGULATIONS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 118, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 118—BRIDGE LIGHTING AND OTHER SIGNALS
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 100, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 100—SAFETY OF LIFE ON NAVIGABLE WATERS
 
 File Name: CFR-2018-title15-vol1, Reg (Part) Id: Pt. 265, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title15-vol1/xml/CFR-2018-title15-vol1.xml
+,Title's Name: Commerce and Foreign Trade, Part's Name: PART 265—REGULATIONS GOVERNING TRAFFIC AND CONDUCT ON THE GROUNDS OF THE NATIONAL INSTITUTE OF STANDARDS & TECHNOLOGY, GAITHERSBURG, MARYLAND, AND BOULDER AND FORT COLLINS, COLORADO
 
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 83, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 83—NAVIGATION RULES
 
 
 

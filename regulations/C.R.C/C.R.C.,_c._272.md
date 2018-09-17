@@ -23,14 +23,19 @@ http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._272/FullText.html
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 166, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 166—CUSTOMER PROTECTION RULES
 
 File Name: CFR-2018-title17-vol1, Reg (Part) Id: Pt. 32, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol1/xml/CFR-2018-title17-vol1.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 32—REGULATION OF COMMODITY OPTION TRANSACTIONS
 
 File Name: CFR-2018-title7-vol2, Reg (Part) Id: Pt. 46, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol2/xml/CFR-2018-title7-vol2.xml
+,Title's Name: Agriculture, Part's Name: PART 46—REGULATIONS (OTHER THAN RULES OF PRACTICE) UNDER THE PERISHABLE AGRICULTURAL COMMODITIES ACT, 1930
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 275, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 275—RULES AND REGULATIONS, INVESTMENT ADVISERS ACT OF 1940
 
 File Name: CFR-2018-title17-vol1, Reg (Part) Id: Pt. 33, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol1/xml/CFR-2018-title17-vol1.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 33—REGULATION OF COMMODITY OPTION TRANSACTIONS THAT ARE OPTIONS ON CONTRACTS OF SALE OF A COMMODITY FOR FUTURE DELIVERY
 
 
 

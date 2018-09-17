@@ -28,14 +28,19 @@ It is hereby directed that, in the interest of the safety or security of Canada 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 400, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 400—RULES OF GENERAL APPLICATION
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 243, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 243—REGULATION FD
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 20, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 20—AUTHORIZATION OF THE ISSUANCE OF SECURITIES BY LICENSEES AND COMPANIES SUBJECT TO SECTIONS 19 AND 20 OF THE FEDERAL POWER ACT
 
 File Name: CFR-2018-title8-vol1, Reg (Part) Id: Pt. 2, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title8-vol1/xml/CFR-2018-title8-vol1.xml
+,Title's Name: Aliens and Nationality, Part's Name: PART 2—AUTHORITY OF THE SECRETARY OF HOMELAND SECURITY
 
 File Name: CFR-2018-title17-vol4, Reg (Part) Id: Pt. 276, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol4/xml/CFR-2018-title17-vol4.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 276—INTERPRETATIVE RELEASES RELATING TO THE INVESTMENT ADVISERS ACT OF 1940 AND GENERAL RULES AND REGULATIONS THEREUNDER
 
 
 

@@ -25,14 +25,19 @@ No person shall market eggs in a province other than the province in which the e
 
 # Overlapping US Regulations
 File Name: CFR-2018-title14-vol5, Reg (Part) Id: Pt. 1203b, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title14-vol5/xml/CFR-2018-title14-vol5.xml
+,Title's Name: Aeronautics and Space, Part's Name: PART 1203b—SECURITY PROGRAMS; ARREST AUTHORITY AND USE OF FORCE BY NASA SECURITY FORCE PERSONNEL
 
 File Name: CFR-2018-title16-vol2, Reg (Part) Id: Pt. 1608, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title16-vol2/xml/CFR-2018-title16-vol2.xml
+,Title's Name: Commercial Practices, Part's Name: PART 1608—GENERAL RULES AND REGULATIONS UNDER THE FLAMMABLE FABRICS ACT
 
 File Name: CFR-2018-title18-vol1, Reg (Part) Id: Pt. 1c, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol1/xml/CFR-2018-title18-vol1.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 1c—PROHIBITION OF ENERGY MARKET MANIPULATION
 
 File Name: CFR-2018-title7-vol8, Reg (Part) Id: Pt. 926, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol8/xml/CFR-2018-title7-vol8.xml
+,Title's Name: Agriculture, Part's Name: PART 926—DATA COLLECTION, REPORTING AND RECORDKEEPING REQUIREMENTS APPLICABLE TO CRANBERRIES NOT SUBJECT TO THE CRANBERRY MARKETING ORDER
 
 File Name: CFR-2018-title17-vol2, Reg (Part) Id: Pt. 180, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title17-vol2/xml/CFR-2018-title17-vol2.xml
+,Title's Name: Commodity and Securities Exchanges, Part's Name: PART 180—PROHIBITION AGAINST MANIPULATION
 
 
 

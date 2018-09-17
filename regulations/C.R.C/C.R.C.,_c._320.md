@@ -28,14 +28,19 @@ No sublease referred to in section 5 shall be issued without prior public advert
 
 # Overlapping US Regulations
 File Name: CFR-2018-title24-vol2, Reg (Part) Id: Pt. 291, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol2/xml/CFR-2018-title24-vol2.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 291—DISPOSITION OF HUD-ACQUIRED AND -OWNED SINGLE FAMILY PROPERTY
 
 File Name: CFR-2018-title12-vol7, Reg (Part) Id: Pt. 714, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title12-vol7/xml/CFR-2018-title12-vol7.xml
+,Title's Name: Banks and Banking, Part's Name: PART 714—LEASING
 
 File Name: CFR-2018-title32-vol4, Reg (Part) Id: Pt. 644, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title32-vol4/xml/CFR-2018-title32-vol4.xml
+,Title's Name: National Defense, Part's Name: PART 644—REAL ESTATE HANDBOOK
 
 File Name: CFR-2018-title18-vol2, Reg (Part) Id: Pt. 1310, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title18-vol2/xml/CFR-2018-title18-vol2.xml
+,Title's Name: Conservation of Power and Water Resources, Part's Name: PART 1310—ADMINISTRATIVE COST RECOVERY
 
 File Name: CFR-2018-title24-vol1, Reg (Part) Id: Pt. 27, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title24-vol1/xml/CFR-2018-title24-vol1.xml
+,Title's Name: Housing and Urban Development, Part's Name: PART 27—NONJUDICIAL FORECLOSURE OF MULTIFAMILY AND SINGLE FAMILY MORTGAGES
 
 
 

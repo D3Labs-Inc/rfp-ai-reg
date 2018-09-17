@@ -23,14 +23,19 @@ In sending the gratuity or any part thereof to a person on behalf of the person 
 
 # Overlapping US Regulations
 File Name: CFR-2018-title33-vol1, Reg (Part) Id: Pt. 49, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title33-vol1/xml/CFR-2018-title33-vol1.xml
+,Title's Name: Navigation and Navigable Waters, Part's Name: PART 49—PAYMENT OF AMOUNTS DUE MENTALLY INCOMPETENT COAST GUARD PERSONNEL
 
 File Name: CFR-2018-title7-vol7, Reg (Part) Id: Pt. 707, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title7-vol7/xml/CFR-2018-title7-vol7.xml
+,Title's Name: Agriculture, Part's Name: PART 707—PAYMENTS DUE PERSONS WHO HAVE DIED, DISAPPEARED, OR HAVE BEEN DECLARED INCOMPETENT
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 266, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 266—REPRESENTATIVE PAYMENT
 
 File Name: CFR-2018-title20-vol1, Reg (Part) Id: Pt. 348, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title20-vol1/xml/CFR-2018-title20-vol1.xml
+,Title's Name: Employees' Benefits, Part's Name: PART 348—REPRESENTATIVE PAYMENT
 
 File Name: CFR-2018-title25-vol1, Reg (Part) Id: Pt. 111, URL:https://www.govinfo.gov/content/pkg/CFR-2018-title25-vol1/xml/CFR-2018-title25-vol1.xml
+,Title's Name: Indians, Part's Name: PART 111—ANNUITY AND OTHER PER CAPITA PAYMENTS
 
 
 
