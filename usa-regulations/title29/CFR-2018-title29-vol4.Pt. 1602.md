@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1602
 
 
+# Summary
+
+On or before September 30 of each year, every employer that is subject to title VII of the Civil Rights Act of 1964, as amended, and that has 100 or more employees shall file with the Commission or its delegate executed copies of Standard Form 100, as revised (otherwise known as &#8220;Employer Information Report EEO-1&#8221;) in conformity with the directions set forth in the form and accompanying instructions.
+On or before September 30, 1967, and annually thereafter, certain joint labor-management committees subject to title VII of the Civil Rights Act of 1964 which control apprenticeship programs shall file with the Commission, or its delegate, executed copies of Apprenticeship Information Report EEO-2 in conformity with the directions set forth in the form and accompanying instructions.
+On or before September 30, 1993, and biennially thereafter, certain political jurisdictions subject to title VII of the Civil Rights Act of 1964, as amended, shall file with the Commission or its delegate executed copies of &#8220;State and Local Government Information Report EEO-4&#8221; in conformity with the directions set forth in the form and accompanying instructions.
+
+
+# Tags
+
+['reporting', 'employment', 'record', 'acts shall', 'applicability', 'information', 'require', 'program', 'district', 'persons', 'education', 'include', 'jurisdictions', 'set', 'organizations', 'forms', 'involving', 'files', 'personnel', 'commission', 'regulation', 'schools', 'apprenticeship', 'preserving', 'necessary', 'college', 'union', 'individually']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                      |

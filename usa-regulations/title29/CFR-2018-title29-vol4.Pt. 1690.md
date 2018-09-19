@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1690
 
 
+# Summary
+
+These regulations prescribe the means by which review and consultation shall occur between the Equal Employment Opportunity Commission and other Federal agencies having responsibility for enforcement of Federal statutes, Executive Orders, regulations and policies which require equal employment opportunity without regard to race, color, religion, sex, national origin, age or disability.
+Whenever the EEOC proposes to develop a significant issuance or any issuance requiring consultation, the procedure outlined in these regulations, shall also apply, as set forth in section 1-303 of the Order.
+(1) If the initiating agency, after consultation with EEOC, proposes to publish the issuance for purposes of receiving comments from the public, it shall confer with EEOC and agree on a mutually agreeable length of time, no less than 15 working days, during which the proposal shall be submitted to all affected Federal agencies pursuant to section 1-304 of the Order.
+After completion of this review, the initiating agency shall formally submit the proposed final issuance to all affected agencies for at least 15 working days prior to publication.
+(a) EEOC shall confer with the initiating agency and shall determine whether the proposal should be the subject of informal consultation and/or formal submission to other affected Federal agencies pursuant to section 1-304 of the Order.
+
+
+# Tags
+
+['agency', 'consultation shall', 'issuances', 'procedure', 'orders', 'publication', 'eeoc pursuant', 'programs', 'federal', 'policies', 'documents', 'reviews', 'regulation', 'included', 'proposal', 'require', 'having responsibility', 'opportunity', 'equal', 'employer', 'directive', 'internal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                      |

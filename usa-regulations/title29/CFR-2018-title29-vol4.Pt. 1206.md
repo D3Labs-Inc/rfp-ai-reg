@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1206
 
 
+# Summary
+
+(a) In an election among any craft or class where three or more options (including the option for no representation) receive valid votes, if no option receives a majority of the legal votes cast, or in the event of a tie vote, the Board shall authorize a run-off election.
+(a) Upon receipt of an application requesting that an organization or individual be certified as the representative of any craft or class of employees, a showing of proved authorizations (checked and verified as to date, signature, and employment status) from at least fifty (50) percent of the craft or class must be made before the National Mediation Board will authorize an election or otherwise determine the representation desires of the employees under the provisions of section 2, Ninth, of the Railway Labor Act.
+(1) The Board dismissed a docketed application after having conducted an election among the same craft or class of employees on the same carrier and less than a majority of valid ballots cast were for representation; or
+(2) The Board dismissed a docketed application covering the same craft or class of employees on the same carrier because no dispute existed as defined in &#167;&#8201;1206.2 of these rules; or
+
+
+# Tags
+
+['board shall authorize', 'act', 'applications', 'votes', 'dismissal', 'amend', 'representation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                              |

@@ -8,6 +8,19 @@
  CFR-2018-title26-vol16.Pt. 4
 
 
+# Summary
+
+Under paragraphs (e), (f), and (g) of this section, transactions in certain property give rise to gain or loss included in the computation of foreign personal holding company income if the controlled foreign corporation holds that property for a particular use or purpose.
+To the extent the gain or loss from a transaction is treated as interest income or expense under sections 988(a)(2) or 988(d) and the regulations thereunder, it is not included in the computation of foreign personal holding company income under this paragraph (g).
+(1) Payment of expenses that are includible by the controlled foreign corporation in the cost of goods sold under &#167;&#8201;1.61-3 for property held primarily for sale to customers in the ordinary course of regular business operations, are inventoriable costs under section 471 and the regulations thereunder, or are allocable or apportionable under the rules of &#167;&#8201;1.861-8 to gross income derived from inventory and similar property,
+(1) An expense that is includible by the controlled foreign corporation in the cost of goods sold under &#167;&#8201;1.61-3 for property held primarily for sale to customers in the ordinary course of regular business operations, is an inventoriable cost under section 471 and the regulations thereunder, or is allocable or apportionable under the rules of &#167;&#8201;1.861-8 to gross income derived from inventory and similar property, or
+
+
+# Tags
+
+['income', 'property', 'including', 'corporations shall', 'active', 'section', 'transactions', 'iii', 'foreign', 'substantially', 'taxes', 'business', 'separately', 'termed', 'relation', 'rules', 'currency', 'service receivables', 'describes', 'persons', 'thereunder', 'location', 'definitely', 'general', 'commodity', 'adjusted', 'meaning', 'year', 'companies', 'arrangement', 'computing', 'rent', 'royalties', 'payment', 'contracts', 'reasonable', 'gains', 'uses', 'purposes', 'net', 'sales', 'gross']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                 |

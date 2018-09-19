@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1625
 
 
+# Summary
+
+An &#8220;employee-pay-all&#8221; employee benefit plan is one of the &#8220;terms, conditions, or privileges of employment&#8221; with respect to which discrimination on the basis of age is forbidden under section 4(a)(1).
+In order for a bona fide employee benefit plan which prescribes lower benefits for older employees on account of age to be within the section 4(f)(2) exception, it must not be &#8220;a subterfuge to evade the purposes of [the] Act.&#8221; In general, a plan or plan provision which prescribes lower benefits for older employees on account of age is not a &#8220;subterfuge&#8221; within the meaning of section 4(f)(2), provided that the lower level of benefits is justified by age-related cost considerations.
+Any provision of an employee benefit plan which requires or permits the involuntary retirement of any individual specified in section 12(a) of the Act on the basis of age is a subterfuge to evade the purpose of the Act and cannot be excused under section 4(f)(2).
+93-406, 29 U.S.C. 1001, 1003 (a) and (b), an employee hired at an age more than 5 years prior to normal retirement age may not be excluded from such a plan unless the exclusion is justifiable on the basis of cost considerations as set forth elsewhere in this section.
+
+
+# Tags
+
+['employer', 'benefit', 'ages', 'employee shall', 'plan', 'costs', 'providing', 'acts', 'adea', 'sections', 'individual', 'term', 'programs', 'specifically', 'retirements', 'waivers', 'periodic', 'reasons', 'requirement', 'inform', 'stated', 'reduction', 'facility', 'particular', 'includes', 'applies', 'considerations', 'offered', 'based', 'older', 'discrimination', 'tenured', 'prohibit', 'groupings', 'contributions', 'general', 'limited', 'agreement', 'purposes', 'statutory', 'function', 'college', 'provision', 'basis', 'person', 'amendments', 'terminates', 'disability', 'lawful', 'immediate', 'seniority', 'differ', 'sets', 'proceeding', 'practices', 'years', 'references', 'time', 'job', 'position', 'data', 'effective', 'health', 'arrangement', 'examples', 'facts', 'greater', 'regulation', 'makes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                            |

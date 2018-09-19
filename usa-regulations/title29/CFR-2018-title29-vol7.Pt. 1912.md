@@ -8,6 +8,19 @@
  CFR-2018-title29-vol7.Pt. 1912
 
 
+# Summary
+
+(j) There shall be filed on behalf of the Advisory Committee on Construction Safety and Health, an advisory committee established by the Construction Safety Act, a charter in accordance with section 9(c) of the Federal Advisory Committee Act upon the expiration of each successive 2-year period following the date of enactment of the Construction Safety Act (i.e., August 9, 1969).
+(b) The advisory committee may include such other persons as the Assistant Secretary may appoint who are qualified by knowledge and experience to make a useful contribution to the work of the committee, including one or more representatives of professional organizations of technicians or professionals specializing in occupational safety or health and one or more persons of nationally recognized standards-producing organizations, but the number of persons so appointed shall not exceed the number of persons appointed as representatives of Federal and State agencies.
+Each member of an ad hoc advisory committee shall serve for such period as the Assistant Secretary may prescribe in his notice of appointment.
+(2)(i) For purposes of the Act, the term means any committee appointed under section 7(b) thereof to provide advice to the Assistant Secretary in the development of occupational safety and health standards under the Act.
+
+
+# Tags
+
+['shall', 'advisory committees', 'act', 'term', 'period', 'standard', 'notices', 'includes', 'health', 'meeting', 'informed', 'time', 'represent', 'persons', 'office', 'matters', 'section', 'safety', 'setting', 'employee', 'members', 'appointments', 'general', 'provides', 'secretary', 'written', 'statement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                         |

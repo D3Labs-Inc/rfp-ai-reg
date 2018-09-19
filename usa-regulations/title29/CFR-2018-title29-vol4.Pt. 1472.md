@@ -8,6 +8,21 @@
  CFR-2018-title29-vol4.Pt. 1472
 
 
+# Summary
+
+(2) Take actions concerning employees who are convicted of violating drug statutes in the workplace (see &#167;&#8201;1472.225).
+You must require that a copy of the statement described in &#167;&#8201;1472.205 be given to each employee who will be engaged in the performance of any Federal award.
+(2) Require the employee to participate satisfactorily in a drug abuse assistance or rehabilitation program approved for these purposes by a Federal, State or local health, law enforcement, or other appropriate agency.
+Conviction means a finding of guilt (including a plea of nolo contendere) or imposition of sentence, or both, by any judicial body charged with the responsibility to determine violations of the Federal or State criminal drug statutes.
+Cooperative agreement means an award of financial assistance that, consistent with 31 U.S.C. 6305, is used to enter into the same kind of relationship as a grant (see definition of grant in &#167;&#8201;1472.650), except that substantial involvement is expected between the Federal agency and the recipient when carrying out the activity contemplated by the award.
+Drug-free workplace means a site for the performance of work done in connection with a specific award at which employees of the recipient are prohibited from engaging in the unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance.
+
+
+# Tags
+
+['awards', 'federal', 'workplace', 'includes', 'means', 'drug', 'state', 'government', 'employee', 'requirements', 'agency', 'actions', 'assistance', 'service', 'executive', 'authority', 'dispensing', 'program', 'statute', 'recipient', 'direct', 'purposes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                             |

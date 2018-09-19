@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1691
 
 
+# Summary
+
+The purpose of this regulation is to implement procedures for processing and resolving complaints of employment discrimination filed against recipients of Federal financial assistance subject to title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, the State and Local Fiscal Assistance Act of 1972, as amended, and provisions similar to title VI and title IX in Federal grant statutes.
+(h) When a joint complaint is referred to EEOC for investigation, the agency shall advise EEOC of the relevant civil rights provision(s) applicable to the employment practices of the recipient, whether the agency wants to receive advance notice of any conciliation negotiations, whether the agency wants EEOC to seek information concerning the relationship between the alleged discrimination and the recipient's Federally assisted programs or activities and, where appropriate, whether a primary objective of the Federal financial assistance is to provide employment.
+(a) Upon EEOC's transmittal of a reasonable cause determination and notice of failure of conciliation under &#167;&#8201;1691.9(b)(2) of this regulation, the referring agency shall determine, within thirty days, whether the recipient has violated any applicable civil rights provision(s) which the agency has a responsibility to enforce.
+
+
+# Tags
+
+['eeoc', 'agencies shall', 'federal', 'complaint', 'inform', 'employment discrimination', 'act', 'assistance', 'investigating', 'allegation', 'referring', 'enforcement', 'action', 'determines', 'appropriate', 'receives', 'generally', 'cfr', 'concerning']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                        |

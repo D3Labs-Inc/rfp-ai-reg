@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1471
 
 
+# Summary
+
+If you as an agency official determine that a lower tier participant failed to disclose information, as required by &#167;&#8201;1471.355, at the time it entered into a covered transaction with a participant at the next higher tier, you may pursue any remedies available to you, including the initiation of a suspension or debarment action.
+(d) Whether you are or have been excluded or disqualified by an agency of the Federal Government or have not been allowed to participate in State or local contracts or assistance agreements on a basis of conduct similar to one or more of the causes for debarment specified in this part.
+Debarment means an action taken by a debarring official under subpart H of this part to exclude a person from participating in covered transactions and transactions covered under the Federal Acquisition Regulation (48 CFR chapter 1).
+Suspension is an action taken by a suspending official under subpart G of this part that immediately prohibits a person from participating in covered transactions and transactions covered under the Federal Acquisition Regulation (48 CFR chapter 1) for a temporary period, pending completion of an agency investigation and any judicial or administrative proceedings that may ensue.
+
+
+# Tags
+
+['debarred', 'agency', 'included', 'officials', 'informal', 'means', 'transactions', 'federal', 'actions', 'persons', 'service', 'acts', 'suspension', 'number', 'proceeding', 'governing', 'responsibility', 'participate', 'business', 'specifically', 'exclusion', 'conducting', 'authorities', 'stated', 'follow', 'agreement', 'period', 'list', 'exclude', 'similar', 'civil', 'use', 'administrative', 'entities', 'contracts', 'appropriate', 'general public', 'security', 'governmental', 'regulation', 'epls', 'determines', 'nonprocurement', 'decision', 'orders', 'material', 'positions', 'disqualification', 'findings', 'legal', 'granted', 'tiers', 'remedies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                        |

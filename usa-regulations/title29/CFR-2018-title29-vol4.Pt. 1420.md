@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1420
 
 
+# Summary
+
+If the parties to collective bargaining involving a health care institution(s) desire to have some input to the Service's selection of an individual(s) to serve as a Board of Inquiry (hereinafter &#8220;BoI&#8221;), they may jointly exercise the following optional procedure:
+(a) The Service will defer to the parties' own privately agreed to factfinding procedure and decline to appoint a Board of Inquiry (BoI) as long as the parties' own procedure meets certain conditions so as to satisfy the Service's responsibilities under the Act. The Service will decline to appoint a BoI and leave the selection and appointment of a factfinder to the parties to a dispute if both the parties have agreed in writing to their own factfinding procedure which meets the following conditions:
+The parties to a dispute who have agreed to such a factfinding procedure should jointly submit a copy of such agreed upon procedure to the appropriate regional office of the Service at as early a date as possible, but in any event prior to the appointment of a BoI by the Service.
+(b) The parties to a dispute who have agreed to such an interest arbitration procedure should jointly submit a copy of their agreed upon procedure to the appropriate regional office of the Service at as early a date as possible, but in any event prior to the appointment of BoI by the Service.
+
+
+# Tags
+
+['dispute', 'boi', 'time', 'lists', 'jointly', 'service', 'bargaining', 'optional', 'contract', 'procedures', 'prior', 'agreement', 'hereinafter']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                |

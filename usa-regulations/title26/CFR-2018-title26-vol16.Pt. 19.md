@@ -8,6 +8,18 @@
  CFR-2018-title26-vol16.Pt. 19
 
 
+# Summary
+
+Section 483(a) provides, generally, that in the case of any contract for the sale or exchange of property (which is a capital asset or section 1231 property) there shall be treated as interest that part of a payment to which section 483 applies which bears the same ratio to the amount of such payment as the total unstated interest under such contract bears to the total of the payments to which such section applies which are due under the contract.
+For purposes of determining under section 483(c)(1)(B) whether there is total unstated interest under a contract (other than a contract of sale or exchange under which the purchaser is the United States, a State, or any other purchaser described in section 103) which provides for the payment of some interest, a rate of 4 percent per annum simple interest shall be used.
+In all other cases, for purposes of determining, under section 483(c)(1)(B), whether there is total unstated interest, under a contract (not involving a purchaser described in section 103), the following table, which provides for discounting payments at a 4 percent per annum simple interest rate, shall be used for computing the present value of a payment to which section 483 applies which is due under the contract, and the present value of any interest payment due under the contract:
+
+
+# Tags
+
+['section', 'contract', 'written', 'revenue', 'payments']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                            |

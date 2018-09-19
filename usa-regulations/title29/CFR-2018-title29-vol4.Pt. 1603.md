@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1603
 
 
+# Summary
+
+(a) Upon request by the complainant under paragraph (b) of this section or if the complaint is not dismissed or resolved under subpart A of this part, on behalf of the Commission, the Office of Federal Operations shall transmit the complaint file to an administrative law judge, appointed under 5 U.S.C. 3105, for a hearing.
+(b) No Commission employee engaged in investigating complaints under this part shall participate or advise in the decision of the administrative law judge, except as a witness or counsel in the adjudication, or its appellate review.
+(a) Upon written application of any party, the administrative law judge may on behalf of the Commission issue a subpoena requiring the attendance and testimony of witnesses and the production of any evidence, including, but not limited to, books, records, correspondence, or documents, in their possession or under their control.
+The record shall include the complaint; the investigative file, if any; referral notice; motions; briefs; rulings; orders; official transcript of the hearing; all discovery and any other documents submitted by the parties.
+Any party may appeal to the Commission the dismissal of a complaint under &#167;&#8201;1603.107, any matter certified for interlocutory review under &#167;&#8201;1613.213, or the administrative law judge's decision under &#167;&#8201;1603.216 or &#167;&#8201;1603.217.
+
+
+# Tags
+
+['shall', 'judges', 'complaint', 'parties', 'file', 'included', 'evidence', 'decision', 'motion', 'appropriate', 'person', 'issuing', 'orders', 'written', 'alleged', 'commission', 'time', 'providing', 'procedural questions', 'offices', 'stated', 'requesting', 'contains', 'notice', 'witness', 'dismissals', 'law', 'number', 'cause', 'briefs', 'service', 'facts', 'records', 'review', 'employment']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                       |

@@ -8,6 +8,18 @@
  CFR-2018-title29-vol7.Pt. 1921
 
 
+# Summary
+
+The allowance of such deferment and the duration thereof shall be in the discretion of the hearing examiner, after consideration of the nature of the proceeding, the requirements of the public interest, the representations of the parties, and the probability of an agreement being reached which will result in a just disposition of the issues involved.
+(a) Upon the basis of and after due consideration of the whole record, the Assistant Secretary shall render his decision, which shall adopt, modify, or set aside the findings, conclusions, and order contained in the decision of the hearing examiner, and shall include a statement of the reasons or bases for the action taken.
+Any party desiring to take the deposition of a witness shall make application in writing to the hearing examiner, setting forth the reasons why such deposition should be taken; the time when, the place where, and the name and post office address of the person before whom the deposition is to be taken; the name and address of each witness; and the subject matter concerning which each witness is expected to testify.
+
+
+# Tags
+
+['shall', 'examiner', 'hearings', 'order', 'proceeding', 'file', 'set', 'person', 'finds', 'thereof', 'witness', 'time', 'parties', 'matter', 'excepted', 'stated', 'issuing', 'noticed', 'request', 'rulings', 'court', 'secretary', 'supported', 'services', 'contained', 'adequate', 'immediately', 'relevancy', 'facts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                          |

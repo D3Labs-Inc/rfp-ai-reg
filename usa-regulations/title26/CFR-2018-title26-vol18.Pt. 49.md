@@ -8,6 +8,17 @@
  CFR-2018-title26-vol18.Pt. 49
 
 
+# Summary
+
+(1) Except as an exemption may otherwise be specifically provided for in this part, where, under the provisions of a contract, dispatches, messages, or conversations are transmitted by telephone, radio telephone, telegraph, cable, or radio in consideration of the payment of a lump sum of money or the performance of services, the amounts paid for such transmissions are subject to tax regardless of whether such dispatches, messages, or conversations relate to the operation of the business of a common carrier and whether they are &#8220;on line&#8221; or &#8220;off line&#8221;.
+In any case where a payment for the United States portion is not subject to tax under the rules set forth in this section, the carrier furnishing transportation for the United States portion shall procure and maintain appropriate evidence which will clearly show that the tickets or orders for such transportation were purchased for use in conjunction with connecting transportation from or to a point outside the United States.
+
+
+# Tags
+
+['service', 'transporting', 'shall', 'including', 'taxes', 'charge', 'payment', 'terms', 'exemptions', 'provide', 'persons', 'tickets', 'meaning', 'telephonic', 'carriers', 'states', 'canada', 'air', 'trips', 'points', 'lines connecting', 'furnish', 'certain', 'passenger', 'similar', 'generally', 'section', 'equipment', 'news', 'amounts paid', 'orders', 'exporter', 'certificated', 'rates', 'wire', 'periodic', 'mexico', 'messages communicated', 'cover', 'separately', 'continuously', 'applicability', 'facility', 'schedules', 'operator', 'actual', 'waters', 'companies', 'telegraph', 'special', 'united', 'fare', 'relating', 'internal', 'revenue', 'purchases', 'iii', 'begin', 'time', 'exclusive', 'value', 'number', 'taxable', 'indoor', 'sets', 'tans', 'specified', 'making', 'transmission', 'additional', 'thereof', 'differs', 'card', 'station', 'market', 'private', 'collecting']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

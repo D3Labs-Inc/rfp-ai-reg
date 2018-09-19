@@ -8,6 +8,18 @@
  CFR-2018-title29-vol5.Pt. 1905
 
 
+# Summary
+
+(2) The Assistant Secretary may on his own motion proceed to modify or revoke a rule or order issued under section 6(b) (6) (A), 6(d), or 16 of the Act. In such event, the Assistant Secretary shall cause to be published in the Federal Register a notice of his intention, affording interested persons an opportunity to submit written data, views, or arguments regarding the proposal and informing the affected employer and employees of their right to request a hearing, and shall take such other action as may be appropriate to give actual notice to affected employees.
+Within a reasonable time after the time allowed for the filing of proposed findings of fact, conclusions of law, and rule or order, the presiding hearing examiner shall make and serve upon each party his decision, which shall become final upon the 20th day after service thereof, unless exceptions are filed thereto, as provided in &#167;&#8201;1905.28.
+The decision of the hearing examiner shall include (1) a statement of findings and conclusions, with reasons and bases therefor, upon each material issue of fact, law, or discretion presented on the record, and (2) the appropriate rule, order, relief, or denial thereof.
+
+
+# Tags
+
+['shall', 'applications', 'stated', 'thereof', 'hearings', 'examined', 'file', 'person', 'parties', 'authorized', 'noticed', 'rulings', 'written', 'variance', 'orders', 'statement', 'excepted', 'procedural', 'issue', 'timely', 'facts', 'evidence', 'presented', 'actions', 'means', 'matter', 'copies', 'materially', 'affidavit', 'findings', 'employer', 'set', 'representatives', 'reasons', 'final']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                           |

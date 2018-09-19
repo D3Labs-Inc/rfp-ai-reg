@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1615
 
 
+# Summary
+
+(b) The purpose of this part is also to effectuate section 508 of the Rehabilitation Act, which requires that when Federal departments and agencies develop, procure, maintain, or use electronic and information technology, they shall ensure accessibility by individuals with disabilities who are Federal employees or applicants, or members of the public.
+(4) The Commission may not, in determining the site or location of a facility, make selections the purpose or effect of which would&#8212;(i) Exclude individuals with disabilities from, deny them the benefits of, or otherwise subject them to discrimination under any program or activity conducted by the Commission; or
+The definitions, requirements, and procedures of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), as established by this Commission in 29 CFR part 1614, shall apply to employment in federally conducted programs or activities.
+(g) The Commission shall notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157), is not readily accessible to and usable by individuals with disabilities.
+
+
+# Tags
+
+['shall', 'includes', 'accessible', 'impairments', 'sections', 'commission', 'persons', 'complaints', 'disability', 'requirements', 'information', 'program', 'means', 'telephone', 'federally', 'facility', 'equipment', 'aid', 'stat', 'individual', 'procuring', 'organs', 'technology', 'opportunity', 'control', 'agency', 'providing', 'employment', 'complainant', 'calendar', 'setting appropriate', 'written', 'compliance', 'telecommunications', 'building', 'service', 'activities']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                    |

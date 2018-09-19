@@ -8,6 +8,18 @@
  CFR-2018-title29-vol7.Pt. 1911
 
 
+# Summary
+
+(b) If the Assistant Secretary wishes to consult an advisory committee on any of the proposals as permitted by section 7(b) of the Act, he shall afford interested persons an opportunity to inspect and copy any recommendations of the advisory committee within a reasonable time before the commencement of any informal hearing which may be held under this part, or before the termination of the period for the submission of written comments whenever an informal hearing is not initially noticed under &#167;&#8201;1910.11(b)(4) of this chapter.
+(2) Section 6(b)(3) provides an opportunity for a hearing on objections to proposed rulemaking, and section 6(f) provides in connection with the judicial review of standards, that determinations of the Secretary shall be conclusive if supported by substantial evidence in the record as a whole.
+(a)(1) Within 60 days after the expiration of the period provided for the submission of written data, views, and arguments on a proposed rule on which no hearing is held, or within 60 days after the certification of the record of a hearing, the Assistant Secretary shall publish in the Federal Register either an appropriate rule promulgating, modifying, or revoking a standard, or a determination that such a rule should not be issued.
+
+
+# Tags
+
+['shall', 'procedural', 'standard', 'issued', 'act', 'proceeding', 'written', 'rules', 'hearing', 'secretary', 'rulemaking', 'reasonable notice', 'promulgation', 'meaning', 'healthful', 'provides', 'information', 'following', 'statute', 'requires', 'requesting']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                         |

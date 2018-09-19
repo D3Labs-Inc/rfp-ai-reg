@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1470
 
 
+# Summary
+
+(2) Except as provided in paragraph (f)(1) of this section, grantees and subgrantees shall disburse program income, rebates, refunds, contract settlements, audit recoveries and interest earned on such funds before requesting additional cash payments.
+There are no Federal requirements governing the disposition of program income earned after the end of the award period (i.e., until the ending date of the final financial report, see paragraph (a) of this section), unless the terms of the agreement or the Federal agency regulations provide otherwise.
+(3) Grantees shall follow all applicable standard and supplemental Federal agency instructions approved by OMB to the extend required under the Paperwork Reduction Act of 1980 for use in connection with forms specified in paragraphs (b) through (e) of this section.
+(i) For grants paid by letter or credit, Treasury check advances or electronic transfer of funds, the grantee will submit the Standard Form 272, Federal Cash Transactions Report, and when necessary, its continuation sheet, Standard Form 272a, unless the terms of the award exempt the grantee from this requirement.
+When grant support is continued or renewed at annual or other intervals, the retention period for the records of each funding period starts on the day the grantee or subgrantee submits to the awarding agency its single or last expenditure report for that period.
+
+
+# Tags
+
+['shall', 'cost', 'requirement', 'grantee', 'program', 'federally', 'awarding agency', 'act', 'grant', 'procuring', 'fund', 'contracts', 'service', 'property', 'stated', 'subgrantees', 'included', 'reported', 'sections', 'cash', 'performed', 'payment', 'projections', 'income means', 'period', 'standards', 'recorded', 'assist', 'application', 'providing', 'administratively', 'equipment', 'auditing', 'procedures', 'contractor', 'governing', 'authorizing', 'documented', 'regulation', 'financial', 'following', 'prices', 'special', 'additions', 'generation', 'uses', 'purchase', 'budgets', 'iii', 'title', 'basis', 'informal', 'contribution', 'bid', 'work', 'need', 'reasonable', 'supporting', 'accounting', 'requesting', 'subgranting', 'construction', 'local', 'specification', 'allowed', 'rate', 'action', 'technical', 'condition', 'proposals', 'approving', 'changes', 'prior', 'timely', 'advance', 'developed', 'materially', 'sources', 'reviews', 'firms', 'adequately', 'submit', 'current', 'valued', 'compliance', 'supplying', 'form', 'selecting', 'disburse', 'competition']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

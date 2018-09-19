@@ -8,6 +8,18 @@
  CFR-2018-title26-vol16.Pt. 6a
 
 
+# Summary
+
+An issue meets the requirements of this paragraph only if the acquisition cost (as defined in &#167;&#8201;6a.103A-2(b)(8)) of each residence, other than a targeted area residence, for which owner financing is provided does not exceed 90 percent of the average area purchase price applicable to such residence.
+Where the charge does exceed such reasonable and customary amount, any excess will be taken into account in computing the effective interest rate on the portion of the loan provided with the proceeds of the qualified mortgage bond issue.
+(iv) Prepayment assumption In determining the affective rate of interest on mortgages, it shall be assumed that the mortagage prepayment rate for mortgages made out of both original proceeds and mortgages that the issuer expects with reasonable certainty to be made out of prepayments of principal will be equal to 100 percent of the rate set forth in the most recent mortgage maturity experience table for mortgages having the same term insured under section 203 of the National Housing Act and published by the Federal Housing Administration in &#8220;Survivorship and Decrement Tables for HUD/FHA Home MORTGAGE Insurance Program&#8221; for the region, or, if available, the State in which the residence is located.
+
+
+# Tags
+
+['mortgage', 'shall', 'stated', 'areas', 'included', 'issuing', 'residences', 'requires', 'reasonable', 'bond', 'term', 'amounts', 'years', 'housing', 'iii', 'fees', 'service', 'qualify', 'limit', 'costs', 'means', 'mortgagors', 'period', 'proceeds', 'tax', 'income', 'united', 'investment', 'financed', 'providing', 'programs', 'loaned', 'rehabilitation', 'section', 'purchased', 'property', 'rate', 'obligations', 'home rule', 'determined', 'constitute', 'pursuant', 'statement', 'information', 'failure', 'application', 'subparagraphs', 'families', 'prepayment', 'authorities', 'development', 'price', 'prior', 'expectations', 'following', 'examples']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                        |

@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1209
 
 
+# Summary
+
+(a) Except where the Board determines that the public interest requires otherwise, meetings, or portions thereof, shall not be open to public observation where the deliberations concern the issuance of a subponea, the Board's participation in a civil action or proceeding or an arbitration, or the initiation, conduct or disposition by the Board of any matter involving a determination on the record after opportunity for a hearing, or any court proceeding collateral or ancillary thereto.
+(a) A public announcement setting forth the time, place and subject matter of meetings or portions thereof closed to public observation pursuant to the provisions of &#167;&#8201;1209.05(a) of this part, shall be made at the earaliest practicable time.
+The 7 day period for advance notice may be shortened only upon a determination by a majority of the members of the Board who will participate in the meeting that agency business requires that such meeting be called at an earlier date, in which event the public announcement shall be made at the earliest practicable time.
+
+
+# Tags
+
+['shall', 'meeting', 'board', 'thereof', 'practicable information', 'matters', 'agency', 'record', 'publication', 'conduct', 'announcement', 'act', 'persons', 'setting', 'votes', 'members', 'exempted', 'close']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                 |

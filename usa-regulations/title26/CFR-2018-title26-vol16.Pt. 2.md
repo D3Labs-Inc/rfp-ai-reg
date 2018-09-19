@@ -8,6 +8,17 @@
  CFR-2018-title26-vol16.Pt. 2
 
 
+# Summary
+
+Earnings and receipts deposited in a construction reserve fund established in accordance with the provisions of section 511 of the Act and the regulations in this part will be deemed to have been accumulated for the reasonable needs of the business within the meaning of part 1 (section 531 and following), Subchapter G, Chapter I of the Internal Revenue Code of 1954, so long as the requirements of section 511 of the Act and the regulations in this part are satisfied relative to the use of the fund in the construction, reconstruction, reconditioning, or acquisition of new vessels, or for the liquidation of purchase-money indebtedness on such vessels.
+The basis for determining gain or loss and for depreciation for the purpose of the Federal income tax with respect to a new vessel constructed, reconstructed, reconditioned, or acquired by the taxpayer, or with respect to which purchase-money indebtedness is liquidated as provided in section 511(g) of the Act, with funds deposited in the construction reserve fund, is reduced by the amount of the unrecognized gain represented in the funds allocated under the provisions of the regulations in this part to the cost of such vessel.
+
+
+# Tags
+
+['shall', 'depositing', 'including', 'taxpayers', 'thereof', 'administration', 'vessels earnings', 'fund', 'obligations', 'constructs', 'contracts', 'taxes', 'requirements', 'applicability', 'meanings', 'payment', 'secured', 'gain', 'withdrawal', 'amounts', 'control', 'section', 'revenue', 'market value', 'act', 'price paid', 'authorization', 'actual', 'purchase', 'rules', 'determination', 'provisions', 'year', 'executive', 'set', 'companies', 'states']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                               |

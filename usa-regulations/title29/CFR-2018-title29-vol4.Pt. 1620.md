@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1620
 
 
+# Summary
+
+Although employees traditionally engaged in performing the less demanding work would be paid at a lower rate than those employees transferred from the more skilled jobs, the resultant wage differential would not constitute a violation of the equal pay provisions since the differential is based on factors other than sex.
+Under the EPA a prima facie violation is established upon a showing that an employer pays different wages to employees of opposite sexes for equal work on jobs requiring equal skill, effort and responsibility, and which are performed under similar working conditions.
+(b) Every employer subject to the equal pay provisions of the Act shall maintain and preserve all records required by the applicable sections of 29 CFR part 516 and in addition, shall preserve any records which he makes in the regular course of his business operation which relate to the payment of wages, wage rates, job evaluations, job descriptions, merit systems, seniority systems, collective bargaining agreements, description of practices or other matters which describe or explain the basis for payment of any wage differential to employees of the opposite sex in the same establishment, and which may be pertinent to a determination whether such differential is based on a factor other than sex.
+
+
+# Tags
+
+['job', 'employees', 'wages', 'work', 'required', 'performed', 'employment', 'establishes different', 'includes', 'rate', 'equality', 'pays', 'time', 'sexes', 'activities', 'duties', 'violation', 'business', 'generally', 'efforts', 'engaging', 'act', 'benefit', 'epa', 'persons', 'skill', 'responsible', 'flsa', 'terms', 'higher', 'means', 'constitutes', 'standard', 'separate', 'physical', 'paid', 'similar', 'addition', 'based', 'payments', 'applied', 'relation', 'employed', 'regularly', 'application', 'worker', 'materials', 'extra', 'transportation', 'state', 'unequal', 'labor', 'defined', 'thereof', 'enterprises', 'subpoenaed', 'differentials', 'law', 'administration', 'certain', 'shall', 'regular', 'equipment', 'relationship', 'periods']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                       |

@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1207
 
 
+# Summary
+
+(1) When the members of a PL Board constituted in accordance with paragraph (a) of this section, for the purpose of resolving questions concerning the establishment of the Board and/or its jurisdiction, are unable to resolve these matters, then and in that event, either party may ten (10) days thereafter request the Mediation Board to appoint a neutral member to determine these procedural issues.
+(1) The &#8220;representative of any craft or class of employees of a carrier,&#8221; as referred to in Public Law 89-456, making request for Mediation Board action, shall be either the General Chairman, Grand Lodge Officer (or corresponding officer of equivalent rank), or the Chief Executive of the representative involved.
+The original agreement creating the PL Board under Public Law 89-456 shall be filed with the National Mediation Board at the time it is executed by the parties.
+Since the provisions of section 2(a) of Public Law 89-456 apply also to the awards of PL Boards created under this Act, two copies of all awards made by the PL Boards, together with the record of proceedings upon which such awards are based, shall be forwarded by the neutrals who are members of such Boards, or by the parties in case of disposition of disputes by PL Boards without participation of neutrals, to the Administrative Officer of the National Railroad Adjustment Board, Chicago, Ill., for filing, safekeeping, and handling under the provisions of section 2(q), as may be required.
+
+
+# Tags
+
+['board', 'shall', 'law', 'agreement', 'requesting', 'matters', 'officer', 'representatives', 'neutrals']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                    |

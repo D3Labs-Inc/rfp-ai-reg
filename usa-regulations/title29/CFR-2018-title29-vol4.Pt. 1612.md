@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1612
 
 
+# Summary
+
+(c) No later than seven (7) calendar days prior to the scheduled meeting the members of the agency shall, upon consideration of the request submitted and consideration of the certified opinion of the Legal Counsel, determine by recorded vote whether to close the meeting or portion of the meeting to public observation.
+Information pertaining to a meeting, portion of a meeting or series of meetings otherwise required to be announced (&#167;&#8201;1612.7(a)(3)) or made publicly available (paragraphs (f) (2) and (3) of this section) shall be withheld only when a majority of the entire agency membership votes to take such action.
+(e) The Commission shall, upon the request of any one of its members and consideration of the certified opinion of the Legal Counsel, determine by recorded vote whether to close such meeting or portion thereof.
+(b) A copy of the certification of the Legal Counsel as described in paragraph (a) of this section together with a statement of the presiding officer of the meeting setting forth the time and place of the relevant meeting or meetings, and the persons present, shall be maintained by the agency in a public file.
+
+
+# Tags
+
+['shall', 'meeting', 'information', 'recording', 'agency means', 'commission', 'public', 'persons', 'requesting', 'disclose matters', 'particular', 'close', 'pertaining', 'announcements', 'provided', 'votes', 'members', 'prior', 'actions', 'properly', 'enforcement', 'require', 'following', 'calendar', 'investigative', 'including', 'conducting']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                   |

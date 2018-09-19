@@ -8,6 +8,21 @@
  CFR-2018-title29-vol4.Pt. 1430
 
 
+# Summary
+
+(1) Advisory committees established by the Service not pursuant to specific statutory authority may be created by the Director after consultation with the secretariat.
+The Director shall create advisory committees established pursuant to specific statutory authority in accordance with the provisions of the statute and shall follow the provisions of this part, to the extent they are not inconsistent with the statute: Provided, however, That the Director need not utilize the procedures described in paragraph (b) of this section.
+(a) All nonstatutory advisory committees including those authorized, but not specifically created by statute, shall terminate no later than 2 years after their charters have been filed, unless renewed as provided in &#167;&#8201;1430.6.
+The Director may renew advisory committees established pursuant to specific statutory authority through the filing of a new charter at appropriate 2-year intervals.
+(2) The Service's committee management officer shall be promptly informed that a meeting has been called.
+All advisory committee meetings shall be open to the public, except when the Office of the General Counsel determines, in writing, and states his reasons therefor prior to Federal Register notice, that a meeting or any part thereof, is concerned with matters related to the exemptions provided in the Freedom of Information Act, 5 U.S.C. 552(b).
+
+
+# Tags
+
+['committees', 'shall', 'charter', 'advisory', 'meeting', 'term', 'notice', 'informed', 'agency', 'establishing', 'appropriate', 'meaning', 'act', 'created', 'service', 'management', 'publication', 'office', 'providing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                 |

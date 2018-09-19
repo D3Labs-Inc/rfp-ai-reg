@@ -8,6 +8,19 @@
  CFR-2018-title26-vol16.Pt. 16A
 
 
+# Summary
+
+Unless a taxpayer elects not to have section 126 apply, the amount of gross income realized on receipt of the section 126 improvement is the value of the section 126 improvement less the sum of the taxpayer's share of the cost of the improvement and the excludable portion.
+For rules relating to the recapture as ordinary income of the gain from the disposition (within 20 years of the date of receipt) of property for which an exclusion is claimed for a section 126 improvement, see section 1255 and the regulations thereunder.
+For purposes of section 1255 and this paragraph, the term &#8220;transfer at death&#8221; shall have the same meaning as in &#167;&#8201;1.1245-4(b) and, with respect to the application of this paragraph, principles illustrated by the examples of &#167;&#8201;1.1245-4(b)(2) shall apply.
+If section 126 property is disposed of in a transaction which either is in part a sale or exchange and in part a gift to which paragraph (a)(2) of this section applies, or is a partially tax-free transfer to which paragraph (c)(1) of this section applies, then for purposes of section 1255 the amount determined under paragraph (d)(1) of this section shall be reduced by the amount of gain taken into account under section 1255 by the transferor upon the disposition.
+
+
+# Tags
+
+['sections', 'gain', 'certain', 'shall', 'payments', 'property', 'improved', 'income', 'applies', 'terms', 'tax', 'meaning', 'transfer', 'programs', 'watersheds', 'exchange', 'affected', 'general', 'cost', 'date']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                       |

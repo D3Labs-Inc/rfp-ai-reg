@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1640
 
 
+# Summary
+
+(a) This part establishes the procedures to be followed by the Federal agencies responsible for processing and resolving complaints or charges of employment discrimination filed against recipients of Federal financial assistance when jurisdiction exists under both section 504 and title I.
+Any charge retained by the EEOC for investigation and processing will be investigated and processed under title I only, and will not be deemed dual filed under section 504, except that ADA cause charges (as defined in 29 CFR 1601.21) that also fall within the jurisdiction of a section 504 agency and that the EEOC (or the Civil Rights Division, if such a charge is against a government, governmental agency, or political subdivision) has declined to litigate shall be referred to the appropriate section 504 agency for review of the file and any administrative or other action deemed appropriate under section 504.
+Upon written request, the EEOC or the Civil Rights Division shall provide the section 504 agency with any materials relating to its resolution of the charge, including its findings and conclusions, investigative reports and files, and any conciliation agreement.
+
+
+# Tags
+
+['agency shall', 'section', 'eeoc', 'complaints', 'charges', 'investigative', 'mean', 'employment', 'actions', 'pursuant', 'enforce', 'referring', 'federally', 'jurisdiction', 'ada', 'passenger', 'act', 'processing', 'following', 'filed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                |

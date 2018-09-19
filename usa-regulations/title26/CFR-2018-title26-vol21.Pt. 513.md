@@ -8,6 +8,17 @@
  CFR-2018-title26-vol21.Pt. 513
 
 
+# Summary
+
+(2) In the case of every such taxpayer whose address at the time of payment was in Ireland and who furnishes to the withholding agent the letter of notification prescribed in &#167;&#167;&#8201;513.3(b), 513.4, or &#167;&#8201;513.5, where United States tax at the rate of 30 percent has been withheld on or after January 1, 1952, there shall be released (except as provided in paragraph (e) of this section) by the withholding agent and paid over to the person from whom it was withheld:
+(1) United States tax shall be withheld at the rate of 15 percent from any dividend derived from a United States corporation and paid on or after January 1, 1952, to a foreign corporation whose address is in Ireland unless, prior to the date of payment thereof, the Commissioner of Internal Revenue notifies the domestic corporation that such dividend falls within the scope of the proviso of Article VI(1) of the convention.
+
+
+# Tags
+
+['shall', 'income', 'revenue', 'dividends', 'form', 'irish tax', 'royalties', 'states', 'information', 'years', 'corporation', 'rendered', 'pensions', 'thereof derived', 'withheld']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                           |

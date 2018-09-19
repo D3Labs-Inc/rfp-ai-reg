@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1400
 
 
+# Summary
+
+(4) The Service, as a matter of policy, does not look upon any outside employment or business activity, including concurrent employment by the Federal Mediation and Conciliation Service and any other Governmental political subdivision or agency, as being consistent with the best interests of the Service.
+(5) Employees may not engage in any outside employment, including teaching, lecturing, or writing, which might reasonably result in a conflict of interest, or an apparent conflict of interest, between the private interests of the employee and his official government duties and responsibilities.
+No employee shall directly or indirectly accept, engage in, or continue in any outside employment or business activity, full- or part-time, paid or unpaid, without advance written approval (including teaching or lecturing).
+(2) This provision does not, of course, prevent the Director from authorizing an employee to base his writings or lectures on nonpublic materials in the Federal Mediation and Conciliation Service files (not involving national security) when this will be done in the public interest.
+The Service shall take prompt disciplinary action against an employee committing prohibited activity, or whose conduct is prejudicial to the best interests of the Service, or of a nature to bring discredit to it.
+
+
+# Tags
+
+['usc', 'service', 'employee shall', 'activities', 'government', 'including', 'relations', 'public', 'employment', 'teaching', 'approved', 'official', 'state political', 'matters', 'accept', 'concurrent', 'personal', 'office', 'compensation', 'necessarily', 'information', 'actions', 'gift', 'code', 'statutory', 'mediators']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                     |

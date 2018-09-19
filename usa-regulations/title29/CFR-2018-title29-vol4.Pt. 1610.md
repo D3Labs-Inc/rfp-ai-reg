@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1610
 
 
+# Summary
+
+A request for any record which does not fall within the ambit of paragraph (a) of this section, or a request for any record the location of which is unknown to the person making the request, shall be submitted in writing to the Assistant Legal Counsel, FOIA Programs, U.S. Equal Employment Opportunity Commission, by mail to 131 M Street NE., Suite 5NW02E, Washington, DC 20507, by fax to (202) 653-6034, by email to FOIA@eeoc.gov, or by Internet to https://publicportalfoiapal.eeoc.gov/palMain.aspx.
+(a) Except as provided in paragraph (b) of this section, the Legal Counsel or designee, the Assistant Legal Counsel, FOIA Programs, and the District Directors or designees shall assess fees where applicable in accordance with &#167;&#8201;1610.15 for search, review, and duplication of records requested.
+(2) Direct costs refers to those expenses that the Commission incurs in searching for and duplicating (and, in the case of commercial use requests, reviewing) records in order to respond to a FOIA request.
+Accordingly, the prohibitions on disclosure contained in sections 706 and 709 of title VII as outlined in paragraphs (b), (c), (d), and (e) of this section, apply with equal force to requests for information related to charges and executed statistical reporting forms filed with the Commission under the Americans with Disabilities Act or the Genetic Information Nondiscrimination Act.
+
+
+# Tags
+
+['requesting', 'information', 'commission', 'foia', 'agency record includes', 'fees', 'shall', 'provides', 'public', 'time', 'charged', 'reasonable', 'filing', 'involvement', 'disclosure', 'reports', 'form', 'require', 'reviewed', 'act', 'offices', 'processing', 'refer', 'appeals', 'author', 'exempted', 'government', 'designations', 'number', 'news', 'service', 'days', 'written', 'containing', 'commercial', 'responsibilities', 'receives', 'electronically', 'concern', 'particular', 'cost', 'addition', 'individualized', 'materials', 'administration', 'basis', 'employment', 'procedures', 'search', 'determine', 'general', 'sections', 'use', 'publishing', 'persons', 'employees', 'subject', 'usc', 'identifies', 'follow', 'copying', 'considering', 'operator']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

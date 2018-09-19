@@ -8,6 +8,21 @@
  CFR-2018-title29-vol7.Pt. 1912a
 
 
+# Summary
+
+(b) In an absence of brief duration of its Chairman, the Committee may designate a public member to preside at any meeting thereof.
+(a) At the request of the Committee or the person calling a meeting, the Assistant Secretary of Labor for Occupational Safety and Health may make available to the Committee any needed experts or consultants.
+(5) An explanation of the extent, if any, of public participation, including a list of interested persons who presented oral or written statements; and an estimate of the number of the members of the public who attended the meeting.
+In accordance with section 14(b)(2) of the Federal Advisory Committee Act, there shall be filed on behalf of the Committee a charter in accordance with section 9(c) thereof upon the expiration of each successive two-year period following December 28, 1970, the date of enactment of the Occupational Safety and Health Act.
+(a) The Chairman may appoint from among the members of the Committee any number of subcommittees for the purpose of assisting the Committee in carrying out its functions.
+(b) Any advisory committee member or any other aggrieved person may file a written complaint with the Assistant Secretary alleging noncompliance with the rules in this part.
+
+
+# Tags
+
+['shall', 'times', 'meetings', 'members', 'notice', 'advisory', 'committee', 'term', 'secretary', 'health', 'acted', 'written', 'persons', 'representatives', 'federal', 'information', 'public', 'statement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                      |

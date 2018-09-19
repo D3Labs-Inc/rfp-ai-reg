@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1403
 
 
+# Summary
+
+(e) The term proffer its services, as applied to the functions and duties of the Federal Mediation and Conciliation Service, means to make mediation services and facilities available either on its own motion or upon the request of one or more of the parties to a dispute.
+(b) If, in a labor-management dispute there is reasonable doubt that the dispute threatens to cause a substantial interruption to commerce or that there is more than a minor effect upon interstate commerce, and State or other conciliation services are available to the parties, the regional director of the Federal Service will endeavor to work out suitable arrangements with the State or other conciliation or mediation agency for mediation of the dispute.
+(c) If requested by a State or local mediation agency or the chief executive of a State or local government, the Federal Service may make its services available in a labor-management dispute which would have only a minor effect upon interstate commerce when, in the judgment of the Federal Service, the effect of the dispute upon commerce or the public welfare, health, or safety justifies making available its mediation facilities.
+
+
+# Tags
+
+['disputes', 'labor', 'service', 'term commerce', 'mediation', 'affecting', 'facilities', 'clearly', 'substantial']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                         |

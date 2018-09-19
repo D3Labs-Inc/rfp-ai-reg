@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1202
 
 
+# Summary
+
+Section 3, Third, (e) title I of the act makes it the duty of the National Mediation Board to appoint and fix the compensation for service a neutral person known as a &#8220;referee&#8221; in any case where a division of the National Railroad Adjustment Board becomes deadlocked on an award, such referee to sit with the division and make an award.
+Under section 205, title II, of the Railway Labor Act, when in the judgment of the National Mediation Board it becomes necessary to establish a permanent national board of adjustment for the air carriers subject to the act to provide for the prompt and orderly settlement of disputes between the employees and the carriers growing out of grievances, or out of the application or interpretation of working agreements, the Board is empowered by its order made, published, and served, to direct the air carriers and labor organizations, national in scope, to select and designate four representatives to constitute a Board known as the National Air Transport Adjustment Board.
+Section 3, First, (f) of title I of the Railway Labor Act relating to the settlement of disputes among labor organizations as to the qualification of any such organization to participate in the selection of labor members of the Adjustment Board, places certain duties upon the National Mediation Board.
+
+
+# Tags
+
+['boards', 'shall', 'carriers', 'hearing', 'national', 'brief', 'labor', 'represent', 'section', 'employees', 'designation', 'transporting', 'agreement', 'mediation', 'air', 'party']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                               |

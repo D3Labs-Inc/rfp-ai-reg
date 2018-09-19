@@ -8,6 +8,18 @@
  CFR-2018-title29-vol5.Pt. 1902
 
 
+# Summary
+
+(3) Whenever the Assistant Secretary determines, after giving notice and affording the State an opportunity for a hearing, that in the administration of the State plan there is a failure to comply substantially with any provision of the plan or any assurance contained therein, he shall withdraw approval of such plan in whole or in part, and upon notice the State shall cease operations under any disapproved plan or part thereof, except that it will be permitted to retain jurisdiction as to any case commenced before withdrawal of approval whenever the issues involved do not relate to the reasons for the withdrawal of the plan.
+(c) If the Assistant Secretary makes an affirmative 18(e) determination, the Federal enforcement provisions of sections 5(a) (2), 8 (except for the purposes of continuing evaluations under section 18(f) of the Act), 9, 10, 13 and 17 and standards promulgated under section 6 of the Act shall not apply with respect to those occupational safety and health issues covered under the plan which have been given an affirmative 18(e) determination.
+In his evaluation he shall consider whether the requirements of section 18(c) of the Act and the criteria for State plans outlined in subpart B of this part as well as those in &#167;&#8201;1902.37 are being applied in actual operations for a reasonable period of time in a manner which warrants the termination of concurrent Federal enforcement authority and standards in issues covered under the plan.
+
+
+# Tags
+
+['shall', 'states', 'plan', 'standards', 'federal', 'includes', 'inform', 'providing', 'requirement', 'issue', 'programs', 'employee', 'appropriate', 'follows', 'thereof', 'notices', 'healthful', 'approving', 'reported', 'reason', 'acted', 'secretary', 'proceeding', 'authorized', 'determines', 'enforcing', 'administrative', 'employments', 'operation', 'adequately', 'necessary', 'written', 'hearings', 'proposes', 'examinations', 'decision', 'contains', 'inspect', 'granted', 'provision', 'procedure', 'concerned', 'timely', 'actions', 'occupational', 'additions', 'available', 'indicate', 'sets', 'specification', 'public', 'data', 'applicable', 'meet']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                     |

@@ -8,6 +8,17 @@
  CFR-2018-title26-vol18.Pt. 46
 
 
+# Summary
+
+For purposes of section 4376, two or more arrangements established or maintained by the same plan sponsor that provide for accident and health coverage (within the meaning of &#167;&#8201;46.4377-1(a)) other than through an insurance policy and that have the same plan year may be treated as a single applicable self-insured health plan for purposes of calculating the fee imposed by section 4376.
+(H) In the case of an applicable self-insured health plan the sponsor of which is not described in paragraphs (b)(2)(i)(A) through (F) of this section, and for which no identification or designation of a plan sponsor has been made pursuant to paragraph (b)(2)(i)(G) of this section, each employer that establishes or maintains the plan (with respect to employees of that employer), each employee organization that establishes or maintains the plan (with respect to members of that employee organization), and each board of trustees, cooperative, or association that establishes or maintains the plan, meaning that each plan sponsor must file a separate Form 720, &#8220;Quarterly Federal Excise Tax Return,&#8221; reflecting its separate liability under section 4376.
+
+
+# Tags
+
+['insured', 'health plans', 'year', 'sections', 'providing', 'methods', 'policy', 'covered', 'term', 'tax', 'date', 'person', 'arrange', 'employee', 'means', 'includes', 'individual', 'states', 'benefit', 'applicability', 'programs', 'obligations', 'form', 'iii', 'returns', 'federal', 'issuing', 'reinsuring', 'definition', 'applies', 'required', 'quarters']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                             |

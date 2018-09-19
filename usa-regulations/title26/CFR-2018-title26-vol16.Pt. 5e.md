@@ -8,6 +8,19 @@
  CFR-2018-title26-vol16.Pt. 5e
 
 
+# Summary
+
+The amount allowed to be deducted without substantiation, pursuant to this section, for costs incurred for living in the Washington, DC area represents amounts expended for meals, lodging, and other incidental expenses.
+The amount that may be deducted pursuant to section 162 and these regulations is an amount equal to the product of the number of Congressional days in the taxable year, multiplied by the designated amount.
+(2) If a Member, who lives in a residence owned by him in the Washington, DC area, chooses to deduct amounts prescribed in paragraph (c)(1) of this section, the Member must treat as an adjustment to the basis of such residence an amount equal to 20 percent of the maximum amount of actual subsistence multiplied by the number of Congressional days.
+To elect to deduct the amounts prescribed by this section, a Member must attach to his return for the taxable year a statement indicating, (1) that the deduction for travel expenses while living in the Washington, DC area are computed pursuant to &#167;&#8201;5e.274-8, and (2) whether a separate deduction is being taken for interest and taxes paid or incurred with respect to the personal residence of the Member if in the Washington, DC area.
+
+
+# Tags
+
+['including', 'travel expenses', 'amounts', 'days', 'pursuant', 'residence', 'year']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                          |

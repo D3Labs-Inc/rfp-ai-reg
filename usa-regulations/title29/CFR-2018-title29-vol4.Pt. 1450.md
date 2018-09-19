@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1450
 
 
+# Summary
+
+(c) As appropriate to the circumstances, FMCS may include either in the initial demand letter or in subsequent letters, matters relating to alternative methods of payment, policies with respect to use of consumer reporting agencies and collection services, the agency's intentions with respect to referral of the debt to the Department of Justice for litigation, and, depending on applicable statutory authority, the debtor's entitlement to consideration of waiver.
+The procedures contained in this subpart do not apply to debts or claims arising under the Internal Revenue Code of 1954 as amended (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.) or the tariff laws of the United States, or to any case where collection of a debt by salary offset is explicitly provided for or prohibited by another statute (e.g., travel advances in 5 U.S.C. 5705 and employee training expenses in 5 U.S.C. 4108).
+Also, FMCS may waive, in whole or in part, the collection of interest, penalties, and/or administrative costs assessed under this section under the criteria specified in part 103 of the Federal Claims Collection Standards (4 CFR part 103) relating to the compromise of claims (without regard to the amount of the debt), or if the agency determines that collection of these charges would be against equity and good conscience, or not in the best interests of the United States.
+
+
+# Tags
+
+['fmcs', 'debt', 'shall', 'collecting', 'payments', 'pay', 'claim', 'administratively', 'agency means', 'written', 'offset', 'including', 'procedures', 'employees', 'accounts', 'financial', 'require', 'information', 'regulation', 'law', 'provides', 'requesting', 'usc', 'appropriation acts', 'waiver', 'service', 'state', 'debtor', 'contracts', 'deductions', 'cost', 'charged', 'agreement', 'availability', 'applicability', 'currently', 'fund', 'determinations', 'installments', 'hearing', 'federal', 'reasonable', 'amounts', 'demand', 'personal', 'compromise', 'date', 'standards']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                      |

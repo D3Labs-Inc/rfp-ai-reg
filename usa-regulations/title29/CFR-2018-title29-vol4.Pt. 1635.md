@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1635
 
 
+# Summary
+
+(iv) A covered entity may not, however, condition participation in an employer-sponsored wellness program or provide any inducement to an employee, or the spouse or other covered dependent of the employee, in exchange for an agreement permitting the sale, exchange, sharing, transfer, or other disclosure of genetic information, including information about the manifestation of disease or disorder of an employee's family member (except to the extent permitted by paragraph (b)(2)(i)(D)) of this section, or otherwise waiving the protections of &#167;&#8201;1635.9.
+(1) A covered entity does not violate this section when it requests, requires, or purchases information about a manifested disease, disorder, or pathological condition of an employee, member, or apprenticeship program participant whose family member is an employee for the same employer, a member of the same labor organization, or a participant in the same apprenticeship program.
+(2) A covered entity does not violate this section when it requests, requires, or purchases genetic information or information about the manifestation of a disease, disorder, or pathological condition of an individual's family member who is receiving health or genetic services on a voluntary basis, as long as the requirements of paragraph (b)(2) of this section, including those concerning authorization and inducements, are met.
+
+
+# Tags
+
+['genetic', 'includes', 'employer', 'health care', 'provides', 'act', 'shall inform', 'individual', 'employee', 'entity', 'medically', 'requesting', 'condition', 'program', 'reasonable', 'require', 'family', 'lawful', 'service', 'offered', 'authorities', 'test', 'iii', 'means', 'labor', 'office', 'receives', 'limitations', 'based', 'dna', 'sections', 'coverage', 'regulation', 'diseases', 'personal', 'agency', 'cost', 'groups', 'members', 'makes', 'relates', 'particular', 'plan', 'participant', 'generally', 'federal', 'commissioned', 'remain', 'prohibition', 'concern', 'inadvertently', 'use', 'applying', 'pursuant', 'governing', 'blood', 'media', 'gina', 'legally', 'violating', 'representative']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                           |

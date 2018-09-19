@@ -8,6 +8,17 @@
  CFR-2018-title29-vol4.Pt. 1626
 
 
+# Summary
+
+For purpose of this part, the term the Act shall mean the Age Discrimination in Employment Act of 1967, as amended; the Commission shall mean the Equal Employment Opportunity Commission or any of its designated representatives; charge shall mean a statement filed with the Commission by or on behalf of an aggrieved person which alleges that the named prospective defendant has engaged in or is about to engage in actions in violation of the Act; complaint shall mean information received from any source, that is not a charge, which alleges that a named prospective defendant has engaged in or is about to engage in actions in violation of the Act; charging party means the person filing a charge; complainant means the person filing a complaint; and respondent means the person named as a prospective defendant in a charge or complaint, or as a result of a Commission-initiated investigation.
+(d) If the Commission becomes aware that the aggrieved person whose claim is the subject of a pending ADEA charge has filed an ADEA lawsuit against the respondent named in the charge, it shall terminate further processing of the charge or portion of the charge affecting that person unless the District Director; Field Director; Area Director; Local Director; Director of the Office of Field Programs; the General Counsel; the Director of Field Management Programs; or their designees determine at that time or at a later time that it would effectuate the purpose of the ADEA to further process the charge.
+
+
+# Tags
+
+['charged', 'shall', 'acts', 'information', 'persons', 'commission', 'state', 'employment', 'alleges', 'appropriate', 'subpoenas', 'dates', 'pursuant', 'agency', 'written', 'practice', 'data', 'actions', 'agreements', 'mean', 'letter', 'including', 'receives', 'filed', 'conciliation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                |

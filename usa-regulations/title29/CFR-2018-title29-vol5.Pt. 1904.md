@@ -8,6 +8,19 @@
  CFR-2018-title29-vol5.Pt. 1904
 
 
+# Summary
+
+You must also consider a case to meet the general recording criteria if it involves a significant injury or illness diagnosed by a physician or other licensed health care professional, even if it does not result in death, days away from work, restricted work or job transfer, medical treatment beyond first aid, or loss of consciousness.
+You must record these injuries and illnesses on the OSHA 300 Log using the check box for cases with days away from work and enter the number of calendar days away recommended by the physician or other licensed health care professional.
+(7) What is a &#8220;significant&#8221; diagnosed injury or illness that is recordable under the general criteria even if it does not result in death, days away from work, restricted work or job transfer, medical treatment beyond first aid, or loss of consciousness?
+If your establishment had 250 or more employees at any time during the previous calendar year, and this part requires your establishment to keep records, then you must electronically submit information from the three recordkeeping forms that you keep under this part (OSHA Form 300A Summary of Work-Related Injuries and Illnesses, OSHA Form 300 Log of Work-Related Injuries and Illnesses, and OSHA Form 301 Injury and Illness Incident Report) to OSHA or OSHA's designee.
+
+
+# Tags
+
+['employees', 'work', 'osha injury', 'record', 'illness', 'case', 'includes', 'form', 'days', 'require', 'informs', 'reported', 'medically', 'employment', 'businesses', 'iii', 'yes', 'involvement', 'recordkeeping', 'service', 'naics', 'establish', 'follow', 'state', 'related', 'health', 'company', 'hearing', 'provides', 'covering', 'job', 'industry', 'logs', 'considers', 'activities', 'worker', 'tests', 'occupational', 'locations', 'standard', 'resulted', 'professionals', 'reasons', 'representative', 'listed', 'offices', 'procedures', 'remove', 'amputations', 'year', 'number', 'persons', 'occur', 'condition', 'variances', 'away', 'fluid', 'electronically', 'restricted', 'times', 'government', 'home', 'machine', 'public', 'annual', 'audiogram', 'losses']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                       |

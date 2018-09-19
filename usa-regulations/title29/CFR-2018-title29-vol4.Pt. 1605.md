@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1605
 
 
+# Summary
+
+(2) Section 701(j) in conjunction with section 703(c), imposes an obligation on a labor organization to reasonably accommodate the religious practices of an employee or prospective employee, unless the labor organization demonstrates that accommodation would result in undue hardship.
+A refusal to accommodate is justified only when an employer or labor organization can demonstrate that an undue hardship would in fact result from each available alternative method of accommodation.
+The Commission believes that the obligation to accommodate requires that employers and labor organizations facilitate the securing of a voluntary substitute with substantially similar qualifications.
+One means of providing reasonable accommodation for the religious practices of employees or prospective employees which employers and labor organizations should consider is the creation of a flexible work schedule for individuals requesting accommodation.
+When a test or other selection procedure is scheduled at a time when an employee or prospective employee cannot attend because of his or her religious practices, the user of the test should be aware that the principles enunciated in these guidelines apply and that it has an obligation to accommodate such employee or prospective employee unless undue hardship would result.
+
+
+# Tags
+
+['accommodating', 'religious', 'employment', 'cost', 'sections', 'employee', 'practice', 'includes', 'organizations', 'undue', 'selection', 'flexible', 'time', 'working', 'principles', 'rights', 'individual', 'scheduling', 'payment', 'similar', 'voluntary']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

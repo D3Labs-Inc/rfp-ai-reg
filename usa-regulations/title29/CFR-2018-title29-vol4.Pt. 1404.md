@@ -8,6 +8,21 @@
  CFR-2018-title29-vol4.Pt. 1404
 
 
+# Summary
+
+FMCS shall maintain a Roster of labor arbitrators consisting of persons who meet the criteria for listing contained in &#167;&#8201;1404.5 and who remain in good standing.
+Persons listed on the Roster shall comply with FMCS rules and regulations pertaining to arbitration and with such guidelines and procedures as may be issued by the OAS pursuant to subpart C of this Part.
+Requests for a panel of other than seven (7) names, for a direct appointment of an arbitrator, for special qualifications or other service will not be honored unless jointly submitted or authorized by the applicable collective bargaining agreement.
+(b) All panels submitted to the parties by the OAS, and all letters issued by the OAS making a direct appointment, will have an assigned FMCS case number.
+Arbitrators listed on the Roster may change the bases for their fees and expenses if they provide them in writing to OAS at least 30 days in advance.
+If the parties are unable to mutually agree upon an arbitrator or if prioritized selections are not received from both parties within 30 days, the OAS will make a direct appointment of an arbitrator not on the original panel.
+
+
+# Tags
+
+['arbitrator', 'shall', 'fmcs', 'party', 'oas', 'panel', 'requesting', 'cases', 'fees', 'labor', 'service', 'hearings', 'selection', 'applicants', 'written', 'appoint', 'timely', 'certain', 'list', 'procedure', 'inform', 'roster', 'involving', 'expedited', 'award', 'issues', 'form', 'relating', 'included', 'decision', 'employer', 'numbering', 'required', 'criteria', 'geographical', 'removal', 'dispute', 'day', 'briefs', 'individuals', 'matter']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                     |

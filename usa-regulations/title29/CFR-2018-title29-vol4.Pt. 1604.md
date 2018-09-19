@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1604
 
 
+# Summary
+
+Accordingly, such laws will not be considered a defense to an otherwise established unlawful employment practice or as a basis for the application of the bona fide occupational qualification exception.
+(a) It is an unlawful employment practice to classify a job as &#8220;male&#8221; or &#8220;female&#8221; or to maintain separate lines of progression or separate seniority lists based on sex where this would adversely affect any employee unless sex is a bona fide occupational qualification for that job.
+It is a violation of title VII for a help-wanted advertisement to indicate a preference, limitation, specification, or discrimination based on sex unless sex is a bona fide occupational qualification for the particular job involved.
+The Commission has determined that private employment agencies which deal exclusively with one sex are engaged in an unlawful employment practice, except to the extent that such agencies limit their services to furnishing employees for particular jobs for which sex is a bona fide occupational qualification.
+Any pre-employment inquiry in connection with prospective employment which expresses directly or indirectly any limitation, specification, or discrimination as to sex shall be unlawful unless based upon a bona fide occupational qualification.
+
+
+# Tags
+
+['employment', 'employee', 'job', 'sex', 'benefits', 'sexual', 'certain', 'male', 'require', 'affect', 'pay', 'wages', 'plan', 'agency', 'state', 'expresses', 'unreasonable', 'based', 'female', 'relating', 'shall', 'working', 'providing', 'women', 'retirement', 'separate', 'insurance', 'medical']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                               |

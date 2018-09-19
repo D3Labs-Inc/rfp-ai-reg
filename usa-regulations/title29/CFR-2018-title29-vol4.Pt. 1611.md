@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1611
 
 
+# Summary
+
+Where the government-wide systems notices permit access to these records through the employing agency, an individual should submit requests for access to, for amendment of or for an accounting of disclosures to the Commission offices as indicated in &#167;&#8201;1611.3(b).
+(c) If a request for access to records is denied pursuant to paragraph (a) or (b) of this section, the determination shall specify the reasons for the denial and advise the individual how to appeal the denial.
+(a) Any person who wishes to request correction or amendment of any record pertaining to him or her which is contained in a system of records maintained by the Commission, shall submit that request in writing in accordance with the instructions set forth in the system notice for that system of records.
+Requests for amendment or correction of records maintained by other agencies in system EEOC/GOVT-1 shall be governed by the Commission's regulations in this part.
+(d) If the Legal Counsel or the Legal Counsel's designee determines to grant all or any portion of a request on an appeal submitted under paragraph (a) of this section, he or she shall so inform the requester, and the appropriate Commission official shall comply with the procedures set forth in &#167;&#8201;1611.8(a)(1)(ii) and (iii).
+
+
+# Tags
+
+['records', 'shall', 'inform', 'requester', 'act', 'file', 'investigation', 'statement', 'systems', 'agencies', 'eeoc including', 'commission', 'person', 'personnel', 'individual', 'appeals', 'sets', 'enforcement activities', 'general', 'determines', 'opm', 'federal', 'cost', 'cause', 'employer', 'employee', 'services', 'disclosures', 'submitting', 'offices', 'exempted', 'relevant', 'privacy']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                              |
