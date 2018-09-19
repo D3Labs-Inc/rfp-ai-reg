@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 655
 
 
+# Summary
+
+(1) The Corporation must publish on its Web site a copy of each annual report to shareholders within 3 business days of filing the report with us.
+(a) The Corporation must provide to us one paper and one electronic copy of every interim report, notice, and proxy statement filed with the SEC within 1 business day of filing the item with the SEC, including all papers and documents that are a part of the report, notice, or statement.
+(b) The Corporation must publish a copy of each interim report, notice, and proxy statement on its Web site within 5 business days of filing the document(s) with the SEC.
+(a) The Corporation must send us one paper and one electronic copy of every filing made with U.S. Treasury, the SEC, or NYSE, including financial statements and related schedules, exhibits, and other documents that are a part of the filing.
+(c) The Corporation must notify us within 1 business day if it becomes exempt or claims exemption from the filing requirements of the Securities Act. Notice is not required when the Corporation claims an exemption that is generally available under SEC rules and regulations to similarly situated filers.
+
+
+# Tags
+
+['means', 'filings', 'securities', 'sec', 'report', 'information', 'electronic', 'exchange', 'investor', 'statement', 'act', 'public', 'provided', 'form']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                   |

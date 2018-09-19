@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 643
 
 
+# Summary
+
+The Secretary evaluates the quality of the applicant's objectives and proposed targets (percentages) in the following areas on the basis of the extent to which they are both ambitious, as related to the need data provided under paragraph (a) of this section, and attainable, given the project's plan of operation, budget, and other resources:
+Whether the applicant met or exceeded its objective regarding the graduation of participants served during the project year who completed a rigorous secondary school program of study.
+Whether the applicant met or exceeded its objective regarding project participants who enrolled in and completed a program of postsecondary education within the number of years specified in the approved objective.
+(A) Uses criteria not required by the applicable law or program regulations, the Federal Register notice inviting applications, the other published application materials for the competition, or guidance provided to the peer reviewers by the Secretary; or
+(2) The grantee demonstrates to the Secretary's satisfaction that using grant funds is the most cost-effective way to deliver the course or courses necessary for the completion of a rigorous secondary school program of study for program participants;
+For each year of the project period, a grantee must serve at least the number of participants that the Secretary identifies in the Federal Register notice inviting applications for a competition.
+
+
+# Tags
+
+['applications', 'projects', 'education', 'points', 'program', 'including', 'schools', 'services', 'secretary', 'scores', 'funds', 'means', 'participate', 'costs', 'provided', 'students', 'follows', 'courses', 'college', 'financial', 'years', 'postsecondary level', 'states', 'requirements', 'serves', 'persons', 'secondary', 'academic', 'grants', 'youth', 'individual', 'report', 'reviewer', 'evaluated', 'effective', 'low', 'islands', 'completion', 'selection', 'describes', 'federal', 'loan', 'target', 'administration', 'plan', 'number', 'institutions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                      |

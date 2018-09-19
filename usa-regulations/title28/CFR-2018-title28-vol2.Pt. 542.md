@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 542
 
 
+# Summary
+
+(a) The Community Corrections Manager (CCM), Warden, Regional Director, and General Counsel are responsible for the implementation and operation of the Administrative Remedy Program at the Community Corrections Center (CCC), institution, regional and Central Office levels, respectively, and shall:
+(1) Appeals to the Regional Director shall be submitted on the form designed for regional Appeals (BP-10) and accompanied by one complete copy or duplicate original of the institution Request and response.
+Appeals to the General Counsel shall be submitted on the form designed for Central Office Appeals (BP-11) and accompanied by one complete copy or duplicate original of the institution and regional filings and their responses.
+The inmate shall date and sign the Appeal and mail it to the appropriate Regional Director, if a Regional Appeal, or to the National Inmate Appeals Administrator, Office of General Counsel, if a Central Office Appeal (see 28 CFR part 503 for information on locating Bureau addresses).
+The Coordinator at any level (CCM, institution, region, Central Office) may reject and return to the inmate without response a Request or an Appeal that is written by an inmate in a manner that is obscene or abusive, or does not meet any other requirement of this part.
+
+
+# Tags
+
+['shall', 'inmate', 'appealed', 'level', 'requests', 'information', 'responsibility', 'region', 'time', 'office', 'institution', 'administrator', 'includes', 'filings', 'staff', 'reasonable number', 'copies', 'reviewing', 'form', 'remedy']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                             |

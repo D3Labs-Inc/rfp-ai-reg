@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 173
 
 
+# Summary
+
+Except in cases of temporary concession permits, leases, permits, and traders' licenses granted under parts 166, 162, and 140 of this chapter, which are governed by the requirements of those parts, the applicant shall within 60 days after approval of the application furnish a surety bond for the faithful performance of the terms of the permit in an amount equal to the total sum accruing during the period of the permit.
+All rates or charges collected by a permittee for services rendered by the permittee in the operation of the concession granted under a permit, must be submitted through the project engineer to the Secretary for approval.
+The project engineer is authorized to incorporate into any proposed permit to meet the needs of any particular case, subject to the approval of the Secretary, such further special requirements as may be agreed upon by him and the applicant, such requirements to be consistent with the general purposes of this part.
+Funds derived from concessions or leases under this part except those so derived from Indian tribal property withdrawn for irrigation purposes and for which the tribe has not been compensated, shall be available for expenditure under existing law in the operation and maintenance of the irrigation project on which collected and as provided for in part 161 of this chapter.
+
+
+# Tags
+
+['shall', 'permit', 'land', 'approved', 'purposes', 'secretary', 'concessions', 'applications', 'stat', 'projects', 'rates', 'improvements', 'permittees', 'funds', 'indian', 'tribes', 'sum', 'pursuant', 'payments', 'issued', 'sureties', 'grazing', 'thereto']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                    |

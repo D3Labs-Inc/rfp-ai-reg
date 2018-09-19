@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 329
 
 
+# Summary
+
+(b) If the owner of the detained article or livestock, or the owner's agent, is not the immediate custodian at the time of detention and if the owner, or owner's agent, can be ascertained and notified, an authorized representative of the Secretary shall furnish a copy of the completed &#8220;Notice of Detention&#8221; to the owner or the owner's agent.
+Within 48 hours after the detention of any livestock or article pursuant to this part, an authorized representative of the Secretary shall give oral or written notification of such detention to any Federal authorities not connected with the Program, and any State or other governmental authorities, having jurisdiction over such livestock or article.
+(2) Furnish copies of a completed &#8220;Notice of Termination of Detention&#8221; (FSIS Form 8400-1) to the persons notified when the article or livestock was detained.
+Any article or livestock subject to seizure and condemnation under this part shall be liable to be proceeded against and seized and condemned, and disposed of, at any time, on an appropriate pleading in any United States district court, or other proper court specified in section 404 of the Act, within the jurisdiction of which the article or livestock is found.
+
+
+# Tags
+
+['shall', 'detained', 'articles', 'notification', 'authorities', 'having', 'criminal', 'livestock', 'food']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                         |

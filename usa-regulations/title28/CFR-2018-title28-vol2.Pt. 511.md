@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 511
 
 
+# Summary
+
+(3) Authorizing Bureau staff to remove from inside a Bureau facility or upon Bureau grounds, and possibly arrest and detain, non-inmates suspected of engaging in prohibited activity.
+Bureau staff may search you and your belongings (for example, bags, boxes, vehicles, containers in vehicles, jackets or coats, etc.) before entering, or while inside, any Bureau facilities or Bureau grounds, to keep out prohibited objects.
+You and your belongings may be searched, either randomly or based on reasonable suspicion, before entering, or while inside, a Bureau facility or Bureau grounds, as follows:
+Notwithstanding staff authority to conduct random searches, staff may also conduct reasonable suspicion searches to ensure the safety, security, and orderly operation of Bureau facilities, and protect the public.
+(2) Drug testing must always be authorized by the Warden or his/her designee and must be based on reasonable suspicion that you are under the influence of an intoxicating substance upon entering, or while inside, a Bureau facility or Bureau grounds.
+(b) There is reasonable suspicion that you may be engaged in, attempting, or about to engage in, prohibited activity that jeopardizes the Bureau's ability to ensure the safety, security, and orderly operation of its facilities, or protect the public.
+
+
+# Tags
+
+['search', 'bureau', 'prohibited', 'including', 'non', 'grounds', 'secured', 'criminal', 'suspicion', 'staff', 'inmates', 'policies', 'members', 'involves', 'authorization', 'vehicles']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                         |

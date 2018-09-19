@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 407
 
 
+# Summary
+
+(c) Any other meeting of Eximbank, or any portion thereof, will be open to public observation except where the Board of Directors determines that such meeting, or any portion thereof, is likely to disclose information of the kind set forth in any paragraph of &#167;&#8201;407.2(a).
+(5) The subject matter of a meeting or the determination of the Board of Directors to open or close a meeting, or any portion thereof, to the public, may be changed following the announcement required by paragraph (a) of this section only if:
+(3) A single vote of the Board of Directors may be taken with respect to a series of meetings, or any portion thereof, which are proposed to be closed to the public pursuant to any paragraph of &#167;&#8201;407.2(a), other than paragraphs (a) (4), (8), (9)(i) or (10), or combination thereof, or with respect to any information concerning such series of meetings, so long as each meeting in such series involves the same particular matters and is scheduled to be held no more than 30 days after the initial meeting in such series.
+
+
+# Tags
+
+['information', 'disclose', 'votes', 'meeting', 'public', 'shall', 'setting', 'thereof', 'pursuant', 'eximbank', 'time', 'directors', 'recordings', 'specifically', 'enforcement', 'agency', 'announcements', 'investigative', 'persons', 'action', 'securities', 'act']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

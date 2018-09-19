@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 216
 
 
+# Summary
+
+No foreign air carrier shall carry any blind sector traffic, as defined in this part, on any flight operating in air transportation pursuant to the authority of a foreign air carrier permit issued under section 402 of the Act, unless the combined carriage of such traffic has been specifically authorized by such permit, or by a Special Authorization issued under &#167;&#8201;216.4.
+Any foreign air carrier may apply to the Board for a Special Authorization, as required by this part, for the carriage of blind sector traffic on a particular flight, series of flights, or for a specified or indefinite period of time between specified points.
+A Special Authorization authorizing the carriage of blind sector traffic will be issued only if the Board finds that the proposed carriage is fully consistent with applicable law and this part, and that grant of such authority would be in the public interest.
+&#8220;Foreign aircraft permits&#8221; issued by the Board under the provisions of part 375 of the Board's Special Regulations, authorizing the combined carriage of blind sector traffic as defined in this part, shall continue in effect in accordance with their terms until their expiration date unless sooner terminated, revoked or modified by the Board.
+
+
+# Tags
+
+['shall', 'applicability', 'authority', 'date', 'operating', 'permit', 'foreign', 'carrier', 'blind', 'traffic', 'existing', 'means', 'including']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                              |

@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 907
 
 
+# Summary
+
+If the Compact Council Chairman approves the Sanctions Committee's recommendations, the Compact Council Chairman shall send a letter to this effect to the FBI or Party State Compact Officer or the chief administrator of the state repository in a Nonparty State that has executed a Memorandum of Understanding.
+(1) As noted above, a letter shall be sent to the Compact Officer of the FBI or Party State or the chief administrator of the state repository in a Nonparty State identifying the violations and setting out the actions necessary to come into compliance.
+If the Compact Council agrees with the Sanctions Committee's finding, a letter shall be sent to the Director of the FBI (if the offending agency is the FBI or another federal agency) or to the head of the state agency in which the state repository resides (if the offending agency is a state or local agency), requesting assistance in correcting the deficiencies.
+If the Compact Council agrees with the Sanctions Committee's finding, the Compact Council Chairman or the FBI Director or Designee shall direct the FBI Compact Officer to take appropriate action to suspend noncriminal justice access to the III System by the offending agency.
+
+
+# Tags
+
+['shall', 'agency', 'state', 'letters', 'responsible', 'rule', 'compliance', 'action', 'justice', 'compact', 'provide', 'fingerprint', 'council', 'record', 'dispute', 'committee', 'time', 'including', 'require']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                       |

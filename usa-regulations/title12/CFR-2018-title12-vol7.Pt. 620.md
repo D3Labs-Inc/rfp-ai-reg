@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 620
 
 
+# Summary
+
+(4) Any significant developments within the last 5 years that had or could have a material impact on earnings, interest rates to borrowers, patronage, or dividends, including, but not limited to, changes in the reporting entity, changes in patronage policies and practices, and financial assistance provided by or to the institution through loss-sharing or capital preservation agreements or from any other source;
+(ii) The report containing the aggregate compensation disclosure must include a statement that disclosure of information on the total compensation paid during the last fiscal year to any senior officer, or to any other employee included in the aggregate, is available and will be disclosed to shareholders of the institution and shareholders of related associations (if applicable) upon request.
+Disclosures should encompass, for example, significant changes since the end of the most recently completed fiscal year in such items as accounting principles and practices; estimates inherent in the preparation of financial statements; status of long-term contracts; capitalization, including significant new indebtedness or modification of existing financing agreements; and the reporting entity resulting from business combinations or dispositions.
+
+
+# Tags
+
+['reports', 'includes', 'loan', 'compensated', 'financial', 'capital', 'materiality', 'institutions', 'shall', 'provides', 'information', 'officer', 'iii', 'statements', 'requires', 'disclosures', 'associated', 'related', 'state', 'years', 'shareholders', 'business', 'plan', 'significance', 'risk', 'director', 'auditing', 'bank', 'notice', 'period', 'ratios', 'benefit', 'items', 'stock', 'events', 'means', 'total', 'fiscal', 'amounts', 'following', 'losses', 'interim', 'programs', 'changed', 'major terms', 'minimum', 'committees', 'policy', 'services', 'operational', 'persons', 'accounts', 'manages', 'discuss', 'reason', 'obligations', 'average', 'issues', 'performance pursuant', 'funds', 'dates', 'administrative', 'form', 'current']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                         |

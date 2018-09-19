@@ -8,6 +8,21 @@
  CFR-2018-title9-vol2.Pt. 313
 
 
+# Summary
+
+(1) The carbon dioxide gas shall be administered in a chamber in accordance with this section so as to produce surgical anesthesia in the animals before they are shackled, hoisted, thrown, cast, or cut.
+All gas producing and control equipment shall be maintained in good repair and all indicators, instruments, and measuring devices must be available for inspection by Program inspectors during anesthetizing operations and at other times.
+(1) The captive bolt stunners shall be applied to the livestock in accordance with this section so as to produce immediate unconsciousness in the animals before they are shackled, hoisted, thrown, cast, or cut.
+Among other things, this requires that, in driving animals to the stunning areas, electrical equipment be used as little as possible and with the lowest effective voltage.
+All chutes, alleys, gates and restraining mechanisms between and including holding pens and stunning areas shall be free from pain-producing features such as exposed bolt ends, loose boards, splintered or broken planking, and protruding sharp metal of any kind.
+Suitable timing, voltage and current control devices shall be used to ensure that each animal receives the necessary electrical charge to produce immediate unconsciousness.
+
+
+# Tags
+
+['animals', 'shall', 'operating', 'stun', 'requires', 'equipment', 'gas', 'electrical', 'effective', 'livestock', 'device', 'carbon', 'mechanisms', 'unconsciousness', 'pen', 'procedure', 'firearm', 'air', 'accurate instruments', 'swine', 'sharp', 'dioxide', 'controlled', 'current', 'produced', 'kind', 'inspectors', 'acceptably', 'bolts', 'surgically', 'charges', 'surface', 'type', 'gates', 'uniform', 'chamber', 'sufficiently']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                             |

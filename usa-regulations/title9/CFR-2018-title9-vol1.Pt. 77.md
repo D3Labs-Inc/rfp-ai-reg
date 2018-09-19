@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 77
 
 
+# Summary
+
+(c) The cattle or bison are sexually intact animals; are not from an accredited herd; are officially identified; and are accompanied by an ICVI stating that they were negative to an official tuberculin test conducted within 60 days prior to the date of movement.
+(f) To qualify for modified accredited status, an accreditation preparatory State or zone must demonstrate to the Administrator that it complies with the provisions of the &#8220;Uniform Methods and Rules&#8212;Bovine Tuberculosis Eradication&#8221; and that tuberculosis has been prevalent in less than 0.1 percent of the total number of herds of cattle and bison in the State or zone for the most recent year.
+(c) To qualify for accreditation preparatory status, a nonaccredited State or zone must demonstrate to the Administrator that it complies with the provisions of the &#8220;Uniform Methods and Rules&#8212;Bovine Tuberculosis Eradication&#8221; and that tuberculosis is prevalent in less than 0.5 percent of the total number of herds of cattle and bison in the State or zone.
+Captive cervids that originate in a modified accredited advanced State or zone, and that are not known to be infected with or exposed to tuberculosis, may be moved interstate only in accordance with 9 CFR part 86 and, if moved anywhere other than directly to slaughter at a recognized slaughtering establishment, under one of the following additional conditions:
+
+
+# Tags
+
+['test', 'state', 'tuberculosis', 'herd', 'animal', 'officials', 'zones', 'cervids', 'captivity', 'numbering', 'livestock', 'aphis', 'identification', 'accredited', 'approved', 'reactor', 'status', 'following', 'usda', 'years', 'slaughtered', 'cattle', 'individual', 'requirement', 'interstate movement', 'eartagging', 'new', 'eradicating', 'based', 'tuberculins', 'inspections', 'lesioned', 'epidemiological', 'veterinarian', 'month', 'addition', 'administration', 'disease', 'forms', 'dpp', 'nationally unique', 'sample', 'classifications', 'suspects', 'area', 'exposed', 'negative', 'associated', 'political', 'health', 'ppd', 'qualify', 'issued', 'deer', 'fsa_', 'tuberculous', 'code', 'geographic', 'bovine', 'bovis', 'south', 'representatives', 'begins', 'permit', 'detection']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

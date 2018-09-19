@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 293
 
 
+# Summary
+
+The Secretary has the authority to approve compacts or amendments &#8220;entered into&#8221; by an Indian tribe and a State, as evidenced by the appropriate signature of both parties.
+Either party (Indian tribe or State) to a compact or amendment can submit the compact or amendment to the Secretary for review and approval.
+When should the Indian Tribe or State submit a compact or amendment for review and approval?
+The 45-day timeline will begin when a compact or amendment is received and date stamped in the Office of Indian Gaming at the address listed in &#167;&#8201;293.9.
+If the Secretary neither affirmatively approves nor disapproves a compact or amendment within the 45-day review period, the compact or amendment is considered to have been approved, but only to the extent it complies with the provisions of the Indian Gaming Regulatory Act.
+To withdraw a compact or amendment after it has been received by the Secretary, the Indian tribe and State must submit a written request to the Director, Office of Indian Gaming at the address listed in &#167;&#8201;293.9.
+(b) The notice of approval must be published in the Federal Register within 90 days from the date the compact or amendment is received by the Office of Indian Gaming.
+
+
+# Tags
+
+['amendments', 'tribal compacts', 'states', 'day', 'gaming', 'documents', 'indians', 'control']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                 |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 13
 
 
+# Summary
+
+In recommending to a customer the purchase, sale or exchange of a government security, a bank that is a government securities broker or dealer shall have reasonable grounds for believing that the recommendation is suitable for the customer upon the basis of the facts, if any, disclosed by the customer as to the customer's other security holdings and as to the customer's financial situation and needs.
+Prior to the execution of a transaction recommended to a non-institutional customer, a bank that is a government securities broker or dealer shall make reasonable efforts to obtain information concerning:
+(f) The two most important considerations in determining the scope of a bank's suitability obligations in making recommendations to an institutional customer are the customer's capability to evaluate investment risk independently and the extent to which the customer is exercising independent judgement in evaluating a bank's recommendation.
+Where the bank has reasonable grounds for concluding that the institutional customer is making independent investment decisions and is capable of independently evaluating investment risk, then a bank's obligations under &#167;&#8201;13.4 for a particular customer are fulfilled.&#8201;2
+
+
+# Tags
+
+['invested', 'customer', 'bank', 'markets', 'security', 'informed', 'independent', 'particular', 'institution', 'sales', 'decision', 'act', 'reasonable', 'financial', 'specific', 'shall']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                     |

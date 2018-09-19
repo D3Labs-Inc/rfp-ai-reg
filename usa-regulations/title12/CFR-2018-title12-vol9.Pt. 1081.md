@@ -8,6 +8,19 @@
  CFR-2018-title12-vol9.Pt. 1081
 
 
+# Summary
+
+If an ex parte communication prohibited by paragraph (b) of this section is received by the hearing officer, the Director, or any decisional employee, that person shall cause all such written communications (or, if the communication is oral, a memorandum stating the substance of the communication) to be placed on the record of the proceeding and served on all parties.
+The following papers must be filed by parties in an adjudication proceeding: the notice of charges, proof of service of the notice of charges, notices of appearance, answer, the disclosure statement required under &#167;&#8201;1081.201(e), motion, brief, request for issuance or enforcement of a subpoena, response, opposition, reply, notice of appeal, or petition for reconsideration.
+Recommended decisions issued by the hearing officer and final orders issued by the Bureau shall be served promptly on each party pursuant to any method of service authorized under paragraph (d)(1) of this section.
+Unless otherwise ordered by the hearing officer, the Office of Enforcement shall commence making documents available to a respondent for inspection and copying pursuant to this section no later than seven days after service of the notice of charges.
+
+
+# Tags
+
+['parties shall', 'order', 'office', 'pursuant', 'materiality', 'filings', 'document', 'persons', 'proceeding', 'issues', 'includes', 'inform', 'motions', 'requiring', 'recording', 'evidence', 'times', 'stated', 'setting', 'hearings', 'number', 'means', 'notices', 'authorize', 'law', 'director', 'reasonableness', 'responding', 'reports', 'confidentiality', 'briefing', 'services', 'charges', 'fact', 'statements', 'bureau', 'subpoenaed', 'witness', 'review', 'appropriate', 'period', 'counsel', 'experts', 'specifies', 'seek', 'enforcing', 'matters', 'conducting', 'written', 'limits', 'paper', 'arguments', 'copied', 'communications', 'section', 'general', 'determines', 'provided', 'public', 'propose', 'stipulation', 'relevance', 'contained', 'addresses', 'decisions', 'oral', 'acts', 'exhibits', 'requests', 'denying', 'ruled', 'thereof', 'deposit', 'responsibilities', 'testimony', 'page', 'transcripts', 'promptly', 'corporations', 'appears', 'prior']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

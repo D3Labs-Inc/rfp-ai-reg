@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 648
 
 
+# Summary
+
+The Graduate Assistance in Areas of National Need program provides fellowships through academic departments of institutions of higher education to assist graduate students of superior ability who demonstrate financial need.
+(a) The Secretary awards grants to institutions of higher education to fund fellowships in one or more areas of national need.
+The Secretary reviews each application to determine the quality of the current graduate academic program for which project funding is sought, including&#8212;
+(b) For a fellowship initially awarded for the academic year 1993-94, or any succeeding academic year, the institution shall pay the fellow a stipend at a level of support equal to that provided by the National Science Foundation graduate fellowships, except that this amount must be adjusted as necessary so as not to exceed the fellow's demonstrated level of financial need as determined under part F of title IV of the HEA.
+(a) An institution of higher education that receives a grant shall provide to the Secretary, prior to the receipt of grant funds for disbursement to a fellow, a certification that the fellow is enrolled in, is making satisfactory progress in, and is devoting essentially full time to study in the academic field for which the grant was made.
+
+
+# Tags
+
+['mean', 'applications', 'academic', 'project', 'secretary awards', 'educational', 'institutions', 'fund', 'provide', 'include', 'program', 'teaching', 'shall', 'degree', 'students', 'graduate', 'fellowship', 'department', 'evaluates', 'costs', 'specifically', 'research', 'american', 'granting', 'years', 'administrative', 'fee', 'fellow', 'required', 'stipend', 'payment', 'states', 'discipline', 'time', 'general', 'nationals', 'eligible']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                            |

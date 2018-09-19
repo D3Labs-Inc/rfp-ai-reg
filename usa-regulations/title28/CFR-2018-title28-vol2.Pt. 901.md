@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 901
 
 
+# Summary
+
+The purpose of these provisions is to interpret the Compact, as it applies to the required submission of fingerprints, along with requests for Interstate Identification Index (III) records, by agencies authorized to access and receive criminal history records under Public Law 92-544, and to establish protocols and procedures applicable to the III and its use for noncriminal justice purposes.
+(a) Article V of the Compact requires the submission of fingerprints or other approved forms of positive identification with requests for criminal history record checks for noncriminal justice purposes.
+(a) A state may, based upon exigent circumstances, apply for delayed submission of fingerprints supporting requests for III records by agencies authorized to access and receive criminal history records under Public Law 92-544.
+(c) Upon approval of the application by the Compact Council, the authorized agency may conduct a III name check pending submission of the fingerprints.
+(a) Audits of authorized State agencies that access the III System shall be conducted by the State's Compact Officer or, in the absence of a Compact Officer, the chief administrator for the criminal history record repository.
+
+
+# Tags
+
+['agency', 'shall', 'submissions', 'record', 'approved', 'compact', 'cjis', 'fingerprint', 'frame', 'information', 'federal', 'authority']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                 |

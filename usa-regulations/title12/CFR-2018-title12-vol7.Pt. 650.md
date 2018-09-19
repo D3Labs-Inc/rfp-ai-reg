@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 650
 
 
+# Summary
+
+(b) In addition to the grounds set forth in paragraph (a) of this section, a receiver can be appointed for the Corporation if the Farm Credit Administration Board determines that the appointment of a conservator would not be appropriate when one of the following conditions exists:
+(a) The Farm Credit Administration Board may in its discretion appoint, ex parte and without prior notice, a receiver for the Corporation provided that one or more of the grounds for appointment as set forth in &#167;&#8201;650.50 of this subpart exist.
+In the event the resolution is approved by the stockholders of the Corporation and the Farm Credit Administration Board, the liquidation plan shall govern disposition of the equities of the Corporation as provided in &#167;&#8201;650.52 of this subpart.
+(b) Following the payment of all claims, the receiver shall distribute the remainder of the assets of the Corporation, if any, to the owners of stock and other equities in accordance with the priorities for impairment set forth in section 8.4(e)(3) of the Act and the bylaws of the Corporation.
+(c) The receiver shall make an annual accounting or report, as appropriate, available for review upon request to any stockholder of the Corporation or any member of the public, with a copy provided to the Farm Credit Administration.
+
+
+# Tags
+
+['shall', 'claims', 'corporation', 'means', 'receiver', 'including', 'requirements', 'board', 'receivership', 'power', 'finally', 'administrative expenses', 'liquidating', 'creditor', 'action', 'office', 'reporting', 'business', 'fca', 'provided', 'stock', 'capital', 'asset', 'public', 'distribute', 'securities', 'necessary', 'federal', 'accountant', 'available', 'conservator', 'law', 'set', 'criminal', 'order', 'days', 'authorize']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                |

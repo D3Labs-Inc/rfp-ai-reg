@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 5b
 
 
+# Summary
+
+(2) An individual making a request for notification of or access to a record shall address his request to the responsible Department official and shall verify his identity when required in accordance with paragraph (b)(2) of this section.
+Unless an individual, who is making a request for notification of or access to a record in person, is personally known to the responsible Department official, he shall be required to verify his identity in accordance with paragraph (b)(2) of this section if:
+(ii) Except as provided in paragraph (b)(2)(v) of this section, an individual who does not make a request in person shall submit a notarized request to the responsible Department official to verify his identity or shall certify in his request that he is the individual who he claims to be and that he understands that the knowing and willful request for or acquisition of a record pertaining to an individual under false pretenses is a criminal offense under the Act subject to a $5,000 fine.
+(v) An individual who makes a request by telephone shall verify his identity by providing to the responsible Department official identifying particulars which parallel the record to which notification or access is being sought.
+
+
+# Tags
+
+['records', 'individuals', 'shall', 'governed', 'department', 'authorizing', 'requester', 'access means', 'federal', 'provide', 'disclosure', 'official', 'general', 'exempt', 'services', 'information', 'extent', 'particular', 'legal', 'personally', 'rights', 'usc', 'act', 'management', 'requirements', 'notification', 'timely', 'appealing', 'cards', 'included', 'purposes', 'officers', 'contracts', 'applicable']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                              |

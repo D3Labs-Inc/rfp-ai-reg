@@ -8,6 +8,20 @@
  CFR-2018-title14-vol3.Pt. 133
 
 
+# Summary
+
+(a) Except as provided in paragraph (d) of this section, the applicant, or the chief pilot designated in accordance with &#167;&#8201;133.21(b), must demonstrate to the Administrator satisfactory knowledge and skill regarding rotorcraft external-load operations as set forth in paragraphs (b) and (c) of this section.
+If the applicant for the amendment shows compliance with &#167;&#167;&#8201;133.19, and 133.49, the Flight Standards District Office issues an amended Rotorcraft External-Load Operator Certificate to the applicant with authorization to operate with those classes of rotorcraft-load combinations for which the applicant complies with the applicable provisions of subpart D of this part.
+(b) The holder of a rotorcraft external-load certificate may apply for an amendment to add or delete a rotorcraft authorization by submitting to the certificate-holding FAA Flight Standards District Office a new list of rotorcraft, by registration number, with the classes of rotorcraft-load combinations for which authorization is requested.
+Upon the request of the Administrator, that person shall provide the certificate-holding FAA Flight Standards District Office a complete report of the aircraft operation involved, including a description of the deviation and reasons for it.
+Each person conducting an operation under this part shall allow the Administrator to make any inspections or tests that he considers necessary to determine compliance with the Federal Aviation Regulations and the Rotorcraft External-Load Operator Certificate.
+
+
+# Tags
+
+['operating', 'certificate', 'load', 'rotorcraft', 'shall', 'training flights', 'requirements', 'personal', 'appropriate', 'limitation', 'demonstration', 'include', 'applicability', 'approved', 'administrator', 'weight', 'office', 'maneuvers', 'areas', 'transport pilot', 'months', 'drugs', 'prescribed', 'conducted', 'hovering', 'aviation', 'external', 'directly', 'release', 'direction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                      |

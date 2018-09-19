@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 263
 
 
+# Summary
+
+The administrative law judge shall recommend that the Board issue a final order granting a motion for summary disposition if the undisputed pleaded facts, admissions, affidavits, stipulations, documentary evidence, matters as to which official notice may be taken, and any other evidentiary materials properly submitted in connection with a motion for summary disposition show that:
+Failure by the bank, bank holding company, or savings and loan holding company to file a written response to the notice within the time set by the Board shall constitute a waiver of the opportunity to respond and shall constitute consent to issuance of a directive containing the required minimum capital level.
+The determination of a recommended award shall be made by the administrative law judge on the basis of the written record of the adversary adjudication, including any supporting affidavits submitted in connection with the application, unless, on the motion of either the applicant or Board counsel, or sua sponte, the administrative law judge or the Board orders further proceedings to amplify the record such as an informal conference, oral argument, additional written submissions, or an evidentiary hearing.
+
+
+# Tags
+
+['shall', 'included', 'proceeding', 'party', 'board', 'ordered', 'act', 'hear', 'banking', 'filed', 'written', 'requires', 'pursuant', 'propose', 'service', 'capital', 'states', 'inform', 'witnesses', 'authorities', 'issue', 'action', 'documenting', 'materials', 'statements', 'timely', 'directing', 'noticed', 'matters', 'personal', 'providing', 'period', 'procedure applicable', 'appropriate', 'judge means', 'subpoena', 'sets', 'reasonable', 'section', 'request', 'follows', 'rulings', 'institute', 'specifically', 'limited', 'relevant', 'deposit', 'unreasonably', 'agency', 'motions', 'lawful', 'respondents', 'officers', 'counsel', 'company', 'decisions', 'immediately', 'suspension', 'enforcing', 'constitution', 'usc', 'conducted', 'individual', 'privileges', 'recordings', 'caused', 'public', 'responsibilities', 'establishment', 'government', 'adjudication', 'penalties', 'orally', 'exhibit', 'charge', 'submit', 'financial', 'involved', 'dates', 'effect', 'subpart', 'prior', 'failure', 'thereof', 'securities', 'containing', 'associated']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

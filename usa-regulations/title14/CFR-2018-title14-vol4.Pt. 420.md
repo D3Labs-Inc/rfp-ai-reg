@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 420
 
 
+# Summary
+
+If incompatible energetic liquids are stored within an intraline distance of each other, a launch site operator must determine the explosive equivalent in pounds of the combined liquids as provided by paragraph (d)(2) of this section unless intervening barriers prevent mixing.
+(2) A launch site operator must then use the explosive equivalent in pounds to determine the minimum separation distance between each explosive hazard facility and all other explosive hazard facilities and each public area and public traffic route as required by tables E-1, E-2 and E-3 of appendix E of this part.
+A launch site operator must determine each minimum separation distance from an explosive hazard facility where division 1.1 and 1.3 explosives and liquid propellants are to be located together, to each other explosive hazard facility, public traffic route, and public area as described in paragraphs (b) through (e) of this section.
+For liquid propellants and division 1.3 explosives located together, a launch site operator must separate each explosive hazard facility from each other explosive hazard facility, public area, and public traffic route using either of the following two methods:
+
+
+# Tags
+
+['launches', 'shall', 'means', 'vehicles', 'explosions', 'site', 'areas', 'including', 'licensing', 'lines', 'requirements', 'public', 'operating', 'impacts', 'flight', 'maximum distance', 'provided', 'points', 'contained', 'faa', 'liquids', 'facilities', 'electrical', 'procedures', 'iip', 'event', 'earth', 'foreign', 'weight', 'record', 'planned', 'information', 'application', 'proposes', 'chemical', 'estimate', 'association', 'follows', 'debris dispersion', 'direction', 'investigating', 'environmental', 'use', 'prior', 'data', 'lightning', 'hazard', 'trajectory', 'quantities', 'propellants', 'safety', 'systems', 'effects']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

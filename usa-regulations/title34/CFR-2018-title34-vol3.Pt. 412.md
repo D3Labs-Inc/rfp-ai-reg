@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 412
 
 
+# Summary
+
+The National Network for Curriculum Coordination in Vocational and Technical Education (Network) is a system of six curriculum coordination centers that disseminate information resulting from research and development activities carried out under the Act, in order to ensure broad access at the State and local levels to the information being disseminated.
+(b) Each CCC must&#8212;(1) Provide for national dissemination of information on effective vocational and technical education programs and materials, with particular attention to regional programs;
+The following regulations apply to the National Network for Curriculum Coordination in Vocational and Technical Education:
+(1) Demonstrates an understanding of the leadership responsibilities associated with serving as a resource center and facilitator for States in a region, including the region's need for inservice training, holding regional meetings, providing technical assistance, coordinating with State directors of vocational education, maintaining a lending library, and disseminating information regularly;
+(10 points) (1) The Secretary reviews each application to determine the quality of key personnel the applicant plans to use on the proposed project, including&#8212;
+In carrying out its activities, each CCC must use existing dissemination systems, including the National Diffusion Network and the National Center or Centers for Research in Vocational Education, in order to ensure broad access at the State and local levels to the information being disseminated.
+
+
+# Tags
+
+['curriculum', 'educational', 'states', 'includes', 'new', 'region', 'provide', 'development activities', 'points', 'materials', 'network', 'center serves', 'disseminate', 'project', 'ccc', 'secretary', 'islands', 'plan', 'meetings', 'national', 'ensure', 'agencies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 347
 
 
+# Summary
+
+(a) In connection with an application for deposit insurance for a U.S. branch or depository institution subsidiary of a foreign bank that has been determined to be subject to comprehensive consolidated supervision by the appropriate Federal banking agency, as defined in section 3(q) of the FDI Act (12 U.S.C. 1813(q)), the foreign bank shall provide binding written commitments (including a consent to U.S. jurisdiction and designation of agent for service, acceptable to the FDIC) to the following terms:
+(3) The FDIC will not process a deposit insurance application for any U.S. branch or depository institution subsidiary of a foreign bank if the foreign bank fails to provide the written commitments, consent to U.S. jurisdiction, and designation of agent for service required by this section.
+(2) A foreign bank operating an insured state branch which elects not to apply to the FDIC for permission to continue to conduct an activity which is rendered impermissible by any change in statute, regulation, official bulletin or circular, written order or interpretation, or decision of a court of competent jurisdiction shall submit a plan of divestiture or cessation to the appropriate regional director.
+
+
+# Tags
+
+['bank', 'shall', 'assets', 'meaning', 'deposit', 'branches', 'require', 'including', 'state', 'foreign', 'insure', 'providing', 'activity', 'report', 'risk', 'fdic', 'invest', 'credits', 'inform', 'pursuant', 'applicable', 'rate', 'holdings', 'addition', 'generalized', 'authorizing', 'services', 'agency', 'business', 'organizations permissible', 'period', 'control', 'determining', 'loans', 'securities', 'pledged', 'act', 'account', 'limitations', 'agreements', 'written', 'examinations', 'depository institution', 'losses', 'appropriate', 'entity', 'acceptances', 'iii', 'internal', 'section', 'federal', 'instrumentality', 'operating', 'subject', 'capitalized', 'following', 'documentation', 'equity', 'commitment', 'debts', 'engages', 'recently', 'financially', 'supervisory', 'term', 'affiliates', 'associations', 'year', 'officer', 'based']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                               |

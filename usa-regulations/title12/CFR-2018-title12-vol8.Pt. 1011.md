@@ -8,6 +8,21 @@
  CFR-2018-title12-vol8.Pt. 1011
 
 
+# Summary
+
+(1) Fifteen percent of the purchase or lease price of the lot (excluding interest owed) at the time of the default or breach of contract or agreement; or
+Sales practices means any conduct or advertising by a developer or its agents to induce a person to buy or lease a lot.
+(c) In creating these contractual obligations developers have the option of incorporating by reference the Property Report in effect at the time of the sale or lease.
+In selling, leasing or offering to sell or lease any lot in a subdivision it is an unlawful sales practice for any developer or agent, directly or indirectly, to:
+(d) Use any misleading practice, device or representation which would deny a purchaser any cancellation or refund rights or privileges granted the purchaser by the terms of a contract or any other document used by the developer as a sales inducement.
+(a) The following disclaimer statement shall be displayed below the text of all printed material and literature used in connection with the sale or lease of lots in a subdivision for which an effective Statement or Record is on file with the Director: &#8220;Obtain the Property Report required by Federal law and read it before signing anything.
+
+
+# Tags
+
+['sale', 'lot', 'prices', 'road', 'represent', 'purchasers', 'representations', 'practices', 'revocation', 'actually', 'statement', 'offered', 'damages', 'certain', 'property', 'development', 'right', 'materials', 'public', 'use', 'program', 'shall', 'disclaimers subdivisions', 'reasonably', 'title', 'means', 'refer', 'size', 'contracts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                           |

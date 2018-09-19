@@ -8,6 +8,21 @@
  CFR-2018-title12-vol5.Pt. 304
 
 
+# Summary
+
+Forms and instructions used in connection with applications, reports, and other submittals used by the FDIC can be obtained by contacting the FDIC Public Information Center (801 17th Street, NW., Washington, DC 20434; telephone: 800-276-6003 or 202-416-6940), except as noted below in &#167;&#8201;304.3.
+The report forms and instructions can be obtained from the Division of Supervision and Consumer Protection (DSC), FDIC, Washington, DC 20429.
+Pursuant to section 7(a) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)), every insured U.S. branch of a foreign bank is required to file a Report of Assets and Liabilities of U.S. Branches and Agencies of Foreign Banks in accordance with the instructions for the report.
+The FDIC uses the reported data to calculate deposit insurance assessments and monitor the condition, performance, and risk profile of individual insured branches and the banking industry.
+The report forms and the instructions for completing the reports will be furnished to all such banks by, or may be obtained upon request from, the Division of Supervision and Consumer Protection (DSC), FDIC, 550 17th Street, NW., Washington, DC 20429.
+Either the form or the letter containing the notice information must be submitted to the regional director&#8212;Division of Supervision and Consumer Protection (DSC) of the region in which the bank's main office is located.
+
+
+# Tags
+
+['fdic', 'banking', 'forms', 'insured', 'reporting', 'services', 'acts', 'information', 'offices']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol2.Pt. 210
 
 
+# Summary
+
+Nothing in paragraph (a) of this section limits any warranty or indemnity by a sender (or a person that handled an item prior to the sender) arising under state law or regulation (such as the U.C.C.), other federal law or regulation (such as part 229 of this chapter), or an agreement with a Reserve Bank.
+(C) A paying bank or returning bank that sent an electronic item that is not a representation of a substitute check shall not be liable under paragraph (c)(5)(i) of this section for any amount that the Reserve Bank pays under subpart D of part 229 of this chapter or paragraph (e)(1)(iii) of this section that is attributable to the Reserve Bank's own lack of good faith or failure to exercise ordinary care.
+A Reserve Bank shall not pay or act on a draft, authorization to charge (including a charge authorized by &#167;&#8201;210.9(b)(5)), or other order on a reserve balance or other funds in its possession for the purpose of settling for items under &#167;&#8201;210.9 or &#167;&#8201;210.12 after it receives notice of suspension or closing of the bank making the settlement for that bank's own or another's account.
+
+
+# Tags
+
+['banks', 'item', 'shall', 'included', 'senders', 'payment', 'mean', 'checks', 'transfer', 'time', 'authority', 'subparts', 'reserves', 'sections', 'governs', 'provide', 'received', 'account', 'funds', 'return', 'availability', 'required', 'orders', 'acted', 'collection', 'agreements', 'day', 'follow', 'electronic', 'warranties', 'settlement', 'law', 'handles', 'present']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                             |

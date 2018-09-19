@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 250
 
 
+# Summary
+
+(b) On the basis of the facts stated, the Board concluded that the companies involved would not be subject to sections 20 and 32 of the Banking Act of 1933, since they would not be principally or primarily engaged in the business of issuing or distributing securities but would only be issuing their own stock for a period ordinarily required for corporate organization.
+(d) The Board of Governors reaffirmed its earlier position that an open-end investment company is &#8220;primarily engaged&#8221; in activities described in section 32 &#8220;even though the shares are sold to the public through independent organizations with the result that the investment company does not derive any direct profit from the sales.&#8221; (1951 Federal Reserve Bulletin 654, &#167;&#8201;218.101.) Accordingly, the Board concluded that Fund must be regarded as so engaged, even though its shares were underwritten and distributed by Underwriters.
+Section 32 of the Glass-Steagall Act (12 U.S.C. 78) prohibits any officer, director, or employee of any corporation or unincorporated association, any partner or employee of any partnership, and any individual, primarily engaged in the issue, flotation, underwriting, public sale, or distribution, at wholesale or retail, or through syndicate participation, of stocks, bonds, or other similar securities, from serving at the same time as an officer, director, or employee of any member bank of the Federal Reserve System.
+
+
+# Tags
+
+['banking', 'investment', 'funds', 'securing', 'board', 'stated', 'issuing', 'capital', 'acts', 'acceptance', 'companies', 'organized', 'section', 'authorizes', 'corporations', 'accounting', 'terms', 'certain', 'stocks', 'provide', 'activities', 'requiring', 'services', 'involves', 'federally', 'debt', 'limits', 'office', 'including', 'general', 'members', 'annual', 'individually', 'financial', 'subordinated', 'foreign', 'prior', 'subsidiaries', 'information making', 'approved', 'credits', 'received', 'business', 'interpreted', 'paragraph', 'rate', 'institutional', 'firm', 'management', 'usc', 'proposal', 'applications', 'payments', 'participation', 'similar', 'operations', 'sell', 'matures', 'year', 'effective', 'share', 'clearly', 'reserved', 'statutes', 'loan', 'permitting', 'total', 'eligible', 'agreement', 'values', 'agency additional', 'served', 'affiliated', 'accelerate', 'provision', 'court', 'substantially', 'principally', 'concerning', 'constituting', 'solely']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |

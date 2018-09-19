@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 205
 
 
+# Summary
+
+(2) Any such carrier providing air transportation for passengers shall, in addition to the coverage required in paragraph (b)(1) of this section, maintain aircraft accident liability insurance coverage for bodily injury to or death of aircraft passengers, with minimum limits of $300,000 for any one passenger, and a total per involved aircraft for each occurrence of $300,000 times 75 percent of the number of passenger seats installed in the aircraft.
+(2) U.S. air taxi operators carrying passengers in air transportation shall, in addition to the coverage required in paragraph (c)(1) of this section, maintain aircraft accident liability insurance coverage for bodily injury to or death of aircraft passengers, with minimum limits of $75,000 for any one passenger, and a total per involved aircraft for each occurrence of $75,000 times 75 percent of the number of passenger seats installed in the aircraft.
+(2) Canadian charter air taxi operators engaging in passenger charter air service under part 294 of this chapter shall, in addition to the coverage required in paragraph (d)(1) of this section, maintain aircraft accident liability coverage for bodily injury to or death of aircraft passengers, with a minimum coverage of $75,000 for any one passenger and a total per involved aircraft for each occurrence of $75,000 times 75 percent of the total number of passenger seats installed in the aircraft.
+
+
+# Tags
+
+['shall', 'insured', 'aircraft', 'coverage', 'requirements', 'air carriers', 'authorized', 'operating', 'policies', 'liability', 'cargo', 'passenger', 'notice', 'included', 'canceled', 'states', 'transportation', 'endorsement', 'exclusion', 'applies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                        |

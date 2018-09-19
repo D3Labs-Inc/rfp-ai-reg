@@ -8,6 +8,18 @@
  CFR-2018-title34-vol2.Pt. 303
 
 
+# Summary
+
+A State may adopt a policy that includes making ongoing good-faith efforts to recruit and hire appropriately and adequately trained personnel to provide early intervention services to infants and toddlers with disabilities, including, in a geographic area of the State where there is a shortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in paragraphs (a) and (b) of this section.
+As required under sections 617(c) and 642 of the Act, the regulations in &#167;&#167;&#8201;303.401 through 303.417 ensure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained pursuant to this part by the Secretary and by participating agencies, including the State lead agency and EIS providers, in accordance with the protections under the Family Educational Rights and Privacy Act (FERPA) in 20 U.S.C. 1232g and 34 CFR part 99.
+(1) During the pendency of any proceeding involving a due process complaint under paragraph (d) of this section, unless the lead agency and parents of an infant or toddler with a disability otherwise agree, the child must continue to receive the appropriate early intervention services in the setting identified in the IFSP that is consented to by the parents.
+
+
+# Tags
+
+['includes', 'state', 'services', 'provider', 'agency', 'means', 'parental', 'acts', 'informed', 'appropriate', 'iii', 'require', 'family', 'child', 'hearings', 'programs', 'funded', 'procedural', 'educational', 'public', 'identifiers', 'written', 'developing', 'early', 'parties', 'secretary', 'section', 'consistent', 'received', 'describes', 'assistance', 'cost', 'followed', 'needed', 'relating', 'languages', 'evaluated', 'general', 'health', 'care', 'school', 'meet', 'available', 'functioning', 'involve', 'developmental', 'records', 'initiate', 'disabilities', 'determines', 'persons', 'provision', 'responsive', 'plan', 'specifically', 'pursuant', 'conduct', 'policy', 'assessed', 'consented', 'review', 'decisions', 'individuals', 'medications', 'trained', 'children', 'federally', 'times', 'resolution', 'eligible', 'regulations', 'making', 'mediations', 'additional', 'action', 'payments', 'data', 'council', 'authorization', 'collects', 'based', 'administration', 'use', 'activate', 'ensure', 'disorders', 'complaints', 'panel', 'personnel', 'notice', 'ifsp', 'reports', 'insured', 'community', 'obtain', 'coordinated', 'agreement', 'applications', 'skills', 'toddlers', 'area', 'indians', 'period', 'devices', 'screen', 'established', 'day', 'listing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 642
 
 
+# Summary
+
+The Secretary assists projects that train the leadership personnel and staff of projects funded under the Federal TRIO Programs to enable them to operate those projects more effectively.
+(20 points) (1) The Secretary reviews each application for information that shows the qualifications of the key personnel the applicant plans to use on the project.
+(3) To determine the qualifications of a person, the Secretary considers evidence of past experience and training, in fields related to the objectives of the project, as well as other information that the applicant provides.
+(10 points) (1) The Secretary reviews each application for information that shows the quality of the evaluation plan for the project.
+(A) Uses criteria not required by the applicable law or program regulations, the Federal Register notice inviting applications, the other published application materials for the competition, or guidance provided to the peer reviewers by the Secretary; or
+(7) If the Secretary determines that the Department or the Department's agent made an administrative error that relates to the PE points awarded, as described in paragraph (b)(2)(i) of this section, the Secretary adjusts the applicant's PE score to reflect the correct number of PE points.
+
+
+# Tags
+
+['applications', 'projects', 'secretary', 'program', 'scoring', 'train', 'fund', 'educational', 'points', 'cost', 'assisting students', 'included', 'provide', 'report', 'reviews', 'awards', 'evaluates', 'following', 'act means', 'administrative', 'financial', 'planning', 'federal', 'grants', 'services', 'errors', 'requirements', 'years', 'professional', 'personnel', 'states', 'related']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                        |

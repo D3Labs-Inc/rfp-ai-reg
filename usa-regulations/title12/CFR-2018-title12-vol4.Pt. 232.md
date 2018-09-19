@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 232
 
 
+# Summary
+
+A creditor may not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit, except as provided in this section.
+A creditor that receives unsolicited medical information in the manner described in paragraph (a) of this section may use that information in connection with any determination of the consumer's eligibility, or continued eligibility, for credit to the extent the creditor can rely on at least one of the exceptions in &#167;&#8201;232.3 or &#167;&#8201;232.4.
+(2) If a consumer applies for a loan by telephone and explains that his income has been and will continue to be interrupted on account of a medical condition and that he expects to repay the loan liquidating assets, the creditor may, but is not required to, evaluate the application using the sale of assets as the primary source of repayment, consistent with safe and sound practices, provided that the creditor documents the consumer's request by recording the oral conversation or making a notation of the request in the consumer's file.
+
+
+# Tags
+
+['credit', 'medically', 'informs', 'consumer', 'creditor', 'application', 'loan', 'debt', 'income', 'program', 'requested', 'provides', 'particular', 'general', 'consistent', 'repayment', 'reports', 'uses', 'payment', 'conditions', 'establishes', 'disability', 'mortgage', 'address']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                         |

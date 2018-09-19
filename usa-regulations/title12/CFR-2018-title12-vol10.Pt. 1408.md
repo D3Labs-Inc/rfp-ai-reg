@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1408
 
 
+# Summary
+
+(5) The right of the debtor to obtain a review of, and to request a hearing, on the Corporation's determination of indebtedness, the propriety of collecting the debt by offset, and, in the case of salary offset, the propriety of the proposed repayment schedule (i.e., the percentage of disposable pay to be deducted each pay period).
+(b) To obtain a review, the debtor shall submit a written request for review to the Corporation official named in the Notice of Intent to Collect by Administrative [or Salary] Offset within 15 calendar days after receipt of the notice.
+(a)(1) Any creditor agency which requests the Corporation to impose an offset against amounts owed to the debtor shall submit to the Corporation a claim certification which meets the requirements of this paragraph.
+(a) To request a paying agency to impose a salary offset against amounts owed to the debtor, the Corporation shall provide the paying agency with a claim certification which meets the requirements set forth in &#167;&#8201;1408.25(a) of this part.
+
+
+# Tags
+
+['shall', 'claims', 'offsets', 'paying', 'agency', 'debts', 'debtor', 'corporation', 'collecting', 'written', 'payments', 'officials', 'requested', 'includes amounts', 'means', 'employee', 'regulations', 'laws', 'current', 'state', 'inform', 'applicable', 'deductions', 'credit', 'procedural', 'owed', 'financial', 'determines', 'authorizing', 'period', 'day', 'requiring', 'statements', 'expenses', 'repayment', 'reasons', 'provided', 'district', 'governing', 'set', 'decision']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                             |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol2.Pt. 212
 
 
+# Summary
+
+(2) For purposes of section 202(3)(B) of the Interlocks Act (12 U.S.C. 3201(3)(B)), an affiliate relationship based on common ownership does not exist if the Board determines, after giving the affected persons the opportunity to respond, that the asserted affiliation was established in order to avoid the prohibitions of the Interlocks Act and does not represent a true commonality of interest between the depository organizations.
+(e) Depository holding company means a bank holding company or a savings and loan holding company (as more fully defined in section 202 of the Interlocks Act (12 U.S.C. 3201)) having its principal office located in the United States.
+In reviewing an application for an exemption under this section, the Board will apply a rebuttable presumption that an interlock will not result in a monopoly or substantial lessening of competition if the depository organization seeking to add a management official:
+If an affiliate of a state member bank or a bank holding company is subject to the primary regulation of another Federal depository organization supervisory agency, then the Board does not administer and enforce the Interlocks Act with respect to that affiliate.
+
+
+# Tags
+
+['means', 'board', 'bank', 'interlocked', 'organizations', 'affiliation', 'officer', 'assets', 'loans', 'areas', 'state', 'depository', 'period', 'act', 'officials', 'manager', 'person including', 'service', 'consolidated', 'relate', 'corporations', 'exempt', 'companies', 'substantial', 'institution', 'year', 'circumstances', 'shares']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                      |

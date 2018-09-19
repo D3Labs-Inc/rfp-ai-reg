@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1266
 
 
+# Summary
+
+Subject to the requirements set forth in part 1272 of this chapter, a Bank is authorized to accept from CFI members or their affiliates as security for advances small business loans, small farm loans, small agri-business loans, or community development loans, in each case fully secured by collateral other than real estate, or securities representing a whole interest in such secured loans, provided that:
+(ii) Securities representing a whole interest in the principal and interest payments due on a pool of mortgage loans insured by the Federal Housing Administration of HUD under title II of the National Housing Act. A Bank may only accept as collateral the securities described in this paragraph (b)(1)(ii) if the housing associate provides evidence that such securities are backed solely by mortgages of the type described in paragraph (b)(1)(i) of this section.
+(i) In addition to the collateral described in paragraph (b)(1) of this section, a Bank may make an advance to a housing associate that has satisfied the requirements of &#167;&#8201;1264.3(b) for the purpose of facilitating residential or commercial mortgage lending that benefits individuals or families meeting the income requirements in section 142(d) or 143(f) of the Internal Revenue Code (26 U.S.C. 142(d) or 143(f)) upon the security of the following collateral:
+
+
+# Tags
+
+['advances', 'shall', 'securities', 'collateral', 'bank', 'members', 'loan', 'insured', 'providing', 'means', 'including', 'houses', 'mortgages', 'require', 'term', 'state', 'capital', 'residential', 'associated', 'financially', 'written', 'maturities', 'real property', 'applicable', 'federal', 'assets', 'funding', 'fees', 'section', 'credit', 'institution', 'homes', 'set', 'regulated', 'agreement', 'year', 'pursuant', 'regulatory', 'equity', 'savings', 'cost', 'purposes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                              |

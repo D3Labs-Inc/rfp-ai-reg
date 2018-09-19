@@ -8,6 +8,18 @@
  CFR-2018-title9-vol1.Pt. 79
 
 
+# Summary
+
+A permit lists the owner's name and address; points of origin and destination; number of animals covered; purpose of the movement; whether the animals are from an exposed, noncompliant, infected, or source flock; whether the animal is a high-risk, exposed, scrapie-positive, or scrapie suspect animal; transportation vehicle license number or other identification number; and seal number (if a seal is required).
+(iii) United States Department of Agriculture backtags or official premises identification backtags that include a unique animal identification number, when used on sheep or goats moving directly to slaughter and when applied within 3 inches of the poll on the dorsal surface of the head or neck;
+The certificate must include a statement by the issuing accredited or State or Federal veterinarian that the animals were not exhibiting clinical signs associated with scrapie at the time of examination and an owner statement indicating whether the animal is or is not a scrapie-positive, suspect, high-risk or exposed animal and whether it originated in an infected, source, exposed, or noncompliant flock.
+
+
+# Tags
+
+['animal', 'scrapie', 'state', 'flock', 'official', 'identification number', 'requirements', 'recorded', 'premises', 'tag', 'includes', 'test', 'brand', 'approved', 'sheep', 'programs', 'designate', 'certificate', 'aphis', 'goat', 'movement', 'individually', 'slaughtered', 'following', 'plan', 'contact', 'new', 'iii', 'addition', 'transported', 'high', 'owners', 'shall', 'nationally unique', 'exposed', 'eartag', 'applies', 'lambed', 'based', 'contain', 'persons', 'health', 'infected', 'tattoos', 'sampling', 'ownership', 'maintained', 'legible', 'federal', 'authority', 'assignments', 'commercial', 'virginia', 'written', 'island', 'risk', 'completing', 'united', 'permitted', 'character', 'appropriate', 'registry', 'positive', 'commerce']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |

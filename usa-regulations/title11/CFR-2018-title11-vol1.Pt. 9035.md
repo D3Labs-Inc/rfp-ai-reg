@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 9035
 
 
+# Summary
+
+(1) A candidate may exclude from the overall expenditure limitation set forth in paragraph (a) of this section an amount equal to 15% of the overall expenditure limitation as exempt legal and accounting compliance costs under 11 CFR 100.146.
+In the case of a candidate who does not run in the general election, for purposes of the expenditure limitations set forth in this section, 100% of salary, overhead and computer expenses incurred after a candidate's date of ineligibility may be treated as exempt legal and accounting compliance expenses beginning with the first full reporting period after the candidate's date of ineligibility.
+For purposes of the expenditure limitations set forth in this section, candidates who run in the general election, regardless of whether they receive public funds, must wait until 31 days after the general election before they may treat 100% of salary, overhead and computer expenses as exempt legal and accounting compliance expenses.
+(3) If any matching funds to which the candidate is entitled are not paid to the candidate, or are paid after the date on which payment is due, the candidate may exclude from the overall expenditure limitation in paragraph (a) of this section the amount of all interest charges that accrued during the shortfall period on all loans obtained by the candidate or authorized committee that are guaranteed or secured with matching funds, provided the candidate submits documentation as to the amount of all interest charges on such loans.
+
+
+# Tags
+
+['expenditure', 'candidates', 'funded', 'shall', 'presidential', 'date', 'period', 'limitation compliance', 'charge', 'matching', 'services', 'state']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                           |

@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 322
 
 
+# Summary
+
+(e) Exporters may request inspection personnel to issue certificates for export consignments of product of official establishments not under their supervision, provided the consignments are first identified as having been &#8220;U.S. inspected and passed,&#8221; are found to be neither adulterated nor misbranded, and are marked as required by &#167;&#8201;322.1.
+No clearance shall be given to any vessel having on board any product destined to any foreign country, and no person operating any vessel, and no railroad or other carrier, shall receive for transportation or transport from the United States to any foreign country, any products, unless and until an official export certificate covering the same has been issued and delivered as provided in this part; except in the case of inspected and passed ship stores and not more than 50 pounds of inspected and passed product for the exclusive personal use of the consignee and not for sale or distribution, and except for exempted product eligible for exportation under the provisions of the Act and the regulations in this subchapter and inedible product that is not capable of use as human food and is eligible for exportation under other provisions of said regulations.
+
+
+# Tags
+
+['products', 'certificate', 'exporter', 'shall', 'inspection', 'ship', 'personal', 'passed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                |

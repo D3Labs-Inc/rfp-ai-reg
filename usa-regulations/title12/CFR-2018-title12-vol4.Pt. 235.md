@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 235
 
 
+# Summary
+
+This part implements the provisions of section 920 of the EFTA, including standards for reasonable and proportional interchange transaction fees for electronic debit transactions, standards for receiving a fraud-prevention adjustment to interchange transaction fees, exemptions from the interchange transaction fee limitations, prohibitions on evasion and circumvention, prohibitions on payment card network exclusivity arrangements and routing restrictions for debit card transactions, and reporting requirements for debit card issuers and payment card networks.
+(j) Interchange transaction fee means any fee established, charged, or received by a payment card network and paid by a merchant or an acquirer for the purpose of compensating an issuer for its involvement in an electronic debit transaction.
+(1) To be eligible to receive or charge the fraud-prevention adjustment in paragraph (a) of this section, an issuer must develop and implement policies and procedures reasonably designed to take effective steps to reduce the occurrence of, and costs to all parties from, fraudulent electronic debit transactions, including through the development and implementation of cost-effective fraud-prevention technology.
+Except as provided in paragraph (d) of this section, &#167;&#167;&#8201;235.3, 235.4, and 235.6 do not apply to an interchange transaction fee received or charged by an issuer with respect to an electronic debit transaction using a general-use prepaid card that is&#8212;
+
+
+# Tags
+
+['transaction', 'issuer', 'means', 'cards', 'fee', 'acting', 'network', 'shall', 'debit', 'reloadable', 'federal', 'fraud', 'funds', 'person', 'banks', 'agencies', 'includes', 'payment', 'reasonably', 'account', 'electronic', 'specific', 'state', 'enforced', 'provides', 'prescribed', 'required', 'general', 'calendar year', 'unaffiliated']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                               |

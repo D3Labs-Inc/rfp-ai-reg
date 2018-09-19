@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 335
 
 
+# Summary
+
+Persons with securities subject to registration under Exchange Act sections 12(b) and 12(g), required to report under Exchange Act section 13, and subject to this part shall follow the applicable and currently effective SEC regulations issued under section 12(b) of the Exchange Act as codified at 17 CFR part 240.
+Any person filing any statement, report, or document with the FDIC under the Exchange Act may make a written objection to the public disclosure of any information contained therein in accordance with the procedure set forth in this paragraph (c) or the instructions provided for electronic filing available on the FDIC's Web site https://www2.fdicconnect.gov/index.asp.
+(iii) If the request for a continuing hardship exemption is granted, the electronic filer shall submit the document or group of documents for which the exemption is granted in paper format on the required due date specified in the applicable form, rule or regulation, or the proposed filing date, as appropriate.
+
+
+# Tags
+
+['shall', 'filings', 'fdic', 'forms', 'requires', 'electronically', 'regulations', 'statement', 'included', 'sections', 'sec', 'timely', 'reporting', 'information', 'copy', 'act', 'security', 'format', 'papers', 'proceedings', 'bank', 'exhibits', 'federal', 'days', 'applicant', 'insurance', 'financial', 'judicial', 'signature', 'persons', 'disclosures', 'exemption']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                           |

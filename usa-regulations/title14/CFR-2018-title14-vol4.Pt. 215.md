@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 215
 
 
+# Summary
+
+This part applies to all certified air carriers, commuter air carriers, and foreign direct air carriers and to initial or amended applications for authority, applications for certificate or permit transfers or reissuances, and registration of business names.
+Any air carrier subject to this part that desires to change the name in which its operating authorization has been issued, or to use a trade name, or to obtain initial operating authority must register the name with the Department.
+The Department will construe any application for initial, reissued, or transferred authority as containing a &#8220;registration&#8221; of the intended name.
+The Department will compare the proposed name in any registration filed under this part or in an application for new, reissued, or transferred authority with a list of names used by existing certificated, commuter and foreign direct air carriers.
+The Department will notify the applicant of any other certificated, foreign or commuter carriers that may have an identical or similar name.
+After completion of the filing and notification requirements of this part, the Department may acknowledge the registration by notice in the action granting the application for initial operating authority, transfer, or reissuance or by separate notice in the case of use of a trade name.
+
+
+# Tags
+
+['names', 'carrier', 'air', 'initial', 'department', 'action', 'authorized', 'shall', 'registering']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                       |

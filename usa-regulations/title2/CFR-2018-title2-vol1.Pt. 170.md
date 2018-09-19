@@ -8,6 +8,21 @@
  CFR-2018-title2-vol1.Pt. 170
 
 
+# Summary
+
+This part provides guidance to agencies to establish requirements for recipients' reporting of information on subawards and executive total compensation, as required by the Federal Funding Accountability and Transparency Act of 2006 (Pub. L.
+This part applies to an agency's grants, cooperative agreements, loans, and other forms of Federal financial assistance subject to the Transparency Act, as defined in &#167;&#8201;170.320.
+(i) 80 percent or more of its annual gross revenue in Federal procurement contracts (and subcontracts) and Federal financial assistance awards subject to the Transparency Act, as defined at &#167;&#8201;170.320 (and subawards); and
+(a) Each agency that makes awards of Federal financial assistance subject to the Transparency Act must include the requirements described in paragraph (b) of this section in each program announcement, regulation, or other issuance containing instructions for applicants:
+(a) To accomplish the purposes described in &#167;&#8201;170.100, an agency must include the award term in Appendix A to this part in each award to a non-Federal entity under which the total funding will include $25,000 or more in Federal funding at any time during the project or program period.
+Federal financial assistance subject to the Transparency Act means assistance that non-Federal entities described in &#167;&#8201;170.105 receive or administer in the form of&#8212;
+
+
+# Tags
+
+['awards', 'federal', 'act', 'reports', 'means', 'agency', 'agreements', 'assistance', 'cooperative', 'funded', 'revenue', 'executives']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                      |

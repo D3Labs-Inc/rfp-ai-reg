@@ -8,6 +8,20 @@
  CFR-2018-title12-vol9.Pt. 1090
 
 
+# Summary
+
+This part defines those nonbank covered persons that qualify as larger participants of certain markets for consumer financial products or services pursuant to 12 U.S.C. 5514(a)(1)(B) and (a)(2).
+(d) At any time, including prior to issuing the written communication referred to in paragraph (a) of this section, the Assistant Director may require that a person provide to the Bureau such records, documents, and information as the Assistant Director may deem appropriate to assess whether a person qualifies as a larger participant.
+(D) The annual receipts of a formerly affiliated company are not included in the annual receipts of a nonbank covered person for purposes of this section if the affiliation ceased before the applicable period of measurement as set forth in paragraph (ii) of this definition.
+(D) The annual receipts of a formerly affiliated company are not included in the annual receipts of a nonbank covered person for purposes of this section if the affiliation ceased before the applicable period of measurement as set forth in paragraph (ii) of this definition.
+Except as provided in paragraph (c) of this section, a nonbank covered person that engages in automobile financing is a larger participant of the automobile financing market if the person has at least 10,000 aggregate annual originations.
+
+
+# Tags
+
+['meanings', 'person', 'consumers', 'credit', 'included', 'years', 'taxes', 'provided', 'annualized', 'records', 'iii', 'service', 'companies', 'collecting', 'accounting period', 'acts', 'receipts', 'debts', 'markets', 'internal', 'affiliate', 'definitions', 'entity', 'authorizations', 'transfer', 'government', 'post', 'information', 'vehicle', 'purpose']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                               |

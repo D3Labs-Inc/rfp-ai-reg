@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 89
 
 
+# Summary
+
+Attorneys desiring to execute contracts with any one of the Five Civilized Tribes shall be required to give written notice to the Area Director through the Superintendent having jurisdiction over said tribe.
+Requests for forms for an attorney contract should include a statement reciting whether the attorney is desired as a general legal counsel in connection with the business of the tribe or as counsel in respect to specific problems on which legal counsel is desired, or specific matters requiring representation in court or before committees of Congress and the Departments of Government.
+(d) When a tribe determines it critical, and the Assistant Secretary&#8212;Indian Affairs finds the concerns of the tribe to have merit after consultation with and the advice of the Solicitor, to intervene, in a lawsuit being handled by the Justice Department or in an administrative proceeding being handled by the Solicitor because the responsible Government Attorney refuses either to exclude or to include some facet of the suit or proceedings which the tribe claims renders such legal representation completely inadequate to protect or in contravention of the rights and interests of the tribe.
+
+
+# Tags
+
+['tribe', 'shall', 'legal counsel', 'attorney', 'require', 'statement', 'tribal', 'general', 'financial', 'recommendations', 'services', 'negotiate', 'contracts', 'notice', 'funds', 'private', 'execution']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                  |

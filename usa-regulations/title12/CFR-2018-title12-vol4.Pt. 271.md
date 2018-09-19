@@ -8,6 +8,17 @@
  CFR-2018-title12-vol4.Pt. 271
 
 
+# Summary
+
+If any person, whether or not an officer or employee of the Committee, of the Board of Governors of the Federal Reserve System, or of a Federal Reserve Bank, has information of the Committee that may not be disclosed by reason of &#167;&#8201;271.7 and in connection therewith is served with a subpoena, order, or other process requiring the person's personal attendance as a witness or the production of documents or information upon any proceeding, the person should promptly inform the Secretary of the Committee of such service and of all relevant facts, including the documents and information requested and any facts that may be of assistance in determining whether such documents or information should be made available; and the person should take action at the appropriate time to inform the court or tribunal that issued the process, and the attorney for the party at whose instance the process was issued, if known, of the substance of this part.
+In connection with any request by an employee, former employee, or applicant for employment, for records for use in prosecuting a grievance or complaint of discrimination against the Committee, fees shall be waived where the total charges (including charges for information provided under the Privacy Act of 1974 (5 U.S.C. 552a) are $50 or less; but the Secretary may waive fees in excess of that amount.
+
+
+# Tags
+
+['requester', 'shall', 'record', 'fees', 'information', 'committee', 'publication', 'reason', 'timely', 'including', 'uses', 'search', 'document', 'processing', 'charges', 'education', 'statements', 'general', 'means', 'actually', 'news', 'person', 'determining', 'providing', 'pursuant', 'limitation', 'written', 'unfair', 'circumstances', 'research', 'exemption', 'expedite', 'seek', 'payment', 'advance', 'identifiable', 'bank', 'unwarranted', 'act']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                           |

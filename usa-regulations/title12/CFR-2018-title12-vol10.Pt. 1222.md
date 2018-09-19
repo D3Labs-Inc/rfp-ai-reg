@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1222
 
 
+# Summary
+
+To provide appraisal management services for a creditor or secondary mortgage market participant relating to a covered transaction, a Federally regulated AMC must comply with the requirements in &#167;&#8201;1222.23(b)(2) through (5).
+(2) A Federally regulated AMC is not barred pursuant to paragraph (b)(1) of this section from being included on the AMC National Registry if the license or certificate of the appraiser with an ownership interest was not revoked for substantive cause and has been reinstated by the State or States in which the appraiser was licensed or certified.
+A Federally regulated AMC must report to the State or States in which it operates the information required to be submitted by the State to the Appraisal Subcommittee pursuant to the Appraisal Subcommittee's policies regarding the determination of the AMC National Registry fee, including but not necessarily limited to the collection of information related to the limitations set forth in this section, as applicable.
+Each State electing to register AMCs for purposes of permitting AMCs to provide appraisal management services relating to covered transactions in the State must submit to the Appraisal Subcommittee the information required to be submitted by Appraisal Subcommittee regulations or guidance concerning AMCs that operate in the State.
+
+
+# Tags
+
+['appraisals', 'amcs', 'meaning', 'state', 'act', 'federal', 'including', 'regulations', 'credit', 'mortgage', 'agency', 'standards', 'application', 'pursuant', 'institutions', 'person', 'insurer', 'calendar', 'provide', 'banks', 'registration', 'relating', 'service', 'consumer', 'usc', 'transaction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                         |

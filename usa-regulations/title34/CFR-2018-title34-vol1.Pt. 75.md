@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 75
 
 
+# Summary
+
+(b) If a maximum award amount is established in a notice published in the Federal Register, the Secretary may reject without consideration or evaluation any application that proposes a project funding level that exceeds the stated maximum award amount.
+(i) The applicant's capacity (e.g., in terms of qualified personnel, financial resources, or management capacity) to bring the proposed project to scale on a national or regional level (as defined in 34 CFR 77.1(c)) working directly, or through partners, during the grant period.
+(b) In deciding whether a grantee has made substantial progress, the Secretary may consider any information relevant to the authorizing statute, a criterion, a priority, or a performance measure, or to a financial or other requirement that applies to the selection of applications for new grants.
+If a grantee under a discretionary grant program of the Department has the authority under the grant to select a private organization to provide services supported by direct Federal financial assistance under the program by subgrant, contract, or other agreement, the grantee must ensure compliance with applicable Federal requirements governing contracts, grants, and other agreements with faith-based organizations, including, as applicable, &#167;&#167;&#8201;75.52, 75.532, and 75.712-75.713, appendix A to this part, and 2 CFR 3474.15.
+
+
+# Tags
+
+['application', 'projects', 'funds', 'program', 'grants', 'requirements', 'included', 'secretary', 'federal', 'shall', 'costs', 'awarded', 'services', 'educational', 'states', 'useful', 'provided', 'budgeted', 'active', 'performance', 'religious', 'evaluates', 'cfr', 'periods', 'indirect', 'specifications', 'quality', 'students', 'grantees', 'financial', 'following', 'select', 'informs', 'organization', 'rated', 'support', 'generalizing', 'department', 'assistance', 'effectively', 'establishes', 'research', 'proposes', 'base', 'appropriate', 'iii', 'working', 'approved', 'competitive', 'planned', 'regulation', 'section', 'acts', 'directed', 'procedures', 'national', 'developed', 'continuation', 'implemented', 'facility', 'standards', 'training', 'priorities', 'strategy', 'addition', 'construction', 'beneficiaries', 'data', 'operation', 'usc', 'involve', 'conditions', 'receive', 'resources', 'circumstances', 'evidence', 'consultants', 'loan', 'date', 'materials', 'local', 'possible']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

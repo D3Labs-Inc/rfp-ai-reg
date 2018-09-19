@@ -8,6 +8,20 @@
  CFR-2018-title12-vol6.Pt. 507
 
 
+# Summary
+
+This part implements section 10(k) of the Federal Deposit Insurance Act (FDIA), which prohibits senior examiners from accepting compensation from certain companies following the termination of their employment.
+(a) The individual is an officer or employee of OTS (including a special government employee) who has been authorized by OTS to conduct examinations or inspections of savings associations or savings and loan holding companies;
+An individual who serves as a senior examiner of a savings association for two or more of the last 12 months of his or her employment with OTS may not, within one year after the termination date of his or her employment with OTS, knowingly accept compensation as an employee, officer, director, or consultant from&#8212;
+An individual who serves as a senior examiner of a savings and loan holding company for two or more of the last 12 months of his or her employment with OTS may not, within one year after the termination date of his or her employment with OTS, knowingly accept compensation as an employee, officer, director, or consultant from&#8212;
+The post-employment restrictions in paragraph (a) of this section do not apply to any senior examiner who terminated his employment at OTS before December 17, 2005.
+
+
+# Tags
+
+['company', 'section', 'ots', 'banking', 'date', 'basis', 'acts', 'administrative']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                         |

@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 422
 
 
+# Summary
+
+Before USDA will rely on a research institution to conduct an inquiry, investigation, and adjudication of an allegation in accordance with this part, the research institution where the research misconduct is alleged must provide the ARIO its policies and procedures related to research misconduct at the institution.
+An appropriate USDA agency, as determined by the Panel, will then conduct the inquiry, investigation, and adjudication of research misconduct in accordance with this part.
+Following completion of an investigation into allegations of research misconduct, the institution conducting extramural research must provide to the ARIO a copy of the evidentiary record, the report of the investigation, recommendations made to the institution's adjudicating official, the adjudicating official's determination, the institution's corrective action taken or planned, and the written response of the individual who is the subject of the allegation to any recommendations.
+(a) A research institution that conducts extramural research supported by USDA funds, as the responsible legal entity for the USDA-supported research, has a continuing obligation to create and maintain adequate records (including documents and other evidentiary matter) as may be required by any subsequent inquiry, investigation, finding, adjudication, or other proceeding.
+(a) If USDA relied on an institution to conduct an inquiry, investigation, and adjudication, the alleged person(s) should first follow the institution's appeal policy and procedures.
+
+
+# Tags
+
+['researcher', 'usda', 'included', 'misconduct', 'processing allegations', 'appropriated', 'agency', 'procedures', 'investigations', 'inquiries', 'institutions', 'records documents', 'actions', 'public', 'office', 'report', 'federal', 'funding', 'follow', 'shall', 'policies', 'conducted', 'adjudicating', 'data', 'relating', 'involved', 'individuals', 'oig', 'written', 'evidentiary', 'arios', 'proceeding', 'science']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                               |

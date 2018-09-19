@@ -8,6 +8,20 @@
  CFR-2018-title12-vol8.Pt. 1009
 
 
+# Summary
+
+This part also requires such depository institutions to obtain a written acknowledgment from depositors regarding the institution's lack of Federal deposit insurance.
+Depository institutions lacking Federal deposit insurance must include a notice disclosing clearly and conspicuously that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money, in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or share certificate.
+If it fails, the Federal Government does not guarantee that you will get your money back.&#8221; The disclosures required by this section must be clear and conspicuous and presented in a simple and easy to understand format, type size, and manner.
+With respect to any depositor who was not a depositor at the depository institution on or before October 13, 2006, and who is not a depositor as described in paragraph (b) of this section, a depository institution lacking Federal deposit insurance may receive a deposit for the account of such depositor only if the institution has obtained the depositor's signed written acknowledgement that:
+(1) Any depository institution lacking Federal deposit insurance may receive any deposit after October 13, 2006, for the account of a depositor who was a depositor on or before that date only if:
+
+
+# Tags
+
+['insurance', 'deposit', 'institution', 'card', 'federally', 'law', 'disclosures', 'receive', 'accounts', 'union', 'act']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                        |

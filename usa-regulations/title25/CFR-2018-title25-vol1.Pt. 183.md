@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 183
 
 
+# Summary
+
+Income means interest or income earned or accrued on the principal of the Trust Fund or the Lease Fund and is available for distribution to the Tribe in accordance with the Settlement Act and this part.
+To request a distribution of principal or income from the Trust Fund, the Tribe must submit to us all of the following documents.
+(b) A written budget and supporting documentation, approved by the Tribal Council, showing precisely how the tribe will spend the money, including what amounts should come from principal and what amounts should come from income;
+(a) The Tribe must spend principal or income distributed from the Trust Fund only in accordance with a written budget submitted under &#167;&#8201;183.5.
+To request a distribution of income from the Lease Fund, the Tribe must submit to us all of the following documents:
+(a) The Tribe must spend income distributed from the Lease Fund only in accordance with a written budget submitted under &#167;&#8201;183.5.
+(b) A description, in detail, of how the Tribe has used the funds distributed from the Trust Fund or the Lease Fund consistently with the requirements in the Settlement Act, this part, and the budget approved by the Tribal Council and the Secretary; and
+
+
+# Tags
+
+['acting', 'tribe', 'means', 'projects', 'fund', 'budgets', 'cost', 'stat', 'income', 'requires', 'development', 'documentation', 'report', 'use', 'indians']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                    |

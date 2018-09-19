@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 609
 
 
+# Summary
+
+(a) An institution or an institution's qualified graduate program listed in paragraph (b) of this section is eligible to receive a grant under this part if the Secretary determines that the institution is making a substantial contribution to legal, medical, dental, veterinary or other graduate education opportunities for Black Americans.
+(a) A description of the activities to be carried out with grant funds and how those activities will improve graduate educational opportunities for Black and low-income students and lead to greater financial independence for the applicant;
+(4) A description of methods, processes and procedures that will be used by the college or university to institutionalize financial management and academic program practices and improvements developed under the proposed funded activities.
+Except as provided in paragraphs (b) and (c) of this section, a grantee may expend grant funds for activities that are reasonably related to carrying out the allowable activities included in its approved application.
+(b) An institution awarded a grant under this part must submit to the Department of Education Inspector General three copies of the audit required in paragraph (a) of this section within six months after completion of the audit.
+
+
+# Tags
+
+['programs', 'grant', 'activities', 'educational', 'institutions', 'funds academic', 'university', 'secretary', 'school', 'shall', 'including', 'costs', 'state', 'develop', 'follows', 'financial', 'establishing', 'requirements', 'general', 'regulations', 'medical', 'faculty', 'students', 'federal', 'sciences']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                              |

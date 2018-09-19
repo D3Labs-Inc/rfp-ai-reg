@@ -8,6 +8,25 @@
  CFR-2018-title14-vol1.Pt. 39
 
 
+# Summary
+
+The regulations in this part provide a legal framework for FAA's system of Airworthiness Directives.
+FAA's airworthiness directives are legally enforceable rules that apply to the following products: aircraft, aircraft engines, propellers, and appliances.
+FAA issues an airworthiness directive addressing a product when we find that:
+What if I operate an aircraft or use a product that does not meet the requirements of an airworthiness directive?
+If the requirements of an airworthiness directive have not been met, you violate &#167;&#8201;39.7 each time you operate the aircraft or use the product.
+Does an airworthiness directive apply if the product has been changed?
+What must I do if a change in a product affects my ability to accomplish the actions required in an airworthiness directive?
+If a change in a product affects your ability to accomplish the actions required by the airworthiness directive in any way, you must request FAA approval of an alternative method of compliance.
+The principal inspector may add comments and will send your request to the manager of the office identified in the airworthiness directive (manager).
+Each airworthiness directive identifies the office responsible for approving alternative methods of compliance.
+
+
+# Tags
+
+['directions', 'faa', 'airworthiness', 'conditions', 'require', 'product', 'legally', 'flight', 'yes']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                |

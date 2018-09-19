@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 19
 
 
+# Summary
+
+If an ex parte communication is received by the administrative law judge, the Comptroller or any other person identified in paragraph (a) of this section, that person shall cause all such written communications (or, if the communication is oral, a memorandum stating the substance of the communication) to be placed on the record of the proceeding and served on all parties.
+(1) If a witness will not be available for the hearing, a party desiring to preserve that witness' testimony for the record may apply in accordance with the procedures set forth in paragraph (a)(2) of this section, to the administrative law judge for the issuance of a subpoena, including a subpoena duces tecum, requiring the attendance of the witness at a deposition.
+Within 30 days of service of the notice or order commencing a proceeding or such other time as parties may agree, the administrative law judge shall direct counsel for all parties to meet with him or her in person at a specified time and place prior to the hearing or to confer by telephone for the purpose of scheduling the course and conduct of the proceeding.
+
+
+# Tags
+
+['shall', 'party', 'includes', 'hear', 'ordered', 'proceeding', 'filings', 'materially', 'written', 'pursuant', 'banking', 'witness', 'notice', 'occ', 'service', 'personally', 'document', 'acting', 'requires', 'matters', 'office', 'issuing', 'authorities', 'rulings', 'requested', 'reasonableness', 'timely', 'subpoena', 'limitations', 'follows', 'involved', 'appropriate', 'applicants', 'conducting', 'judge means', 'responding', 'actions', 'period', 'informal', 'constitution', 'comptroller', 'suspension', 'institution', 'relevance', 'state', 'agencies', 'statement', 'motion', 'recorded', 'law', 'individuals', 'directs', 'depositions', 'enforcing', 'counsel', 'propose', 'decisions', 'privilege', 'specific', 'provides', 'causing', 'public', 'supervised', 'orally', 'capitalized', 'scope', 'attorneys', 'prior', 'immediate', 'procedure', 'exhibit', 'sections', 'federal', 'evidence', 'represented', 'specifies', 'regulate', 'court', 'set', 'generally', 'serve', 'paper', 'effect']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

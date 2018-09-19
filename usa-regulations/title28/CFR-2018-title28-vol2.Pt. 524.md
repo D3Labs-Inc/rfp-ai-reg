@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 524
 
 
+# Summary
+
+Except as provided for in paragraphs (a) (1) through (4) of this section, an inmate (including pretrial inmates) may be classified as a CIM case at any time by a Community Corrections Manager or by appropriate staff at the Central Office, Regional Office, or institution.
+Central Office classification of an individual as a Witness Security case, under either the Department of Justice or Bureau of Prisons, does not require additional review, and overrides any other CIM assignment.
+Except for Central Office or Regional Office classification of an individual as a state prisoner in sole service of the state sentence or for classification of pretrial inmates made by designated staff at the institution, a review by designated staff (ordinarily within 60 days of notification to the inmate) is required to determine whether a sound basis exists for the classification.
+(2) Regional Office&#8212;reviews CIM classification decisions for Disruptive Group, Broad Publicity, Threat to Government Officials, Special Supervision, State Prisoners not in sole service of state sentence and initial multiple assignments except Witness Security Cases.
+Central Office Inmate Monitoring Section staff shall be the clearance authority on all transfers, temporary releases, community activities, and escorted trips for Witness Security cases, except in a medical emergency.
+
+
+# Tags
+
+['shall', 'inmate', 'programming', 'included', 'classification', 'reviewing', 'staff', 'paroled', 'time', 'case', 'assign', 'releasing authority', 'state', 'report', 'yca', 'prisons', 'special', 'activities', 'institution designated', 'corrections', 'cim', 'sentences', 'court', 'complete', 'information', 'witnesses', 'establish', 'hearing', 'manager', 'treatment', 'days', 'actions', 'public', 'federal', 'appropriate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                 |

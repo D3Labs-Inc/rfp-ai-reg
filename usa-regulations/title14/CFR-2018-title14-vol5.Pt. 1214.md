@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1214
 
 
+# Summary
+
+(3) NASA-provided International Space Station crewmembers who are employed by a branch, department, or agency of the U.S. Government may, as determined by the NASA General Counsel, be required to enter into an agreement with NASA to comply with specified standards of conduct, including those prescribed in the Code of Conduct for the International Space Station Crew (&#167;&#8201;1214.403).
+At least 120 days prior to the scheduled launch of a particular mission, an authorized representative of each organization desiring mementos to be carried on a flight in the OFK must submit a letter or request describing the item(s) to be flown and the intended purpose or distribution.
+This subpart establishes the authority of the NASA Commander of a NASA mission, excluding missions related to the ISS and activities licensed under Title 51 U.S.C. Chapter 509, to enforce order and discipline during a mission and to take whatever action in his/her judgment is reasonable and necessary for the protection, safety, and well-being of all personnel and on-board equipment, including the spacecraft and payloads.
+The number and names of candidates selected to be added to the corps will be approved, as required, by JSC/ NASA management and the Associate Administrator for Space Flight, prior to notifying the individuals or the public.
+
+
+# Tags
+
+['nasa', 'applications', 'flights', 'mission', 'authority', 'space', 'provide', 'personal', 'station', 'including', 'crew aboard', 'item', 'qualified', 'astronaut', 'mementos', 'activity', 'shall', 'violates', 'selected', 'policy', 'board', 'carried', 'rating', 'command', 'military', 'evaluated', 'processed', 'federal', 'internal', 'administrator']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                           |

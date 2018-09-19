@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 32
 
 
+# Summary
+
+(1) Develop in consultation with Tribes and Alaska Native entities a plan to include their direct involvement in short and long-range planning of Bureau operated post-secondary schools through the formation of policy making governing boards.
+(2) Assume an assertive role in coordinating comprehensive support for Indian and Alaska Native students internally and from other agencies in education, mental and physical health, juvenile justice, job training, including apprenticeship programs and other related Federal, State and local programs and services.
+(1) Ensure that the needs of the students and Tribal or Alaska Native community will receive first priority in the planning, design, construction, operation and maintenance of Bureau schools and residential facilities, rather than other considerations, such as ease of maintenance, and that these facilities assure a supportive environment for learning, living and recreation.
+Establish and enforce policies and practices to guarantee equal opportunity and open access to all Indian and Alaska Native students in all matters relating to their education programs consistent with the provisions of the Privacy and Freedom of Information Acts.
+(1) Enforce a strict standard of fiscal, programmatic and contract accountability to the Tribes and Alaska Native entities and assist them in the development of their own standards of accountability and carry out annual evaluations of all Bureau-operated or funded education programs.
+
+
+# Tags
+
+['educational', 'indian', 'schools', 'program', 'appropriate', 'tribal', 'students', 'provide', 'entity', 'mean', 'policies', 'shall', 'native', 'federal', 'government', 'culturally', 'including', 'assistance', 'acts', 'support services', 'tribes', 'facilities', 'state', 'local', 'develop', 'plan', 'bureau', 'operation', 'ensure', 'standard', 'priorities', 'serve', 'evaluating', 'board', 'families', 'villages']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                      |

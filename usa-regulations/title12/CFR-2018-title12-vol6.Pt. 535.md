@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 535
 
 
+# Summary
+
+(a) Consumer means a natural person who seeks or acquires goods, services, or money for personal, family, or household purposes, other than for the purchase of real property, and who applies for or is extended consumer credit.
+It is a deceptive act or practice for you, directly or indirectly in connection with the extension of credit to consumers, to misrepresent the nature or extent of cosigner liability to any person.
+It is an unfair act or practice for you, directly or indirectly in connection with the extension of credit to consumers, to obligate a cosigner unless the cosigner is informed, before becoming obligated, of the nature of the cosigner's liability.
+In connection with collecting a debt arising out of an extension of credit to a consumer, it is an unfair act or practice for you, directly or indirectly, to levy or collect any delinquency charge on a payment, when the only delinquency is attributable to late fees or ydelinquency charges assessed on earlier installments and the payment is otherwise a full payment for the applicable period and is paid on its due date or within an applicable grace period.
+
+
+# Tags
+
+['credit', 'means', 'loans', 'unfair', 'acts', 'consumers', 'person', 'cosigned', 'property', 'secured', 'goods', 'charge', 'commission', 'apply', 'including', 'payments', 'following']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                           |

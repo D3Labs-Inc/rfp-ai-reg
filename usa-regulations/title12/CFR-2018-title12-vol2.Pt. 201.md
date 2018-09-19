@@ -8,6 +8,20 @@
  CFR-2018-title12-vol2.Pt. 201
 
 
+# Summary
+
+(ii) Provide any information requested by the Federal Reserve for the purpose of determining that the credit rating agency continues to meet the eligibility requirements under paragraph (e)(1) of this section.
+may authorize any Federal Reserve Bank, subject to such conditions and during such periods as the Board may determine, to extend credit to any participant in a program or facility with broad-based eligibility established and operated in accordance with this paragraph (d).
+(iv) A Federal Reserve Bank may extend credit through a program or facility with broad-based eligibility established under this paragraph (d) through such mechanism or vehicle as the Board determines would facilitate the extension of such credit.
+(i) The Board will determine the interest rate to be charged on any credit extended through a program or facility established under this section in accordance with this paragraph (d) and the provisions of section 14, subdivision (d) of the Federal Reserve Act (12 U.S.C. 357).
+Credit extended under this paragraph (d)(13) may not be extended for a term exceeding 90 days, must be extended at a rate above the highest rate in effect for advances to depository institutions as determined in accordance with section 14(d) of the Federal Reserve Act, and is subject to such limitations and conditions as provided by the Board.
+
+
+# Tags
+
+['banks', 'credit', 'rates', 'note', 'securities', 'federal', 'term', 'shall', 'marketable', 'include', 'loan', 'mortgages', 'investments', 'act', 'state', 'financial', 'paper', 'companies', 'bonds', 'facilities', 'requires', 'issue', 'generally', 'insured', 'eligibility', 'board', 'obligation', 'law', 'advance', 'institution', 'accept', 'authorities', 'extending', 'purpose', 'talf', 'agency', 'administration', 'servicing', 'certification', 'participants', 'penalty', 'commercial', 'establish', 'reservable', 'sections', 'timely', 'asset', 'need', 'risks', 'material', 'information', 'business', 'operation', 'supporting', 'conditioned', 'iii', 'consumers', 'ucc', 'circumstances', 'days']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                    |

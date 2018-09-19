@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 533
 
 
+# Summary
+
+Subject to the Chairman's approval, an Indian tribe may enter into a management contract for the operation of a class II or class III gaming activity.
+A tribe or a management contractor shall submit a management contract to the Chairman for review within sixty (60) days of execution by the parties.
+The Chairman shall notify the parties of their right to appeal the approval or disapproval of the management contract under part 583 of this chapter.
+(2) After 270 days following the Chairman's receipt of a complete submission if the Chairman has told the tribe and management contractor in writing of the need for an extension and has not approved or disapproved the contract under this part.
+(c) The Chairman may disapprove a management contract for class III gaming if he or she determines that a person with a financial interest in, or management responsibility for, a management contract is a person whose prior activities, criminal record, if any, or reputation, habits, and associations pose a threat to the public interest or to the effective regulation and control of gaming, or create or enhance the dangers of unsuitable, unfair, or illegal practices, methods, and activities in the conduct of gaming or the carrying on of related business and financial arrangements.
+
+
+# Tags
+
+['shall', 'gaming', 'contracts', 'management', 'chairman', 'documents', 'tribal', 'financial', 'statements', 'approved', 'submission', 'practices']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                       |

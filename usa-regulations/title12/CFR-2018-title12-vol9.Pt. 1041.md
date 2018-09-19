@@ -8,6 +8,19 @@
  CFR-2018-title12-vol9.Pt. 1041
 
 
+# Summary
+
+Prior to making a covered short-term loan or covered longer-term balloon-payment loan under this section, in order to determine whether any of the prohibitions in this paragraph (d) are applicable, a lender must obtain and review information about the consumer's borrowing history from the records of the lender and its affiliates, and from a consumer report obtained from an information system that has been registered for 180 days or more pursuant to &#167;&#8201;1041.11(c)(2) or is registered with the Bureau pursuant to &#167;&#8201;1041.11(d)(2), if available.
+A lender that makes a first loan in a sequence of loans made under this section must provide to a consumer a notice that includes, as applicable, the following information and statements, using language substantially similar to the language set forth in Model Form A-1 in appendix A to this part:
+If the transfer meets any of the conditions for unusual attempts described in paragraph (b)(3)(ii)(C) of this section, the electronic short notice must also contain the following information and statements, as applicable, using language substantially similar to the language in Model Clause A-7 in appendix A to this part:
+To comply with the requirements in this paragraph (b), a lender must retain electronic records in tabular format that include the following information for a covered short-term or covered longer-term balloon-payment loan:
+
+
+# Tags
+
+['loans', 'payment', 'consumer', 'information', 'section', 'require', 'iii', 'lender', 'means', 'credit', 'providing', 'reason', 'transfer', 'period', 'electronic', 'including', 'obtains', 'account', 'notice', 'form', 'income', 'authorizes', 'shall', 'pursuant', 'date', 'taxing', 'follows', 'statements', 'term', 'covering sufficient', 'compliance', 'obligation', 'initiating', 'vehicle', 'generally', 'prior', 'registration', 'day', 'disclosures', 'received', 'recorded', 'report', 'business', 'entity', 'security', 'outstanding', 'condition', 'retain', 'web', 'check', 'fee', 'cost', 'certain', 'written', 'withdrawal', 'attempts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                               |

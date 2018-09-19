@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 545
 
 
+# Summary
+
+A Federal savings association (&#8220;you&#8221;) must file an application or notice and receive OTS approval or non-objection under &#167;&#8201;545.95 before you change the permanent location of, or establish a new, home or branch office, except as provided in this section.
+If you are incorporated under the laws of, organized in, or do business in the District of Columbia and you satisfy the requirements of paragraph (b) of this section, the Director of OTS has approved your home or branch office changes under section 5(m) of the HOLA.
+A Federal savings association designated fiscal agent by the Secretary of the Treasury or with Office approval by another instrumentality of the United States, shall, as such, perform such reasonable duties and exercise only such powers and privileges as the Secretary of the Treasury or such instrumentality may prescribe.
+If a majority of the directors of a savings association concludes that, in connection with an action, any person ultimately may become entitled to indemnification under this section, the directors may authorize payment of reasonable costs and expenses, including reasonable attorneys' fees, arising from the defense or settlement of such action.
+
+
+# Tags
+
+['including', 'office', 'ots', 'shall', 'public', 'act', 'thereof', 'association', 'servicing', 'person', 'applicable', 'requiring', 'notices', 'chapter', 'actions', 'deposit', 'authorization', 'area', 'comment', 'procedures', 'iii', 'policy', 'following', 'insurance', 'reasonable', 'federal', 'activities', 'judgment']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                |

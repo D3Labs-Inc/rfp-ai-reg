@@ -8,6 +8,16 @@
  CFR-2018-title9-vol2.Pt. 203
 
 
+# Summary
+
+(c) If the Grain Inspection, Packers and Stockyards Administration (Packers and Stockyards Programs) has reason to believe that any packer unjustifiably (1) has refused to pay the contractual price for meat or meat food products purchased, (2) has refused to accept a shipment of meat or meat food products, or (3) has failed to ship meat or meat food products in accordance with the terms of the contract specifications, consideration will be given to the issuance of a complaint charging the packer with violation of section 202 of the Act. In the formal administrative proceeding initiated by any such complaint, the Judicial Officer of the Department will determine, upon the basis of the record in the proceeding, whether the packer has violated the Act and should be ordered to cease and desist from continuing such violation.
+
+
+# Tags
+
+['packers', 'livestock', 'market', 'receivables', 'statements', 'operating', 'stockyard', 'services', 'meats', 'includes', 'inspection', 'production', 'usc', 'business', 'agency', 'states', 'current', 'programs', 'practice', 'complaints', 'records', 'purchased', 'means cash', 'grade', 'accounts', 'terms', 'contracts', 'reason', 'times', 'appropriate', 'security', 'fully', 'basis', 'engage', 'period', 'sales', 'feed', 'poultry', 'producer', 'sheets', 'departmental']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                             |

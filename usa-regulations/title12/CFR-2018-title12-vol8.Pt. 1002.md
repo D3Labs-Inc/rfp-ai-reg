@@ -8,6 +8,18 @@
  CFR-2018-title12-vol8.Pt. 1002
 
 
+# Summary
+
+The purpose of this part is to promote the availability of credit to all creditworthy applicants without regard to race, color, religion, national origin, sex, marital status, or age (provided the applicant has the capacity to contract); to the fact that all or part of the applicant's income derives from a public assistance program; or to the fact that the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The regulation prohibits creditor practices that discriminate on the basis of any of these factors.
+The regulation also requires creditors to notify applicants of action taken on their applications; to report credit history in the names of both spouses on an account; to retain records of credit applications; to collect information about the applicant's race and other personal characteristics in applications for certain dwelling-related loans; and to provide applicants with copies of appraisal reports used in connection with credit transactions.
+(z) Prohibited basis means race, color, religion, national origin, sex, marital status, or age (provided that the applicant has the capacity to enter into a binding contract); the fact that all or part of the applicant's income derives from any public assistance program; or the fact that the applicant has in good faith exercised any right under the Consumer Credit Protection Act or any state law upon which an exemption has been granted by the Bureau.
+
+
+# Tags
+
+['applicable', 'credit', 'shall', 'means', 'include', 'prohibits creditor', 'reasons', 'information collection requirements', 'act', 'section', 'lawful', 'concerning', 'provide', 'related', 'persons', 'iii', 'state', 'agency', 'action', 'account', 'requests', 'creditworthiness', 'term', 'violating', 'transactions', 'programs', 'business', 'property', 'race', 'enforcement', 'obtains', 'dwelling', 'special', 'financial', 'age', 'loan', 'federal', 'notice', 'general', 'orally', 'disclosure', 'year', 'written', 'payments', 'limitation', 'following', 'form', 'time', 'expressly', 'native', 'parties', 'definition', 'debt', 'notification', 'administration', 'similar']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                         |

@@ -8,6 +8,18 @@
  CFR-2018-title9-vol1.Pt. 11
 
 
+# Summary
+
+Designated Qualified Person or DQP means a person meeting the requirements specified in &#167;&#8201;11.7 of this part who has been licensed as a DQP by a horse industry organization or association having a DQP program certified by the Department and who may be appointed and delegated authority by the management of any horse show, horse exhibition, horse sale or horse auction under section 4 of the Act to detect or diagnose horses which are sore or to otherwise inspect horses and any records pertaining to such horses for the purposes of enforcing the Act.
+(c) The management of any horse show, horse exhibition, or horse sale or auction containing Tennessee Walking Horses or racking horses shall furnish to any APHIS representative, upon request, the name and address (including street address, or post office box, and ZIP code) of the person designated by the sponsoring organization or manager to maintain the records required by this section.
+Each horse industry organization or association shall furnish the Department&#8201;6 with a quarterly report of all disciplinary actions taken against the management or any horse show, horse exhibition, horse sale, or horse auction, any exhibitor, or any licensed DQP, for violation of the Horse Protection Act or regulations, and the results thereof.
+
+
+# Tags
+
+['shall', 'horse', 'inspections', 'auctions', 'meanings', 'includes', 'dqps', 'department', 'persons', 'immediate', 'associations', 'requiring', 'hoof', 'thereof', 'exhibitions', 'manage', 'violates', 'examined', 'aphis', 'surface', 'organization', 'representatives', 'provides', 'said', 'procedures', 'years', 'related', 'penalty', 'information', 'soreness', 'licensed', 'performing', 'programs', 'areas', 'sales', 'number', 'action device', 'chain', 'records', 'follows', 'practice', 'prohibited', 'shoeing', 'period', 'veterinary', 'adequately', 'uniform', 'pads', 'equine', 'administrator', 'regulations', 'minimum', 'actual physical', 'control', 'rollers', 'training', 'state', 'prior', 'hour', 'concerning', 'exhibitor', 'class', 'evidence', 'animal', 'listed', 'reason']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                          |

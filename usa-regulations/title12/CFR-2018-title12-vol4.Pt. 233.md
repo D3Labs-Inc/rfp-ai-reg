@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 233
 
 
+# Summary
+
+The participants in a money transmitting business are exempt from this regulation's requirements for establishing written policies and procedures reasonably designed to prevent or prohibit restricted transactions, except for the operator.
+If a non-exempt participant in a designated payment system establishes and implements procedures for due diligence of its commercial customer accounts or commercial customer relationships in order to comply, in whole or in part, with the requirements of this regulation, those due diligence procedures will be deemed to be reasonably designed to identify and block or otherwise prevent or prohibit restricted transactions if the procedures include the steps set out in paragraphs (b)(1), (b)(2), and (b)(3) of this section and subject to paragraph (b)(4) of this section.
+(2) The policies and procedures of a depositary bank that receives checks for collection from a foreign banking office are deemed to be reasonably designed to identify and block or otherwise prevent or prohibit restricted transactions if they include procedures to be followed by the depositary bank when it has actual knowledge, obtained through notification by a government entity, such as law enforcement or a regulatory agency, that a foreign banking office has sent checks to the depositary bank that are restricted transactions.
+
+
+# Tags
+
+['transaction', 'include', 'meaning', 'banks', 'participation', 'sporting', 'state', 'act', 'federal', 'procedures', 'checks', 'businesses', 'credits', 'provides', 'payment systems', 'authorities', 'transfer', 'service', 'games', 'received', 'ach', 'reasoned', 'customers', 'tribal', 'activities', 'written', 'require', 'shall', 'operational', 'national', 'card', 'lawful', 'exchange', 'regulations', 'definition', 'follows', 'personal', 'regulatory', 'restricted', 'gambling']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                               |

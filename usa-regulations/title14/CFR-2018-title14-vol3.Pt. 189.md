@@ -8,6 +8,23 @@
  CFR-2018-title14-vol3.Pt. 189
 
 
+# Summary
+
+(a) Flight Service Stations may accept for transmission over FAA communication systems any messages concerning international or overseas aircraft operations described in paragraphs (a) (1) through (6) of this section.
+(A) Messages concerning aircraft in flight or about to depart;
+(iii) Messages originated by an aircraft operating agency of immediate concern to an aircraft in flight or about to depart; and
+(iv) Meteorological advice of immediate concern to an aircraft in flight or about to depart.
+(iii) Concerning the servicing of aircraft en route or scheduled to depart within 48 hours;
+(iv) Concerning changes in the collective requirements for passengers, crew, or cargo of aircraft en route or about to depart, if the changes are caused by unavoidable deviations from normal operating schedules and are necessary for flight regularity;
+(vi) Concerning parts or materials urgently needed to operate aircraft en route or scheduled to depart within 48 hours; or
+(vii) Concerning pre-flight arrangement of air navigation services and, in the case of non-scheduled or irregular operations, operational servicing of aircraft scheduled to depart within 48 hours.
+
+
+# Tags
+
+['messages', 'flight', 'concerning', 'operating', 'meteorological', 'aircraft', 'required', 'iii', 'station', 'non', 'information', 'crew', 'aeronautical', 'urgently']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                |

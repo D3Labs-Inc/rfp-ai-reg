@@ -8,6 +8,21 @@
  CFR-2018-title2-vol1.Pt. 2700
 
 
+# Summary
+
+This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the SBA policies and procedures for nonprocurement debarment and suspension.
+The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance (i.e., 2 CFR 180.220) as supplemented by section 220 of this part (i.e., &#167;&#8201;2700.220).
+The Director of the Office of Credit Risk Management may grant an exception permitting an excluded person to participate in a particular covered transaction under SBA's financial assistance programs.
+This extends the coverage of the SBA nonprocurement suspension and debarment requirements to all lower tiers of subcontracts under covered nonprocurement transactions, as permitted under the OMB guidance at 2 CFR 180.200(c) (see optional lower tier coverage in the figure in the appendix to 2 CFR part 180)
+(2) You may request that the SBA Office of Hearings and Appeals (OHA) review the suspending official's decision to continue your suspension within 30 days of your receipt of the suspending official's decision under &#167;&#8201;180.755 or paragraph (a)(1) of this section.
+(d) The SBA debarring official and OHA must notify you of their decision under this section, in writing, using the notice procedures set forth at &#167;&#167;&#8201;180.615 and 180.975.
+
+
+# Tags
+
+['sba', 'debarring', 'programs', 'principals', 'official', 'covered', 'procedures', 'requirements', 'tiers', 'sbic', 'oha', 'transaction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                             |

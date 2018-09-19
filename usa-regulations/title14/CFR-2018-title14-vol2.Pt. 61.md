@@ -8,6 +8,19 @@
  CFR-2018-title14-vol2.Pt. 61
 
 
+# Summary
+
+A person who applies for a recreational pilot certificate must receive and log ground and flight training from an authorized instructor on the areas of operation of this section that apply to the aircraft category and class rating sought.
+A person who applies for a private pilot certificate must receive and log ground and flight training from an authorized instructor on the areas of operation of this section that apply to the aircraft category and class rating sought.
+Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with rotorcraft category and gyroplane class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in &#167;&#8201;61.107(b)(4) of this part, and the training must include at least&#8212;
+Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with a powered-lift category rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in &#167;&#8201;61.107(b)(5) of this part, and the training must include at least&#8212;
+
+
+# Tags
+
+['flights', 'pilots', 'aircraft', 'certificate', 'operation', 'iii', 'requirements', 'include', 'trained', 'ratings', 'applications', 'procedures', 'instrument', 'authority', 'performance', 'limitations', 'land', 'provided', 'persons', 'instructor', 'tested', 'condition', 'appropriately', 'following', 'medication', 'privilege', 'controls', 'airplane', 'hour', 'approach', 'air', 'takeoff', 'use', 'night', 'time', 'vii', 'viii', 'issuing', 'sections', 'maneuvers', 'conducts', 'grounds', 'aeronautical experience', 'systems', 'weather', 'proficient', 'commands', 'solo', 'areas', 'category', 'faa', 'documentation', 'completed', 'types', 'endorsement', 'efvs', 'additional', 'licenses', 'class', 'specifically', 'visual', 'aviation', 'navigate', 'specify', 'airports', 'states', 'courses approved', 'meaning', 'engines', 'chapter', 'program', 'equipped', 'powered', 'involve', 'administrative', 'expiration', 'simulation', 'seats', 'checks', 'reports', 'prior', 'transport', 'examiner', 'practicing', 'service', 'pass', 'stall', 'emergency', 'normal', 'demonstrates', 'knowledge', 'logs', 'receiving', 'sought', 'altitude', 'students', 'military', 'drugs', 'airspeed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

@@ -8,6 +8,21 @@
  CFR-2018-title34-vol1.Pt. 86
 
 
+# Summary
+
+(a) An IHE that fails to submit a drug prevention program certification is not eligible to receive funds or any other form of financial assistance under any Federal program.
+(2) An IHE that wants to receive an extension of time to submit its drug prevention program certification shall submit a written justification to the Secretary that&#8212;
+(a) Each IHE that provides the drug prevention program certification required by &#167;&#8201;86.3(b) shall, upon request, make available to the Secretary and the public a copy of each item required by &#167;&#8201;86.100(a) as well as the results of the biennial review required by &#167;&#8201;86.100(b).
+(3) Informs the IHE that the repayment of Federal financial assistance will not be required or that the termination will not be effective on the date specified in the notice if the designated Department official receives, within a 30-day period beginning on the date the IHE receives the notice of intent described in this paragraph&#8212;
+(a)(1) The ALJ issues a written decision to the IHE, the designated Department official, and the Secretary by certified mail, return receipt requested, within 30 days after&#8212;
+(d) The decision of the ALJ ordering the repayment of Federal financial assistance or terminating the eligibility of an IHE does not take effect pending the Secretary's review.
+
+
+# Tags
+
+['alj', 'secretary', 'ihe', 'shall', 'program', 'federal', 'hearing', 'written certification', 'records', 'education', 'information', 'parties', 'include', 'specifies', 'filing', 'reviews', 'issued', 'period', 'request', 'violates', 'negotiation', 'procedures', 'section', 'statements', 'notice', 'described']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                 |

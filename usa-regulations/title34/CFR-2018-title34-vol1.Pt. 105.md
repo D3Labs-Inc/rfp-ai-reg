@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 105
 
 
+# Summary
+
+(a) No qualified individual with handicaps shall, on the basis of handicap, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under, any program or activity conducted by the Department.
+Except as otherwise provided in &#167;&#8201;105.32, no qualified individual with handicaps shall, because the Department's facilities are inaccessible to or unusable by individuals with handicaps, be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by the Department.
+(i) The Department may comply with the requirements of this section through such means as redesign of equipment, reassignment of services to accessible buildings, assignments of aides to beneficiaries, home visits, delivery of services at alternate accessible sites, alteration of existing facilities and construction of new facilities, use of accessible rolling stock, or any other methods that result in making its programs or activities readily accessible to and usable by individuals with handicaps.
+(f) The Department shall notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157) is not readily accessible to and usable by individuals with handicaps.
+
+
+# Tags
+
+['shall', 'program', 'accessibility', 'personal', 'including', 'impair', 'individuals', 'services', 'complaints', 'department', 'required', 'historic', 'aids means', 'effective', 'facilities', 'section', 'organizations', 'federal', 'providing', 'activity', 'act', 'iii', 'physical', 'alterations', 'appropriate', 'buildings', 'disabilities', 'handicapped', 'materials', 'information', 'allegations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                 |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 512
 
 
+# Summary
+
+Transcripts or other recordings, if any, of investigative proceedings or formal examination proceedings shall be prepared solely by an official reporter or by any other person or means authorized by the designated representative.
+Neither attorney(s) for the association(s) that are the subjects of the investigative proceedings or formal examination proceedings, nor attorneys for any other interested persons, shall have any right to be present during the testimony of any witness not personally being represented by such attorney.
+The designated representative shall report to the Office any instances where any witness or counsel has engaged in dilatory, obstructionist, or contumacious conduct or has otherwise violated any provision of this part during the course of an investigative proceeding or formal examination proceeding; and the Office may take such action as the circumstances warrant, including the exclusion of counsel from further participation in such proceeding.
+Subpoenas issued in connection with an investigative proceeding or formal examination proceeding may require the attendance and/or testimony of witnesses from any State or territory of the United States and the production by such witnesses of documentary or other tangible evidence at any designated place where the proceeding is being (or is to be) conducted.
+
+
+# Tags
+
+['proceeding', 'personally', 'witnesses', 'shall', 'conducted', 'subpoenas', 'written', 'place', 'testimony', 'thereof', 'sole', 'documentary', 'states', 'records', 'office', 'authorizing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                  |

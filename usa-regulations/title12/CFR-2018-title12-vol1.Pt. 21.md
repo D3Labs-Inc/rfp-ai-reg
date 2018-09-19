@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 21
 
 
+# Summary
+
+In situations involving violations requiring immediate attention, such as when a reportable violation is ongoing, the financial institution shall immediately notify, by telephone, an appropriate law enforcement authority and the OCC in addition to filing a timely SAR.
+(1) A national bank need not file a SAR for a robbery or burglary committed or attempted that is reported to appropriate law enforcement authorities.
+A national bank and any director, officer, employee or agent of a national bank that makes a voluntary disclosure of any possible violation of law or regulation to a government agency or makes a disclosure pursuant to this section or any other authority, including a disclosure made jointly with another financial institution, shall be protected from liability to any person for any such disclosure, or for failure to provide notice of such disclosure to any person identified in the disclosure, or both, to the full extent provided by 31 U.S.C. 5318(g)(3).
+This subpart is issued to assure that all national banks and savings associations establish and maintain procedures reasonably designed to assure and monitor their compliance with the requirements of subchapter II of chapter 53 of title 31, United States Code, and the implementing regulations promulgated thereunder by the Department of the Treasury at 31 CFR Chapter X.
+
+
+# Tags
+
+['shall', 'bank', 'office', 'appropriate security', 'acts', 'sars', 'transaction', 'suspect', 'provided', 'association', 'federal', 'compliance', 'requiring', 'involves', 'reporting', 'violation', 'law enforcement', 'commit', 'activity', 'authorities', 'occ', 'designed', 'regulations', 'responsibility', 'program']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                          |

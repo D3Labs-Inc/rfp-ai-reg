@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1202
 
 
+# Summary
+
+Confidential commercial information means records provided to the Federal Government by a submitter that contain material exempt from release under Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4), because disclosure could reasonably be expected to cause substantial competitive harm.
+Direct costs means the expenses, including contract services and retrieving documents from the National Archives and Records Administration, incurred by FHFA, in searching for, reviewing and/or duplicating records to respond to a request for information.
+If you are not requesting records for commercial use and you are an educational institution or a noncommercial scientific institution, whose purpose is scholarly or scientific research, or a representative of the news media, the fees that may be assessed are limited to standard reasonable charges for duplication in excess of 100 pages or an electronic equivalent of 100 pages.
+FHFA may grant your fee waiver request if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the Federal Government and is not primarily in the commercial interest of the requester.
+
+
+# Tags
+
+['fhfa', 'requested', 'record', 'information', 'foia', 'fees', 'disclosure', 'include', 'means', 'reasons', 'processing', 'timely', 'public', 'agency', 'federal', 'cost', 'review', 'exempt', 'ogis', 'appealed', 'electronic', 'seek', 'service', 'responsibility', 'confidential commercial', 'provides', 'specific', 'government', 'materials', 'contained', 'administration', 'disclosed', 'submitters', 'day', 'search', 'file', 'designations', 'particular', 'statements', 'national', 'institution', 'officer', 'duplicate', 'charges', 'written', 'generally', 'paying', 'uses', 'require', 'business']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                |

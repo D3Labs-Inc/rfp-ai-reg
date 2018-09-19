@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 182
 
 
+# Summary
+
+This part provides Office of Management and Budget (OMB) guidance for Federal agencies on the portion of the Drug-Free Workplace Act of 1988 (41 U.S.C. 701-707, as amended) that applies to grants.
+Each Federal agency that awards grants or cooperative agreements or makes other financial assistance awards that are subject to the drug-free workplace guidance in this part must issue a regulation implementing the guidance within its chapter in subtitle B of this title of the Code of Federal Regulations.
+Cooperative agreement means an award of financial assistance that, consistent with 31 U.S.C. 6305, is used to enter into the same kind of relationship as a grant (see definition of grant in &#167;&#8201;182.650), except that substantial involvement is expected between the Federal agency and the recipient when carrying out the activity contemplated by the award.
+A recipient so prohibited is debarred, in accordance with the Federal Acquisition Regulation for procurement contracts (48 CFR part 9, subpart 9.4) and agency regulations implementing the OMB guidance on nonprocurement debarment and suspension (2 CFR part 180, which implements Executive Orders 12549 and 12689).
+Drug-free workplace means a site for the performance of work done in connection with a specific award at which employees of the recipient are prohibited from engaging in the unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance.
+
+
+# Tags
+
+['awards', 'agency', 'federal', 'workplaces', 'drug', 'meanings', 'includes', 'states', 'actions required', 'regulation', 'employee', 'government', 'omb guidance', 'assistance', 'uniform policies', 'executive', 'authorized', 'appropriate', 'direction', 'program', 'statute', 'office']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                              |

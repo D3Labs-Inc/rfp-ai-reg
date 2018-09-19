@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 262
 
 
+# Summary
+
+(d) Permits issued by the BIA shall include the following or similar condition: &#8220;Human remains of Indians, funerary objects, sacred objects, and objects of cultural patrimony may not be excavated or removed unless the permittee has obtained the written consent of the Area Director.
+(b) No permit for the excavation or removal of archaeological resources on Indian lands may be issued without the written consent of the Indian landowner(s) either to grant custody of the resources recovered (other than human remains of Indians, funerary objects, sacred objects or objects of cultural patrimony) to a curatorial facility that meets the requirements of 36 CFR part 79 or to allow the permittee a reasonable period of time to hold or have ready access to them at an appropriate location for study.
+(d) The landowner(s) alone may grant custody of archaeological resources (except for human remains, funerary objects, sacred objects and objects of cultural patrimony, which are subject to the provisions of paragraph (a) of this section) excavated or removed from lands of Indian individuals that are under tribal jurisdiction to a curatorial facility that meets the requirements of 36 CFR part 79.
+
+
+# Tags
+
+['shall', 'tribes', 'permit', 'written', 'indian', 'consent', 'land', 'required', 'documents', 'resources', 'having', 'tribal', 'mean', 'cultural', 'consultants', 'conditions', 'archaeological', 'object', 'applications', 'regulates', 'reason', 'remain', 'bia', 'federal', 'persons']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                         |

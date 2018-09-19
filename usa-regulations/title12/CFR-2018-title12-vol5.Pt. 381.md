@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 381
 
 
+# Summary
+
+Each covered company shall provide the Board and the Corporation with a notice no later than 45 days after any event, occurrence, change in conditions or circumstances, or other change that results in, or could reasonably be foreseen to have, a material effect on the resolution plan of the covered company.
+With respect to the information specified in paragraph (g) of this section, the resolution plan of a foreign-based covered company shall also identify, describe in detail, and map to legal entity the interconnections and interdependencies among the U.S. subsidiaries, branches and agencies, and critical operations and core business lines of the foreign-based covered company and any foreign-based affiliate; and
+Within 90 of receiving such notice, the Board and Corporation may jointly determine that the covered company must submit a resolution plan that meets some or all of the requirements as set forth in paragraph (a)(1) or (2) of this section, as applicable.
+(ii) The covered company shall resubmit an informationally complete resolution plan or such additional information as jointly requested to facilitate review of the resolution plan no later than 30 days after receiving the notice described in paragraph (a)(2)(i) of this section, or such other time period as the Board and Corporation may jointly determine.
+
+
+# Tags
+
+['companies', 'shall', 'materials', 'plan', 'inform', 'includes', 'resolution', 'identifies', 'jointly', 'pursuant', 'financial', 'subsidiary', 'meaning', 'acting', 'section', 'risk', 'state', 'management', 'provided', 'requires', 'iii', 'action', 'liabilities', 'corporation', 'date', 'capital', 'entity', 'operations', 'foreign', 'asset', 'extent', 'related', 'funding', 'timely', 'systems', 'lines', 'notices', 'submitted', 'exposure', 'applications', 'associated', 'period', 'based', 'requested']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                           |

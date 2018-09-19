@@ -8,6 +8,18 @@
  CFR-2018-title9-vol1.Pt. 91
 
 
+# Summary
+
+A facility that is affiliated with a port of embarkation and that has been approved by the Administrator as the location where APHIS will conduct health inspections of livestock before they are loaded onto ocean vessels or aircraft for export from the United States.
+(a) All export health certificates for livestock must be accompanied by a statement issued by an APHIS representative and/or accredited veterinarian that the means of conveyance or container in which the livestock will be transported from the premises of export has been cleaned and disinfected prior to loading the livestock with a disinfectant approved by the Administrator for purposes of this section or by a statement that the means of conveyance or container was not previously used to transport animals.
+The vessel must meet any other condition the Administrator determines is necessary for approval, as dictated by specific circumstances and communicated to the owner and operator of the vessel, to protect the livestock and keep them healthy during loading, unloading, and transport to the importing country.
+
+
+# Tags
+
+['livestock', 'animals', 'aphis', 'require', 'exporter', 'includes', 'approvals', 'vessel', 'prior', 'provides', 'transporting', 'inspections', 'facilities', 'pens', 'adequate', 'contain', 'means', 'health', 'ports', 'states', 'sufficient feed', 'timely', 'country', 'prevents', 'water', 'disinfectants', 'cleaned', 'load', 'diseases', 'veterinarians', 'personnel', 'allow', 'stability', 'number', 'programs', 'veterinary', 'additional', 'testing', 'alternative', 'excessive', 'wastes', 'specifically', 'humane', 'ramps', 'use', 'documentation', 'condition', 'conduct', 'certificate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                        |

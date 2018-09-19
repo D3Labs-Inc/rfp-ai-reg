@@ -8,6 +8,20 @@
  CFR-2018-title12-vol5.Pt. 352
 
 
+# Summary
+
+(a) &#8220;Auxiliary aids&#8221; means services or devices that enable persons with impaired sensory, manual, or speaking skills to have an equal opportunity to participate in, and enjoy the benefits of, the FDIC programs or activities, and Electronic and Information Technology set forth in &#167;&#8201;352.2.
+(b) When development or procurement of electronic and information technology that meets the standards published by the Architectural and Transportation Barriers Compliance Board, 36 CFR 1194, would pose an undue burden, the FDIC shall provide individuals with disabilities covered by paragraph (a) of this section with the information and data by an alternative means of access that allows the individuals to use the information and data.
+The FDIC shall process complaints alleging employment discrimination on the basis of disability according to the procedures established by the Equal Employment Opportunity Commission in 29 CFR parts 1614 and 1630 pursuant to section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791).
+A complainant shall first exhaust informal administrative procedures before filing a formal complaint alleging disability discrimination in FDIC programs or activities, or a denial of technology access.
+An aggrieved individual initiates the process by filing an informal complaint with OMWI within 180 calendar days from the date of the alleged disability discrimination or denial of access to electronic information technology.
+
+
+# Tags
+
+['shall', 'fdic', 'inform', 'person', 'disability', 'complaints', 'accessible', 'individually', 'section', 'impaired', 'appropriate', 'activities conducted', 'means', 'employment', 'technology', 'previously', 'written', 'telecommunication', 'set', 'application', 'directors', 'sites', 'eit', 'alleged', 'services']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                      |

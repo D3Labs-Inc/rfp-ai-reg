@@ -8,6 +8,22 @@
  CFR-2018-title12-vol10.Pt. 1265
 
 
+# Summary
+
+Advance means a loan from a Bank that is:
+(3) Fully secured by collateral in accordance with the Federal Home Loan Bank Act (12 U.S.C. 1421 through 1449) and applicable regulations.
+(1) For rural areas, incomes at or below 115 percent of the median income for the area, as adjusted for family size in accordance with the methodology of the applicable area median income standard or, at the option of the Bank, for a family of four; and
+(2) For urban areas, incomes at or below 100 percent of the median income for the area, as adjusted for family size in accordance with the methodology of the applicable area median income standard or, at the option of the Bank, for a family of four.
+The mission of the Banks is to provide to their members' and housing associates financial products and services, including but not limited to advances, that assist and enhance such members' and housing associates financing:
+(f) Investments in SBICs, where one or more members or housing associates of the Bank also make a material investment in the same activity;
+(i) Investments and obligations issued or guaranteed under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.).
+
+
+# Tags
+
+['area', 'housing', 'investments', 'family', 'state', 'community', 'act', 'income', 'development', 'including', 'securities', 'sbic']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                    |

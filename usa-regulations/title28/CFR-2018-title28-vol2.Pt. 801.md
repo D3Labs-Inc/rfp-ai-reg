@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 801
 
 
+# Summary
+
+Claims filed under the Federal Tort Claims Act. If an agency employee is acting within the scope of his or her employment and causes injury to a member of the public, any claim for money damages for personal injury, death, damage to property, or loss of property caused by the employee's negligent or wrongful act or omission is a claim against the United States and must first be presented by the injured party to the appropriate federal agency for administrative action under the Federal Tort Claims Act. General provisions for processing such administrative claims are contained in 28 CFR part 14.
+Claims submitted to any other office of CSOSA or PSA are forwarded to the Office of the General Counsel.
+CSOSA/PSA has 6 months from the date of filing to make a settlement offer or to deny your claim.
+(1) If your claim is denied, you have 30 days from the date of CSOSA/PSA's written notification to make a written request that the agency reconsider the denial.
+(2) If your claim is denied or you reject the settlement offer, you have 6 months from the date of mailing of CSOSA/PSA's notice of denial to file a civil action in the appropriate U.S. District Court.
+
+
+# Tags
+
+['claim', 'agency', 'csosa', 'psa', 'property', 'general', 'injury', 'administrator', 'written', 'file']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

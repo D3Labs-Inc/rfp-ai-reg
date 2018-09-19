@@ -8,6 +8,18 @@
  CFR-2018-title12-vol8.Pt. 1005
 
 
+# Summary
+
+A consumer may be held liable, within the limitations described in paragraph (b) of this section, for an unauthorized electronic fund transfer involving the consumer's account only if the financial institution has provided the disclosures required by &#167;&#8201;1005.7(b)(1), (2), and (3).
+As an alternative to disclosing the default service plan pursuant to paragraph (b)(6)(iii)(B)(1) of this section, when a financial institution offers multiple service plans within a particular prepaid account program and each plan has a different fee schedule, fee disclosures required by paragraphs (b)(2)(i) through (vii) and (ix) of this section may be provided in the form of a table with separate columns for each service plan, in a form substantially similar to Model Form A-10(e) in appendix A of this part.
+Alternatively, a financial institution may include on or with each electronic and written history provided in accordance with &#167;&#8201;1005.18(b)(1), a notice substantially similar to the abbreviated notice for periodic statements contained in paragraph A-3(b) in appendix A of this part, modified as necessary to reflect the error resolution provisions set forth in this section.
+
+
+# Tags
+
+['accounts', 'fees', 'transfers', 'provider', 'disclosures', 'require', 'consumers', 'shall', 'sections', 'notices', 'informs', 'terms', 'errors', 'iii', 'electronically', 'card', 'means', 'periodic', 'acts', 'crediting', 'pursuant', 'includes', 'agreement', 'transaction', 'services', 'general', 'type', 'forms', 'times', 'prepaid', 'available', 'sender', 'reasonable', 'followed', 'person', 'statements', 'stated', 'agency', 'applications', 'written', 'initial', 'requests', 'payments', 'additional', 'telephone', 'discloses', 'setting', 'insured', 'dates', 'funded', 'describes', 'governing', 'documenting', 'oral', 'offering', 'changes', 'access', 'terminal', 'liability', 'programs', 'prior', 'apply', 'use', 'law', 'exception', 'relation', 'issuer', 'estimation', 'authorizing', 'rate', 'remittance', 'number', 'receives', 'bureau']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

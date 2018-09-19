@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 117
 
 
+# Summary
+
+Upon written application by an adult Indian, the superintendent may disburse not to exceed $1,000 during any one fiscal year from the surplus funds of such Indian to make repairs and improvements to restricted real property and in addition not to exceed $300 for new construction.
+Pending the qualification of the executor or administrator of the estate of a deceased Indian of one-half or more Indian blood who did not have a certificate of competency at the time of his death, the superintendent may authorize the extension of credit for the following purposes, subject to allowance of claims by the executor or administrator and approval thereof by the court:
+The funds of restricted non-Osage Indians, both adults and minors, residing within the jurisdiction of the Osage Agency, derived from sources within the Osage Nation and collected through the Osage Agency, may be disbursed by the superintendent, subject to the condition that all payments to third persons, including taxes and insurance premiums, shall be made upon the written authorization of the individual whose funds are involved, if an adult, and upon the written authorization of the parent or guardian, if a minor.
+
+
+# Tags
+
+['shall', 'indian', 'funds', 'including', 'authorized', 'properties', 'restrictions', 'commissioner', 'attorney', 'following', 'insurance', 'income', 'quarterly payment', 'osage', 'fee', 'expenses', 'moneys', 'purchase', 'shown', 'person', 'agency', 'reimbursement', 'taxes', 'premium', 'means', 'sale', 'living', 'court', 'land', 'report', 'superintendent', 'disbursements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                     |

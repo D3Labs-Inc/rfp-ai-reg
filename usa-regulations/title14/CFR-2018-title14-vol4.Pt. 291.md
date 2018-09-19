@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 291
 
 
+# Summary
+
+Carriers operating under section 41103 certificates that are not subject to part 241 of this chapter shall file Form 291-A, &#8220;Statement of Operations for Section 41103 Operations&#8221;, Schedule T-100, &#8220;U.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market&#8221;, and Schedule P-12(a), &#8220;Fuel Consumption by Type of Service and Entity&#8221; with the Department's Bureau of Transportation Statistics (BTS).
+(a) Each section 41103 all-cargo air carrier shall file Schedule T-100, &#8220;U.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market&#8221;.
+The second grouping requires that the enplanement/deplanement information be broken out into separate units called on-flight market records, which shall be summarized by class of service, within pair-of-points, without regard for equipment type or flight number.
+(3) Nonscheduled services include all traffic and capacity elements applicable to the performance of nonscheduled aircraft charters, and other air transportation services not constituting an integral part of services performed pursuant to published flight schedules.
+This figure shall reflect the payload or total available capacity for passengers, mail and freight applicable to the aircraft with which each flight stage is performed.
+Revenue aircraft miles flown are computed based on the airport pairs between which service is actually performed; miles are generated from the data for scheduled aircraft departures (Code 520) times the inter-airport distances (Code 501).
+
+
+# Tags
+
+['shall', 'operating', 'transport', 'aircraft', 'revenues', 'flights', 'carriers', 'code', 'reporting', 'services', 'availability', 'scheduled', 'data', 'include', 'total', 'miles', 'cargo', 'performance', 'passenger', 'following', 'recorded', 'section', 'reflecting', 'periodic', 'fuel', 'statistical', 'airports', 'stages', 'bts', 'traffic', 'segment', 'file', 'freight', 'federal', 'type', 'times']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                            |

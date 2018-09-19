@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 401
 
 
+# Summary
+
+(iii) For a suborbital ELV or RLV launch, launch ends after reaching apogee if the flight includes a reentry, or otherwise after vehicle landing or impact on Earth, and after activities necessary to return the vehicle to a safe condition on the ground.
+(2) An event that causes damage estimated to exceed $25,000 to property not associated with the flight that is not located at the launch site or designated recovery area;
+Launch incident means an unplanned event during the flight of a launch vehicle, other than a launch accident, involving a malfunction of a flight safety system or safety-critical system, or a failure of the licensee's or permittee's safety organization, design, or operations.
+Payload means an object that a person undertakes to place in outer space by means of a launch vehicle, including components of the vehicle specifically designed or adapted for that object.
+The term &#8220;reenter; reentry&#8221; includes activities conducted in Earth orbit or outer space to determine reentry readiness and that are critical to ensuring public health and safety and the safety of property during reentry flight.
+The term &#8220;reenter; reentry&#8221; also includes activities conducted on the ground after vehicle landing on Earth to ensure the reentry vehicle does not pose a threat to public health and safety or the safety of property.
+
+
+# Tags
+
+['means', 'launches', 'vehicle flight', 'reentry', 'safety', 'operation', 'including', 'states', 'location', 'designed', 'perform', 'site', 'abort', 'commercial', 'space', 'land', 'persons', 'physically', 'rocket', 'providing', 'events', 'hazards', 'electronic', 'crew', 'control', 'measurable', 'property', 'activities', 'public', 'level', 'suborbital']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                       |

@@ -8,6 +8,22 @@
  CFR-2018-title28-vol2.Pt. 902
 
 
+# Summary
+
+(b) Only a Party State, the FBI, or a person, organization, or government entity directly aggrieved by the Council's interpretation of the Compact or any rule or standard established by the Council pursuant to the Compact, or in connection with a matter covered under Section 902.2(a)(4), may raise a cognizable dispute.
+(a) The five person Dispute Resolution Committee membership shall be determined according to Compact Article VI (g).
+(b) The Compact Council Chairman shall refer the dispute, together with all supporting documents and materials, to the Council's Dispute Resolution Committee.
+(a) The Chairman shall communicate the decision of the Dispute Resolution Committee to the person or organization that raised the dispute.
+(d) Subject to the discretion of the Chairman, other persons and organizations may be permitted to appear and make oral presentations at the hearing or provide written materials to the Council concerning the dispute.
+(j) The Council Chairman shall advise Council members and hearing participants of the right of appeal provided by Section (c) of Article XI of the Compact.
+(a) The Federal Bureau of Investigation or a Compact Party State may appeal the decision of the Council to the U.S. Attorney General pursuant to Section (c) of Article XI of the Compact.
+
+
+# Tags
+
+['shall', 'council', 'disputant', 'pursuant', 'compact', 'meeting', 'hearing', 'committee', 'establishing', 'appropriate', 'party', 'raised', 'scheduled']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                     |

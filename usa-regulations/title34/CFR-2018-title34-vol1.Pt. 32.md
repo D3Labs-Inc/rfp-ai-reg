@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 32
 
 
+# Summary
+
+(e) The Department's intention to deduct 15 percent of the employee's disposable pay, or a specified amount if the disposable pay is severance pay and/or a lump sum annual leave payment, to recover the overpayment if a waiver is not granted by the Secretary and the employee fails to repay the overpayment or enter into a written repayment agreement;
+(h) The employee's right to request a pre-offset hearing concerning the existence or amount of the overpayment or an involuntary repayment schedule;
+(a) An employee who wishes a review of the existence or amount of the overpayment or an involuntary repayment schedule may request a pre-offset hearing.
+(a) The hearing official issues a written decision stating the facts supporting the nature and origin of the debt and the hearing official's analysis, findings and conclusions as to the amount of the debt and the repayment schedule within 60 days of filing of the employee's request for a pre-offset hearing, unless the employee requests, and the hearing official grants, a delay in the proceedings.
+(d) The hearing official decides the issue of extreme financial hardship caused by the involuntary repayment schedule only where the employee has submitted the financial statement and written explanation required under &#167;&#8201;32.4(c).
+
+
+# Tags
+
+['paying', 'employee', 'hearing', 'officially', 'deduct', 'secretary', 'federal', 'offset', 'payment', 'repayment', 'timely', 'written', 'taxes', 'include', 'means', 'statements', 'requirements', 'states', 'pre', 'decision', 'submit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                       |

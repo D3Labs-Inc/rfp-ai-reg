@@ -8,6 +8,20 @@
  CFR-2018-title12-vol1.Pt. 26
 
 
+# Summary
+
+(e) Depository holding company means a bank holding company or a savings and loan holding company (as more fully defined in section 202 of the Interlocks Act (12 U.S.C. 3201)) having its principal office located in the United States.
+In reviewing an application for an exemption under this section, the OCC will apply a rebuttable presumption that an interlock will not result in a monopoly or substantial lessening of competition if the depository organization seeking to add a management official:
+A management official described in paragraph (a) of this section may continue to serve the depository organization involved in the interlock for 15 months following the date of the change in circumstances.
+Except as provided in this section, the OCC administers and enforces the Interlocks Act with respect to national banks, Federal savings associations, and their affiliates, and may refer any case of a prohibited interlocking relationship involving these entities to the Attorney General of the United States to enforce compliance with the Interlocks Act and this part.
+If an affiliate of a national bank or Federal savings association is subject to the primary regulation of another Federal depository organization supervisory agency, then the OCC does not administer and enforce the Interlocks Act with respect to that affiliate.
+
+
+# Tags
+
+['meaning', 'bank', 'organizations', 'interlocks', 'office', 'asset', 'loans', 'areas', 'management', 'occ general', 'corporations', 'affiliates', 'persons', 'depository', 'states', 'federal savings', 'period', 'services', 'including', 'exemption', 'consolidated', 'related', 'official', 'share', 'following', 'act', 'substantial']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                            |

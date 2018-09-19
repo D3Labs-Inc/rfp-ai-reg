@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 12
 
 
+# Summary
+
+Abrogation means the procedure the Secretary may use to release the transferee of surplus Federal real property from the covenants, conditions, reservations, and restrictions contained in the conveyance instrument before the term of the instrument expires.
+(1) For the period provided in the transfer or lease instrument, the transferee or lessee shall use all of the surplus Federal real property it receives solely and continuously for its approved program and plan of use, in accordance with the Act and these regulations, except that&#8212;
+A transferee or lessee may permit the use of all or a portion of the surplus Federal real property by another eligible entity as described in &#167;&#8201;12.5, only upon those terms and conditions the Secretary determines appropriate if&#8212;
+In addition to the sanctions in paragraph (a) of this section, if the Secretary determines that a transferee is not complying with a term or condition of a transfer of off-site surplus Federal real property, the Secretary may require that the unearned PBA become immediately due and payable in cash to the United States.
+
+
+# Tags
+
+['secretary', 'property', 'lessee', 'use', 'acts', 'educational', 'applications', 'means', 'transferring', 'costs', 'leases', 'allowance', 'entity', 'services', 'pba', 'apply', 'states', 'immediately', 'expenses', 'following', 'surplus', 'including', 'general', 'administrative', 'contained', 'shall', 'instrument', 'proposes', 'determination']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                               |

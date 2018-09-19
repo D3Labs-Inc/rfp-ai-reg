@@ -8,6 +8,17 @@
  CFR-2018-title34-vol1.Pt. 5
 
 
+# Summary
+
+Except as provided in paragraph (g) of this section, the Department promptly notifies a submitter whenever a FOIA request or administrative appeal is made under the Act seeking disclosure of the information the submitter has designated in good faith as business information protected from disclosure under paragraph (c) of this section, or the Department otherwise has reason to believe that it may be required to disclose information sought to be designated by the submitter as business information protected from disclosure under Exemption 4 of the Act. This notice includes either a description of the business information requested or copies of the requested agency records or portions of agency records containing the requested business information as well as a time period, consistent with &#167;&#8201;5.21(c), within which the submitter can object to the disclosure pursuant to paragraph (e) of this section.
+In responding to FOIA requests, the Department charges the following fees (in accordance with the Office of Management and Budget's &#8220;Uniform FOIA Fee Schedule and Guidelines,&#8221; 52 FR 10012 (March 27, 1987)), unless it has granted a waiver or reduction of fees under &#167;&#8201;5.33 and subject to the limitations set forth in paragraph (b) of this section:
+
+
+# Tags
+
+['department', 'requests', 'information', 'fee', 'recorded', 'included', 'foia', 'agency', 'publications', 'mean', 'reviewing', 'administration', 'timing', 'disclosure', 'searches', 'requirements', 'electronic', 'processed', 'government', 'education', 'reasonably', 'determining', 'designated', 'available', 'section', 'new', 'acting', 'statements', 'entity', 'providing', 'appeal', 'significantly', 'federal', 'pursuant', 'policies', 'duplication', 'subject', 'disclosed', 'business', 'materials', 'periodicals', 'officers', 'generally', 'distribution']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                    |

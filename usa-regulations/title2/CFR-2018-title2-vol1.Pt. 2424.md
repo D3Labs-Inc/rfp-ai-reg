@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 2424
 
 
+# Summary
+
+(a) An authorized HUD official may issue a limited denial of participation against a person, based upon adequate evidence of any of the following causes:
+(c) In deciding whether to terminate, modify, or affirm a limited denial of participation, the Departmental official or designee may consider the factors listed at 2 CFR 180.860.
+If you have submitted a request for a hearing pursuant to &#167;&#8201;2424.1130 of this subpart, and you also receive, pursuant to subpart G or H of this part, a notice of proposed debarment or suspension that is based on the same transaction(s) or the same conduct as the limited denial of participation, as determined by the debarring or suspending official, the following rules shall apply:
+(1) Those parts of the limited denial of participation and the debarment or suspension based on the same transaction(s) or conduct, as determined by the debarring or suspending official, shall be immediately consolidated before the debarring or suspending official;
+(i) If the suspending or debarring official determines that there is a genuine dispute as to material facts regarding the consolidated matter, the entire consolidated matter will be referred to the hearing officer hearing the limited denial of participation, for additional proceedings pursuant to 2 CFR 180.750 or 180.845.
+
+
+# Tags
+
+['hud', 'participate', 'shall conduct', 'official', 'officer', 'debarments', 'assisted', 'section', 'consolidated', 'specific', 'pursuant', 'developers', 'agent', 'suspension', 'causes', 'contracts', 'housing', 'limited', 'include', 'required', 'covered', 'final', 'financed', 'period', 'tiers', 'sanction', 'administrative', 'procedures']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                               |

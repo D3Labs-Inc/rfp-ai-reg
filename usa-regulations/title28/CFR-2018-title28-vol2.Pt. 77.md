@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 77
 
 
+# Summary
+
+The phrase attorney for the government does not include attorneys employed as investigators or other law enforcement agents by the Department of Justice who are not authorized to represent the United States in criminal or civil law enforcement litigation or to supervise such proceedings.
+(d) The phrase civil law enforcement proceeding means a civil action or proceeding before any court or other tribunal brought by the Department of Justice under the authority of the United States to enforce federal laws or regulations, and includes proceedings related to the enforcement of an administrative subpoena or summons or civil investigative demand.
+In all criminal investigations and prosecutions, in all civil investigations and litigation (affirmative and defensive), and in all civil law enforcement investigations and proceedings, attorneys for the government shall conform their conduct and activities to the state rules and laws, and federal local court rules, governing attorneys in each State where such attorney engages in that attorney's duties, to the same extent and in the same manner as other attorneys in that State, as these terms are defined in &#167;&#8201;77.2 of this part.
+A government attorney shall, in all cases, comply with the rules of ethical conduct of the court before which a particular case is pending.
+
+
+# Tags
+
+['attorney', 'rules', 'civil', 'state', 'included', 'means', 'division', 'investigative', 'lawful', 'ethical', 'criminal', 'cases', 'governing', 'enforcement', 'conduct', 'department']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                               |

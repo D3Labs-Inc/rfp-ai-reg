@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 607
 
 
+# Summary
+
+The total amount of the annual assessment of banks, associations, and designated other System entities shall be based on the FCA budget for each fiscal year plus such amount as may be required to maintain a necessary reserve, excluding amounts to be assessed against other System entities and reimbursements received from non-System entities.
+(ii) If the FCA assigns a bank, association, or designated other System entity a composite FIRS rating of 4 or 5 following its most recent examination of the institution prior to the date of assessment, the assessment provided for in paragraph (b)(2) of this section shall be increased by 40 percent.
+(ii) If the FCA assigns a bank, association, or designated other System entity a composite FIRS rating of 4 or 5 following its most recent examination of the institution prior to the date of assessment, the assessment provided for in paragraph (b)(2) of this section shall be increased by 40 percent.
+(b) For banks, associations and designated other System entities chartered during the period July 1 through September 30 of each year, the FCA shall, prior to December 15, determine the amount of assessment to be collected from each such institution for the remainder of the fiscal year and provide the institution with a Notice of Assessment.
+
+
+# Tags
+
+['shall', 'assessed', 'institution', 'entities', 'rated', 'fca', 'amounts', 'administrative expenses', 'year', 'corporation', 'banks', 'base', 'adjustment', 'installments', 'tiers', 'funding', 'payment', 'number', 'annually', 'credit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                  |

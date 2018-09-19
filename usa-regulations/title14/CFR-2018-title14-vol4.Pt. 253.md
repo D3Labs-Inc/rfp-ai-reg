@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 253
 
 
+# Summary
+
+The purpose of this rule is to set uniform disclosure requirements, which preempt any State requirements on the same subject, for terms incorporated by reference into contracts of carriage for scheduled service in interstate and overseas passenger air transportation.
+(a) A ticket or other written instrument that embodies the contract of carriage may incorporate contract terms by reference (i.e., without stating their full text), and if it does so shall contain or be accompanied by notice to the passenger as required by this part.
+Except as provided in &#167;&#8201;253.8, each air carrier shall include on or with a ticket, or other written instrument given to a passenger, that embodies the contract of carriage and incorporates terms by reference in that contract, a conspicuous notice that:
+(a) If notice is not provided in accordance with &#167;&#8201;253.5 at a ticket sales location outside of the United States that is not a U.S. air carrier ticket office, the price paid for the portion of such ticket that is for interstate and overseas air transportation shall be refundable without penalty if the passenger refuses transportation by the carrier.
+
+
+# Tags
+
+['passengers', 'ticket', 'including', 'shall', 'air', 'terms', 'notice', 'carriage', 'stating', 'concerning', 'price', 'transportation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                  |

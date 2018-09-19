@@ -8,6 +8,19 @@
  CFR-2018-title12-vol2.Pt. 205
 
 
+# Summary
+
+A consumer may be held liable, within the limitations described in paragraph (b) of this section, for an unauthorized electronic fund transfer involving the consumer's account only if the financial institution has provided the disclosures required by &#167;&#8201;205.7(b)(1), (2), and (3).
+For accounts to or from which electronic fund transfers can be made, a financial institution shall mail or deliver to the consumer, at least once each calendar year, an error resolution notice substantially similar to the model form set forth in appendix A of this part (Model Form A-3).
+The Board shall determine, upon its own motion or upon the request of a state, financial institution, or other interested party, whether the act and this part preempt state law relating to electronic fund transfers, or dormancy, inactivity, or service fees, or expiration dates in the case of gift certificates, store gift cards, or general-use prepaid cards.
+(1) A government agency is deemed to be a financial institution for purposes of the act and this part if directly or indirectly it issues an access device to a consumer for use in initiating an electronic fund transfer of government benefits from an account, other than needs-tested benefits in a program established under state or local law or administered by a state or local agency.
+
+
+# Tags
+
+['transfer', 'consumer', 'shall', 'account', 'institution', 'notice', 'provides', 'errors', 'card', 'disclosures', 'require', 'electronic', 'credits', 'fees', 'meaning', 'iii', 'informs', 'service', 'initiating', 'act', 'agency', 'terminates', 'timely', 'including', 'period', 'written', 'telephone', 'state', 'transactions', 'generally', 'liability', 'follows', 'applicable', 'term', 'overdraft', 'set', 'reasonably', 'checks', 'funds', 'statements', 'needed', 'payment', 'uses', 'form', 'limitations', 'described', 'law', 'section', 'day', 'documentation', 'requested']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                               |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 382
 
 
+# Summary
+
+(1) Does not explicitly provide any default right with respect to the covered QFC that is related, directly or indirectly, to an affiliate of the direct party becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding; and
+(1) A covered QFC may not permit the exercise of any default right with respect to the covered QFC that is related, directly or indirectly, to an affiliate of the direct party becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding.
+(f) Additional creditor protections for supported QFCs. Notwithstanding paragraph (b) of this section, with respect to a covered direct QFC that is supported by a covered affiliate credit enhancement, the covered direct QFC and the covered affiliate credit enhancement may permit the exercise of a default right after the stay period that is related, directly or indirectly, to the covered affiliate support provider becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding if:
+(7) With respect to a supported party, the degree of assurance the proposal provides to the supported party that the material payment and delivery obligations of the covered affiliate credit enhancement and the covered direct QFC it supports will continue to be performed after the covered affiliate support provider enters a receivership, insolvency, liquidation, resolution, or similar proceeding;
+
+
+# Tags
+
+['meaning', 'financial', 'acting', 'qfc', 'states', 'companies', 'includes', 'banks', 'rights', 'credit', 'covered', 'thereunder', 'securities', 'lender', 'transfer', 'provided', 'contracted', 'pursuant', 'insurance', 'resolution', 'regulations', 'party', 'notwithstanding', 'payment', 'business', 'entity', 'swap', 'risk', 'institutions', 'enhancements', 'trading', 'following', 'usc', 'proceeding', 'protection', 'federal', 'applies', 'affiliate', 'solely', 'similar', 'money']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                              |

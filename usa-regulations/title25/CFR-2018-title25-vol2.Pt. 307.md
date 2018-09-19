@@ -8,6 +8,19 @@
  CFR-2018-title25-vol2.Pt. 307
 
 
+# Summary
+
+Government certificates of genuineness for Navajo all-wool woven fabrics may be affixed to fabrics meeting the conditions specified in &#167;&#8201;307.4 by persons duly authorized to affix such certificates, under license issued by the Indian Arts and Crafts Board.
+Each licensee will be furnished, upon payment of the registration and license fees specified in &#167;&#8201;307.6 one hand seal press and a supply of blank Government certificates, which shall be used only in accordance with this license, and shall remain at all times the property of the Board.
+Any license may be surrendered by the licensee at any time by surrendering to the Board the Government hand seal press and unused certificates of genuineness entrusted to the licensee, accompanied by a copy of the license marked &#8220;surrendered&#8221; and signed by the licensee.
+Certificates shall be fastened to the woven fabric by wire caught in a lead seal disc that shall be impressed and made fast with the hand seal press furnished by the Indian Arts and Crafts Board.
+
+
+# Tags
+
+['certificates', 'shall', 'board', 'licensee', 'hand', 'government', 'licenses', 'seal', 'navajo', 'surrendered', 'fee']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                   |

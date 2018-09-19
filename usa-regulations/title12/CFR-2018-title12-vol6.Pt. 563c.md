@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 563c
 
 
+# Summary
+
+The term &#8220;registrant&#8221; means an applicant, a savings association, or any other person required to prepare financial statements in accordance with this subpart.
+(a) The information prescribed by Schedule III required by section IV of &#167;&#8201;563c.102 of this part shall be presented in a note to the financial statements when the restricted net assets (17 CFR 210.4-08(e)(3)) of consolidated subsidiaries exceed 25 percent of consolidated net assets as of the end of the most recently completed fiscal year.
+(b) For purposes of the above test, restricted net assets of consolidated subsidiaries shall mean that amount of the association's proportionate share of net assets of consolidated subsidiaries (after intercompany eliminations) which as of the end of the most recent year may not be transferred to the parent company by subsidiaries in the form of loans, advances, or cash dividends without the consent of a third party (i.e., lender, regulatory agency, foreign government, etc.).
+
+
+# Tags
+
+['subsidiaries', 'financial', 'statements', 'required', 'accounted', 'applicable', 'exchanged', 'share', 'net', 'regulatory', 'public', 'association', 'schedules']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                   |

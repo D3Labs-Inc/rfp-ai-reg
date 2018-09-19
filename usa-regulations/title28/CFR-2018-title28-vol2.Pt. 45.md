@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 45
 
 
+# Summary
+
+(b) The Attorney General shall designate an official within the Executive Office for United States Attorneys (EOUSA) to receive and investigate complaints alleging the failure of Department of Justice employees to provide rights to crime victims under 18 U.S.C. 3771.
+(4)(i) In response to a complaint that provides the information required under paragraph (c)(2) of this section and that contains specific and credible information that demonstrates that one or more crime victims' rights listed in 18 U.S.C. 3771 may have been violated by a Department of Justice employee or office, the POC shall investigate the allegation(s) in the complaint within a reasonable period of time.
+Department employees have a duty to, and shall, report to the Department of Justice Office of Professional Responsibility (DOJ-OPR), or to their supervisor, or their component's internal affairs office for referral to DOJ-OPR, any allegations of misconduct by a Department attorney that relate to the exercise of the attorney's authority to investigate, litigate or provide legal advice, as well as allegations of misconduct by law enforcement personnel when such allegations are related to allegations of attorney misconduct within the jurisdiction of DOJ-OPR.
+
+
+# Tags
+
+['shall', 'employee', 'official', 'officers', 'governing', 'disciplinary', 'person', 'includes', 'decision', 'right', 'investigation', 'information', 'attorneys', 'thereof', 'organization', 'violation', 'law', 'vro', 'complaint', 'regulations', 'department', 'substantial', 'justice', 'proceeding', 'section', 'telephone', 'responsibility', 'relationship', 'general', 'uses']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

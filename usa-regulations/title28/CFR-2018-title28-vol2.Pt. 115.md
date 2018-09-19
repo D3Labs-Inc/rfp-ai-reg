@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 115
 
 
+# Summary
+
+(a) The facility shall provide inmates with access to outside victim advocates for emotional support services related to sexual abuse by giving inmates mailing addresses and telephone numbers, including toll-free hotline numbers where available, of local, State, or national victim advocacy or rape crisis organizations, and, for persons detained solely for civil immigration purposes, immigrant services agencies.
+(a) Neither the agency nor any other governmental entity responsible for collective bargaining on the agency's behalf shall enter into or renew any collective bargaining agreement or other agreement that limits the agency's ability to remove alleged staff sexual abusers from contact with any inmates pending the outcome of an investigation or of a determination of whether and to what extent discipline is warranted.
+(a) The facility shall provide residents with access to outside victim advocates for emotional support services related to sexual abuse, by providing, posting, or otherwise making accessible mailing addresses and telephone numbers, including toll free hotline numbers where available, of local, State, or national victim advocacy or rape crisis organizations, and, for persons detained solely for civil immigration purposes, immigrant services agencies.
+
+
+# Tags
+
+['shall', 'resident', 'inmates', 'sexual', 'included', 'facilities', 'staff', 'agency means', 'inform', 'abuser', 'investigated', 'report', 'detainees', 'victims', 'medically', 'auditing', 'service', 'physically', 'appropriate', 'allege', 'training', 'provides', 'evidence', 'lockup', 'timely', 'conducts', 'gender', 'level', 'juveniles', 'pursuant', 'receive', 'policy', 'documented', 'monitoring', 'requirements', 'housing', 'relevant', 'educated', 'personal', 'employee', 'accessible', 'programming', 'data', 'contact', 'available', 'examiners', 'correct', 'screened', 'standard', 'limited', 'processed', 'communications', 'prior', 'periodic', 'criminal', 'legal', 'outside', 'securely', 'related', 'based', 'lawful', 'filed', 'administrators', 'incidents', 'disciplinary', 'reviewing', 'institution', 'assessing', 'stated', 'development', 'treatment', 'substantiated', 'applicable', 'reasonable', 'jail', 'cell', 'bodies', 'request', 'entities', 'center', 'official', 'specialized', 'disabled']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |

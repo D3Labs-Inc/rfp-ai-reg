@@ -8,6 +8,19 @@
  CFR-2018-title12-vol8.Pt. 1010
 
 
+# Summary
+
+(1) Except in the case of exempt transactions, an initial Statement of Record shall be filed, and an effective date issued, prior to selling or leasing any lot in a subdivision.
+One copy of the final version of the Property Report, in the exact form in which it is delivered to prospective lot purchasers, shall be sent to ILSRP Office within 20 days of the date on which the Statement of Record, amendment, or consolidation is allowed to become effective by the Director.
+(B) If the developer or subdivision owner states that the release provisions are recorded and that the lot purchaser may pay the release price of the mortgage, the statement shall be supported by documentation supplied in &#167;&#8201;1010.209.
+These materials shall also include information and items required for state accepted materials filed as an initial registration Statement of Record, except that, supporting documentation in materials previously made effective by the Director for other lots in the subject common promotional plan may be included incorporated by reference into the new consolidation materials submitted as a Statement of Record.
+
+
+# Tags
+
+['shall', 'lots', 'stated', 'developer', 'require', 'sections', 'subdivisions', 'statements', 'including', 'inform', 'recordable', 'sales', 'title', 'purchasers', 'submitted', 'facilities', 'cost', 'general', 'document', 'followed', 'reports', 'completing', 'land', 'exemptions', 'directors', 'waters', 'uses', 'services', 'provided', 'meanings', 'amendment', 'dates', 'iii', 'filings', 'constructed', 'materials', 'authorization', 'availability', 'number', 'control', 'pursuant', 'specifically', 'contain', 'property', 'associated', 'accepts', 'similar', 'areas', 'financial', 'public', 'fees', 'needed', 'owners', 'effectiveness', 'estimates', 'identified', 'registrant', 'road', 'print', 'action', 'certification', 'periodic', 'page', 'individually', 'standards', 'certified', 'times', 'warnings', 'limited', 'charts', 'contract', 'set', 'indicate', 'prior', 'additional', 'proposed', 'provision', 'permits', 'federal', 'right', 'programs', 'description', 'day', 'operating', 'application', 'paragraph', 'disclosure', 'regulates', 'deeds', 'legally', 'substantially', 'protected', 'united', 'hazards', 'entities', 'language', 'type', 'local', 'easement', 'formed', 'opinions', 'tax', 'company', 'approve', 'furnish', 'necessary', 'leasing', 'written', 'lists', 'reserved', 'law', 'proceedings', 'affirmations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

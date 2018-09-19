@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 20
 
 
+# Summary
+
+Burial assistance means a financial assistance payment made on behalf of an indigent Indian who meets the eligibility criteria to provide minimum burial expenses according to Bureau payment standards established by the Assistant Secretary.
+In addition, assistance includes services to a child who requires placement in a foster home or a residential care facility in accordance with standards of payment levels established by the state or county in which the child resides.
+Homemaker services means non-medical services provided by social services, in the absence of other resources, to assist an eligible Indian in maintaining self-sufficiency, and preventing placement into foster care or residential care.
+Each General Assistance recipient must work with the social services worker to develop and sign an Individual Self-Sufficiency Plan (ISP).
+(d) Ensure that the case plan provides for all necessary costs of care (including clothing, incidentals, and personal allowance) in accordance with established state standards of payments;
+(f) Immediately report any occurrences of suspected child abuse or neglect in a foster home or residential care facility to law enforcement and protective services in accordance with tribal standards and reporting requirements under Public Law 101-630; and
+
+
+# Tags
+
+['services', 'included', 'means', 'assistant', 'providers', 'indian', 'tribal', 'bureau', 'payments', 'care', 'socially', 'income', 'child', 'families', 'placements', 'persons', 'financial', 'working', 'states', 'need', 'plan', 'requirements', 'tribes', 'employability', 'case', 'program', 'resources', 'eligible', 'funds', 'following', 'applications', 'courts', 'reports', 'homes', 'receive', 'lives', 'information', 'written', 'medications', 'recipients', 'agency', 'physical', 'foster', 'self', 'laws', 'abused', 'burials', 'adoption', 'availability', 'appropriate', 'individual', 'established', 'adults', 'parental', 'households', 'general', 'secure', 'relates', 'communities', 'expenses', 'specifically', 'yes', 'documented', 'federal', 'acting', 'level']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

@@ -8,6 +8,17 @@
  CFR-2018-title14-vol4.Pt. 375
 
 
+# Summary
+
+Commercial air operations shall mean operations by foreign civil aircraft engaged in flights for the purpose of crop dusting, pest control, pipeline patrol, mapping, surveying, banner towing, skywriting, or similar agricultural and industrial operations performed in the United States, and any operations for remuneration or hire to, from or within the United States including air carriage involving the discharging or taking on of passengers or cargo at one or more points in the United States, including carriage of cargo for the operator's own account if the cargo is to be resold or otherwise used in the furtherance of a business other than the business of providing carriage by aircraft, but excluding operations pursuant to foreign air carrier permits issued under 49 U.S.C. 41301, exemptions, and all other operations in air transportation.
+Foreign civil aircraft shall not be used for such commercial air operations as crop dusting, pest control, pipeline patrol, mapping, surveying, banner towing, skywriting or similar agricultural or industrial operations within the United States, including its territorial waters and overlying airspace, unless a permit has been issued by the Department and the operation is conducted in accordance with all applicable State and local laws and regulations as well as the applicable provisions of this part.
+
+
+# Tags
+
+['operating', 'shall', 'flights', 'foreign', 'aircraft', 'authorized', 'including', 'applications', 'states', 'air', 'passengers', 'involves', 'transporting', 'persons', 'permits issued', 'carrier', 'services', 'provide', 'pursuant', 'certificates', 'cargo', 'charters', 'aviation', 'travelling', 'mean', 'transit', 'act', 'requirements', 'cost', 'special', 'carried', 'amendment', 'crew', 'particular', 'similar', 'civil', 'thereof', 'airworthiness', 'property', 'owners']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                      |

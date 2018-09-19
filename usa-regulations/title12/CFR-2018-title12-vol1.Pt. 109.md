@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 109
 
 
+# Summary
+
+(1) All papers required to be served by the Comptroller or the administrative law judge upon a party who has appeared in the proceeding through a counsel of record, shall be served by any means specified in paragraph (b) of this section.
+(1) If a witness will not be available for the hearing, a party may apply in accordance with the procedures set forth in paragraph (a)(2) of this section, to the administrative law judge for the issuance of a subpoena, including a subpoena duces tecum, requiring the attendance of the witness at a deposition.
+(1) The witness and any party who has not had an opportunity to oppose a deposition subpoena issued under this section may file a motion with the administrative law judge to quash or modify the subpoena prior to the time for compliance specified in the subpoena, but not more than ten days after service of the subpoena.
+The record must include the administrative law judge's recommended decision, recommended findings of fact, recommended conclusions of law, and proposed order; all prehearing and hearing transcripts, exhibits, and rulings; and the motions, briefs, memoranda, and other supporting papers filed in connection with the hearing.
+
+
+# Tags
+
+['shall', 'party', 'ordered', 'include', 'file', 'hearings', 'proceedings', 'materials', 'subpoenas', 'time', 'document', 'requirements', 'witness', 'pursuant', 'service', 'authorities', 'issue', 'acting', 'person', 'notice', 'motion', 'state', 'judge means', 'recordings', 'follows', 'exhibit', 'ruled', 'reasonableness', 'depositions', 'limitations', 'counsel', 'enforcing', 'appropriate', 'caused', 'law', 'written', 'requested', 'privilege', 'proposal', 'copied', 'provided', 'exception', 'matters', 'directs', 'agency', 'relevance', 'occ', 'comptroller', 'papers', 'penalty', 'federal', 'institution', 'period', 'courts', 'section', 'sets', 'evidence', 'respond', 'specify', 'office', 'discovery', 'statements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                    |

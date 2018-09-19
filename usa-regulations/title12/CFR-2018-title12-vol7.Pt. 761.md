@@ -8,6 +8,16 @@
  CFR-2018-title12-vol7.Pt. 761
 
 
+# Summary
+
+
+
+
+# Tags
+
+['mortgage']
+
+
 # Structured Analysis Summary
 
 | Type     | Values    |

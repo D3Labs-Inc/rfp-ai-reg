@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 713
 
 
+# Summary
+
+This section provides the requirements for fidelity bonds for Federal credit union employees and officials and for other insurance coverage for losses such as theft, holdup, vandalism, etc., caused by persons outside the credit union.
+(a) The minimum required amount of fidelity bond coverage for any single loss is computed based on a federal credit union's total assets.
+(b) This is the minimum coverage required, but a federal credit union's board of directors should purchase additional or enhanced coverage when its circumstances warrant.
+A federal credit union that previously qualified for a deductible in excess of $200,000, but that subsequently fails to qualify based on its most recent year-end 5300 call report because either its assets have decreased or it no longer meets the net worth requirements of this paragraph or fails to meet the CAMEL rating requirements of this paragraph as determined by its most recent examination report, must obtain the coverage otherwise required by paragraph (b) of this section within 30 days of filing its year-end call report and must notify the appropriate NCUA regional office in writing of its changed status and confirm that it has obtained the required coverage.
+May the NCUA Board require a credit union to secure additional insurance coverage?
+
+
+# Tags
+
+['requirements', 'ncua', 'risks', 'insurance coverage', 'bond', 'based', 'losses', 'deductible', 'additional', 'asset', 'cash', 'increase', 'officers']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                    |

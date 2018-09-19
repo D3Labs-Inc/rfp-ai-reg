@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 362
 
 
+# Summary
+
+The FDIC has determined that the following activities do not represent a significant risk to the Deposit Insurance Fund, provided that the activities are conducted by a majority-owned subsidiary of an insured State bank in compliance with the core eligibility requirements listed in paragraph (c) of this section; any additional requirements listed in paragraph (b)(5) (i) or (ii) of this section; the bank complies with the investment and transaction limitations of paragraph (d) of this section; and the bank meets the capital requirements of paragraph (e) of this section.
+Engage in the public sale, distribution or underwriting of securities that are not permissible for a national bank under section 16 of the Banking Act of 1933 (12 U.S.C. 24 Seventh), provided that the insured state nonmember bank lawfully controlled or acquired the subsidiary and had an approved notice or order from the FDIC prior to November 12, 1999 and provided that the following additional conditions are, and continue to be, met:
+An insured state savings association that meets and continues to meet the applicable capital standards set by the appropriate Federal banking agency may directly conduct activities prohibited by paragraph (b)(1) of this section if the savings association obtains the FDIC's prior consent.
+
+
+# Tags
+
+['banking', 'activities', 'insurance', 'investment', 'require', 'provides', 'security', 'subsidiaries', 'includes', 'means', 'associations', 'companies', 'capitalized', 'stocks', 'shall', 'rate', 'acting', 'conduct', 'transactions', 'institutions', 'state', 'financial', 'business', 'limits', 'applications', 'approved', 'acquires', 'share', 'fdic', 'control', 'iii', 'written', 'prior', 'servicing', 'new', 'separate', 'equity', 'federal', 'permissible', 'meeting', 'risk', 'appropriate', 'set', 'corporations', 'affiliation', 'collateral', 'deposit', 'real', 'consents', 'asset', 'principal', 'purpose', 'directors', 'estate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                           |

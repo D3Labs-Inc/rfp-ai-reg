@@ -8,6 +8,21 @@
  CFR-2018-title12-vol10.Pt. 1214
 
 
+# Summary
+
+Except as authorized in writing by the Director, no FHFA employee in possession or control of non-public information may disclose or permit the use or disclosure of such information in any manner or for any purpose.
+Any person that discloses or uses confidential supervisory information except as authorized under this part may be subject to the penalties provided in 18 U.S.C. 641 and other applicable laws.
+Any FHFA employee that discloses or uses non-public information except as authorized under this part may be subject to the penalties provided in 18 U.S.C. 641, other applicable laws, and appropriate administrative, enforcement, or disciplinary proceedings.
+Current FHFA employees may disclose or permit the disclosure of non-public information to another FHFA employee or regulated entity or the Office of Finance, when necessary and appropriate, for the performance of their official duties.
+(2) A regulated entity, the Office of Finance, or a director, officer, employee, or agent thereof, also may disclose confidential supervisory information to a consultant under this paragraph if the consultant is under a written contract to provide services to the regulated entity or the Office of Finance and the consultant has agreed in writing:
+(ii) That it will not use the confidential supervisory information for any purposes other than those stated in its contract to provide services to the regulated entity or the Office of Finance.
+
+
+# Tags
+
+['fhfa', 'information means', 'confidential', 'disclosures', 'employees', 'report', 'act', 'person', 'general', 'public', 'director', 'non', 'orders', 'written', 'entity']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                  |

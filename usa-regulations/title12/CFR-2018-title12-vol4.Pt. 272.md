@@ -8,6 +8,20 @@
  CFR-2018-title12-vol4.Pt. 272
 
 
+# Summary
+
+Such policy actions ordinarily are taken through the adoption and transmission to the Federal Reserve banks of regulations, authorizations, and directives.
+Whenever any member of the Committee representing Federal Reserve banks shall find that the member will be unable to attend a meeting of the Committee, the member shall promptly notify the member's alternate and the Secretary of the Committee in writing, by telephone, or electronic means, and upon receipt of such notice such alternate shall advise the Secretary whether the alternate will attend such meeting.
+In general, the agendas include reports by the Manager on open market operations since the previous meeting, and ratification by the Committee of such operations; reports by Economists on, and Committee discussion of, the economic and financial situation and outlook; Committee discussion of monetary policy and action with respect thereto; and such other matters as may be considered necessary.
+Special circumstances may make it desirable in the public interest for Committee members to consider an action to modify an outstanding Committee authorization or directive at a time when it is not feasible to call a meeting.
+If the action is approved by a majority of the members, advice to that effect is promptly given by the Secretary to the members of the Committee and to the Reserve bank selected to execute transactions for the System Open Market Account.
+
+
+# Tags
+
+['committee', 'shall', 'meeting', 'actions', 'member', 'procedures', 'including', 'time', 'notice', 'information', 'alternate', 'banks', 'federal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                           |

@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 46
 
 
+# Summary
+
+(a) Improve educational opportunities for Indian adults who lack the level of literacy skills necessary for effective citizenship and productive employment;
+(2) Provide Indian adults with sufficient basic education to enable them to benefit from job training and retraining programs and to obtain and retain productive employment so that they might more fully enjoy the benefits and responsibilities of citizenship; and
+Indian means a person who is a member of, or is at least a one-fourth degree Indian blood descendent of a member of, an Indian tribe, and is eligible for the special programs and services provided by the United States through the Bureau of Indian Affairs to Indians because of their status as Indians;
+(a) The Adult Education Office will implement the program or project that is designed to address the needs of the Indian adults in the service area.
+(b) The Adult Education Office, to ensure efforts that no duplication of services exists, will identify other services in the area, including those offered by Federal, State and Tribal entities, that are designed to meet the same needs as those to be addressed by the project, and the number of Indian adults who receive those services.
+(a) The Adult Education Office will annually submit a report on the previous project year's activities to the Director, Office of Indian Education Programs.
+
+
+# Tags
+
+['educational', 'program', 'indians', 'adults', 'means', 'school', 'services including', 'employment', 'providing', 'level', 'secondary', 'tribal', 'sufficient', 'direct', 'required', 'projects', 'office', 'area']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                       |

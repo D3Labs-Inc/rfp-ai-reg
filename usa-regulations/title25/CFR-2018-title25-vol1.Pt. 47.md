@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 47
 
 
+# Summary
+
+This part contains the requirements for developing local educational financial plans that Bureau-operated schools need in order to receive direct funding from the Bureau of Indian Affairs under section 1127 of the Act.
+The Office of Indian Education Programs (OIEP) will notify each Bureau-operated school in writing of the annual funding amount it will receive as follows:
+(a) Ensure that the Bureau-operated school spends funds in accordance with the local educational financial plan, as ratified or amended by the school board;
+(d) Recommend changes in budget amounts to carry out the local educational financial plan, and incorporate these changes in the budget as ratified by the local school board, subject to provisions for appeal and overturn; and
+Each Bureau-operated school must spend all allotted funds in accordance with applicable Federal regulations and local education financial plans.
+The local Bureau-operated school supervisor develops the local educational financial plan in active consultation with the local school board, based on the tentative allotment received.
+(2) Within 30 days of receiving the tentative allotment, the school board must review the local educational financial plan and, by a quorum vote, ratify, reject, or amend, the plan.
+
+
+# Tags
+
+['funded', 'program', 'educational', 'means', 'oiep', 'school boards', 'locally', 'act', 'documents required', 'budgeted', 'bureau', 'supervisor', 'information']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                             |

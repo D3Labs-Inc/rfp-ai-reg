@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 68
 
 
+# Summary
+
+(2) Whenever a party has the right or is required to take some action within a prescribed period after the service upon such party of a pleading, notice, or other document (other than a complaint or a subpoena) and the pleading, notice, or document is served by ordinary mail, five (5) days shall be added to the prescribed period unless the compliance date is otherwise specified by the Chief Administrative Hearing Officer or the Administrative Law Judge.
+(1) A party may file with the Chief Administrative Hearing Officer a written request for administrative review within ten (10) days of the date of entry of the Administrative Law Judge's final order, stating the reasons for or basis upon which it seeks review.
+When a final order is referred to the Attorney General in accordance with this paragraph, the Chief Administrative Hearing Officer shall give the Administrative Law Judge and all parties a copy of the referral.
+(2) To request referral of a final order to the Attorney General, the Commissioner of Immigration and Naturalization must submit a written request to the Chief Administrative Hearing Officer and transmit copies of the request to all other parties to the case and to the Administrative Law Judge at the time the request is made.
+
+
+# Tags
+
+['shall', 'party', 'judge', 'ordered', 'timely', 'hearing', 'proceeding', 'documentation', 'evidence', 'filed', 'reasonable', 'written', 'officer', 'matters', 'personal', 'appropriate', 'means', 'service', 'generally', 'recording', 'request', 'action', 'review', 'pursuant', 'administrative', 'include', 'statements', 'states', 'respondents', 'motions', 'individuals', 'days', 'employment cases', 'complaint', 'ina', 'setting', 'pleadings', 'lawful', 'conducted', 'fact', 'deposition', 'copied', 'issue', 'requirements', 'objection', 'orally', 'noticed', 'witnesses', 'practices', 'decisions', 'counsel', 'examined', 'act', 'thereof', 'responsibility', 'taken', 'related', 'attorneys', 'final', 'prior', 'permitting', 'providing', 'involved', 'authorities', 'specially', 'entity', 'rule', 'undue', 'briefs', 'discovery']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

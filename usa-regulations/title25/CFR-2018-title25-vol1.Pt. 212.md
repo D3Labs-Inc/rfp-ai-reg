@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 212
 
 
+# Summary
+
+Indian mineral owner means any individual Indian or Alaska Native who owns mineral interests in oil and gas, geothermal, or solid mineral resources, title to which is held in trust by the United States, or is subject to the restriction against alienation imposed by the United States.
+The advertisement shall provide that the Secretary reserves the right to reject any or all bids, and that acceptance of the lease bid by or on behalf of the Indian mineral owner is required.
+All leases for individual Indian lands approved by the Secretary under this part shall contain provisions for the relinquishment of supervision and provide for operations of the lease after such relinquishment.
+If, after the execution of the lease and after the Secretary relinquishes supervision thereof, the fee of the leased land is divided into separate parcels held by different owners, or if the rental or royalty interest is divided in ownership, the obligations of the lessee shall not be modified in any manner except as specifically provided by the provisions of the lease.
+(a) Permits to conduct geological and geophysical operations on Indian lands which do not conflict with any mineral lease entered into pursuant to this part may be approved by the Secretary with the consent of the Indian owner under the following conditions:
+
+
+# Tags
+
+['shall', 'leases', 'mineral', 'land', 'means', 'owners', 'permits', 'secretary', 'including', 'indian oil', 'operations', 'approved', 'agreement', 'areas', 'authorized officer', 'royalty', 'bidder', 'provided', 'unitization', 'said', 'stating', 'requirements', 'resources', 'interested', 'days', 'provisions', 'bids', 'environmental', 'mining', 'gas geothermal', 'persons', 'surface', 'arrangements', 'governed', 'regulation', 'actions', 'specific', 'hydrocarbon', 'acreage', 'party']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

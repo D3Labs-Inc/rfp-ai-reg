@@ -8,6 +8,18 @@
  CFR-2018-title25-vol2.Pt. 900
 
 
+# Summary
+
+(9) Congress has declared that to the extent that programs, functions, services, and activities carried out by tribes and tribal organizations pursuant to contracts entered into under this Act reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of contract funds determined under section 106(a) of the Act, the Secretary shall make such savings available for the provision of additional services to program beneficiaries, either directly or through contractors, in a manner equitable to both direct and contracted programs.
+(8) The Indian tribe or tribal organization shall provide progress reports and financial status reports quarterly, or as negotiated, that contain a narrative of the work accomplished, including but not limited to descriptions of contracts, major subcontracts, and modifications implemented during the report period and A/E service deliverables, the percentage of the work completed, a report of funds expended during the reporting period, and total funds expended for the project.
+Yes. For the purpose of Federal Tort Claims Act coverage, an Indian tribe or tribal organization and its employees performing medical-related functions under a self-determination contract are deemed a part of the Public Health Service if the employees are acting within the scope of their employment in carrying out the contract.
+
+
+# Tags
+
+['shall', 'contractibility', 'including', 'organization', 'funds', 'costs', 'service', 'federal', 'acted', 'projections', 'secretarial', 'construct', 'provide', 'indians', 'proposes', 'requirements', 'reports', 'properties', 'program', 'claim', 'inform', 'tribally', 'applications', 'governed', 'yes', 'activity', 'requests', 'mean', 'followed', 'record', 'working', 'document', 'administration', 'standards', 'law', 'processes', 'appeal', 'written', 'contractors', 'designate', 'performance', 'procedural', 'controlled', 'time', 'planned', 'agreements', 'relates', 'issuing', 'agency', 'titles', 'management', 'equipment', 'specifically authorized', 'need', 'negotiate', 'facility', 'reasonableness', 'lists', 'procurement', 'regulation', 'covering', 'site', 'determination', 'awards', 'conducts', 'days', 'addition', 'decisions', 'base', 'involve', 'developed', 'reviews', 'contained', 'materially', 'budgeted', 'immediately', 'periodic', 'maintenance', 'annually', 'phase', 'persons', 'assistant', 'health', 'general', 'official', 'necessary', 'employee', 'ihs', 'condition', 'office', 'subcontracts', 'disputed', 'iii', 'applied', 'hearing', 'provisions', 'subcontractor', 'purchases', 'available', 'excessive', 'accounted', 'payments', 'financial', 'medical', 'set', 'effective', 'states', 'non']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

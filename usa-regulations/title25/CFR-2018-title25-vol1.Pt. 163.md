@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 163
 
 
+# Summary
+
+Forest management plan means the principal document, approved by the Secretary, reflecting and consistent with an integrated resource management plan, which provides for the regulation of the detailed, multiple-use operation of Indian forest land by methods ensuring that such lands remain in a continuously productive state while meeting the objectives of the tribe and which shall include: Standards setting forth the funding and staffing requirements necessary to carry out each management plan, with a report of current forestry funding and staffing levels; and standards providing quantitative criteria to evaluate performance against the objectives set forth in the plan.
+(1) For Indian forest lands located on an Indian reservation, a written expenditure plan for the use of forest management deductions shall be prepared annually and approved by the authorized tribal representative(s) and the Secretary.
+(e) Tribal forestry program financial support shall provide professional and technical services to carry out forest land management activities and shall be based on levels of funding assistance as follows:
+(8) A recipient of assistance under the scholarship program shall be required to enter into an obligated service agreement to serve as a professional forester or forestry-related professional with the Bureau of Indian Affairs, a tribe, tribal forest enterprise or ANCSA Corporation for one year for each year in the program.
+
+
+# Tags
+
+['shall', 'forested', 'productivity', 'indians', 'included', 'tribally', 'land', 'program', 'forestry', 'management', 'funds', 'mean', 'trespasser', 'values', 'contracts', 'requirements', 'tribes', 'damaged', 'time', 'federal', 'secretary', 'authorization', 'permit', 'sale', 'assist', 'education', 'native', 'relations', 'bid', 'timber', 'approved', 'advanced', 'services provided', 'agreements', 'pursuant', 'technical', 'activity', 'action', 'acceptance', 'harvest', 'level', 'applications', 'reservations', 'establishing', 'accountability', 'appropriation', 'cooperative', 'resource', 'periodic', 'states', 'agency', 'law', 'payments', 'annually', 'civil', 'non', 'completion', 'fields', 'environmental', 'advertised', 'projects', 'academic', 'following', 'designate', 'administrative', 'planned', 'use', 'documentation', 'iii', 'trees', 'reports', 'individual', 'practices', 'performance', 'years', 'receive', 'students', 'generally', 'written', 'official', 'developed', 'base', 'assessment', 'trust', 'acts', 'training', 'grants', 'scholarships', 'executive', 'market']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

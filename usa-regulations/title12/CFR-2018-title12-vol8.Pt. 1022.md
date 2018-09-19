@@ -8,6 +8,18 @@
  CFR-2018-title12-vol8.Pt. 1022
 
 
+# Summary
+
+Unless an exception applies under &#167;&#8201;1022.74, the card issuer may satisfy its obligations under paragraph (a) of this section by providing a risk-based pricing notice to the consumer because the consumer received credit at a purchase annual percentage rate greater than the lowest purchase annual percentage rate available under that solicitation.
+When a person obtains two or more credit scores from consumer reporting agencies and uses multiple credit scores in setting the material terms of credit granted, extended, or otherwise provided to a consumer, for example, by computing the average of all the credit scores obtained, the notice described in paragraph (e)(1)(ii) of this section must include one of those credit scores and the other information required by that paragraph.
+When a person obtains two or more credit scores from consumer reporting agencies and uses multiple credit scores in setting the material terms of credit granted, extended, or otherwise provided to a consumer, for example, by computing the average of all the credit scores obtained, the notice described in paragraph (e)(1)(ii) of this section must include one of those credit scores and the other information required by that paragraph.
+
+
+# Tags
+
+['consumers', 'credit', 'informs', 'provider', 'includes', 'shall', 'notices', 'reasonable', 'requests', 'require', 'means', 'affiliated', 'iii', 'person', 'reports', 'number', 'medical', 'applicant', 'services', 'creditor', 'general', 'examples', 'addresses', 'laws', 'use', 'sections', 'disclosures', 'score', 'companies', 'offering', 'account', 'contain', 'obtain', 'received', 'period', 'transactions', 'insurance', 'solicitations', 'specificity', 'forms', 'marketed', 'loan', 'products', 'stated', 'terms', 'annual', 'institutes', 'rate', 'established', 'issuers', 'initial', 'source', 'methods', 'opting', 'purpose', 'based', 'business', 'applies', 'financial', 'follows', 'relationship', 'relates', 'agency', 'times', 'mails', 'advertisement', 'program', 'electronic', 'communicated', 'card', 'documenting', 'acts', 'types', 'continuing', 'purchasers', 'single', 'additional', 'debts', 'free', 'describes', 'furnish', 'identifies', 'operating', 'definition', 'eligible', 'new']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                          |

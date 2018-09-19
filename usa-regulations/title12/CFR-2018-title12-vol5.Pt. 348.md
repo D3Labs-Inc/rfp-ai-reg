@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 348
 
 
+# Summary
+
+(2) For purposes of section 202(3)(B) of the Interlocks Act (12 U.S.C. 3201(3)(B)), an affiliate relationship involving an FDIC-supervised institution based on common ownership does not exist if the FDIC determines, after giving the affected persons the opportunity to respond, that the asserted affiliation was established in order to avoid the prohibitions of the Interlocks Act and does not represent a true commonality of interest between the depository organizations.
+(e) Depository holding company means a bank holding company or a savings and loan holding company (as more fully defined in section 202 of the Interlocks Act (12 U.S.C. 3201)) having its principal office located in the United States.
+(h) A savings association whose acquisition has been authorized on an emergency basis in accordance with section 13(k) of the Federal Deposit Insurance Act (12 U.S.C. 1823(k)) with resulting dual service by a management official that would otherwise be prohibited under the Interlocks Act which may continue for up to 10 years from the date of the acquisition provided that the FDIC has given its approval for the continuation of such service;
+A management official described in paragraph (a) of this section may continue to serve the FDIC-supervised institution involved in the interlock for 15 months following the date of the change in circumstances.
+
+
+# Tags
+
+['meaning', 'bank', 'states', 'organizations', 'interlocks', 'fdic institutions', 'offices', 'asset', 'loans', 'areas', 'management', 'persons', 'depository', 'including', 'period', 'act', 'affiliates', 'services', 'savings', 'related', 'corporations', 'official', 'exemption', 'consolidated', 'substantial', 'federal', 'share', 'circumstances']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                          |

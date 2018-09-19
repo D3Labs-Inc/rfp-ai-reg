@@ -8,6 +8,20 @@
  CFR-2018-title9-vol1.Pt. 92
 
 
+# Summary
+
+(e) If, after review and evaluation of the information submitted in accordance with paragraph (b) or (c) of this section, APHIS believes the request can be safely granted, APHIS will indicate its intent and make its evaluation available for public comment through a document published in the Federal Register.
+In these cases, APHIS will inform the public as soon as possible through notice in the Federal Register of the basis for its decision to prohibit or restrict imports from the smaller area of that region previously recognized as free.
+The listing of those regions classified by APHIS as having either negligible risk or controlled risk can be accessed on the APHIS Web site at http://www.aphis.usda.gov/import_export/animals/ animal_disease_status.shtml.
+If, following evaluation of the information submitted, the Administrator determines that the region meets the criteria for classification as negligible risk or controlled risk, APHIS will announce that determination in the Federal Register and will make available to the public on the APHIS Web site the evaluation conducted by APHIS, as well as the information provided by the requesting region.
+APHIS will base its determination of the date of effective enforcement on the information included in the dossier the region submitted when it requested to be classified regarding BSE risk.
+
+
+# Tags
+
+['aphis', 'diseases', 'animal', 'region', 'inform', 'bovines', 'included', 'bse', 'state', 'oie', 'surveillance', 'meal', 'following', 'controlled risk', 'diagnostic', 'area', 'health', 'livestock', 'processed', 'years', 'vectors', 'protein', 'national', 'determines', 'ruminant material', 'feeding', 'active', 'commenters', 'issues', 'products', 'united', 'practices', 'documentation', 'sources', 'prohibited', 'programs', 'status', 'services', 'ganglia', 'designed', 'conduct', 'classification', 'islands']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

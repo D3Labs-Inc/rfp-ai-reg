@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1268
 
 
+# Summary
+
+(2) A Bank shall document its basis for concluding that the contractual credit enhancement required from each participating financial institution with regard to a particular asset or pool will equal or exceed the credit enhancement level specified in the terms and conditions of the AMA product and determined in accordance with paragraph (b)(1) of this section.
+(B) Such insurance is positioned in the credit enhancement structure so as to cover only losses remaining after the participating financial institution has borne losses as required under paragraph (c)(1)(i) of this section;
+Instead of the structure set forth in paragraph (c) of this section, a participating financial institution also may provide the required credit enhancement through loan-level insurance that is issued by an agency or department of the U.S. government or is a guarantee from an agency or department of the U.S. government, provided that the government insurance or guarantee remains in place for as long as the Bank owns the loan.
+(2) Only qualified insurers may provide private loan insurance on AMA eligible assets or the loan or pool insurance allowed as part of the credit enhancement structure for AMA products under paragraphs (c)(2)(ii) or (iii) of this section.
+
+
+# Tags
+
+['bank', 'ama', 'credit', 'shall', 'insures', 'loans', 'enhancements', 'provided', 'pool', 'meaning', 'administrative', 'housing', 'requires', 'business', 'acquiring', 'asset', 'bonds', 'reporting', 'including', 'transaction', 'institutions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                        |

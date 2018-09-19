@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 705
 
 
+# Summary
+
+(1) Applications to participate and qualify for a loan or technical assistance grant under the Program may be obtained from the National Credit Union Administration as outlined in the related Notice of Funding Opportunity.
+NCUA's policy is to monitor Participating Credit Unions to assure that loan and technical assistance grant funds awarded under this part have been used in accordance with their intended purposes and to determine whether anticipated outcomes have been achieved.
+At its discretion, for verification purposes and as part of its evaluation of the effectiveness of the loan and technical assistance grant programs, NCUA may elect to review information concerning Participating Credit Unions to which it already has access, including information obtained through the examination process and data contained in Call Reports.
+A Qualifying Credit Union whose application for a loan or technical assistance grant has been denied under &#167;&#8201;705.7(f) for failure to satisfy any of the conditions set forth in &#167;&#8201;705.7(c), including any additional criteria set forth in the related notice of funding opportunity, may request the Director of the Office of Small Credit Union Initiatives to reconsider the denial and/or appeal that decision to the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter, subject to the following limitations:
+
+
+# Tags
+
+['ncua', 'loans', 'funds', 'union', 'applicable', 'included', 'require', 'information', 'financial', 'states', 'credit', 'initiatives', 'reporting', 'grant', 'programs', 'provide', 'general', 'addition', 'terms', 'share', 'criteria', 'opportunities', 'services', 'notices', 'business', 'limits', 'procedure', 'purposes', 'award', 'match', 'community', 'insurance', 'qualify', 'income']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                 |

@@ -8,6 +8,17 @@
  CFR-2018-title9-vol1.Pt. 51
 
 
+# Summary
+
+The Administrator may authorize the payment of Federal indemnity by the U.S. Department of Agriculture to any owner whose cattle or bison are destroyed after having been approved for destruction by APHIS under the brucellosis eradication program.&#8201;3
+All premises, including all structures, holding facilities, conveyances, and materials, contaminated because of occupation or use by brucellosis reactor or exposed animals shall be properly cleaned and disinfected with a disinfectant permitted by APHIS in accordance with recommendations of the APHIS or State representative within 15 days from the date reactors were removed from the premises, except that the appropriate Veterinarian in Charge may extend the time limit for disinfection to 30 days when request for such extension is received by him prior to the expiration date of the original 15-day period allowed, and when he determines that such extension will not adversely affect the Brucellosis Eradication Program; and except further, that the Administrator may, upon request in specific cases, extend the time limit beyond the 30-day period when unusual and unforeseen circumstances occur, such as but not limited to floods, storms, or other Acts of God, which are beyond the control of the owner, preventing or hindering the disinfection of premises, conveyances, and materials.
+
+
+# Tags
+
+['associations', 'animal', 'american', 'cattle', 'state', 'indemnities', 'shall', 'herd', 'approval', 'brucellosis', 'individual', 'breeders', 'swine', 'registered', 'aphis', 'breeds', 'international', 'appraiser', 'slaughtering', 'official test', 'destroyed', 'owners', 'prior', 'exposed', 'formed', 'charge', 'days', 'health', 'following', 'disinfected', 'reactor', 'society', 'premises', 'veterinarian', 'specifically', 'dairy', 'representative', 'number', 'federal', 'payment', 'claimed', 'circumstances']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

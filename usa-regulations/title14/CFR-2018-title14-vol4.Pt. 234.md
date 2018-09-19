@@ -8,6 +8,17 @@
  CFR-2018-title14-vol4.Pt. 234
 
 
+# Summary
+
+(k) For air transportation taking place on or after January 1, 2018, each reporting carrier shall also file a separate BTS Form 234 &#8220;On-Time Flight Performance Report&#8221; with the Office of Airline Information on a monthly basis, setting forth the information for each of its reportable flights held out with only the reporting carrier's airline designator code on the reporting carrier's Web site, on the Web sites of major online travel agencies, or in other generally recognized sources of schedule information, and operated by any code-share partner that is a certificated air carrier or commuter air carrier.
+(c) The information in paragraphs (a) and (b) of this section shall be submitted to the Department within 15 days after the end of the month to which the information applies and must be submitted with the transmittal accompanying the data for on-time performance in the form and manner set forth in accounting and reporting directives issued by the Director, Office of Airline Information.
+
+
+# Tags
+
+['flights', 'shall', 'reporting', 'schedules', 'times', 'code', 'delays', 'information', 'carrier', 'air', 'airports', 'include', 'passengers', 'data', 'months', 'actually', 'performance', 'operating', 'arriving', 'departure', 'cancelled', 'calendar', 'aircraft', 'requirements', 'crs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                               |

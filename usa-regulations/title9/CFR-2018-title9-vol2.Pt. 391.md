@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 391
 
 
+# Summary
+
+(a) For each calendar year, FSIS will calculate the basetime rate for inspection services, per hour per program employee, provided pursuant to &#167;&#167;&#8201;350.7, 351.8, 351.9, 352.5, 354.101, 355.12, and 362.5 of this chapter, using the following formula: The quotient of dividing the Office of Field Operations plus Office of International Affairs inspection program personnel's previous fiscal year's regular direct pay by the previous fiscal year's regular hours, plus the quotient multiplied by the calendar year's percentage of cost of living increase, plus the benefits rate, plus the travel and operating rate, plus the overhead rate, plus the allowance for bad debt rate.
+(a) For each calendar year, FSIS will calculate the laboratory services rate, per hour per program employee, provided pursuant to &#167;&#167;&#8201;350.7, 351.9, 352.5, 354.101, 355.12, and 362.5 of this chapter, using the following formula: The quotient of dividing the Office of Public Health Science (OPHS) previous fiscal year's regular direct pay by OPHS previous fiscal year's regular hours, plus the quotient multiplied by the calendar year's percentage cost of living increase, plus the benefits rate, plus the travel and operating rate, plus the overhead rate, plus the allowance for bad debt rate.
+
+
+# Tags
+
+['rate', 'cost', 'inspection services', 'operations plus', 'program', 'analyte', 'debt', 'health']
+
+
 # Structured Analysis Summary
 
 | Type     | Values                                                       |

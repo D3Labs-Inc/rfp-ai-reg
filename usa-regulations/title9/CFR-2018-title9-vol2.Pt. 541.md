@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 541
 
 
+# Summary
+
+(c)(1) The official inspection legend, or the approved abbreviation of the legend, must be printed on consumer packages and other immediate containers of inspected and passed fish products or on labels to be securely affixed to the containers of the products and may be printed or stenciled on the containers but must not be applied by rubber stamping.
+(a) The official export inspection mark for fish required by part 552 of this subchapter must be in the same form as that specified in 9 CFR 312.8(a) or otherwise as prescribed by the Administrator.
+The requirements in part 317, subpart A, of this chapter, governing labels and labeling, safe-handling labeling, abbreviations of official marks, the use of approved labels, the labeling of products for foreign commerce, prohibited practices, the reuse of official inspection marks, filling of containers, relabeling of products, the storage and distribution of labels, and the requirements for packaging materials, apply to fish and fish products.
+The requirements for the label approval of meat and meat food products in part 412 of this chapter, also apply to the labeling of fish and fish products.
+
+
+# Tags
+
+['labeling', 'fish', 'official', 'contain', 'required', 'form', 'products', 'shall', 'marking', 'statement', 'net', 'pangasius', 'approval', 'packages', 'hypophthalmus']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                             |

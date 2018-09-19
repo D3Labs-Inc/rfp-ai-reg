@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 263
 
 
+# Summary
+
+The Secretary establishes a priority for applicants that include a letter of support signed by the authorized representative of an LEA or Department of the Interior Bureau of Indian Education (BIE)-funded school or other entity in the applicant's service area that agrees to consider program graduates for qualifying employment.
+(3) The extent to which the proposed project will incorporate the needs of potential employers, as identified by a job market analysis, by establishing partnerships and relationships with appropriate entities (e.g., Bureau-funded schools, organizations providing educational services to Indian students, and LEAs) and developing programs that meet their employment needs.
+If a participant exits the Professional Development program because he or she is called or ordered to active duty status in connection with a war, military operation, or national emergency for more than 30 days as a member of a reserve component of the Armed Forces named in 10 U.S.C. 10101, or as a member of the National Guard on full-time National Guard duty, as defined in 10 U.S.C. 101(d)(5), the Secretary may defer the payback requirement until the participant has completed his or her military service, for a period not to exceed 36 months.
+Participants must submit to the Secretary, within 30 days of completion of, or exit from, as applicable, their training program, a notice of intent to complete a work-related or cash payback, or to continue in a degree program as a full-time student.
+
+
+# Tags
+
+['indians', 'educational', 'programs', 'participant', 'requiring', 'projected', 'includes', 'means', 'payback', 'trained', 'services', 'provided', 'local', 'employment', 'school', 'activities', 'secretary', 'applications', 'information', 'degree', 'military', 'assisting', 'funds', 'periodically', 'grant', 'following', 'teaching', 'support', 'appropriate', 'research', 'students', 'area', 'community', 'establish', 'month', 'performing', 'teacher', 'qualify']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                 |

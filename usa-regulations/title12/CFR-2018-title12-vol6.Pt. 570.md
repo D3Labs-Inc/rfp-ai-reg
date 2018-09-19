@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 570
 
 
+# Summary
+
+If the OTS determines that a savings association has failed to meet a safety and soundness standard pursuant to paragraph (a) of this section, the OTS may request by letter or through a report of examination, the submission of a compliance plan.
+If the OTS finds it necessary in order to carry out the purposes of section 39 of the FDI Act, the OTS may, without providing the notice prescribed in paragraph (a)(1) of this section, issue an order requiring a savings association immediately to take actions to correct a safety and soundness deficiency or to take or refrain from taking other actions pursuant to section 39.
+A savings association may file a written response to a notice of intent to issue an order within the time period set by the OTS.
+Such a response must be received by the OTS within 14 calendar days from the date of the notice unless the OTS determines that a different period is appropriate in light of the safety and soundness of the savings association or other relevant circumstances.
+
+
+# Tags
+
+['ots', 'shall', 'action', 'ordered', 'act', 'association', 'pursuant', 'period', 'plan', 'circumstances', 'written', 'information', 'standards', 'timely', 'established', 'proposed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                    |

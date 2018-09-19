@@ -8,6 +8,18 @@
  CFR-2018-title2-vol1.Pt. 700
 
 
+# Summary
+
+Marking plan means a plan that the apparently successful applicant submits at the specific request of a USAID Agreement Officer after merit review of an application for USAID funding, detailing the public communications, commodities, and program materials and other items that will visibly bear the USAID Identity.
+USAID Identity (Identity) means the official marking for the United States Agency for International Development (USAID) comprised of the USAID logo or seal and new brandmark with the tagline that clearly communicates our assistance is &#8220;from the American people.&#8221; In exceptional circumstances, upon a written determination by the USAID Administrator, the definition of the USAID Identity may be amended to include additional or substitute use of a logo or seal and tagline representing a presidential initiative or other high level interagency Federal initiative that requires consistent and uniform branding and marking by all participating agencies.
+Under the authority listed above the Agency for International Development adopts the Office of Management and Budget (OMB) guidance Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards to Non-Federal Entities (subparts A through F of 2 CFR part 200), as supplemented by this part, as the Agency for International Development (USAID) policies and procedures for financial assistance administration.
+
+
+# Tags
+
+['usaid', 'funds', 'cost', 'including', 'award', 'requirements', 'publications', 'markings', 'federal', 'officers', 'program', 'assistant', 'recipients', 'addition', 'applications', 'regulation', 'governed', 'non', 'commodities', 'agreement', 'business', 'information', 'contracts', 'exception', 'activity means', 'countries', 'requests', 'policy', 'approved', 'services', 'provisions', 'audits', 'authorized', 'provide', 'entity', 'political', 'press', 'agency', 'administrator', 'written', 'materials', 'reports', 'united', 'effective', 'independence', 'communicates', 'copies', 'foreign']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                |

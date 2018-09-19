@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 311
 
 
+# Summary
+
+In such cases, the Corporation will make public announcement of the time, place, and subject matter of the meeting, and whether it is open or closed to the public, at the earliest practicable time, which may be later than the commencement of the meeting.
+Except to the extent that such information is exempt from disclosure, if a meeting or portion of a meeting is to be closed to the public, the Corporation will make publicly available within 1 day after the required vote a full written explanation of its action, together with a list of all persons expected to attend the meeting and their affiliation.
+Except to the extent that such information is exempt from disclosure under the provisions of &#167;&#8201;311.3(b) the Corporation will make public announcement of the time, place and subject matter of the meeting and of each portion thereof at the earliest practicable time.
+Even though a meeting or portion thereof could properly be closed under this section, a majority of the entire Board may find that the public interest requires an open session and vote, reflecting the vote of each Board member, will be made available to the public.
+
+
+# Tags
+
+['information', 'board', 'disclose', 'meeting', 'closed', 'public', 'particular', 'votes', 'enforcement', 'corporation', 'actions', 'recorded', 'financial', 'announcements', 'written', 'act', 'agency', 'procedure', 'persons', 'pursuant', 'copying', 'certain', 'reasonable', 'mean', 'usc', 'time']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

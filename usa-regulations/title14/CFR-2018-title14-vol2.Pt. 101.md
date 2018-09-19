@@ -8,6 +8,20 @@
  CFR-2018-title14-vol2.Pt. 101
 
 
+# Summary
+
+No person may operate an unshielded moored balloon or kite more than 150 feet above the surface of the earth unless, at least 24 hours before beginning the operation, he gives the following information to the FAA ATC facility that is nearest to the place of intended operation:
+When a Class 3&#8212;Advanced High-Power Rocket requires a certificate of waiver or authorization the person planning the operation must provide the information below for each type of rocket to the FAA at least 45 days before the proposed operation.
+(c) No person may operate an unmanned free balloon that is equipped with a trailing antenna that requires an impact force of more than 50 pounds to break it at any point, unless the antenna has colored pennants or streamers that are attached at not more than 50 foot intervals and that are visible for at least one mile.
+(b) One hour before beginning descent, each person operating an unmanned free balloon shall forward to the nearest FAA ATC facility the following information regarding the balloon:
+(c) If a balloon position report is not recorded for any two-hour period of flight, the person operating an unmanned free balloon shall immediately notify the nearest FAA ATC facility.
+
+
+# Tags
+
+['operating', 'rocket', 'launches', 'flight', 'balloon', 'shall', 'altitude', 'including', 'notice', 'time', 'atc', 'areas', 'information', 'estimates', 'iii', 'safety', 'air', 'control', 'impact', 'weight', 'additional', 'device', 'required', 'payload', 'high', 'propelled', 'base', 'position', 'surface', 'frequency', 'class']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                              |

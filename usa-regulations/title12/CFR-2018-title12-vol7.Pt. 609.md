@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 609
 
 
+# Summary
+
+E-SIGN preempts most State and Federal statutes or regulations, including the Farm Credit Act of 1971, as amended (Act), and its implementing regulations, that require contracts or other business, consumer, or commercial records to be written, signed, or in non-electronic form.
+Generally, an electronic record or signature satisfies any provision of the Act or its implementing regulations that require such records and signatures to be written, signed, or in paper form.
+(b) System institutions may interpret the Act and its implementing regulations broadly to allow electronic transmissions, communications, records, and submissions, as provided by E-SIGN.
+This means that the terms address, copy, distribute, document, file, mail, notice, notify, record, provide, send, signature, sent, written, writing, and similar words generally should be interpreted to permit electronic transmissions, communications, records, and submissions in business, consumer, or commercial transactions.
+(Federal Reserve Board Regulations M and Z (12 CFR parts 213 and 226) apply to consumers only.) Nonetheless, you must ensure that your communications, including those disclosures required under the Act and the regulations in this part, demonstrate good business practices in the delivery of credit and closely related services and in your obtaining goods and services.
+
+
+# Tags
+
+['electronically', 'records', 'requires', 'signature', 'business', 'transaction', 'consumers', 'communication', 'commerce', 'credit', 'disclosures', 'signed', 'means', 'including', 'act', 'secured', 'commercial', 'paper', 'document', 'provided', 'regulations', 'goods', 'accessible']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

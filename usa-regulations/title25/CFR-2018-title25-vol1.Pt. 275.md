@@ -8,6 +8,25 @@
  CFR-2018-title25-vol1.Pt. 275
 
 
+# Summary
+
+The purpose of this part is to outline methods available to tribes for utilizing the services of Bureau employees.
+These regulations are not intended to prevent an Indian tribe or tribal organization from staffing their programs by other methods they feel appropriate.
+However, when an Indian tribe or tribal organization decides to provide Bureau employees certain Federal benefits, Civil Service Commission regulations must be adhered to.
+(b) Area Director means the official in charge of a Bureau of Indian Affairs Area Office.
+(h) Superintendent means the official in charge of a Bureau of Indian Affairs Agency Office.
+(a) An Indian tribal organization may use any of the following three methods to employ or obtain the services of Bureau employees:
+Assistance will be provided by the Area Personnel Office in complying with Civil Service instructions (Federal Personnel Manual, chapter 334) for completing an agreement.
+(3) An agreement by an Indian tribe in accordance with the 1834 Act (25 U.S.C. 48) may be made in connection with contracts under section 102 of the Act.
+(i) The agreement may provide for the tribal government to direct the day-to-day activities of Bureau employees.
+(ii) The agreement to direct day-to-day activities of Bureau employees shall include all employees:
+
+
+# Tags
+
+['act means', 'federal', 'employee', 'tribal', 'indians', 'personnel', 'day', 'bureau', 'iii', 'affairs', 'agreement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                        |

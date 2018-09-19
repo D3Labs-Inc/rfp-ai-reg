@@ -8,6 +8,22 @@
  CFR-2018-title12-vol10.Pt. 1201
 
 
+# Summary
+
+As used throughout this chapter, the following basic terms relating to the Federal Housing Finance Agency, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Banks, the Office of Finance, and related entities have the meanings set forth below, unless otherwise indicated in a particular subchapter, part, section, or paragraph:
+Affordable Housing Program or AHP means the Affordable Housing Program that each Bank is required to establish pursuant to section 10(j) of the Bank Act (12 U.S.C. 1430(j)) and part 1291 of this chapter.
+Bank, written in title case, means a Federal Home Loan Bank established under section 12 of the Bank Act (12 U.S.C. 1432).
+Bank Act means the Federal Home Loan Bank Act, as amended (12 U.S.C. 1421 et seq.).
+CIP means the Community Investment Program, an advance program under CICA required to be offered pursuant to section 10(i) of the Bank Act (12 U.S.C. 1430(i)).
+FHFA means the Federal Housing Finance Agency established by Section 1311(a) of the Safety and Soundness Act.
+Regulated Entity means the Federal Home Loan Mortgage Corporation and any affiliate thereof, the Federal National Mortgage Association and any affiliate thereof, and any Federal Home Loan Bank.
+
+
+# Tags
+
+['meaning', 'act', 'states', 'bank', 'chapter', 'development', 'federal', 'housing', 'officer', 'program', 'investment', 'loans', 'funding', 'community', 'corporation', 'finance', 'institution', 'association']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                  |

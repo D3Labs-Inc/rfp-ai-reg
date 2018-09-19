@@ -8,6 +8,22 @@
  CFR-2018-title34-vol3.Pt. 663
 
 
+# Summary
+
+(a) The Fulbright-Hays Faculty Research Abroad Program is designed to contribute to the development and improvement of modern foreign language and area studies in the United States by providing opportunities for scholars to conduct research abroad.
+(b) Under the program, the Secretary awards fellowships, through institutions of higher education, to faculty members who propose to conduct research abroad in modern foreign languages and area studies to improve their skill in languages and knowledge of the culture of the people of these countries.
+(a) An individual applies for a fellowship by submitting an application to the Secretary through the institution of higher education at which the individual is employed.
+(b) The applicant shall provide sufficient information concerning his or her personal and academic background and proposed research project to enable the Secretary to determine whether the applicant&#8212;
+(a) The Secretary considers applications for fellowships under this program that have been screened and submitted by eligible institutions.
+(c) In evaluating applications, the Secretary obtains the advice of panels of United States academic specialists in modern foreign languages and area studies.
+William Fulbright Foreign Scholarship Board selects fellows on the basis of the Secretary's recommendations and the information described in &#167;&#8201;663.20(e) from binational commissions or United States diplomatic missions.
+
+
+# Tags
+
+['researcher', 'applications', 'secretary awards', 'languages', 'academic', 'fellowship', 'foreign', 'areas', 'politics', 'administrative', 'overseas', 'informs', 'institutions', 'cultural', 'expenses', 'years', 'regulations', 'individuals', 'sufficient', 'abroad', 'diplomatic']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                   |

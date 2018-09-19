@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1230, Nt.
 
 
+# Summary
+
+Waiver or alteration of consent in research involving public benefit and service programs conducted by or subject to the approval of state or local officials is described in paragraph (e) of this section.
+An IRB may approve a research proposal in which an investigator will obtain information or biospecimens for the purpose of screening, recruiting, or determining the eligibility of prospective subjects without the informed consent of the prospective subject or the subject's legally authorized representative, if either of the following conditions are met:
+(a) Except as provided in paragraph (c) of this section, informed consent shall be documented by the use of a written informed consent form approved by the IRB and signed (including in an electronic format) by the subject or the subject's legally authorized representative.
+Except for research waived under &#167;&#8201;1230.101(i) or exempted under &#167;&#8201;1230.104, no human subjects may be involved in any project supported by these awards until the project has been reviewed and approved by the IRB, as provided in this policy, and certification submitted, by the institution, to the Federal department or agency component supporting the research.
+
+
+# Tags
+
+['researchers', 'shall', 'including', 'requirements', 'irbs', 'subject', 'information', 'federal', 'reviews', 'provide', 'procedure', 'approved', 'institutions', 'involve', 'consent', 'activity', 'followed', 'appropriately', 'agency', 'policies', 'conducts', 'educators', 'written', 'identify', 'health', 'recorded', 'risk', 'study', 'additives', 'individual', 'publication', 'head', 'documenting', 'secure', 'means', 'assurance', 'government', 'authorized representative', 'member', 'biospecimens', 'projects', 'persons', 'law', 'purposes', 'determinations', 'evaluating', 'form', 'anticipated', 'sufficient', 'protection', 'set', 'investigator', 'food', 'proposed', 'office', 'reports', 'cultural', 'immediate', 'generate', 'responsibility']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                          |

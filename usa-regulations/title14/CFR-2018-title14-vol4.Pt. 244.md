@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 244
 
 
+# Summary
+
+Also, for purposes of section 244.3 carriers using a Docking Guidance System (DGS) may record the official &#8220;gate-arrival time&#8221; when the aircraft is stopped at the appropriate parking mark.
+If passengers were boarded without the parking brake being set, the reportable gate departure time is the time that the last passenger door was closed.
+Covered carriers must report all passenger operations that experience a tarmac time of more than 3 hours at a U.S. airport.
+These carriers that are covered by part 234 need only submit information for flights with tarmac delays of more than 3 hours under this part 244 for domestic scheduled passenger flights to or from any U.S. medium hub airport, small hub airport and non-hub airport to the extent they do not report such information under 14 CFR 234.7.
+(a) Each covered carrier shall file BTS Form 244 &#8220;Tarmac Delay Report&#8221; with the Office of Airline Information of the Department's Bureau of Transportation Statistics setting forth the information for each of its covered flights that experienced a tarmac delay of more than 3 hours, including diverted flights and cancelled flights on which the passengers were boarded and then deplaned before the cancellation.
+
+
+# Tags
+
+['time', 'airports', 'passenger', 'carrier', 'flight', 'gate', 'aircraft', 'schedule', 'reporting', 'sets', 'information', 'states']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                    |

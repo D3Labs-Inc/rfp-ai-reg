@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 442
 
 
+# Summary
+
+(c) No scale will be used at a federally inspected establishment to determine the net weight of meat or poultry products unless it has been found upon test and inspection, as specified in NIST Handbook 44 to provide accurate weight.
+If a scale is inspected or tested and found to be inaccurate, or if any repairs, adjustments, or replacements are made to a scale, it shall not be used until it has been reinspected and retested by a USDA official, or a State or local government weights and measures official, or a State registered or licensed scale repair firm or person, and it must meet all accuracy requirements as specified in NIST Handbook 44.
+(b) The operator of each official establishment shall display on or near each scale a valid certification of the scale's accuracy from a State or local government's weights and measures authority or from a State registered or licensed scale repair firm or person, or shall have alternative documented procedures showing that the scale has been tested for accuracy in accordance with the requirements of NIST Handbook 44.
+
+
+# Tags
+
+['requirements', 'handbook', 'weights', 'net', 'shall', 'register', 'inspection', 'scale', 'products', 'testing', 'edition', 'government', 'repair']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                         |

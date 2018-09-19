@@ -8,6 +8,18 @@
  CFR-2018-title12-vol8.Pt. 1008
 
 
+# Summary
+
+The S.A.F.E. Act also authorizes the Bureau to establish and maintain a nationwide mortgage licensing system and registry if the Bureau determines that the NMLSR is failing to meet the purposes and requirements of the S.A.F.E. Act for a comprehensive licensing, supervisory, and tracking system for loan originators.
+Any examiner appointed under paragraph (b)(1) of this section shall have power, on behalf of the Bureau, to make any examination of any loan originator operating in any state which is subject to a licensing system established by the Bureau under 12 U.S.C. 5107 and in accordance with subpart C of this part, whenever the Bureau determines that an examination of any loan originator is necessary to determine the compliance by the originator with minimum requirements of the S.A.F.E. Act.
+In connection with examinations of loan originators operating in any state which is subject to a licensing system established by the Bureau under 12 U.S.C. 5107, and in accordance with subpart C of this part, or with other types of investigations to determine compliance with applicable law and regulations, the Bureau and the examiners appointed by the Bureau may administer oaths and affirmations and examine and take and preserve testimony under oath as to any matter in respect to the affairs of any such loan originator.
+
+
+# Tags
+
+['state', 'loan', 'licensed', 'provides', 'requiring', 'included', 'information', 'mortgage', 'originator', 'shall', 'means', 'financial', 'authorization', 'acting', 'individual', 'persons', 'standards', 'relating', 'federal', 'consumers', 'describes', 'nmlsr', 'reports', 'administrative', 'bureau', 'credits', 'csbs', 'examiners', 'terms', 'housing', 'minimum', 'governing', 'determines', 'test', 'regulations', 'fraud', 'law', 'security', 'education', 'collection', 'organization', 'applications', 'duty', 'civil', 'residential']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                        |

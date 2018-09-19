@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 675
 
 
+# Summary
+
+(a) The Federal Work-Study (FWS) program provides part-time employment to students attending institutions of higher education who need the earnings to help meet their costs of postsecondary education and encourages students receiving FWS assistance to participate in community service activities.
+(1) In administering its FWS program, an institution shall establish and maintain an internal control system of checks and balances that insures that no office can both authorize payments and disburse funds to students.
+The purpose of the Job Location and Development program is to expand off-campus job opportunities for students who are enrolled in eligible institutions of higher education and want jobs, regardless of their financial need, and to encourage students to participate in community service activities.
+An institution may expend up to the lesser of $50,000 or 10 percent of its FWS allocation and reallocation for an award year to establish or expand a program under which the institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
+(1) Support the educational costs of qualified students through self-help payments or credits provided under the work-learning-service program within the limits of part F of title IV of the HEA.
+
+
+# Tags
+
+['student', 'institutions', 'programs', 'services', 'fws', 'educational', 'funds', 'includes', 'worked', 'shall', 'employment', 'provides', 'jobs', 'earnings', 'relating', 'federal', 'community', 'academic', 'activities', 'requirement', 'iii', 'records', 'paying', 'times', 'received', 'based', 'disaster', 'costs', 'secretary', 'financial', 'paid', 'wages', 'years', 'acts', 'develop', 'organization', 'emergency', 'award', 'nonprofit', 'use', 'disburse', 'colleges', 'support', 'projects', 'basis', 'share', 'participating', 'assisting', 'performing', 'general']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                    |

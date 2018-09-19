@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 217
 
 
+# Summary
+
+Assets means all unadjudicated or unliquidated claims against the United States, all gas, oil, and mineral rights of every kind, and all other assets of the Ute Tribe of Uintah and Ouray Reservation as constituted on August 27, 1954, not distributed in accordance with the terms of the Ute Partition Act.
+The business committee and the board of directors must refer to each other for resolution any questions or problems related to joint management of the assets which they from time to time determine need to be resolved together with the submitting party's proposal, if any, for solution.
+Within 30 days after an issue and any analysis provided for in &#167;&#167;&#8201;217.4 and 217.5 have been submitted to the joint managers for resolution, they shall each notify the superintendent in writing of the number of votes cast for and against the proposed or alternative solutions.
+At the time they notify the superintendent of the votes cast on an issue, each joint manager shall furnish to the superintendent a certified copy of a resolution of the business committee or the board of directors, as the case may be, authorizing such vote.
+
+
+# Tags
+
+['shall', 'management', 'means', 'secretary', 'official acting', 'stat', 'ute', 'solutions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                     |

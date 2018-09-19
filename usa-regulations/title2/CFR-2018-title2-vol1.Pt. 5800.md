@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 5800
 
 
+# Summary
+
+This part adopts the Office of Management and Budget (OMB) guidance in Subparts A through I of 2 CFR part 180, as supplemented by this part, as the U.S. Election Assistance Commission (&#8220;the Commission&#8221; or &#8220;EAC&#8221;) policies and procedures for nonprocurement debarment and suspension.
+The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance (i.e., 2 CFR 180.220) as supplemented by section 220 in this part (i.e., &#167;&#8201;___.220).
+The Commission's Contracting Officer has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.
+(b) A request for review under this section must be in writing; prominently state on the envelope or other cover and at the top of the first page &#8220;Debarment Appeal;&#8221; state the specific findings you believe to be in error; and include the reasons or legal bases for your position.
+(c) After the circulation vote of the EAC Commissioners has been certified, either the Commission debarring official or the DAP must notify you of their decision under this section, in writing, using the notice procedures set forth at &#167;&#167;&#8201;180.615 and 180.975.
+
+
+# Tags
+
+['debar', 'commission', 'official', 'appeal', 'material', 'office', 'transaction', 'section', 'requirements', 'tiers', 'finds']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                               |

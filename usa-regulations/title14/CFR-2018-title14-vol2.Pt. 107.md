@@ -8,6 +8,21 @@
  CFR-2018-title14-vol2.Pt. 107
 
 
+# Summary
+
+(a) A remote pilot in command, owner, or person manipulating the flight controls of a small unmanned aircraft system must, upon request, make available to the Administrator:
+No later than 10 calendar days after an operation that meets the criteria of either paragraph (a) or (b) of this section, a remote pilot in command must report to the FAA, in a manner acceptable to the Administrator, any operation of the small unmanned aircraft involving at least:
+(c) The Administrator may, consistent with international standards, authorize an airman to operate a civil foreign-registered small unmanned aircraft without an FAA-issued remote pilot certificate with a small UAS rating.
+A person manipulating the flight controls of a small unmanned aircraft system or acting as a remote pilot in command or visual observer must comply with the provisions of &#167;&#167;&#8201;91.17 and 91.19 of this chapter.
+(a) The remote pilot in command, the person manipulating the flight controls of the small unmanned aircraft system, and the visual observer must maintain effective communication with each other at all times.
+(c) The remote pilot in command, the person manipulating the flight controls of the small unmanned aircraft system, and the visual observer must coordinate to do the following:
+
+
+# Tags
+
+['operating', 'aircraft', 'flight', 'test', 'rating', 'following', 'small', 'application', 'procedures', 'certificate', 'hazards', 'authorizing', 'persons', 'conditions', 'control', 'aeronautical knowledge', 'issued', 'vehicle', 'include', 'means', 'required', 'administrator', 'visual', 'pilot', 'areas', 'calendar', 'drugs', 'waiver', 'report', 'airspace', 'date', 'specified', 'section', 'officer', 'direction', 'faa']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                   |

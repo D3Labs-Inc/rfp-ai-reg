@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 56
 
 
+# Summary
+
+(b)(1) Except as provided in paragraphs (b) (2) through (4) of this section, potential participants shall keep a full and complete record of any communications (other than in a meeting held pursuant to this subpart) between or among themselves for the purpose of developing a voluntary agreement under this part.
+(2) Where any communication is written (including, but not limited to, telex, telegraphic, telecopied, microfilmed and computer printout material), and where such communication demonstrates on its face that the originator or some other source furnished a copy of the communication to the Office of International Affairs, Department of Energy with the notation &#8220;Voluntary Agreement&#8221; marked on the first page of the document, no participant need record such a communication or send a further copy to the Department of Energy.
+(2) Where any communication is written (including, but not limited to, telex, telegraphic, telecopied, microfilmed and computer printout material), and where such communication demonstrates on its face that the originator or some other source furnished a copy of the communication to the Office of International Affairs, Department of Energy with the notation &#8220;Voluntary Agreement&#8221; on the first page of the document, no participants need record such a communication or send a further copy to the Department of Energy.
+
+
+# Tags
+
+['shall', 'pursuant', 'energy', 'set', 'allocation', 'participants', 'person', 'epca', 'matters', 'involved', 'record', 'agreements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                           |

@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 73
 
 
+# Summary
+
+(a) The exemption provided in 18 U.S.C. 951(d)(4) for a &#8220;legal commercial transaction&#8221; shall not be available to any person acting subject to the direction or control of a foreign government or official where such person is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of 18 U.S.C. 951; or has been convicted of or entered a plea of nolo contendere to any offense under 18 U.S.C. 792-799, 831, or 2381, or under section 11 of the Export Administration Act of 1979, 50 U.S.C. app.
+(a) Notification shall be made by the agent in the form of a letter, telex, or facsimile addressed to the Attorney General, directed to the attention of the National Security Division, except for those agents described in paragraphs (b) and (c) of this section.
+(b) Notification by agents engaged in law enforcement investigations or regulatory agency activity shall be in the form of a letter, telex, or facsimile addressed to the Attorney General, directed to the attention of Interpol-United States National Central Bureau.
+
+
+# Tags
+
+['shall', 'notifications', 'state', 'agent', 'act', 'terms', 'specific', 'pursuant', 'official', 'executive', 'legal', 'regulations', 'required', 'relationship', 'including', 'general']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                            |

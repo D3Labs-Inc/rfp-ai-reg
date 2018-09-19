@@ -8,6 +8,20 @@
  CFR-2018-title34-vol2.Pt. 396
 
 
+# Summary
+
+The following regulations apply to the Training of Interpreters for Individuals Who Are Deaf or Hard of Hearing and Individuals Who Are Deaf-Blind program:
+The Secretary may award grants to public or private nonprofit agencies or organizations, including institutions of higher educations, to provide assistance for establishment of interpreter training programs or for projects that provide training in interpreting skills for persons preparing to serve, and persons who are already serving, as interpreters for individuals who are deaf or hard of hearing, and as interpreters for individuals who are deaf-blind in public and private agencies, schools, and other service-providing institutions.
+In addition to the selection criteria listed in &#167;&#8201;396.31 and 34 CFR 75.210, the Secretary, in making awards under this part, considers the geographical distribution of projects throughout the country, as appropriate, in order to best carry out the purposes of this program.
+(a) The Secretary, in making awards under this part, gives priority to public or private nonprofit agencies or organizations, including institutions of higher education, with existing programs that have demonstrated their capacity for providing interpreter training.
+(2) Existing programs that have demonstrated their capacity for providing interpreter training services that raise the skill level of interpreters in order to meet the highest standards approved by certifying associations; and
+
+
+# Tags
+
+['interpret', 'train', 'agency', 'visual', 'providing', 'program', 'hearing', 'secretary', 'means', 'following', 'shall', 'language', 'rehabilitation', 'awards', 'required', 'including', 'individuals', 'communicate', 'professional']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                     |

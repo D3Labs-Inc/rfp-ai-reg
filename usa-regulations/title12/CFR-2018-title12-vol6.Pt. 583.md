@@ -8,6 +8,21 @@
  CFR-2018-title12-vol6.Pt. 583
 
 
+# Summary
+
+(d) A savings association or any other company if the Office determines, after reasonable notice and opportunity for hearing, that such person directly or indirectly exercises a controlling influence over the management or policies of such association or other company.
+The term director as used in any document specified in part 584 of this chapter means any director of a corporation or any individual who performs similar functions in respect of any company, including a trustee under a trust.
+The term multiple savings and loan holding company means any savings and loan holding company which directly or indirectly controls two or more savings associations.
+The term registrant means a savings and loan holding company filing a registration statement with the Office pursuant to &#167;&#8201;584.1 of this chapter.
+The term savings and loan holding company means any company that directly or indirectly controls a savings association, but does not include:
+The term subsidiary means any company which is owned or controlled directly or indirectly by a person, and includes any service corporation owned in whole or in part by a savings association, or a subsidiary of such service corporation.
+
+
+# Tags
+
+['terms', 'bank', 'company', 'means', 'corporation', 'savings', 'trust', 'similar', 'controlled', 'loan', 'president', 'office']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                  |

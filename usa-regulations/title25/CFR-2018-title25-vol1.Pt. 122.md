@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 122
 
 
+# Summary
+
+(a) The purpose of this part is to set forth procedures and guidelines to govern the use of authorized funds in education programs for the benefit of Osage Tribal members, along with application requirements and procedures used by those eligible persons.
+98-605) on October 30, 1984, provides that $1 million, together with other funds which revert to the Osage Tribe, may be advanced, expended, invested, or reinvested for the purpose of financing an education program of benefit to the Osage Tribe of Indians of Oklahoma, with said program to be administered as authorized by the Secretary of the Interior.
+(c) Nominations shall be delivered by registered mail to the following address: Osage Tribal Education Committee, c/o Area Education Programs Administrator, Bureau of Indian Affairs, Muskogee Area Office&#8212;Room 152, 5th &amp; W, Okmulgee, Muskogee, Oklahoma 74401.
+(b) The Osage Tribal Education Committee shall be responsible for implementing an overall plan of operation consistent with the policy of Indian self-determination which incorporates a systematic sequential process whereby all student applications for financial aid are rated and ranked simultaneously to enable a fair distribution of available funds.
+(a) By August 1 of each year, the Osage Tribal Education Committee will submit a proposed budget to the Assistant Secretary or to his/her designated representative for formal approval.
+
+
+# Tags
+
+['shall', 'osage', 'indian', 'committee', 'budget', 'funds', 'educational assistance', 'including', 'annual', 'administrative', 'period', 'member', 'affairs', 'program', 'muskogee', 'approved', 'officer', 'means', 'informs', 'providing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                       |

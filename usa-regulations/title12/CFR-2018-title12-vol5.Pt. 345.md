@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 345
 
 
+# Summary
+
+Subject to paragraphs (b) and (c) of this section, the FDIC assigns to a bank a rating of &#8220;outstanding,&#8221; &#8220;satisfactory,&#8221; &#8220;needs to improve,&#8221; or &#8220;substantial noncompliance&#8221; based on the bank's performance under the lending, investment and service tests, the community development test, the small bank performance standards, or an approved strategic plan, as applicable.
+A bank that elects to have the FDIC consider loans by an affiliate, for purposes of the lending or community development test or an approved strategic plan, shall collect, maintain, and report for those loans the data that the bank would have collected, maintained, and reported pursuant to paragraphs (a), (b), and (c) of this section had the loans been originated or purchased by the bank.
+A bank that elects to have the FDIC consider community development loans by a consortium or third party, for purposes of the lending or community development tests or an approved strategic plan, shall report for those loans the data that the bank would have reported under paragraph (b)(2) of this section had the loans been originated or purchased by the bank.
+
+
+# Tags
+
+['bank', 'loan', 'includes', 'shall', 'plan', 'community', 'performance', 'lending', 'areas', 'income', 'data', 'fdic assesses', 'branches', 'information', 'act', 'credit', 'services', 'public', 'geography', 'means', 'activities', 'stated', 'provides', 'business', 'develop', 'investment', 'financial', 'institutions', 'low', 'general', 'deposit facility', 'small', 'reports', 'years', 'controlled', 'annual', 'considers', 'consumer', 'test', 'housing', 'follows', 'satisfactory', 'require', 'approved', 'substantially', 'evaluated', 'cra', 'based', 'owned', 'production']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                               |

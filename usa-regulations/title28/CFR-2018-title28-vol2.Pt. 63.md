@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 63
 
 
+# Summary
+
+Each notice shall include the following: A statement of the purpose of and a description of the proposed action, a map of the general area clearly delineating the action's locale and its relationship to its environs, a statement that it has been determined to be located in or that it affects a floodplain or wetland, a statement of intent to avoid the floodplain or wetland where practicable, and to mitigate impacts where avoidance cannot be achieved, and identification of the responsible official for receipt of comments and for further information.
+The following factors shall be analyzed in determining the practicability of alternatives: Natural environment (topography, habitat, hazards, etc.); social concerns (aesthetics, historical and cultural values, land use patterns, etc.); economic aspects (costs of space, construction, services, and relocation); and legal constraints (deeds, leases, etc.).
+The finding shall include the following: the reasons why the action is proposed to be located in a floodplain or wetland, a statement indicating whether the action conforms to applicable State or local floodplain management standards, a list of alternatives considered, and a map of the general area clearly delineating the project locale and its relationship to its environs.
+
+
+# Tags
+
+['flooding', 'shall', 'floodplains', 'action', 'water', 'wetlands', 'areas', 'generally include', 'natural', 'procedural', 'federal', 'lands', 'values', 'resources', 'publication', 'hazards', 'required', 'alternatives', 'information', 'existing', 'potential', 'management', 'sites', 'insurance', 'protect', 'state', 'river', 'practicability', 'map', 'provide', 'implemented', 'orders', 'adverse impacts', 'work', 'following', 'minimized', 'affects', 'concerns', 'programs', 'factors', 'possible']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                        |

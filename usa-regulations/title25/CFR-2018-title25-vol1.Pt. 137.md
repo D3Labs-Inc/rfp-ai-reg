@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 137
 
 
+# Summary
+
+475), requiring the Secretary of the Interior by public notice to announce when water is actually available for lands in private ownership under the project and the amount of the construction charges per irrigable acre against the same which charges shall be payable in annual installments as provided for therein, this public notice, of which &#167;&#8201;137.1 is made a part hereof, is hereby given:
+The date when a reasonable water supply is actually available for lands in private ownership under the San Carlos irrigation project is hereby declared to be the 1st day of December 1932.
+Each acre of land in private ownership of said project is hereby charged with $95.25 of construction cost assessable thereto at the date hereof (Dec. 1, 1932), which sum is based upon 50,000 acres of such privately owned lands, making a total charge or assessment due from the owners thereof of $4,762,250 on this date (Dec. 1, 1932), excluding the cost of operation and maintenance for the calendar year of 1933 which may be carried into construction cost as provided for by section 3 of the act of June 7, 1924 (43 Stat.
+
+
+# Tags
+
+['stat', 'charged', 'supply', 'designated', 'project', 'acres', 'land', 'indian', 'said', 'water', 'construction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

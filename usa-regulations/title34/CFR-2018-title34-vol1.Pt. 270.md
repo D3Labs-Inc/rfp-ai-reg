@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 270
 
 
+# Summary
+
+This program provides financial assistance to operate regional Equity Assistance Centers (EACs), to enable them to provide technical assistance (including training) at the request of school boards and other responsible governmental agencies in the preparation, adoption, and implementation of plans for the desegregation of public schools, and in the development of effective methods of coping with special educational problems occasioned by desegregation.
+(a) The recipient of a grant under this part may provide assistance only if requested by school boards or other responsible governmental agencies located in its geographic region.
+(a) The Secretary may award funds to EACs for projects offering technical assistance (including training) to school boards and other responsible governmental agencies, at their request, for assistance in the preparation, adoption, and implementation of plans for the desegregation of public schools.
+(a) The Secretary awards a grant to provide race, sex, national origin, and religion desegregation assistance under this program to regional EACs serving designated geographic regions.
+National origin desegregation means the assignment of students to public schools and within those schools without regard to their national origin, including providing students such as those who are English learners with a full opportunity for participation in all educational programs regardless of their national origin.
+
+
+# Tags
+
+['educational', 'desegregation', 'assistance', 'secretary', 'sex', 'cost', 'providing', 'including', 'activities', 'schools', 'center', 'states', 'technical', 'means', 'funded', 'region', 'eacs', 'regulations', 'public', 'program']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                           |

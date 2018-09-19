@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 50
 
 
+# Summary
+
+(a) Cattle, bison, and captive cervids are classified as infected with tuberculosis on the basis of an intradermal tuberculin test applied by a Federal, State, or an accredited veterinarian or by other diagnostic procedure approved in advance by the Administrator.
+The original of the appraisal form and as many copies thereof as may be required for APHIS, the State, and the owner of the animals shall be sent to the appropriate Veterinarian in Charge.
+Claims for Federal indemnity for livestock destroyed because of tuberculosis shall be presented on indemnity claim forms furnished by APHIS on which the owner of the animals covered thereby shall certify that the animals are or are not, subject to any mortgage as defined in this Part.
+On claims for indemnity made under the provisions of &#167;&#8201;50.3, the Veterinarian in Charge or official designated by him shall record on the APHIS indemnity claim form the amount of Federal and State indemnity payments that appear to be due to the owner of the animals.
+
+
+# Tags
+
+['livestock', 'herd', 'state disease', 'animals', 'cattle', 'owners', 'shall', 'dairy', 'tuberculosis', 'cervids', 'payments', 'officials', 'test', 'area', 'indemnity', 'slaughterers', 'forms', 'following', 'approved', 'provided', 'health', 'individual', 'aphis', 'destroying', 'claiming', 'require', 'agreements', 'dispose', 'including', 'value', 'market', 'property', 'times', 'salvage', 'number', 'infected', 'milking', 'eartag', 'costs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                            |

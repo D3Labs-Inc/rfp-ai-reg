@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 531
 
 
+# Summary
+
+(iv) If it bears or contains any color additive which is unsafe within the meaning of section 706 of the Federal Food, Drug, and Cosmetic Act: Provided, That an article which is not deemed adulterated under paragraphs (2)(ii), (iii), or (iv) of this definition shall nevertheless be deemed adulterated if use of the pesticide chemical food additive, or color additive in or on such article is prohibited by the regulations in this subchapter in official establishments;
+This term applies to any carcass or part or product of a carcass of any fish unless it is denatured or otherwise identified as required by &#167;&#8201;540.3 of this subchapter to deter its use as a human food, or it is naturally inedible by humans; e.g., barbels or fins in their natural state.
+Any article capable of use as human food that is made wholly or in part from any fish or part thereof; or any product that is made wholly or in part from any fish or part thereof, excepting those exempted from definition as a fish product by the Administrator in specific cases or by a regulation in this subchapter; upon a determination that they contain fish ingredients only in a relatively small proportion or historically have not been considered by consumers as products of the fish food industry, and provided that they comply with any requirements that are imposed in such cases or regulations as conditions of such exemptions to ensure that the fish meat or other portions of such carcasses contained in such articles are not adulterated, and that such articles are not represented as fish food products.
+
+
+# Tags
+
+['food', 'official', 'inspection', 'thereof fish', 'acts', 'products', 'process', 'labeling', 'substance', 'adulterated', 'articles', 'including', 'condition', 'contain', 'regulations', 'state', 'animal', 'terms', 'slaughtering', 'packaging', 'directly', 'require', 'establishment', 'rendered', 'thereto', 'consumers', 'statement', 'added']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                 |

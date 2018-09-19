@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1281
 
 
+# Summary
+
+For a Bank that is subject to the housing goals, the percentage share of such Bank's total purchases of purchase money AMA-approved mortgages on owner-occupied single-family housing that consists of mortgages for families in low-income areas shall meet or exceed the share of such mortgages in the market as defined in paragraph (b) of this section.
+For a Bank that is subject to the housing goals, the percentage share of such Bank's total purchases of purchase money AMA-approved mortgages on owner-occupied single-family housing that consists of mortgages for very low-income families shall meet or exceed the share of such mortgages in the market as defined in paragraph (b) of this section.
+For a Bank that is subject to the housing goals, the percentage share of such Bank's total purchases of purchase money AMA-approved mortgages on owner-occupied single-family housing that consists of mortgages for very low-income families shall meet or exceed the share of such mortgages in the market as defined in paragraph (b) of this section.
+The numerator of each fraction is the number of AMA-approved mortgage purchases of a Bank in a particular year that finance owner-occupied single-family properties that count toward achievement of a particular housing goal.
+
+
+# Tags
+
+['mortgages', 'shall', 'bank', 'housing', 'data', 'purchases', 'including', 'means', 'year', 'fees', 'areas', 'income', 'period', 'goal', 'payment', 'family', 'determining', 'single', 'director', 'insurance', 'loans', 'properties', 'information', 'plans', 'report', 'follows', 'residence', 'day', 'require', 'united', 'origins', 'performance', 'time', 'fhfa', 'transaction', 'ama', 'annually', 'credit', 'act', 'errors', 'count', 'islands', 'percentage', 'exceeds', 'agreement', 'balances']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

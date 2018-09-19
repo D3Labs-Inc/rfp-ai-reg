@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 114
 
 
+# Summary
+
+(iii) A corporation or labor organization may make disbursements to conduct voter registration and get-out-the-vote drives that are aimed at its restricted class and that do not qualify as nonpartisan under paragraph (c)(4)(ii) of this section, provided that the disbursements do not constitute coordinated expenditures as defined in 11 CFR 109.20, coordinated communications as defined in 11 CFR 109.21, or contributions as defined in 11 CFR part 100, subpart B.
+A corporation, its restricted class, or other employees of the corporation or its separate segregated fund shall not, either orally or in writing, solicit or direct or control contributions by members of the audience to any candidate or party in conjunction with any appearance by any candidate or party representative under this section, and shall not facilitate the making of contributions to any such candidate or party (see 11 CFR 114.2(f));
+An incorporated membership organization, incorporated trade association, incorporated cooperative or corporation without capital stock may permit candidates, candidates' representatives or representatives of political parties to address or meet members and employees of the organization, and their families, on the organization's premises or at a meeting, convention or other function of the organization, in accordance with the conditions set forth in paragraphs (b)(1) (i) through (viii) of this section.
+
+
+# Tags
+
+['organize', 'corporate', 'shall include', 'contributions', 'soliciting', 'community', 'candidates', 'employee', 'members', 'actively', 'provides', 'officers', 'makes', 'membership', 'political party', 'section', 'committees', 'individual', 'funds', 'iii', 'service', 'plans', 'cost', 'materials', 'elections', 'class', 'specific', 'expressly', 'availability', 'set', 'persons', 'voting', 'limitations', 'publication', 'voter', 'state', 'nationals', 'representative', 'federations', 'government', 'coordinated', 'received', 'distributed', 'permit', 'cooperation', 'establish', 'commercially', 'job', 'directed', 'incorporated', 'uses', 'appear', 'labor', 'banks']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                    |

@@ -8,6 +8,17 @@
  CFR-2018-title14-vol3.Pt. 129
 
 
+# Summary
+
+(a) No foreign air carrier or foreign persons operating a U.S. registered airplane may operate an Airbus Model A300 (excluding &#8722;600 series), British Aerospace Model BAC 1-11, Boeing Model 707, 720, 727, 737, or 747, McDonnell Douglas Model DC-8, DC-9/MD-80 or DC-10, Fokker Model F28, or Lockheed Model L-1011 beyond the applicable flight cycle implementation time specified below, or May 25, 2001, whichever occurs later, unless operations specifications have been issued to reference repair assessment guidelines applicable to the fuselage pressure boundary (fuselage skin, door skin, and bulkhead webs), and those guidelines are incorporated in its maintenance program.
+(2) No later than June 24, 2009, the foreign air carrier or foreign person applies for an amendment to its operations specifications in accordance with &#167;&#8201;129.11 to include a requirement for the airplane models specified in Table 2 of this section to use ground air conditioning systems for actual gate times of more than 30 minutes, when available at the gate and operational, whenever the ambient temperature exceeds 60 degrees Fahrenheit; and
+
+
+# Tags
+
+['operating', 'airplanes', 'requirements', 'aircraft', 'application', 'flight', 'persons', 'approved maintenance', 'models', 'authorized officer', 'certificate', 'structure', 'airworthiness', 'passenger', 'time', 'including', 'inspection', 'communicate', 'foreign air', 'fatigue', 'transport', 'weight', 'follows', 'type', 'systems', 'fuel', 'navigation', 'shall', 'standard', 'limitation', 'specifications', 'specified', 'administrator', 'section', 'means', 'procedures', 'recorder', 'installations', 'equipped', 'tanks', 'aviation', 'necessary', 'date', 'information', 'route', 'issued', 'list']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                             |

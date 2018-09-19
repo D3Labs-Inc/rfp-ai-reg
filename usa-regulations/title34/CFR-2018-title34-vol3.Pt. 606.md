@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 606
 
 
+# Summary
+
+The purpose of the Developing Hispanic-Serving Institutions Program is to provide grants to eligible institutions of higher education to&#8212;
+(b) Each year, the Secretary notifies prospective applicants through a notice in the Federal Register of the average educational and general expenditures per full-time equivalent undergraduate student at comparable institutions that offer similar instruction.
+Under a development grant, except as provided in paragraph (c) of this section, a grantee shall carry out activities that implement its comprehensive development plan and hold promise for strengthening the institution.
+In addition to the information needed by the Secretary to determine whether the institution should be awarded a grant under the funding criteria contained in subpart C, an application for a development grant must include&#8212;
+(3) An explanation from each eligible participating institution of why participation in a cooperative arrangement grant rather than performance under an individual grant will better enable it to meet the goals and objectives of its comprehensive development plan at a lower cost.
+(2) The data analysis procedures are clearly described and are likely to produce formative and summative results on attaining activity objectives and measuring the success of the project on achieving the goals of the comprehensive development plan.
+
+
+# Tags
+
+['institutions', 'granted', 'program', 'students', 'funds', 'education', 'means', 'activity', 'secretary', 'develop', 'plan', 'costs', 'academic', 'school', 'including library', 'applications', 'federal', 'requirements', 'projects', 'degree', 'established', 'services', 'publications', 'provides', 'instruction', 'based', 'times', 'college', 'authorized', 'americans', 'hispanic', 'improve', 'states', 'income', 'administrators', 'information', 'years', 'offered', 'managing', 'shall', 'awards', 'determined', 'families', 'following', 'high', 'substantial', 'objectives', 'arrangements', 'individual']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                              |

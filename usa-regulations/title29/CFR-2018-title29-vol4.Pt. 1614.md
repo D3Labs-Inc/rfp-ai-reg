@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1614
 
 
+# Summary
+
+The final order shall notify the class agent whether or not the agency will fully implement the decision of the administrative judge and shall contain notice of the class agent's right to appeal to the Equal Employment Opportunity Commission, the right to file a civil action in federal district court, the name of the proper defendant in any such lawsuit, and the applicable time limits for appeals and lawsuits.
+The provisions of this paragraph relating to the award of attorney's fees or costs shall apply to allegations of discrimination prohibited by title VII and the Rehabilitation Act. In a decision or final action, the agency, administrative judge, or Commission may award the applicant or employee reasonable attorney's fees (including expert witness fees) and other costs incurred in the processing of the complaint.
+Where the Commission has determined that an agency is not complying with a prior decision, or where an agency has failed or refused to submit any required report of compliance, the Commission shall notify the complainant of the right to file a civil action for enforcement of the decision pursuant to Title VII, the ADEA, the Equal Pay Act or the Rehabilitation Act and to seek judicial review of the agency's refusal to implement the ordered relief pursuant to the Administrative Procedure Act, 5 U.S.C. 701 et seq., and the mandamus statute, 28 U.S.C. 1361, or to commence de novo proceedings pursuant to the appropriate statutes.
+
+
+# Tags
+
+['shall', 'agencies', 'complaint', 'provided', 'informs', 'commission', 'processes', 'include', 'action', 'disabled', 'reasonably', 'decision', 'requests', 'discriminated', 'employee', 'time', 'procedure', 'orders', 'issuing', 'individual', 'appeal', 'programs', 'acts', 'data', 'employability', 'requirements', 'administration', 'pursuant', 'recorded', 'service', 'files', 'complainants', 'appropriate', 'job', 'alleges', 'personal', 'evidence', 'party', 'notice', 'equally', 'days', 'investigated', 'term', 'federal', 'periodically', 'counsel', 'class', 'relations', 'hired', 'hearing', 'containing', 'iii', 'eeoc', 'mspb', 'written materials', 'applications', 'format', 'opportunities', 'eeo', 'specifically', 'accommodations', 'training', 'judge', 'limitations', 'final', 'followed', 'need', 'stating', 'pay', 'relief', 'designation', 'findings', 'authority', 'meaning', 'statistical', 'relevant', 'set', 'matter', 'submitting', 'positive', 'offered', 'dismiss', 'section', 'addition', 'performance', 'direction', 'policies', 'posts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                  |

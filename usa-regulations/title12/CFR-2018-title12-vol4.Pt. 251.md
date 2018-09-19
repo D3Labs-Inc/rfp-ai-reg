@@ -8,6 +8,20 @@
  CFR-2018-title12-vol4.Pt. 251
 
 
+# Summary
+
+(iii) The total consolidated assets of each top-tier U.S. subsidiary that is not subject to applicable risk-based capital rules and does not report information regarding its capital under risk-based capital rules applicable to bank holding companies, calculated in accordance with applicable accounting standards.
+(i) The total consolidated liabilities of each top-tier U.S. subsidiary that is subject to applicable risk-based capital rules (or reports information to the Board regarding its capital under risk-based capital rules applicable to bank holding companies), calculated as:
+(i) The total consolidated liabilities of each top-tier U.S. subsidiary that is subject to applicable risk-based capital rules (or reports information to the Board regarding its capital under risk-based capital rules applicable to bank holding companies), calculated as:
+The Board grants prior written consent for a covered acquisition that would result in an increase in the liabilities of the financial company that does not exceed $100 million, when aggregated with all other covered acquisitions by the financial company made pursuant to this paragraph (c) during the twelve months preceding the date of the acquisition.
+A financial company may not organize or operate its business or structure any acquisition of or merger or consolidation with another company in such a manner that results in evasion of the concentration limit established by section 14 of the Bank Holding Company Act or this part.
+
+
+# Tags
+
+['company', 'consolidating', 'act', 'financial', 'meaning', 'banking', 'total', 'section', 'calendar', 'calculating', 'federal', 'foreign', 'risk capital rules', 'applicable', 'exceed', 'consent', 'including', 'board']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                           |

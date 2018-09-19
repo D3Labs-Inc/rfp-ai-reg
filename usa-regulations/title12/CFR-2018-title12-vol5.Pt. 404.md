@@ -8,6 +8,20 @@
  CFR-2018-title12-vol5.Pt. 404
 
 
+# Summary
+
+The Freedom of Information and Privacy Office shall notify the requester in writing whenever a business submitter is afforded the opportunity to object to disclosure of records pursuant to paragraph (c) of this section.
+Whenever a request for records, a fee waiver or expedited processing has been denied, the requester may appeal the denial within thirty days of the date of Ex-Im Bank's issuance of notice of such action.
+Whenever Ex-Im Bank denies a request for access or for waiver or reduction of fees, the requester may appeal the denial to the Assistant General Counsel for Administration within 30 working days of the date of Ex-Im Bank's issuance of notice of such action.
+If a record has been disclosed by Ex-Im Bank under compelling circumstances affecting the health or safety of any person, then, within ten working days, the Assistant General Counsel for Administration shall notify the subject individual of the disclosure at his or her last known address.
+A party's demand for testimony and/or production of records by Ex-Im Bank personnel regarding information acquired in the course of their performance of official duties or due to their official status shall be set forth in, or accompanied by, a signed affidavit or other written statement.
+
+
+# Tags
+
+['shall', 'requests', 'bank', 'record', 'information', 'disclosure', 'fee', 'including', 'provides', 'appeal written', 'statements', 'requiring', 'generate', 'numbers', 'enforceable', 'individuals', 'procedural', 'public', 'circumstances', 'authorization', 'timely', 'business', 'law', 'processed', 'act', 'disclosable', 'determined', 'reasonably', 'confidentiality', 'investigative', 'initiative', 'releases', 'administration', 'federal', 'governing', 'regulations', 'notices', 'duplication', 'review', 'demand', 'material', 'addressed', 'commercial', 'application', 'actively', 'date', 'applies', 'exemptions', 'program', 'personal', 'concerning', 'testimony', 'official', 'evidence', 'interests', 'burden']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                     |

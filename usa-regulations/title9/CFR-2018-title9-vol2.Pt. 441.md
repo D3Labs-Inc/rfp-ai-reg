@@ -8,6 +8,20 @@
  CFR-2018-title9-vol2.Pt. 441
 
 
+# Summary
+
+(a) Raw livestock, poultry, and fish carcasses and parts will not be permitted to retain water resulting from post-evisceration processing unless the establishment preparing those carcasses and parts demonstrates to FSIS, with data collected in accordance with a written protocol, that any water retained in the carcasses or parts is an unavoidable consequence of the process used to meet applicable food safety requirements.
+The primary purpose of the protocol should be to determine the amount or percentage of water absorption and retention that is unavoidable using a particular chilling system while achieving the regulatory pathogen reduction performance standard for Salmonella as set forth in the PR/HACCP regulations (9 CFR 310.25(b), 381.94(b)) and the time/temperature requirements set forth in 9 CFR 381.66.
+Any post-evisceration washing or chilling processes that affect water retention levels in and microbial loads on raw products should be described.
+The protocol should detail the testing methods to be used both for measuring water absorption and retention and for sampling and testing product for pathogen reductions.
+The protocol should call for water retention and pathogen reduction tests at various chilling equipment settings and chilling time-and-temperature combinations.
+
+
+# Tags
+
+['water', 'chilled', 'time', 'type', 'additional', 'data', 'protocols', 'poultry', 'products', 'evisceration', 'temperature', 'establishment', 'testing', 'fsis', 'reduction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                          |

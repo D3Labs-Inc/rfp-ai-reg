@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 97
 
 
+# Summary
+
+2784 (42 U.S.C. 13726b) (enacted December 21, 2000) (&#8220;the Act&#8221;), to provide minimum security and safety standards for private companies that transport violent prisoners on behalf of State and local jurisdictions.
+(2) In the event that there is no applicable State law, pre-employment testing for controlled substances must be in accordance with the provisions of Department of Transportation regulations at 49 CFR 382.301 which will apply regardless of whether a private prisoner transport company is covered by Department of Transportation regulations.
+Companies covered under this section must comply with applicable State and federal laws that govern the safety of violent prisoners during transport.
+(c) Policies, practices, and procedures are in effect to ensure the health and physical safety of the prisoners during transport, including a first-aid kit and employees who are qualified to dispense medications and administer CPR and emergency first-aid;
+The regulations in this part implement the Act and do not pre-empt any applicable federal, State, or local law that may impose additional obligations on private prisoner transport companies or otherwise regulate the transportation of violent prisoners.
+
+
+# Tags
+
+['violent prisoners', 'law', 'pre', 'including', 'transportation', 'private companies', 'state', 'employees', 'minimum', 'stop', 'federal', 'person', 'criminals', 'local', 'circumstances', 'required', 'proper', 'use', 'uniform', 'checks', 'physical', 'regulations', 'civil']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                |

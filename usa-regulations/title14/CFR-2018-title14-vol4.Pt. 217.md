@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 217
 
 
+# Summary
+
+Statement of Authorization under this part means a statement of authorization from the Department, pursuant to 14 CFR part 207, 208, or 212, as appropriate, that permits joint service transportation, such as blocked space agreements, part-charters, code-sharing or wet-leases, between two direct air carriers holding underlying economic authority from the Department.
+(b) The service classes that foreign air carriers shall report on Schedule &#173;T-100(f) are:
+(a) If circumstances prevent the filing of a Schedule T-100(f) report on or before the due date prescribed in section 22 of part 241 of this chapter and the appendix to &#167;&#8201;217.10 of this part, a request for an extension must be filed with the Director, Office of Airline Information.
+(a) A waiver from any reporting requirement contained in Schedule T-100(f) may be granted by the Department upon its own initiative, or upon the submission of a written request of the air carrier to the Director, Office of Airline Information, when such a waiver is in the public interest.
+(a) Failure to file reports required by this part will subject an air carrier to civil penalties prescribed in Title 49 United States Code section 46301.
+
+
+# Tags
+
+['report', 'code', 'passengers', 'carrier', 'transportation', 'flights', 'official', 'available', 'services', 'authorized', 'aircraft', 'travel', 'revenue', 'person', 'market', 'shall', 'cargo', 'tickets', 'data', 'security', 'circumstances', 'prescribed', 'air', 'application', 'procedures']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                    |

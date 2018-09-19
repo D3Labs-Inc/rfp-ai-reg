@@ -8,6 +8,23 @@
  CFR-2018-title34-vol3.Pt. 421
 
 
+# Summary
+
+The Secretary provides grants and cooperative agreements for projects that organize and operate business-labor-education technical committees that propose national standards for competencies in industries and trades, including standards for&#8212;
+(15 points) The Secretary reviews each application to assess the quality and effectiveness of the applicant's approach to developing national standards for competencies in industries and trades, including the extent to which the application proposes&#8212;
+(15 points) The Secretary reviews each application to determine the extent to which the project meets specific needs, including&#8212;
+(1) The extent of the need for national standards for competencies in the major division or specialty areas identified within the occupations that the applicant proposes to study;
+(15 points) The Secretary reviews each application to determine the quality of the plan of operation for the project, including the extent to which&#8212;
+(3) The applicant plans to organize and operate the business-labor-education technical committees effectively in developing national standards for competencies in industries and trades;
+(4) The development of proposed competencies for major divisions or specialty areas within occupations will be coordinated with education and industrial trade associations, labor organizations, and businesses;
+(10 points) The Secretary reviews each application to determine the quality of the dissemination plan for the project, including&#8212;
+
+
+# Tags
+
+['including', 'projects', 'national', 'points', 'evaluation', 'secretary', 'minimum', 'provide', 'requirement', 'needs', 'standards', 'plan', 'studied']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                |

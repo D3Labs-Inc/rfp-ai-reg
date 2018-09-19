@@ -8,6 +8,21 @@
  CFR-2018-title25-vol2.Pt. 522
 
 
+# Summary
+
+A tribe shall submit to the Chairman all of the following information with a request for approval of a class II or class III ordinance or resolution:
+(a) Within 15 days after adoption, a tribe shall submit for the Chairman's approval any amendment to an ordinance or resolution.
+(a) Notwithstanding compliance with the requirements of &#167;&#8201;522.6 of this part and no later than 90 days after a submission under &#167;&#8201;522.2 of this part, the Chairman shall disapprove an ordinance or resolution and notify a tribe of its right of appeal under part 582 of this chapter if the Chairman determines that&#8212;
+The Chairman shall publish a class III tribal gaming ordinance or resolution in the Federal Register along with the Chairman's approval thereof.
+For licensing of individually owned gaming operations operating on September 1, 1986, under &#167;&#8201;502.3(e) of this chapter, a tribal ordinance shall contain the same requirements as those in &#167;&#8201;522.10(a)-(d) of this part.
+A governing body of a tribe, in its sole discretion and without the approval of the Chairman, may adopt an ordinance or resolution revoking any prior ordinance or resolution that authorizes class III gaming.
+
+
+# Tags
+
+['shall', 'tribal', 'games', 'resolution', 'management', 'government', 'approved', 'tribe', 'operation', 'ordinances', 'follows', 'publication', 'chairman', 'state']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                      |

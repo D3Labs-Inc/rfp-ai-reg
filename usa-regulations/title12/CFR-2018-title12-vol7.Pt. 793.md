@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 793
 
 
+# Summary
+
+The regulation in this part shall apply only to claims asserted under the Federal Tort Claims Act, as amended, 28 U.S.C. 2671-2680, accruing on or after January 18, 1967, for money damages against the United States for damage to or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee of the National Credit Union Administration while acting within the scope of his office of employment.
+(a) For purposes of the regulations in this part, a claim shall be deemed to have been presented when the National Credit Union Administration receives, at a place designated in paragraph (b) of this section, an executed Standard Form 95 or other written notification of an incident accompanied by a claim for money damages in a sum certain for damage to or loss of property, for personal injury, or for death, alleged to have occurred by reason of the incident.
+(b) Prior to the commencement of suit and prior to the expiration of the 6-month period after the date of mailing, by certified or registered mail of notice of final denial of the claim as provided in 28 U.S.C. 2401(b), a claimant, his duly authorized agent, or legal representative, may file a written request with the National Credit Union Administration for reconsideration of a final denial of a claim under paragraph (a) of this section.
+
+
+# Tags
+
+['claimed', 'shall', 'administrator', 'evidence', 'death', 'written', 'timely', 'final', 'statement', 'addressed', 'state', 'expenses', 'matter', 'release', 'itemized', 'actually', 'damage', 'usc', 'person', 'physician', 'legal', 'standard']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                          |

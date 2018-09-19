@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 302
 
 
+# Summary
+
+(b) Pamphlets, charts, and other written data may be offered to the DOT decisionmaker at oral argument only in accordance with the following rules: All such material shall be limited to facts in the record of the case being argued and shall be served on all parties to the proceeding with four (4) copies transmitted to Department of Transportation Dockets at least five (5) calendar days in advance of the argument.
+The Department, on its own initiative, or if it is of the opinion that the facts stated in a petition or complaint warrant it, may issue an order instituting an investigation of the lawfulness of any present or proposed rates, fares, or charges for the foreign air transportation of persons or property by aircraft or the lawfulness of any classification, rule, regulation, or practice affecting such rates, fares, or charges, and may assign the proceeding for hearing before an administrative law judge.
+(b) If an answer raising a material issue of fact is filed within the time designated in the Department's order, the DOT decisionmaker may then issue an order authorizing additional pleadings and/or establishing further procedural steps, including setting the matter for oral evidentiary hearing before an administrative law judge.
+
+
+# Tags
+
+['shall', 'filing', 'applications', 'issuing', 'document', 'personal', 'mail', 'orders', 'party', 'including', 'requested', 'procedures', 'time', 'proceeding', 'authority', 'departments', 'states', 'information', 'services', 'requirements', 'hear', 'evidence', 'complaint', 'set', 'provided', 'conferences', 'written', 'judge', 'matter', 'electronically', 'action', 'answering', 'containing', 'periods', 'appropriately', 'pursuant', 'copies', 'involve', 'brief', 'motion', 'data', 'rates', 'officially', 'specifications', 'air carrier', 'statements', 'case', 'decisionmaker', 'orally', 'form', 'thereof', 'rulings', 'days', 'objections', 'reporter', 'petitioned', 'decision', 'reasonably', 'proposes', 'airports', 'notice', 'docketed', 'granted', 'addition', 'references', 'amendments', 'prior', 'submit', 'exempted', 'section', 'applied', 'fee', 'generally', 'establishing', 'administrative', 'transported', 'publications', 'facts', 'supported', 'need', 'designation', 'origin', 'serving', 'date', 'exceptions', 'followed', 'limits', 'witnesses', 'regulation', 'exhibit', 'pages', 'relating', 'certificates', 'determining']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 351
 
 
+# Summary
+
+The certification will be made by a Program employee when he determines, upon the basis of examinations made by him or other inspectors, as provided in &#167;&#8201;351.14, and information obtained by him or them from the exporter or other sources, as provided in the regulations in this part, that the technical animal fat is eligible for certification under this section and therefore the statements to be certified are correct.
+Application for certification service under the regulations in this part may be made to the Administrator by the operator of any rendering plant or storage facility at which technical animal fat is prepared or stored for export.
+(1) He operates a storage facility that will receive for storage certified technical animal fat shipped directly from a certified rendering plant for storage for export and he will keep such shipments identified and separated from other products that are not certified, and he will receive such fat only if it is accompanied by MP Form 85, as required by &#167;&#8201;351.17.
+(b) The operator of each certified plant shall provide such relevant information as any inspector may request to enable him to determine whether any technical animal fats are eligible for certification and whether the plant is eligible for certification service under the regulations in this part.
+
+
+# Tags
+
+['shall', 'meaning', 'plants', 'certifying', 'services', 'fats', 'inspection', 'state', 'preparing', 'technical', 'separate', 'application', 'required', 'information', 'costs', 'material', 'records', 'inspectors', 'forms', 'administrative', 'regulations', 'program', 'practice']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                     |

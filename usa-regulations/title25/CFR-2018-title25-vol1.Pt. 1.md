@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 1
 
 
+# Summary
+
+Chapters I and II of this title contain the bulk of the regulations of the Department of the Interior of general application relating to Indian affairs.
+(b) The Secretary of the Interior or his authorized representative may in specific cases or in specific geographic areas adopt or make applicable to Indian lands all or any part of such laws, ordinances, codes, resolutions, rules or other regulations referred to in paragraph (a) of this section as he shall determine to be in the best interest of the Indian owner or owners in achieving the highest and best use of such property.
+In determining whether, or to what extent, such laws, ordinances, codes, resolutions, rules or other regulations shall be adopted or made applicable, the Secretary or his authorized representative may consult with the Indian owner or owners and may consider the use of, and restrictions or limitations on the use of, other property in the vicinity, and such other factors as he shall deem appropriate.
+
+
+# Tags
+
+['indians', 'regulation', 'contains rules', 'property', 'shall', 'area']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                          |

@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 243
 
 
+# Summary
+
+(b) Each covered airline shall transmit a complete and accurate compilation of the information collected pursuant to &#167;&#8201;243.7 of this part to the U.S. Department of State as quickly as possible, but not later than 3 hours, after the carrier learns of an aviation disaster involving a covered flight segment operated by that carrier.
+(a) Each covered airline that operates one or more covered flight segments shall file with the U.S. Department of Transportation a brief statement summarizing how it will collect the passenger manifest information required by this part and transmit the information to the Department of State following an aviation disaster.
+(b) Covered airlines that claim that such solicitation, collection or transmission would violate applicable foreign law in certain foreign countries shall file a petition requesting a waiver in the Docket Facility, on or before October 1, 1998, or on or before beginning service between that country and United States.
+The U.S. Department of Transportation may at any time require a covered airline to produce a passenger manifest including emergency contacts and phone numbers for a specified covered flight segment to ascertain the effectiveness of the carrier's system.
+
+
+# Tags
+
+['shall', 'passengers', 'information', 'means', 'airline', 'foreign', 'contacted', 'collected', 'persons', 'states', 'segment', 'including', 'transportation', 'air', 'operating', 'covered', 'aircraft']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                              |

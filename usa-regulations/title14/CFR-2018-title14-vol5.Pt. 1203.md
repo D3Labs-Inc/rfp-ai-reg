@@ -8,6 +8,18 @@
  CFR-2018-title14-vol5.Pt. 1203
 
 
+# Summary
+
+(d) Information that has not previously been disclosed to the public under proper authority may be classified or reclassified after an agency has received a request for it under the Freedom of Information Act (5 U.S.C. 552), the Presidential Records Act, 44 U.S.C. 2204(c)(1), the Privacy Act of 1974 (5 U.S.C. 552a), or the mandatory review provisions of section 3.5 of this Order only if such classification meets the requirements of this Order and is accomplished by document-by-document review with the personal participation or under the direction of the Administrator, the Deputy Administrator, or the Assistant Administrator for Protective Services.
+(B) Classified information or material over which NASA exercises exclusive or final original classification authority and which, in accordance with the systematic review guidelines is to be kept protected, shall be listed by category by the responsible custodian and referred to the Chairperson, NASA Information Security Program Committee.
+If the information may not be released in whole or in part, the requestor shall be given a brief statement of the reasons for denial, a notice of the right to appeal the determination to the Chairperson, NASA Information Security Program Committee, National Aeronautics and Space Administration, Washington, DC 20546, and a notice that such an appeal must be filed within 60 days in order to be considered.
+
+
+# Tags
+
+['shall', 'classification', 'nasa', 'official information', 'classifiers', 'security', 'declassification', 'administrators', 'requirements', 'specifically', 'officers', 'reviews', 'origin', 'materials', 'agency', 'program', 'authority', 'publication', 'states', 'national', 'protective', 'records', 'services', 'effects', 'relate', 'document', 'determined', 'markings', 'committees', 'appropriately', 'requests', 'space', 'actions', 'practice', 'items', 'order', 'ensuring', 'center', 'government', 'responsive', 'matters', 'acted', 'guidelines', 'exists', 'reasonably', 'develops', 'promptly', 'persons', 'concerning', 'established', 'design']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                          |

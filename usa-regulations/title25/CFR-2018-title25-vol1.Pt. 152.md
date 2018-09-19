@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 152
 
 
+# Summary
+
+The Secretary shall cause to be turned over to the Indian full ownership and control of such money and property and issue in the case of land such title document as may be appropriate: Provided, That the Secretary may make such provisions as he deems necessary to insure payment of money loaned to any such Indian by the Federal Government or by an Indian tribe; And provided further, That the interest of any lessee or permittee in any lease, contract, or permit that is outstanding when an order removing restrictions becomes effective shall be preserved as provided in section 2(d) of the Act of August 11, 1955 (69 Stat.
+Applications for the sale, exchange or gift of trust or restricted land shall be filed in the form approved by the Secretary with the agency having immediate jurisdiction over the land.
+Except as otherwise provided by the Secretary, an appraisal shall be made indicating the fair market value prior to making or approving a sale, exchange, or other transfer of title of trust or restricted land.
+Indian owners may, with the approval of the Secretary, negotiate a sale of and sell trust or restricted land for not less than the appraised fair market value:
+
+
+# Tags
+
+['land', 'shall', 'indian', 'sale', 'bids', 'secretarial', 'stat', 'applications', 'trust', 'issued', 'fee', 'setting', 'restrictions', 'payment', 'authorizing', 'pursuant', 'tribes', 'usc', 'act', 'check', 'timely', 'courts', 'patents', 'certain', 'remove', 'irrigation', 'bidder', 'charge', 'purchase', 'reasonable', 'approval', 'appealed', 'ordered', 'date', 'lineal', 'conditions', 'guardians', 'appraisal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                               |

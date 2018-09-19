@@ -8,6 +8,22 @@
  CFR-2018-title34-vol1.Pt. 225
 
 
+# Summary
+
+The following regulations apply to the Credit Enhancement for Charter School Facilities Program:
+What selection criteria does the Secretary use in evaluating an application for a Credit Enhancement for Charter School Facilities grant?
+The Secretary uses the following criteria to evaluate an application for a Credit Enhancement for Charter School Facilities grant:
+(1) The extent to which the grant proposal would provide financing to charter schools at better rates and terms than they can receive absent assistance through the program;
+(6) The extent to which the proposed activities will leverage private or public-sector funding and increase the number and variety of charter schools assisted in meeting their facilities needs more than would be accomplished absent the program;
+(3) The extent to which the technical assistance and other services to be provided by the proposed grant project involve the use of cost-effective strategies for increasing charter schools' access to facilities financing, including the reasonableness of fees and lending terms; and
+(4) The extent to which the services to be provided by the proposed grant project are focused on assisting charter schools with a likelihood of success and the greatest demonstrated need for assistance under the program.
+
+
+# Tags
+
+['project', 'grants', 'chartering', 'educational', 'including', 'facilities', 'funded', 'program', 'cfr', 'points', 'entity', 'schools', 'regulations', 'use', 'assisting', 'demonstration', 'reserved', 'obtaining', 'loans', 'follows', 'needs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                      |

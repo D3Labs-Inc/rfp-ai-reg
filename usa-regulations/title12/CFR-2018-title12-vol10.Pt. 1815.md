@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1815
 
 
+# Summary
+
+This part supplements Council on Environmental Quality regulations for implementing the procedural provisions of the National Environmental Policy Act of 1969, as amended, and describe how the Community Development Financial Institutions Fund intends to consider environmental factors and concerns in the Fund's decisionmaking process.
+(1) During the preliminary approval stage, the designated Fund official shall determine whether the Application proposes actions which are categorically excluded, or normally require an environmental assessment or an EIS;
+(2) If the designated Fund official determines that the Application proposes actions which normally require an environmental assessment or an EIS, the applicant shall be informed that the final approval and funding, in addition to any other conditions, is contingent upon:
+(a) The designated Fund official shall determine whether the proposed actions in the Application are sufficiently definite to perform a meaningful environmental review during the preliminary approval stage.
+However, it may be readily apparent that a proposed action in an Application will have a significant impact on the environment; in such cases, an environmental assessment is not required and the Fund shall immediately begin to prepare, or have prepared, an EIS.
+
+
+# Tags
+
+['funding', 'environmental', 'shall', 'actions', 'require', 'appropriate', 'regulations', 'informed', 'applicant', 'means', 'eis', 'including', 'environment', 'decisionmaker', 'relevant', 'proposes', 'processes', 'procedural', 'developments', 'supplies', 'assessment', 'act', 'following', 'working', 'involves', 'use', 'preparing', 'categorically']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                              |

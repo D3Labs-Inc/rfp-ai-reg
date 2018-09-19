@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 13
 
 
+# Summary
+
+(e) Unless the petition for reassumption specifically states otherwise, where a tribe reassumes jurisdiction over the reservation it occupies, any land or community occupied by that tribe which subsequently acquires the status of reservation as defined in 25 U.S.C. 1903(10) also becomes subject to tribal jurisdiction over Indian child custody matters.
+(a) Each petition to reassume jurisdiction over Indian child custody proceedings and the accompanying plan shall contain, where available, the following information in sufficient detail to permit the Secretary to determine whether reassumption is feasible:
+(a) The Assistant Secretary&#8212;Indian Affairs shall approve a tribal petition to reassume jurisdiction over Indian child custody matters if:
+(2) The constitution or other governing document, if any, of the petitioning tribe or tribes authorizes the tribal governing body or bodies to exercise jurisdiction over Indian child custody matters;
+(a) Upon the request of a tribe desiring to reassume jurisdiction over Indian child custody matters, Bureau agency and Area Offices shall provide technical assistance and make available any pertinent documents, records, maps or reports in the Bureau's possession to enable the tribe to meet the requirements for Secretarial approval of the petition.
+
+
+# Tags
+
+['shall', 'tribes', 'jurisdiction', 'indians', 'federal', 'tribal', 'stating', 'including', 'services', 'governments', 'estimated', 'court', 'family', 'case', 'custody', 'matters', 'presently', 'technical']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                         |

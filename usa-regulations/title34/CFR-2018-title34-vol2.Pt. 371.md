@@ -8,6 +8,19 @@
  CFR-2018-title34-vol2.Pt. 371
 
 
+# Summary
+
+This program is designed to provide vocational rehabilitation services, including culturally appropriate services, to American Indians with disabilities who reside on or near Federal or State reservations, consistent with such eligible individual's strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, so that such individual may prepare for, and engage in, high-quality employment that will increase opportunities for economic self-sufficiency.
+Community rehabilitation program means a program that provides directly, or facilitates the provision of, one or more of the following vocational rehabilitation services to individuals with disabilities to enable those individuals to maximize their opportunities for employment, including career advancement&#8212;
+(e) All vocational rehabilitation services will be provided according to an individualized plan for employment which has been developed jointly by the representative of the tribal vocational rehabilitation program and each American Indian with disabilities being served.
+Personal information may be released to an organization, agency, or individual engaged in audit, evaluation, or research only for purposes directly connected with the administration of the tribal vocational rehabilitation program or for purposes that would significantly improve the quality of life for applicants and eligible individuals and only if, in accordance with a written agreement, the organization, agency, or individual assures that&#8212;
+
+
+# Tags
+
+['services', 'includes', 'individual', 'provides', 'employment', 'programming', 'requirement', 'vocational', 'working', 'disabled', 'means', 'information', 'job', 'rehabilitation', 'educational', 'organic', 'assisting', 'iii', 'persons', 'needs', 'self', 'act', 'develop', 'appropriated', 'support', 'training', 'business', 'applicants', 'relating', 'united', 'native', 'costs', 'tribal', 'communication', 'establish', 'grant', 'indians', 'state', 'government', 'funds', 'necessary', 'medical', 'eligibility', 'timely', 'specifically', 'regulations', 'follow', 'represent', 'limits', 'similar', 'shall', 'technology', 'outcomes', 'conditions', 'affecting', 'federal', 'special', 'availability', 'secretary', 'authorization', 'activities', 'basis', 'substantial', 'determines', 'period', 'comparable', 'competitive', 'policy', 'managed', 'accessing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 390
 
 
+# Summary
+
+The availability of records, including electronic records created on or after November 1, 1996, of the Food Safety and Inspection Service (FSIS), and the procedures by which the public may request such information, will be governed by the FOIA and by the Department regulations as implemented and supplemented by the regulations in this part.
+(a) Pursuant to the regulations in 7 CFR 1.4(c), FSIS will maintain and make available for public inspection and copying an index providing identifying information regarding the materials required to be published or made available under the Freedom of Information Act (5 U.S.C. 552(a)(2)).
+Facilities for public inspection and copying of the material described in &#167;&#167;&#8201;390.2 and 390.3 of this part will be provided by FSIS pursuant to 7 CFR 1.5(a) in a reading area, on business days between the hours of 8:30 a.m. and 4:30 p.m., upon request to the Freedom of Information Coordinator or designee at the following address:
+(a) The Administrator of the Food Safety and Inspection Service (FSIS), or designee, may authorize the disclosure of distribution lists (records that show where and when product was shipped) obtained from a firm recalling products, or incorporated into agency-prepared records, to State and other Federal government agencies to verify the removal of the recalled product, provided that:
+
+
+# Tags
+
+['public', 'information', 'regulations', 'agencies', 'records', 'fsis', 'requesting', 'written', 'reasonable', 'office', 'provided', 'portions', 'material', 'fees', 'foia', 'exemption']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                        |

@@ -8,6 +8,17 @@
  CFR-2018-title12-vol1.Pt. 6
 
 
+# Summary
+
+The principal purpose of this subpart is to define, for insured national banks and insured Federal savings associations, the capital measures and capital levels, and for insured Federal branches, comparable asset-based measures and levels, that are used for determining the supervisory actions authorized under section 38 of the FDI Act. This part 6 also establishes procedures for submission and review of capital restoration plans and for issuance and review of directives and orders pursuant to section 38.
+In addition to the provisions of section 38 of the FDI Act described in paragraph (a)(2) of this section, immediately upon receiving notice or being deemed to have notice, as provided in this subpart, that the national bank or Federal savings association is significantly undercapitalized, or critically undercapitalized, or that the national bank or Federal savings association is subject to the provisions applicable to institutions that are significantly undercapitalized because it has failed to submit or implement, in any material respect, an acceptable capital restoration plan, the national bank or Federal savings association shall become subject to the provisions of section 38 of the FDI Act that restrict compensation paid to senior executive officers of the institution (section 38(f)(4)).
+
+
+# Tags
+
+['capitalized', 'occ pursuant', 'controlled shall', 'asset', 'associations', 'act', 'actions', 'bank', 'requiring', 'meaning', 'section', 'plans', 'included', 'period', 'insurance', 'total', 'directive', 'written', 'iii', 'national', 'circumstance', 'notices', 'chapter', 'rating', 'supervisory', 'federal', 'authorized', 'additional']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                               |

@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 79
 
 
+# Summary
+
+If the designated state does not possess medical records or abstracts of medical records that contain a verified diagnosis of leukemia, the Radiation Exposure Compensation Program will notify the claimant or eligible surviving beneficiary and afford that individual the opportunity to submit the medical documentation required in paragraph (c) of this section, in accordance with the provisions of &#167;&#8201;79.72(b).
+(3) Upon receipt under this subpart of a claim that contains the information set forth in paragraph (a)(1) of this section, the Radiation Exposure Compensation Program will forward the information to the DoD and request that the DoD conduct a search of its records for the purpose of gathering facts relating to the claimant's presence onsite and participation in the atmospheric detonation of a nuclear device.
+(3) Upon receipt under this subpart of a claim that contains the information set forth in paragraph (b)(1) of this section, the Radiation Exposure Compensation Program will forward the information to the Nevada Field Office of the Department of Energy (DOE/NV) and request that the DOE/NV conduct a search of its records for the purpose of gathering facts relating to the claimant's presence onsite and participation in the atmospheric detonation of a nuclear device.
+
+
+# Tags
+
+['shall', 'recording', 'means', 'operational', 'period', 'claim', 'included', 'follows', 'documenting', 'report', 'providing evidence', 'stating', 'iii', 'medically', 'exposure', 'payment', 'claimant', 'tests', 'primary', 'inform', 'setting', 'compensation', 'identifies', 'time', 'employment', 'diseases listed', 'submit', 'scan', 'addition', 'lung', 'beneficiary', 'director', 'benefits', 'act', 'containing', 'attorneys', 'forces', 'specified', 'mining', 'establishing', 'indicate', 'summaries', 'requirements', 'leukemia', 'death', 'contracted', 'agency', 'appropriated', 'administration', 'civil', 'study', 'form', 'prior', 'uranium', 'pulmonary', 'health', 'year', 'energy', 'proof', 'area', 'organized', 'certificates', 'exist', 'dates', 'hospital', 'criteria', 'chronic', 'government', 'filing', 'physicians', 'related', 'radiation', 'vii', 'eligibility', 'board', 'measured', 'review', 'determines', 'offices', 'duty', 'sufficient', 'conducted', 'months', 'examine', 'service', 'cancers', 'tomography', 'level', 'shot', 'site', 'tissue', 'biopsies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 33
 
 
+# Summary
+
+The reviewing official shall file promptly with the ALJ the complaint, the general answer denying liability, and the request for an extension of time as provided in &#167;&#8201;33.11 for good cause shown, the ALJ may grant the defendant up to 30 additional days within which to file an answer meeting the requirements of paragraph (b) of this section.
+(d) Except as otherwise provided in this section, by failing to file a timely answer the defendant waives any right to further review of the penalties and assessments imposed under paragraph (c) of this section, and the initial decision becomes final and binding upon the parties 30 days after it is issued.
+The ALJ shall at the same time serve all parties with a statement describing the right of any defendant determined to be liable for a civil penalty or assessment to file a motion for reconsideration with the ALJ or a notice of appeal with the Department head.
+(k) The Department head promptly serves each party to the appeal with a copy of the decision of the Department head and a statement describing the right of any person determined to be liable for a penalty or assessment to seek judicial review.
+
+
+# Tags
+
+['shall', 'includes', 'parties', 'timing', 'persons', 'evidence', 'documents', 'witnesses', 'alj means', 'reason', 'file', 'written statements', 'defendant', 'claimed', 'hear', 'administrative', 'requested', 'authorize', 'decision', 'state', 'services', 'day', 'department head', 'ordered', 'actually', 'following', 'represented', 'answers', 'fact', 'civil', 'alleged', 'general', 'information', 'governing', 'official', 'related', 'discovery', 'mailing', 'conference', 'issuing', 'matters', 'motion', 'investigation', 'presented', 'complaint', 'circumstances', 'stayed', 'specifying', 'case']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                        |

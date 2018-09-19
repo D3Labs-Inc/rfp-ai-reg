@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 552
 
 
+# Summary
+
+Promptly upon the completion of the sale of its capital stock, the association shall provide notice, pursuant to &#167;&#8201;552.6(b), of a meeting of its stockholders to elect a board of directors.
+In addition, the following charter amendments, including the adoption of the Federal stock charter as set forth in &#167;&#8201;552.3 of this part, shall be approved at the time of adoption, if adopted without change and filed with OTS within 30 days after adoption, provided the association follows the requirements of its charter in adopting such amendments:
+Except as otherwise provided in this section, an affirmative vote of two-thirds of the outstanding voting stock of any constituent Federal savings association shall be required for approval of the combination agreement.
+Each constituent Federal stock association shall notify all stockholders entitled to rights under this section, not less than twenty days prior to the meeting at which the combination agreement is to be submitted for stockholder approval, of the right to demand payment of appraised value of shares, and shall include in such notice a copy of this section.
+
+
+# Tags
+
+['shall', 'combining', 'savings associations', 'meeting', 'share', 'votes', 'corporation', 'federal stock', 'requiring', 'office', 'director', 'stockholders', 'sections', 'chartered', 'state', 'provided', 'bank', 'shareholders', 'exists', 'number', 'provision', 'institutions', 'follows', 'amend', 'acting', 'authorize', 'bylaw', 'proxies', 'written', 'includes', 'approved', 'appraise', 'persons', 'business', 'times', 'applications', 'value', 'filing', 'action', 'execution', 'deems', 'setting', 'certificate', 'transfer', 'pursuant', 'general']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                |

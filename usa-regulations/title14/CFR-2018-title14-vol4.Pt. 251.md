@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 251
 
 
+# Summary
+
+Covered carrier means a certificated carrier, a commuter carrier, an air taxi, or a U.S. indirect carrier operating to, from, or within the United States, conducting scheduled passenger service or public charter service.
+Each covered carrier shall permit a passenger to carry a violin, guitar, or other small musical instrument in the aircraft cabin, without charging the passenger a fee in addition to any standard fee that carrier may require for comparable carry-on baggage, if:
+(a) The instrument can be stowed safely in a suitable baggage compartment in the aircraft cabin or under a passenger seat, in accordance with the requirements for carriage of carry-on baggage or cargo established by the FAA; and
+Each covered carrier shall permit a passenger to carry a musical instrument that is too large to meet the requirements of &#167;&#8201;251.3 in the aircraft cabin, without charging the passenger a fee in addition to the cost of an additional ticket described in paragraph (e) of this section, if:
+(b) The weight of the instrument, including the case or covering, does not exceed 165 pounds or the applicable weight restrictions for the aircraft;
+Each covered carrier shall transport as baggage a musical instrument that is the property of a passenger traveling in air transportation that may not be carried in the aircraft cabin if
+
+
+# Tags
+
+['passenger', 'air carrier', 'baggage', 'services', 'linear', 'exceed', 'transportation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

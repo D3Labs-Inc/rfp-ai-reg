@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 299
 
 
+# Summary
+
+An agency or consortium of agencies receiving funds under an applicable program listed in paragraph (b) of this section, after timely and meaningful consultation with appropriate private school officials (in accordance with the statute), shall provide special educational services or other benefits under this subpart on an equitable basis to eligible children who are enrolled in private elementary and secondary schools, and to their teachers and other educational personnel.
+(2) Before determining equal expenditures under paragraph (a)(1) of this section, an agency or consortium of agencies shall pay for the reasonable and necessary administrative costs of providing services to public and private school children and their teachers and other educational personnel from the agency's or consortium of agencies' total allocation of funds under the applicable ESEA program.
+(a) A public agency must keep title to, and exercise continuing administrative control of, all property, equipment, and supplies that the public agency acquires with funds under a program listed in &#167;&#8201;299.6(b) for the benefit of eligible private school children and their teachers and other educational personnel.
+(1) Receiving and resolving any complaint from an organization or individual that the SEA or an agency or consortium of agencies is violating a Federal statute or regulation that applies to an applicable program listed in paragraph (b) of this section;
+
+
+# Tags
+
+['educational', 'program', 'administrative', 'services', 'shall', 'fiscal', 'schools', 'agency', 'title', 'required', 'states', 'providing', 'federal', 'provisions', 'purposes', 'funds', 'participate', 'specific', 'community', 'private', 'standards', 'children', 'expenditures', 'public']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                             |

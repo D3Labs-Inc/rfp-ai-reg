@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 51
 
 
+# Summary
+
+Upon appointment of a receiver for an uninsured bank, the OCC will provide notice to the public of the receivership, including by publication in a newspaper of general circulation for three consecutive months.
+(1) After the administrative expenses of the receivership have been paid, the OCC shall make ratable dividends from time to time of available receivership funds according to the priority described in &#167;&#8201;51.5, based on the claims that have been proved to the OCC's satisfaction or adjudicated in a court of competent jurisdiction.
+After all administrative expenses of the receiver and proved claims of creditors of the uninsured bank have been paid in full, to the extent there are receivership assets to make such payments, any remaining proceeds shall be paid to the shareholders, or their legal representatives, in proportion to their stock ownership.
+If there are assets remaining after full payment of the expenses of the receiver and all claims of creditors for an uninsured bank and all fiduciary accounts of the bank have been closed or transferred to a successor fiduciary and fiduciary powers surrendered, the Comptroller shall call a meeting of the shareholders of the uninsured bank, as provided in 12 U.S.C. 197, for the shareholders to decide the manner in which the liquidation will continue.
+
+
+# Tags
+
+['bank', 'claims', 'receivership', 'received', 'person including', 'services', 'expenses', 'shall', 'assets', 'secured', 'powers', 'providers', 'jurisdiction', 'creditor', 'comptroller']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                      |

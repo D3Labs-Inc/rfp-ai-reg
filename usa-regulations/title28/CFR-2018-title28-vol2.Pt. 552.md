@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 552
 
 
+# Summary
+
+When there is reasonable belief that an inmate has ingested contraband or concealed contraband in a body cavity and the methods of search specified in &#167;&#8201;552.11 are inappropriate or likely to result in physical injury to the inmate, the Warden or designee may authorize the placement of an inmate in a room or cell for the purpose of staff's closely observing that inmate until the inmate has voided the contraband or until sufficient time has elapsed to preclude the possibility that the inmate is concealing contraband.
+When authorized, staff must use only that amount of force necessary to gain control of the inmate, to protect and ensure the safety of inmates, staff, and others, to prevent serious property damage and to ensure institution security and good order.
+Based on their assessment of that information, they shall identify a staff member(s) to attempt to obtain the inmate's voluntary cooperation and, using the knowledge they have gained about the inmate and the incident, determine if use of force is necessary.
+(a) In immediate use of force situations, staff shall seek the assistance of mental health or qualified health personnel upon gaining physical control of the inmate.
+
+
+# Tags
+
+['staff shall', 'inmate', 'restraint', 'search', 'medication', 'physical', 'observing', 'institution', 'immediately', 'appropriate', 'use', 'ordinarily', 'including', 'person', 'controlled', 'require', 'situation', 'reasonable', 'document', 'devices', 'suicide', 'health personnel', 'negotiators', 'official', 'urinate', 'watch', 'instrument', 'contraband', 'item', 'cell', 'secure', 'hostage', 'designated', 'force', 'procedures', 'reviewed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                     |

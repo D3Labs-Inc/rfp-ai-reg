@@ -8,6 +8,21 @@
  CFR-2018-title14-vol3.Pt. 156
 
 
+# Summary
+
+(a) This part applies to grant applicants for the State block grant pilot program and to those States receiving block grants available under the Airport and Airway Improvement Act of 1982, as amended.
+(c) The FAA will provide an application form and program guidance material to each State that submits a letter of interest to the Associate Administrator for Airports.
+(c) The Administrator shall issue a written grant offer that sets forth the terms and conditions of the State block grant agreement to each selected State.
+(a) A participating State shall use monies distributed pursuant to a State block grant agreement for airport development and airport planning, for airport noise compatibility planning, or to carry out airport noise compatibility programs, in accordance with the Airport and Airway Improvement Act of 1982, as amended.
+(c) A participating State shall not use any monies distributed pursuant to a State block grant agreement for integrated airport system planning, projects related to any primary airport, or any airports&#8212;
+The Administrator may take any action, pursuant to the authority of the Airport and Airway Improvement Act of 1982, as amended, to enforce the terms of a State block grant agreement including any terms imposed upon subsequent recipients of State block agreement funds.
+
+
+# Tags
+
+['state', 'grants', 'shall', 'airports', 'program', 'projects', 'administrator', 'applications']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                        |

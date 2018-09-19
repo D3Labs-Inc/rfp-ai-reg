@@ -8,6 +8,22 @@
  CFR-2018-title2-vol1.Pt. 1800
 
 
+# Summary
+
+This part adopts the Office of Management and Budget (OMB) guidance in subparts A through F of 2 CFR part 200, as supplemented by this part, as the NASA policies and procedures for uniform administrative requirements, cost principles, and audit requirements for Federal awards.
+(a) This part establishes policies and procedures for grants and cooperative agreements awarded by NASA to non-Federal entities, commercial firms (when cost sharing is not required), and foreign organizations as allowed by 2 CFR 200.101 Applicability.
+NASA policy on performing research with foreign organizations on a no-exchange-of-funds basis is set forth at NASA FAR Supplement (NFS) 1835.016-70.
+(2) Grants or cooperative agreements awarded to foreign organizations are made on an exceptional basis only.
+Where cost sharing/match is required, recipients must secure and document matching funds, to receive the Federal award.
+Under the authority of the Childs Act, 31 U.S.C. 6301 to 6308, NASA has determined to vest title to property acquired with Federal funds in the recipient without further obligation to NASA, including reporting requirements.
+NASA reserves the ability to terminate a Federal award in accordance with &#167;&#8201;200.338 through &#167;&#8201;200.342 and as set forth in 2 CFR 1800.921.
+
+
+# Tags
+
+['nasa', 'award', 'required', 'costs', 'grants', 'meaning', 'research', 'documents', 'agreement', 'office', 'federal', 'including', 'administrative', 'property', 'requested', 'recipients', 'origin', 'organizations', 'effective', 'signatures', 'act', 'shall', 'guidance', 'program', 'cfr']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                  |

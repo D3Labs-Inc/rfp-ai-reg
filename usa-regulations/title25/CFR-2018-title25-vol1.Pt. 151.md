@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 151
 
 
+# Summary
+
+(4) For purposes of acquisitions outside of the State of Alaska, Individual Indian also means a person who meets the qualifications of paragraph (c)(1), (2), or (3) of this section where &#8220;Tribe&#8221; includes any Alaska Native Village or Alaska Native Group which is recognized by the Secretary as eligible for the special programs and services from the Bureau of Indian Affairs.
+(e) Restricted land or land in restricted status means land the title to which is held by an individual Indian or a tribe and which can only be alienated or encumbered by the owner with the approval of the Secretary because of limitations contained in the conveyance instrument pursuant to Federal law or because of a Federal law directly imposing such limitations.
+An individual Indian or tribe may acquire land in trust status by exchange if the acquisition comes within the terms of this part.
+Acquisition of a fractional land interest by an individual Indian or a tribe in trust status can be approved by the Secretary only if:
+An individual Indian or tribe desiring to acquire land in trust status shall file a written request for approval of such acquisition with the Secretary.
+(a) If the Secretary determines that she will approve a request for the acquisition of land from unrestricted fee status to trust status, she shall require the applicant to furnish title evidence as follows:
+
+
+# Tags
+
+['land', 'indian', 'shall', 'acquisition', 'title', 'tribes', 'authorizing', 'providing', 'secretary means', 'trust status', 'require', 'governed', 'tribal', 'affairs', 'pursuant', 'determinations', 'requests', 'official', 'information', 'reservation', 'administrative', 'interested', 'jurisdictional', 'clearance']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                          |

@@ -8,6 +8,19 @@
  CFR-2018-title2-vol1.Pt. 1103
 
 
+# Summary
+
+(1) Awards to institutions of higher education, hospitals, and other nonprofit organizations included in the definition of &#8220;recipient&#8221; in part 32 of the DoD Grant and Agreement Regulations (32 CFR part 32) are not subject to the administrative requirements, cost principles, and audit requirements specified in 32 CFR part 32.
+(2) Awards to States, local governments, and Indian tribal governments are not subject to the administrative requirements, cost principles, and audit requirements specified in part 33 of the DoD Grant and Agreement Regulations (32 CFR part 33).
+For small awards to institutions of higher education, hospitals, and other nonprofit organizations, DoD Components' terms and conditions may apply less restrictive requirements to recipients than the OMB guidance in 2 CFR part 200 specifies, except for requirements that are statutory.
+In DoD Components' awards to institutions of higher education, hospitals, and other nonprofit organizations, the terms and conditions implementing the provisions of 2 CFR 200.305(b)(3) concerning timing of payments when the reimbursement method is used must specify that the DoD payment office generally makes payment within 30 calendar days after receipt of the request for reimbursement by the office designated to receive the request, unless the request is reasonably believed to be improper.
+
+
+# Tags
+
+['require', 'dod', 'awards', 'office', 'organization', 'grants', 'regulations', 'procedures', 'components', 'recipient', 'entities', 'cfr']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                  |

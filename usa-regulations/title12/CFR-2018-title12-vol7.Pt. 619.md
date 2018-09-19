@@ -8,6 +8,21 @@
  CFR-2018-title12-vol7.Pt. 619
 
 
+# Summary
+
+Agricultural credit associations are associations created by the merger of one or more Federal land bank associations or Federal land credit associations and one or more production credit associations and which have received a transfer of authority to make and participate in long-term real estate mortgage loans pursuant to section 7.6 of the Act.
+Agricultural credit banks are those banks created by the merger of a Farm Credit Bank and a bank for cooperatives pursuant to section 7.0 of the Act.
+The term direct lender refers to Farm Credit banks and associations (production credit associations, agricultural credit associations, and Federal land credit associations) authorized to lend to eligible borrowers identified in &#167;&#8201;613.3000.
+The term Farm Credit Bank refers to a bank resulting from the mandatory merger of the Federal land bank and the Federal intermediate credit bank in each Farm Credit district pursuant to section 410 of the Agricultural Credit Act of 1987, Pub. L.
+The term Federal land credit association refers to a Federal land bank association that has received a transfer of direct long-term real estate lending authority pursuant to section 7.6 of the Act.
+The term Funding Corporation refers to the Federal Farm Credit Banks Funding Corporation established pursuant to section 4.9 of the Act.
+
+
+# Tags
+
+['credit', 'loans', 'entities', 'association', 'terms', 'officer', 'institution', 'federal', 'rate', 'bank', 'securities', 'addition', 'public', 'certificate', 'authorized', 'states']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                         |

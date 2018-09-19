@@ -8,6 +8,17 @@
  CFR-2018-title12-vol10.Pt. 1231
 
 
+# Summary
+
+(A) No employee shall receive any such payment that exceeds the base compensation paid to such employee during the 12 months (or such longer period or greater benefit as the Director shall consent to) immediately preceding termination of employment, resignation, or early retirement, and such severance pay plan or arrangement shall not have been adopted, or modified to increase the amount or scope of severance benefits, at a time when the regulated entity or the Office of Finance is in a condition specified in paragraph (1)(ii) of the term golden parachute payment as defined in this section, or in contemplation of such a condition, without the prior written consent of the Director; and
+(iv) A regulated entity or the Office of Finance making a request pursuant to paragraphs (b)(1)(i) through (iii) of this section shall demonstrate that it does not possess and is not aware of any information, evidence, documents, or other materials that would indicate that there is a reasonable basis to believe, at the time such payment is proposed to be made, that:
+
+
+# Tags
+
+['shall', 'payments', 'compensation', 'benefits', 'plan means', 'provide', 'employees', 'severance', 'reasonable', 'entities', 'parties', 'finance', 'required', 'condition', 'sections', 'retirement', 'applicability', 'golden', 'state', 'act', 'financial', 'director', 'basis', 'service', 'iii', 'employment']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                 |

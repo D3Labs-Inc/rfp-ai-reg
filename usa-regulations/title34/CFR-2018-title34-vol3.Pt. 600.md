@@ -8,6 +8,19 @@
  CFR-2018-title34-vol3.Pt. 600
 
 
+# Summary
+
+(ii) The Secretary considers an institution to have satisfied the provisions of paragraph (b)(1)(ii) of this section if the institution substantially changed the subject matter of the educational program it provided during that 24-month period because of new technology or the requirements of other Federal agencies.
+(ii) The Secretary considers an institution to have satisfied the provisions of paragraph (b)(1)(ii) of this section if the institution substantially changed the subject matter of the educational program it provided during that 24-month period because of new technology or the requirements of other Federal agencies.
+The Secretary may waive the prohibition contained in paragraph (a)(1)(iii) of this section, upon the application of an institution, if the institution is a nonprofit institution that provides four-year or two-year educational programs for which it awards a bachelor's degree, an associate degree, or a postsecondary diploma.
+National Committee on Foreign Medical Education and Accreditation (NCFMEA): The operational committee of medical experts established by the Secretary to determine whether the medical school accrediting standards used in other countries are comparable to those applied to medical schools in the United States, for purposes of evaluating the eligibility of accredited foreign graduate medical schools to participate in the title IV, HEA programs.
+
+
+# Tags
+
+['institutions', 'program', 'students', 'educational', 'school', 'requirements', 'states', 'provided', 'eligible', 'including', 'located', 'secretary', 'applications', 'years', 'iii', 'accredited', 'completion', 'medical', 'foreign', 'offered', 'corporations', 'federated', 'changed', 'described', 'instruction', 'authority', 'work', 'training', 'recognizes', 'clinics', 'loan', 'controlling', 'approved', 'degree', 'determining', 'ownership', 'financial', 'action', 'periods', 'generally', 'studies', 'nurses', 'closes', 'graduating', 'nonprofit', 'equivalency', 'veterinary', 'certificates', 'section', 'agency', 'pass rates', 'associations', 'hour', 'arts', 'account', 'time', 'governing', 'provisions', 'academically', 'consists', 'reports', 'notice', 'legally', 'title', 'organization', 'following', 'funds', 'receive', 'information', 'written', 'addition', 'designation', 'establishes', 'continuous']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

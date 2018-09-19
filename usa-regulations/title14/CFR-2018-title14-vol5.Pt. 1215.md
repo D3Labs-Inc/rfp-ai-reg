@@ -8,6 +8,21 @@
  CFR-2018-title14-vol5.Pt. 1215
 
 
+# Summary
+
+TDRSS represents a major investment by the U.S. Government with the primary goal of providing improved tracking and data acquisition services to spacecraft in low-Earth orbit or to mobile terrestrial users such as aircraft or balloons.
+Other tracking and data services desired by the user that are beyond the standard and required support services defined above.
+(a) As a standard service, NASA will provide to the user its data from TDRSS in the form of one or more digital or analog bit streams synchronized to associated clock streams at WSC or GRGT.
+(a) Initial requests for TDRSS service from non-U.S. Government users shall be addressed to SCaN at NASA Headquarters, as follows: Deputy Associate Administrator: Space Communications and Navigation Division, National Aeronautics and Space Administration, Washington, DC 20546.
+(c) General user service requirements, which will be used for preliminary planning and mission modeling, should include all pertinent information necessary for NASA to determine if the proposed service is achievable.
+NASA will provide a Customer Budget/Estimate (CBE) for services rendered nominally 60-90 days in advance, or as otherwise agreed, of the first anticipated property use or required service date for each mission.
+
+
+# Tags
+
+['services', 'users', 'nasa', 'tdrss', 'required', 'shall', 'data', 'operations', 'mission', 'schedulers', 'planned', 'including', 'support', 'times', 'basis', 'tracking', 'communications', 'contact', 'priority', 'interface', 'charged', 'providing', 'space', 'national', 'information', 'orbit', 'prior', 'command', 'estimates', 'set', 'payment', 'budget', 'network']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                     |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 367
 
 
+# Summary
+
+(b) The Corporation Ethics Committee is the Committee appointed by the Chairman of the FDIC, or Chairman's designee, which provides review of any suspension or exclusion decision rendered by the Ethics Counselor that is appealed by a contractor who has been suspended and/or excluded from FDIC contracting.
+(3) Notification that the contractor is not prohibited from contracting with the FDIC unless and until it is either suspended from FDIC contracting or the FDIC Ethics Counselor issues a decision excluding the contractor, provided however, in any case where the possible cause for exclusion would also be an impediment to the contractor's eligibility pursuant to 12 CFR part 366, the contractor's eligibility for any contract will be determined under that part; and
+(a) In actions not based upon a conviction or civil judgment, if the Ethics Counselor finds that the contractor's submission raises a genuine dispute over facts material to the proposed suspension and/or exclusion, the contractor shall be afforded an opportunity to appear (with counsel, if desired), submit documentary evidence, present witnesses, and confront any witnesses the FDIC presents.
+(c) In actions based upon a conviction, judgment, a final enforcement action by a federal financial institution regulatory agency, or in which all facts and circumstances material to the exclusion action have been finally adjudicated in another forum, the Ethics Counselor may exclude a contractor without regard to the procedures set out in &#167;&#167;&#8201;367.13 and 367.14.
+
+
+# Tags
+
+['shall include', 'fdic', 'contractor', 'exclusions', 'period', 'suspensions', 'actions', 'evidence means information', 'proceeding', 'business', 'contracts', 'ethics', 'decisions', 'insured', 'existence', 'notice', 'counselor', 'corporation', 'authority', 'official', 'material', 'mailed', 'responsibility', 'federal', 'reasons', 'record', 'pursuant', 'funds', 'making', 'provides', 'rtc', 'act', 'circumstances', 'finally', 'submit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                       |

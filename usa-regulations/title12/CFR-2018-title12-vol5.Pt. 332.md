@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 332
 
 
+# Summary
+
+If you disclose nonpublic personal information under the exception in &#167;&#8201;332.13 to a nonaffiliated third party to market products or services that you offer alone or jointly with another financial institution, you satisfy the disclosure requirement of paragraph (a)(5) of this section if you:
+That is, you may disclose the list in accordance with the privacy policy of the financial institution from which you received the list, as limited by the opt out direction of each consumer whose nonpublic personal information you intend to disclose, and you may disclose the list in accordance with an exception in &#167;&#8201;332.14 or 332.15, such as to your attorneys or accountants.
+The requirements for initial notice in &#167;&#8201;332.4(a)(2), for the opt out in &#167;&#167;&#8201;332.7 and 332.10 and for service providers and joint marketing in &#167;&#8201;332.13 do not apply if you disclose nonpublic personal information as necessary to effect, administer, or enforce a transaction that a consumer requests or authorizes, or in connection with:
+The requirements for initial notice in &#167;&#8201;332.4(a)(2), for the opt out in &#167;&#167;&#8201;332.7 and 332.10, and for service providers and joint marketing in &#167;&#8201;332.13 do not apply when you disclose nonpublic personal information:
+
+
+# Tags
+
+['notice', 'service', 'informed', 'consumers', 'insured', 'account', 'iii', 'provides', 'financial', 'customer', 'means', 'credit', 'transactions', 'person', 'include', 'examples', 'relationship', 'authorization', 'form', 'opt', 'privacy', 'active', 'reasonably', 'processing', 'institution', 'business', 'generally', 'electronic', 'require', 'act', 'uses', 'federal', 'joint', 'marketers', 'companies', 'disclosed', 'state', 'individual', 'card', 'investment', 'subsequent', 'purposes', 'statements', 'loans', 'numbers', 'advisory', 'initiate', 'party', 'similar']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                               |

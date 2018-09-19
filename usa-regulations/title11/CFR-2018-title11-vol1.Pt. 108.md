@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 108
 
 
+# Summary
+
+(a) Except as provided in paragraph (b) of this section, a copy of each report and statement required to be filed by any person under the Act shall be filed either with the Secretary of State of the appropriate State or with the State officer who is charged by State law with maintaining state election campaign reports.
+(b) Except as provided in &#167;&#8201;108.1(b), a copy of each report and statement required to be filed under 11 CFR part 104 by candidates, and authorized committees of candidates, for nomination for election or election to the office of Representative in, Delegate or Resident Commissioner to the Congress, or by unauthorized committees, or by any other person under 11 CFR part 109, in connection with these campaigns shall be filed with the appropriate State officer of that State in which an expenditure is made in connection with the campaign.
+Except as provided in &#167;&#8201;108.1(b), any unauthorized committee that makes contributions in connection with a Presidential election and that is required to file a report(s) and statement(s) under the Act shall file a copy of such report(s) and statement(s) with the State officer of the State in which both the recipient and contributing committees have their headquarters.
+
+
+# Tags
+
+['shall', 'filed', 'officers', 'committees', 'state', 'report', 'candidate', 'usc', 'copy', 'election campaign']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                               |

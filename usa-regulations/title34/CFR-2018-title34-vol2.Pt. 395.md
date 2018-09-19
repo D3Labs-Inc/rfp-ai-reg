@@ -8,6 +8,17 @@
  CFR-2018-title34-vol2.Pt. 395
 
 
+# Summary
+
+(x) Vending facility means automatic vending machines, cafeterias, snack bars, cart service, shelters, counters, and such other appropriate auxiliary equipment which may be operated by blind licensees and which is necessary for the sale of newspapers, periodicals, confections, tobacco products, foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, and including the vending or exchange of changes for any lottery authorized by State law and conducted by an agency of a State within such State.
+(a) The State licensing agency shall promulgate rules and regulations which have been approved by the Secretary and which shall be adequate to assure the effective conduct of the State's vending facility program (including State licensing agency procedures covering the conduct of full evidentiary hearings) and the operation of each vending facility in accordance with this part and with the requirements and conditions of each department, agency, and instrumentality in control of the maintenance, operation, and protection of Federal property, including the conditions contained in permits, as well as in all applicable Federal and State laws, local ordinances and regulations.
+
+
+# Tags
+
+['shall', 'services', 'states', 'agency', 'means', 'facilities', 'including', 'vendor', 'vending', 'provided', 'program', 'operating', 'applications', 'necessary', 'instrumentalities', 'property', 'reasonably', 'buildings', 'financial', 'effective', 'located', 'appropriate', 'agreement', 'training', 'prior', 'approved', 'arrangements', 'established', 'permits', 'machines', 'maintained', 'funds', 'action', 'authorized', 'determining', 'charged', 'space', 'acts', 'substantial', 'income', 'design', 'contained', 'condition', 'visual', 'blind', 'persons', 'purpose', 'menu', 'maintenance', 'rights', 'information', 'equipment', 'areas', 'periodicals', 'food']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                               |

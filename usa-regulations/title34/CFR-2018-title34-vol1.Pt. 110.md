@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 110
 
 
+# Summary
+
+The Act prohibits discrimination on the basis of age in programs or activities receiving Federal financial assistance.
+No person in the United States shall, on the basis of age, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance.
+A recipient may not, in any program or activity receiving Federal financial assistance, directly or through contractual, licensing, or other arrangements, use age distinctions or take any other actions that have the effect, on the basis of age, of&#8212;
+(a) As part of a compliance review under &#167;&#8201;110.30 or a complaint investigation under &#167;&#8201;110.31, ED may require a recipient employing the equivalent of 15 or more full-time employees to complete a written self-evaluation, in a manner specified by ED, of any age distinction imposed in its program or activity receiving Federal financial assistance from ED to assess the recipient's compliance with the Act.
+(1) Termination of, or refusal to grant or continue, a recipient's Federal financial assistance from ED for a program or activity in which the recipient has violated the Act or these regulations.
+
+
+# Tags
+
+['recipients', 'shall', 'meanings', 'regulations', 'actions', 'federal', 'include', 'agency', 'assisted', 'states', 'act', 'complaints', 'age discrimination', 'reasonably', 'activity', 'mediation', 'informs', 'islands', 'general', 'procedures', 'providing', 'investigation', 'complained', 'described', 'effecting', 'education', 'personal', 'day', 'title', 'compliance', 'proceedings', 'voluntary', 'receives', 'reviews', 'rule']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                       |

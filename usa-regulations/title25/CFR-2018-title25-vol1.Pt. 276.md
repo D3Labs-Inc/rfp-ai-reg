@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 276
 
 
+# Summary
+
+(c) Royalties received from copyrights and patents produced under the grant during the grant period shall be retained by the grantee and, in accordance with the grant agreement, be either added to the funds already committed to the program or deducted from total allowable project costs for the purpose of determining the net costs on which the Bureau share of costs will be based.
+When nonexpendable personal property is acquired by a grantee wholly or in part with Bureau funds, title will not be taken by the Bureau except as provided in paragraph (d)(1)(iv) of this section but shall be vested in the grantee subject to the following restrictions on use and disposition of the property:
+(9) All negotiated contracts (except those of $10,000 or less) awarded by grantees shall include a provision to the effect that the grantee, the Bureau, the Comptroller General of the United States, or any of their duly authorized representatives, shall have access to any books, documents, papers, and records of the contractor which are directly pertinent to a specific grant program for the purpose of making audit, examination, excerpts, and transcriptions.
+
+
+# Tags
+
+['shall', 'requirements', 'grants', 'property', 'cost', 'grantees', 'bureau', 'program', 'records', 'procured', 'funds', 'contracts', 'working', 'standardization', 'useful', 'government', 'including', 'authority', 'report', 'followed', 'financial', 'adequate', 'contractor', 'means', 'information', 'time', 'provide', 'federal assistance', 'act', 'obligations', 'administration', 'purposes', 'cancelled', 'bids', 'title', 'budget', 'procedures', 'regulations', 'owned established', 'competitive', 'disposition', 'conditioned', 'requests', 'public', 'tribal', 'specifications', 'performance', 'persons', 'document', 'payments', 'periods', 'purchasing', 'issues', 'indian', 'materials', 'bondings', 'agreements', 'revisions', 'organization', 'actions', 'award', 'appropriately', 'date', 'claims']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                           |

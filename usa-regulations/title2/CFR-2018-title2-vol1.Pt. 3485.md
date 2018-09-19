@@ -8,6 +8,19 @@
  CFR-2018-title2-vol1.Pt. 3485
 
 
+# Summary
+
+(b) You may not begin to use the services of an excluded person as a principal under a covered transaction unless another Federal agency responsible for the transaction grants an exception under &#167;&#8201;180.135 of this title or, if ED took the action, an ED deciding official grants an exception under &#167;&#8201;3485.137.
+(b)(1) If a title IV, HEA participant is suspended by another agency under E.O. 12549 or under a proposed debarment under the Federal Acquisition Regulation (FAR) (48 CFR part 9, subpart 9.4), using procedures described in paragraph (d) of this section, that party is not eligible to enter into title IV, HEA transactions for the duration of the suspension.
+(2) If a debarment or suspension by another agency prohibits participation in title IV, HEA transactions, that prohibition takes effect 20 days after we mail notice of our action.
+(d) If a title IV, HEA participant is excluded by another agency, we debar, terminate, or suspend the participant&#8212;as provided under this part, 34 CFR part 668, or 34 CFR part 682, as applicable&#8212;if that agency followed procedures that gave the excluded party&#8212;
+
+
+# Tags
+
+['agency', 'participant', 'debarring', 'require', 'federal', 'official', 'effective', 'covered', 'section', 'tiers', 'paragraphs', 'suspension', 'contracts', 'action', 'services', 'transaction', 'party', 'educational']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                        |

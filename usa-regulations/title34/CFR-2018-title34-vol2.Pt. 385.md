@@ -8,6 +8,20 @@
  CFR-2018-title34-vol2.Pt. 385
 
 
+# Summary
+
+(1) Ensure that skilled personnel are available to provide rehabilitation services to individuals with disabilities through vocational, medical, social, and psychological rehabilitation programs (including supported employment programs), through economic and business development programs, through independent living services programs, and through client assistance programs;
+(vi) Training or technical assistance for professionals (including individuals providing education and rehabilitation services), employers, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of individuals with disabilities; and
+(R) Services under other Federal, State, or local programs designed to provide resources, training, counseling, or other assistance of substantial benefit in enhancing the independence, productivity, and quality of life of individuals with disabilities;
+Rehabilitation services means services, including vocational, medical, social, and psychological rehabilitation services and other services under the Rehabilitation Act, provided to individuals with disabilities in performing functions necessary in preparing for, securing, retaining, or regaining an employment or independent living outcome.
+If a project establishes an advisory committee, its membership must include individuals with disabilities or parents, family members, guardians, advocates, or other authorized representatives of the individuals; members of minority groups; trainees; and providers of vocational rehabilitation and independent living rehabilitation services.
+
+
+# Tags
+
+['services', 'including', 'rehabilitation', 'disability', 'train', 'program', 'employment', 'requirements', 'act', 'assists', 'job', 'states', 'means', 'cfr', 'provide', 'individual', 'educational', 'develop', 'skills', 'supportive', 'designated', 'living', 'technology', 'appropriate', 'personnel', 'self', 'applications', 'functional', 'projects', 'iii', 'need', 'vocational', 'active', 'working', 'information', 'business', 'agency', 'awards', 'performance', 'community', 'specifically', 'regulations apply']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                   |

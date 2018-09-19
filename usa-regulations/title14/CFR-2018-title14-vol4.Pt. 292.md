@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 292
 
 
+# Summary
+
+Carriers holding an effective exemption from the duty to file tariffs under this part shall not, unless otherwise directed by order of the Department, be subject to tariff posting, notification or subscription requirements set forth in 49 U.S.C. 41504 or 14 CFR part 221, except as provided in &#167;&#8201;292.21 of this part.
+(a) Carriers holding an effective exemption from the duty to file tariffs under this part may incorporate contract terms by reference (i.e. without stating their full text) into the waybill or other document embodying the contract of carriage for the scheduled transportation of cargo in foreign air transportation, provided that:
+(c) The purpose of this section is to set uniform disclosure requirements, which preempt any State requirements on the same subject, for terms incorporated by reference into contracts of carriage for the scheduled transportation of cargo in foreign air transportation.
+(a) Cargo rate tariffs on file with the Department, including related classification and/or applicability rules, cease to be effective as tariffs under 49 U.S.C. 41504 and 41510, as well as under the provisions of 14 CFR Part 221, and they are canceled by operation of law.
+
+
+# Tags
+
+['tariffs', 'carrier', 'requirements', 'cargo', 'transportation', 'order', 'exempted', 'terms', 'applications']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                            |

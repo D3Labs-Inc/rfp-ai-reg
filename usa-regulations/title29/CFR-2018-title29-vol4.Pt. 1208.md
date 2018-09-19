@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1208
 
 
+# Summary
+
+(ii) A statement that the denial may be appealed within 90 days by writing to the Chairman, by emailing FOIA@nmb.gov, or by writing to National Mediation Board, 1301 K Street NW., Suite 250E, Washington, DC 20005, and that judicial review will thereafter be available in the district in which the requester resides, or has his principal place of business, or the district in which Agency records are situated, or the District of Columbia.
+When no determination can be dispatched within the applicable time limit, the Chief FOIA Officer shall continue to process the request and shall inform the requester of the reason for the delay, the date on which a determination may be expected to be dispatched, and of the right to treat the delay as a denial and to appeal to the Chairman of the Board in accordance with paragraph (c) of this section.
+Direct costs are those expenses that an agency incurs in searching for and duplicating (and, in the case of commercial use requests, reviewing) records in order to respond to a FOIA request.
+(1) When the NMB determines that a requester is an educational institution, non-commercial scientific institution, or representative of the news media, and the records are not sought for commercial use, it will not charge search fees.
+
+
+# Tags
+
+['requests', 'information', 'records', 'fee', 'including', 'shall', 'nmb', 'provided', 'publication', 'foia', 'reviewing', 'materials', 'days', 'time', 'charged', 'agencies', 'new', 'administration', 'searches', 'general', 'commercial', 'cost', 'circumstances', 'use', 'disclosure', 'direct', 'persons', 'reasonably', 'appeal', 'exemption', 'receive', 'states', 'written', 'determines', 'copies', 'payments', 'employee', 'iii', 'authorizing', 'responsive', 'category', 'processing', 'government', 'institutions', 'board', 'services', 'order']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                           |

@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 399
 
 
+# Summary
+
+For intra-Hawaii markets, the Board's flexibility zones are based not on the SIFL, but on the standard Hawaiian fare level (&#8220;SHFL&#8221;), which is equal to 110 percent of the first class fare in effect on July 1, 1977, as adjusted by the Board for cost increases.
+This section sets forth the Board's policy on passenger fares for scheduled service by certificated air carriers in the following areas, except to the extent that greater flexibility is set forth in &#167;&#8201;399.33:
+Except as provided in paragraph (d) of this section, the Board will not suspend as unreasonable any proposed rate for foreign air transportation of property equal to or less than the following levels:
+For rate-making purposes, for air carriers receiving subsidy under section 406 of the Act, it is the policy of the Board that flight equipment depreciation will be based on the conventional straight-line method of accrual, employing the service lives and residual values set forth below:
+This policy shall apply to proceedings in which the Board, in exercising its regulatory powers with respect to air carriers and foreign air carriers, is required to determine whether carriers have engaged in unfair or deceptive practices, or unfair methods of competition.
+
+
+# Tags
+
+['shall', 'air carriers', 'fare means', 'rate', 'aircraft', 'services', 'publications', 'board', 'including', 'transportation', 'states', 'scheduled', 'followed', 'set', 'policies', 'cost', 'provides', 'flights', 'standard', 'specific', 'purchases', 'certificate', 'evidence', 'decisions', 'applications', 'case', 'special', 'operating', 'generally', 'marketed', 'authorized', 'passengers', 'economic', 'relations', 'notices', 'flexibility', 'rule', 'foreign', 'times', 'equipment', 'ordered', 'route', 'ticketed', 'seats', 'based', 'tariffs', 'statements', 'requirements', 'circumstances', 'unreasonably', 'matter', 'contracts', 'thereof', 'issuing', 'technical', 'level', 'periodically', 'particular', 'increase', 'baggage', 'proceedings', 'reasonably', 'section', 'tax', 'depreciated', 'regulatory', 'fees', 'limit', 'traffic', 'maximum', 'recognized', 'region']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

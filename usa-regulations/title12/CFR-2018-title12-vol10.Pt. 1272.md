@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1272
 
 
+# Summary
+
+If FHFA fails to take any of those actions by the 30th business day following the NBA Notice Date, the NBA notice shall be deemed to have been approved and the Bank may commence the activity for which the notice was submitted.
+(b) In the case of any notice that FHFA has determined requires further evaluation, FHFA will approve or deny the notice by no later than the 80th business day following the NBA Notice Date.
+If FHFA fails to approve or deny a NBA notice by that date, and the Director has not extended the review period, the NBA notice shall be deemed to have been approved and the Bank may commence the activity for which the notice was submitted.
+In such a case, FHFA will inform the Bank of any such extension before the 80th business day following the NBA Notice Date, and the Bank may not commence the NBA until FHFA has affirmatively approved the notice.
+Nothing contained in this paragraph shall limit the Director's authority to request additional information from a Bank regarding an NBA for which the Director has extended the review period.
+
+
+# Tags
+
+['bank', 'activity', 'fhfa', 'approval', 'notices', 'nba', 'informed', 'shall', 'new', 'requested additional', 'legal', 'raising', 'days']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                |

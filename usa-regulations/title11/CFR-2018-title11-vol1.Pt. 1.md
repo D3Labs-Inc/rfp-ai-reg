@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 1
 
 
+# Summary
+
+Each request for the disclosure of a record or a copy of it shall be made at the Federal Election Commission at the street address identified in the definition of &#8220;Commission&#8221; in &#167;&#8201;1.2, and to the system manager identified in the notice describing the systems of records, either in writing or in person.
+(b) Each individual requesting a correction or amendment shall send the request to the Commission through the person who furnished the record.
+(b) If no additional information is required, within ten (10) days from receipt of the request, the Commission shall either make the requested correction or amendment or notify the individual of its refusal to do so, including in the notification the reasons for the refusal, and the appeal procedures provided in &#167;&#8201;1.9.
+(d) The Commission shall inform prior recipients of any amendment or correction or notation of dispute of such individual's record if an accounting of the disclosure was made.
+The Commission shall make this statement available to any person to whom the record is later disclosed, together with a brief statement, if appropriate, of the Commission's reasons for denying the requested correction or amendment.
+
+
+# Tags
+
+['shall', 'records', 'individual', 'commission', 'statement', 'information', 'request', 'fec', 'days', 'includes', 'identifiable', 'pursuant', 'agency', 'addresses', 'means', 'investigations', 'disclose', 'person', 'maintains', 'described', 'particular', 'contains', 'access']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                               |

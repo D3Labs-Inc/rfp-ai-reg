@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 94
 
 
+# Summary
+
+SAAs that opt to use a pass-through entity shall ensure that the total sum of VOCA funding for administrative and training costs for the SAA and pass-through entity is within the VOCA limit, the reporting of activities at the direct-service level is equivalent to what would be provided if the SAA were directly overseeing sub-awards, and an effective system of monitoring sub-awards is used.
+SAAs may provide VOCA victim assistance funding to compensation programs only for the purpose of providing direct services that extend beyond the essential duties of the staff administering the compensation program, which services may include, but are not limited to, crisis intervention; counseling; and providing information, referrals, and follow-up for crime victims.
+(e) Automated systems and technology&#8212;Subject to the provisions of the DOJ Grants Financial Guide and government-wide grant rules relating to acquisition, use and disposition of property purchased with federal funds, procuring automated systems and technology that support delivery of direct services to victims (e.g., automated information and referral systems, email systems that allow communications among victim service providers, automated case-tracking and management systems, smartphones, computer equipment, and victim notification systems), including, but not limited to, procurement of personnel, hardware, and other items, as determined by the SAA after considering&#8212;
+
+
+# Tags
+
+['service', 'shall', 'victims', 'programs', 'saa', 'cost', 'included', 'means', 'expense', 'requirements', 'funding', 'states', 'providing', 'voca', 'activity', 'inform', 'assistant', 'federally', 'training', 'crime', 'granted', 'related', 'communities', 'reasonable', 'supporting', 'allowable', 'direct', 'sub', 'emergency', 'systems', 'administrators', 'documenting', 'non', 'projects', 'criminally', 'award', 'reimbursement', 'proceeding', 'care', 'legal', 'monitoring', 'timely', 'generally', 'personal', 'therapy', 'justice', 'report', 'abuser', 'directors', 'equipment', 'travel', 'appropriate', 'medication', 'determination', 'law', 'conducted', 'property', 'effect', 'ovc', 'hearing', 'substantiate', 'benefits', 'worked', 'receive payment', 'follow', 'applicable', 'compensation', 'need', 'material', 'coordination', 'subpart', 'uses', 'cases', 'waivers', 'plans', 'necessary', 'government', 'act', 'eligibility', 'nationality', 'addition']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

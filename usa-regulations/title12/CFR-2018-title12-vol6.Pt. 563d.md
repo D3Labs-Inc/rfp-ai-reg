@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 563d
 
 
+# Summary
+
+The rules, regulations and forms prescribed by the Commission pursuant to those sections or applicable in connection with obligations imposed by those sections, shall apply to securities issued by savings associations, except as otherwise provided in this part.
+All filings with respect to securities issued by savings associations required by those rules and regulations to be made with the Commission shall be made with the Business Transactions Division, Chief Counsel's Office, Office of Thrift Supervision, 1700 G Street, NW., Washington, DC 20552, by submitting such filings to the Securities Filing Desk at the above address, except as noted in &#167;&#8201;563d.2 of this part.
+(2) Information (i) relating to the effects of changing prices on the business enterprise presented voluntarily or pursuant to item 303 of Regulation S-K (17 CFR 229.303), management's discussion and analysis of financial condition and results of operations, or item 302 of Regulation S-K (17 CFR 229.302), supplementary financial information, and (ii) disclosed in a document filed with the Office or in an annual report to shareholders meeting the requirements of 17 CFR 240.14a-3 (b) and (c) or 17 CFR 240.14c-3 (a) and (b) under the Act: Provided, That such information included in a proxy statement or offering circular filed pursuant to part 563b of this chapter shall be reaffirmed in a registration statement under the Act on Form 10 filed with the Office within 180 days of the association's conversion.
+The financial statements required to be contained in filings with the Office under the Act are as set out in the applicable form and Regulation S-X, 17 CFR part 210.
+
+
+# Tags
+
+['statement', 'shall', 'filings', 'requirements', 'act', 'offices', 'cfr', 'items', 'dividends', 'form', 'sections', 'financial', 'income', 'copy', 'capital', 'contains']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                    |

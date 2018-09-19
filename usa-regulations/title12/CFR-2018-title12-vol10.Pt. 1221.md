@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1221
 
 
+# Summary
+
+A covered swap entity shall comply with the initial margin requirements described in paragraphs (a) and (b) of this section on each business day, for a period beginning on or before the business day following the day of execution and ending on the date the non-cleared swap or non-cleared security-based swap terminates or expires.
+(2) To the extent that one or more non-cleared swaps or non-cleared security-based swaps are executed pursuant to an eligible master netting agreement between a covered swap entity and its counterparty that is a swap entity or financial end user, a covered swap entity may calculate and comply with the applicable requirements of this part on an aggregate net basis with respect to all non-cleared swaps and non-cleared security-based swaps governed by such agreement, subject to paragraph (a)(3) of this section.
+It may reflect offsetting exposures, diversification, and other hedging benefits for non-cleared swaps and non-cleared security-based swaps that are governed by the same eligible master netting agreement by incorporating empirical correlations within the following broad risk categories, provided the covered swap entity validates and demonstrates the reasonableness of its process for modeling and measuring hedging benefits: Commodity, credit, equity, and foreign exchange or interest rate.
+
+
+# Tags
+
+['margin', 'swap', 'modeling', 'entity', 'securities', 'companies', 'include', 'pursuant', 'financial', 'require', 'internal risk', 'agreement', 'development', 'collateral', 'shall', 'counterparty', 'day means', 'foreign', 'bank', 'credit', 'act', 'initiation', 'state', 'investing', 'provides', 'lender', 'dollars', 'compliance', 'non', 'eligibility', 'clearing', 'applicable', 'money', 'trading', 'legally', 'regulations', 'net basis', 'determining', 'prices', 'collected', 'institution', 'assets', 'currencies', 'markets', 'materially', 'similar', 'posting', 'funds', 'sections', 'period', 'authorization', 'federal', 'exchange', 'regulatory', 'business']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

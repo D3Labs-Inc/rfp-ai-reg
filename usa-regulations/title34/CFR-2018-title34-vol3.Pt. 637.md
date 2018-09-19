@@ -8,6 +8,24 @@
  CFR-2018-title34-vol3.Pt. 637
 
 
+# Summary
+
+What regulations apply to the Minority Science and Engineering Improvement Program?
+The following regulations apply to the Minority Science and Engineering Improvement Program:
+(a) Institutional project grants support the implementation of a comprehensive science improvement plan, which may include any combination of activities for improving the preparation of minority students, particularly minority women, for careers in science.
+(a) Design project grants assist minority institutions that do not have their own appropriate resources or personnel to plan and develop long-range science improvement programs.
+(a) Special project grants for which minority institutions are eligible which support activities that&#8212;
+(1) The Secretary reviews each application for information that shows the quality of the plan of operation for the project.
+(1) The Secretary reviews each application for information that shows the quality of the key personnel the applicant plans to use on the project.
+(1) The Secretary reviews each application for information that shows the quality of the evaluation plan for the project.
+(1) The Secretary reviews each application to determine the extent to which the proposed project gives evidence of potential for enhancing the institution's capacity for improving and maintaining quality science education for its minority students, particularly minority women.
+
+
+# Tags
+
+['sciences', 'institutions', 'projects', 'minority', 'engineers', 'secretary', 'programs', 'educational', 'applicant', 'grant', 'needed', 'accrediting', 'follows', 'faculty', 'means', 'plan', 'adequately', 'develop', 'improve', 'research', 'iii', 'regulations', 'assisting', 'administrative', 'possibility', 'award', 'review', 'general']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                           |

@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 9038
 
 
+# Summary
+
+(1) Before voting on whether to issue and approve an audit report, the Commission will consider any written legal and factual materials timely submitted by the candidate or his or her authorized committee in accordance with paragraph (c) of this section.
+(3) Within 30 days of service of the Final Audit Report, the committee shall submit a check to the United States Treasury for the total amount of any excessive or prohibited contributions not refunded, reattributed or redesignated in a timely manner in accordance with 11 CFR 103.3(b) (1), (2) or (3); or take any other action required by the Commission with respect to sample-based findings.
+If, after any repayment determination made under this section, a candidate or his or her authorized committee(s) receives or becomes aware of assets not previously included in any statement of net outstanding campaign obligations submitted pursuant to 11 CFR 9034.5, the candidate or his or her authorized committee(s) shall promptly notify the Commission of such newly-discovered assets.
+The administrative record will include the certification of the Commission's vote(s), the audit report that is sent to the committee (for repayment determinations), the statement(s) of reasons, and the candidate agreement.
+
+
+# Tags
+
+['shall', 'committees', 'commission', 'repayment', 'funds', 'determination', 'pursuant', 'timely', 'information', 'record', 'payments', 'addition', 'setting', 'materially', 'candidate', 'iii', 'included', 'audits', 'following', 'report', 'issue', 'days', 'cfr', 'date', 'received', 'account', 'fieldwork', 'campaign expenses', 'submit', 'findings', 'sampling', 'periods', 'document', 'notice', 'provide']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                  |

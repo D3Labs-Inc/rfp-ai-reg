@@ -8,6 +8,19 @@
  CFR-2018-title12-vol2.Pt. 215
 
 
+# Summary
+
+(i) A member bank with deposits of less than $100,000,000 may by an annual resolution of its board of directors increase the general limit specified in paragraph (d)(1) of this section to a level not to exceed two times the bank's unimpaired capital and unimpaired surplus, if:
+(ii) If a member bank has adopted a resolution authorizing a higher limit pursuant to paragraph (d)(2)(i) of this section and subsequently fails to meet the requirements of paragraph (d)(2)(i)(C) or (d)(2)(i)(D) of this section, the member bank shall not extend any additional credit (including a renewal of any existing extension of credit) to any insider of the bank or its affiliates unless such extension or renewal is consistent with the general limit in paragraph (d)(1) of this section.
+No executive officer, director, or principal shareholder of a member bank or any of its affiliates shall knowingly receive (or knowingly permit any of that person's related interests to receive) from a member bank, directly or indirectly, any extension of credit not authorized under this part.
+No disclosure under this paragraph is required if the aggregate amount of all extensions of credit outstanding at such time from the member bank to the executive officer or principal shareholder of the member bank and to all related interests of such a person does not exceed $25,000.
+
+
+# Tags
+
+['banking agency', 'credit', 'shall', 'capital', 'including', 'extensions', 'means', 'person', 'directors', 'note', 'similar', 'financial', 'general', 'report', 'limited', 'owns', 'conditional', 'depositing', 'methods', 'borrower', 'company', 'loans', 'set', 'market', 'availability', 'corporation', 'addition', 'authorizing', 'provides', 'business', 'endorser', 'acting', 'receiving', 'acquire', 'insurance', 'fully']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                           |

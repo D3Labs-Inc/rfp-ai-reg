@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 171
 
 
+# Summary
+
+(a) The glide slope antenna system must be located near the approach end of the runway, and the equipment must be adjusted so that the vertical path line will be in a sloping horizontal plane containing the centerline of the runway being served, and satisfy the coverage requirements prescribed in paragraph (g) of this section.
+(d) The owner or his maintenance representative must make a ground check of the ISMLS facility periodically in accordance with procedures approved by the FAA at the time of commissioning, and must report the results of the checks as provided in &#167;&#8201;171.275.
+This subpart sets forth minimum requirements for the approval, installation, operation and maintenance of non-Federal Microwave Landing System (MLS) facilities that provide the basis for instrument flight rules (IFR) and air traffic control procedures.
+(d) The owner or his maintenance representative must make a ground check of the MLS facility periodically in accordance with procedures approved by the FAA at the time of commissioning, and must report the results of the checks as provided in &#167;&#8201;171.327.
+
+
+# Tags
+
+['shall', 'antenna', 'facility', 'equipped', 'operation', 'signal', 'mean', 'approach', 'maintenance', 'minimum requirements', 'elevation angle', 'azimuth', 'courses', 'time', 'radiated', 'points', 'data', 'coverage', 'guidance', 'followed', 'provided', 'localizers', 'power', 'coded', 'ground', 'degree sector', 'performance', 'limits', 'functional', 'faa', 'transmissions', 'scanning', 'periodically', 'path', 'standards', 'service', 'include', 'referring', 'components', 'modulation', 'clearance', 'specified', 'monitored', 'beams', 'information', 'runway', 'mls', 'controlled', 'sdf', 'installation', 'located', 'federal', 'frequency tolerance', 'errors', 'ismls', 'test', 'glide', 'administrator', 'line', 'dme', 'transmits', 'threshold', 'angular', 'phases', 'condition', 'procedures', 'recorded', 'siting', 'surface', 'field', 'pulse', 'approved', 'form', 'appropriately', 'inspect', 'section', 'exceeds', 'associated', 'identification', 'instrument', 'communication', 'commissions', 'areas', 'receiver']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

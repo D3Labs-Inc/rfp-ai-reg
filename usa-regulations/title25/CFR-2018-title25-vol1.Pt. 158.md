@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 158
 
 
+# Summary
+
+The application of an Osage allottee, or his legal guardian, may be approved by the Secretary of the Interior, or his authorized representative, and an order issued to change designation of homestead, if it is found that the applicant owns an equal area of surplus land.
+Title to all lands acquired under this part by an Indian who does not have a certificate of competency shall be taken by deed containing a clause restricting alienation or encumbrance without the consent of the Secretary, or his authorized representative.
+When a grantee is a member of the Osage Tribe who has not received a certificate of competency, deeds or other instruments vesting title shall contain the following clause against alienation:
+Upon completion of the partition proceedings in accordance with the law and in conformity with the regulations in this part, the Secretary, or his authorized representative, may approve the deeds, or other instruments vesting title on partition, and may disburse from the restricted (accounts) funds of the Indians concerned, such amounts as may be necessary for payment of their share of court costs, attorney fees, and owelty moneys.
+
+
+# Tags
+
+['shall', 'land', 'indians', 'partition', 'osage', 'restrictive', 'applicant', 'authorized', 'stat']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                             |

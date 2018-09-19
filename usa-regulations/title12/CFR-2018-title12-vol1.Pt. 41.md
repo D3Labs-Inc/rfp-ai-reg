@@ -8,6 +8,20 @@
  CFR-2018-title12-vol1.Pt. 41
 
 
+# Summary
+
+(i) An account that a financial institution or creditor offers or maintains, primarily for personal, family, or household purposes, that involves or is designed to permit multiple payments or transactions, such as a credit card account, mortgage loan, automobile loan, margin account, cell phone account, utility account, checking account, or savings account; and
+(6) Customer means a person that has a covered account with a financial institution or creditor.
+As a part of this determination, a financial institution or creditor must conduct a risk assessment to determine whether it offers or maintains covered accounts described in paragraph (b)(3)(ii) of this section, taking into consideration:
+(iv) Ensure the Program (including the Red Flags determined to be relevant) is updated periodically, to reflect changes in risks to customers and to the safety and soundness of the financial institution or creditor from identity theft.
+A card issuer must establish and implement reasonable policies and procedures to assess the validity of a change of address if it receives notification of a change of address for a consumer's debit or credit card account and, within a short period of time afterwards (during at least the first 30 days after it receives such notification), the card issuer receives a request for an additional or replacement card for the same account.
+
+
+# Tags
+
+['accounts', 'meaning', 'reasonable', 'card', 'period', 'including', 'section', 'compliance', 'association', 'provides', 'appropriately', 'consumer', 'covered', 'risks', 'program', 'red', 'establishment', 'bank']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                     |

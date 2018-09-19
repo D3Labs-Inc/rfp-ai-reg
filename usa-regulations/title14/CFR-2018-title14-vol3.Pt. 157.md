@@ -8,6 +8,23 @@
  CFR-2018-title14-vol3.Pt. 157
 
 
+# Summary
+
+Requirements for persons to notify the Administrator concerning certain airport activities are prescribed in this part.
+(c) The intermittent use of a site that is not an established airport, which is used or intended to be used for less than one year and at which flight operations will be conducted only under VFR.
+(d) Construct, realign, alter, activate, deactivate, abandon, or discontinue using a taxiway associated with a landing or takeoff area on a public-use airport.
+(2) notice concerning the deactivation, discontinued use, or abandonment of an airport, an airport landing or takeoff area, or associated taxiway may be submitted by letter.
+(a) The FAA will conduct an aeronautical study of an airport proposal and, after consultations with interested persons, as appropriate, issue a determination to the proponent and advise those concerned of the FAA determination.
+All work or action for which notice is required by this sub-part must be completed by the determination void date.
+Interested persons may, at least 15 days in advance of the determination void date, petition the FAA official who issued the determination to:
+Within 15 days after completion of any airport project covered by this part, the proponent of such project shall notify the FAA Airport District Office or Regional Office by submission of FAA Form 5010-5 or by letter.
+
+
+# Tags
+
+['airports', 'use', 'determinations', 'public', 'notice', 'means', 'projects', 'faa', 'shall', 'land', 'airspace', 'traffic', 'date', 'area', 'government', 'days', 'federal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                           |

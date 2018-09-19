@@ -8,6 +8,17 @@
  CFR-2018-title12-vol10.Pt. 1412
 
 
+# Summary
+
+Furthermore, such severance pay plan or arrangement shall not have been adopted or modified to increase the amount or scope of severance benefits at a time when the System institution was in a condition specified in paragraph (f)(1)(ii) of this section or in contemplation of such a condition without the prior written consent of the FCA; or in lieu of a payment made pursuant to this paragraph;
+(i) The term &#8220;prohibited indemnification&#8221; payment shall not include any reasonable payment by a System institution which is used to purchase any commercial insurance policy or fidelity bond, provided that such insurance policy or bond shall not be used to pay or reimburse an IRP for the cost of any judgment or civil money penalty assessed against such person in an administrative proceeding or civil action commenced by the FCA, but may pay any legal or professional expenses incurred in connection with such proceeding or action or the amount of any restitution to the System institution or receiver.
+
+
+# Tags
+
+['shall', 'payment', 'benefit plan', 'instituted', 'mean', 'compensated employees', 'irp', 'corporations', 'condition', 'reason', 'severance', 'claims', 'indemnification', 'acted', 'services', 'obligated', 'actions', 'golden', 'provided', 'retirement', 'proceeding', 'expenses', 'written', 'prohibition', 'applicable', 'states', 'financial', 'pursuant', 'legal', 'requires']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                    |

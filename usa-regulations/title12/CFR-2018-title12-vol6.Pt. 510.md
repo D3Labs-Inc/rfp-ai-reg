@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 510
 
 
+# Summary
+
+As is set forth in paragraph (f) of this section, the OTS may condition release of information on the entry by the relevant tribunal of an order satisfactory to the OTS or, in a non-litigated matter, the execution of a confidentiality agreement that limits access of third parties to the unpublished OTS information.
+Except as authorized by this section or as otherwise authorized by the Director or his delegate, no current or former employee, officer or agent of the OTS or a predecessor agency shall disclose or permit the disclosure of any unpublished information of the OTS to anyone (other than an employee, officer or agent of the OTS properly entitled to such information for the performance of their official duties), whether by giving out or furnishing such information or a copy thereof or by allowing any person to inspect, examine, or copy such information or copy thereof, or otherwise.
+Unless otherwise permitted by the OTS, release of records authorized pursuant to this section will be conditioned by the OTS upon entry of an acceptable protective order by the court or administrative tribunal presiding in the particular case, or, in non-litigated matters, upon execution of an acceptable confidentiality agreement.
+
+
+# Tags
+
+['requester', 'ots', 'informal', 'shall', 'records', 'testimonial', 'authorization', 'person', 'processing', 'agencies', 'copying', 'orders', 'including', 'official', 'party', 'state', 'report', 'section', 'officers', 'iii', 'savings', 'relevant', 'companies', 'provide', 'procedures', 'litigation', 'appropriate', 'obtaining', 'regulations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                 |

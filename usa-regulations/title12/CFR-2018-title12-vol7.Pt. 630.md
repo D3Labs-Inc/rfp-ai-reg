@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 630
 
 
+# Summary
+
+(a) The disclosure entities shall jointly publish the following reports in order to provide meaningful information pertaining to the financial condition and results of operations of the System to investors and potential investors in FCS debt obligations and other users of the report:
+(1) Prepare the reports to investors required by &#167;&#8201;630.3(a), including the Systemwide combined financial statements and notes thereto, and such other disclosures, supplemental information, and related analysis as are required by this part to make the reports meaningful and not misleading.
+The SAC must oversee the Funding Corporation's preparation of the report to stockholders and investors; review the impact of any significant accounting and auditing developments; review accounting policy changes relating to preparation of the System-wide combined financial statements; and review annual and quarterly reports prior to release.
+(iii) Any significant developments within the last 5 years that have had or could have a material impact on the System's organizational structure and the manner in which System institutions conduct business, including, but not limited to, statutory or regulatory changes, mergers or liquidations of System institutions, terminations of System institution status, and financial assistance provided by or to System institutions through loss-sharing or capital preservation agreements or from any other source;
+
+
+# Tags
+
+['shall', 'information', 'reporting', 'including', 'iii', 'capitalization', 'corporate', 'required', 'risk', 'material changes', 'combined financial statements', 'disclosures', 'interim', 'significant', 'provided', 'period', 'banks', 'accounts', 'institutions', 'year', 'compensation', 'obligation', 'debt', 'loss', 'relating', 'loan', 'officer', 'service', 'auditing', 'public', 'asset', 'borrower', 'members', 'notes', 'total', 'contracts', 'issued', 'fiscal', 'businesses', 'additional', 'average', 'presented', 'income', 'supplemental', 'independent', 'list', 'discussion', 'reasonably', 'identifying', 'credit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                      |

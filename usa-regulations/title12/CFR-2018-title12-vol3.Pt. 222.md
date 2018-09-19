@@ -8,6 +8,18 @@
  CFR-2018-title12-vol3.Pt. 222
 
 
+# Summary
+
+The written agreement also requires the service provider to establish reasonable policies and procedures designed to ensure that the service provider uses the depository institution's eligibility information in accordance with specific terms and conditions established by the depository institution relating to the marketing of the products and services of all affiliates, including the insurance company.
+When a person obtains two or more credit scores from consumer reporting agencies and uses one of those credit scores in setting the material terms of credit granted, extended, or otherwise provided to a consumer, for example, by using the low, middle, high, or most recent score, the notice described in paragraph (e)(1)(ii) of this section must include that credit score and the other information required by that paragraph.
+When a person obtains two or more credit scores from consumer reporting agencies and uses one of those credit scores in setting the material terms of credit granted, extended, or otherwise provided to a consumer, for example, by using the low, middle, high, or most recent score, the notice described in paragraph (e)(1)(ii) of this section must include that credit score and the other information required by that paragraph.
+
+
+# Tags
+
+['consumers', 'credit', 'informs', 'provider', 'notices', 'includes', 'accounts', 'iii', 'means', 'sections', 'medical', 'affiliated', 'reasonable', 'applicant', 'creditor', 'person', 'general', 'companies', 'require', 'reported', 'score', 'examples', 'obtain', 'received', 'services', 'periodic', 'addresses', 'institutes', 'use', 'loan', 'terms', 'rate', 'offering', 'program', 'card', 'issuers', 'established', 'products', 'transaction', 'insured', 'concerning', 'solicitations', 'acts', 'apply', 'relationship', 'financial', 'annual', 'purpose', 'mails', 'opting', 'specifically', 'based', 'initial', 'marketed', 'times', 'requests', 'payments', 'describes', 'contain', 'debts', 'electronic', 'effectiveness', 'purchasers', 'determines', 'relates', 'continue', 'securities', 'bank', 'forms', 'laws', 'pursuant', 'eligible']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                             |

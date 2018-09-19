@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 15
 
 
+# Summary
+
+Consolidation agreement means a written agreement under the provisions of 25 U.S.C. 2206(e) or 2206(j)(9), entered during the probate process, approved by the judge, and implemented by the probate order, by which a decedent's heirs and devisees consolidate interests in trust or restricted land.
+(1) A written document issued by a judge making determinations as to heirs, wills, devisees, and the claims of creditors, and ordering distribution of trust or restricted land or trust personalty;
+Estate means the trust or restricted land and trust personalty owned by the decedent at the time of death.
+(1) Real or personal property other than trust or restricted land or trust personalty owned by the decedent at the time of death;
+The agency that serves the tribe where the decedent was an enrolled member will prepare the probate file in consultation with the potential heirs or devisees who can be located, and with other people who have information about the decedent or the estate.
+After we receive notice of the death of a person owning trust or restricted land or trust personalty, we will examine the documents provided under &#167;&#167;&#8201;15.104 and 15.105, and other documents and information provided to us to prepare a complete probate file.
+
+
+# Tags
+
+['act means', 'records', 'bia', 'including', 'probate', 'document', 'trust', 'information', 'indian', 'interested', 'persons', 'decisions', 'decedent heirs', 'property', 'authority', 'proceeding', 'oha', 'agency', 'tribes', 'officer', 'number', 'judge', 'estate', 'accounts', 'death', 'owns', 'requirements', 'restricted land', 'approved', 'devisees', 'statements', 'affidavits', 'days', 'files', 'certifying']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

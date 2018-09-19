@@ -8,6 +8,20 @@
  CFR-2018-title14-vol5.Pt. 1204
 
 
+# Summary
+
+One copy of each document granting an easement interest under this authority, including instruments executed by the Corps of Engineers, will be forwarded for filing in the Central Depository for Real Property Documents to: National Aeronautics and Space Administration, Office of Strategic Infrastructure, Integrated Asset Management Division, Washington, DC 20546.
+This subpart establishes the responsibility and sets forth the conditions and procedures for the use of NASA airfield facilities by aircraft not operated for the benefit of the Federal Government.
+(b) Except in the event of a declared in-flight emergency (see &#167;&#8201;1204.1406) or as otherwise determined by an approving authority, aircraft not operated for the benefit of the Federal Government are not permitted to land or otherwise use NASA airfield facilities.
+(e) In no event, except for an in-flight emergency (see &#167;&#8201;1204.1406), will permission to use NASA airfield facilities be granted to an aircraft arriving directly from, or destined for, any location outside the continental United States unless previously arranged and approved by the authorized approving official.
+Any aircraft not operated for benefit of the Federal Government which lands at a NASA airfield facility without obtaining prior permission from the approving authority, except in a bona fide emergency, is in violation of this subpart.
+
+
+# Tags
+
+['shall', 'facilities', 'federalism', 'nasa small business', 'included', 'states', 'program', 'requirements', 'authorizations', 'administrator', 'operations', 'center', 'official', 'land', 'agency', 'aircraft', 'active', 'property', 'policies', 'runways', 'emergency', 'condition', 'hazards', 'security', 'use', 'approach', 'space', 'unauthorized', 'established', 'government', 'lights', 'wallops', 'users', 'services', 'control', 'local', 'traffic', 'provided', 'appropriate', 'areas', 'officers', 'specific', 'owned', 'regulation', 'flight', 'feet', 'procedures', 'exists', 'park', 'airfield', 'violate', 'island', 'execute', 'law', 'conducting', 'high', 'delegates', 'acting', 'issue', 'pursuant', 'management', 'airports', 'determined', 'general', 'director', 'available', 'located', 'concerns', 'thereof', 'written', 'years', 'section']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

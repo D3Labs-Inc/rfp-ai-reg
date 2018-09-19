@@ -8,6 +8,20 @@
  CFR-2018-title12-vol6.Pt. 551
 
 
+# Summary
+
+Customer does not include a broker or dealer, or you when you: act as a broker or dealer; act as a fiduciary with investment discretion over an account; are a trustee that acts as the shareholder of record for the purchase or sale of securities; or are the issuer of securities that are the subject of the transaction.
+What type of notice must I provide when I effect a securities transaction for a customer?
+If you effect a securities transaction for a customer, you must give or send the customer the registered broker-dealer confirmation described at &#167;&#8201;551.80, or the written notice described at &#167;&#8201;551.90.
+(b) If you have received or will receive remuneration from any source, including the customer, in connection with the transaction, you must provide a statement of the source and amount of the remuneration in addition to the registered broker-dealer confirmation described in paragraph (a) of this section.
+(c) The date and time of execution of the securities transaction (or a statement that you will furnish this information within a reasonable time after the customer's written request), and the identity, price, and number of shares or units (or principal amount in the case of debt securities) of the security the customer purchased or sold.
+
+
+# Tags
+
+['certain securities', 'transaction', 'investment', 'orders', 'electronic', 'customer', 'timely', 'account', 'records', 'purchases', 'including', 'means', 'require', 'trust', 'dealer', 'calendar', 'notices', 'funds', 'effect', 'providers', 'described', 'registered', 'offer', 'certificate', 'instrument', 'completion', 'information', 'prices', 'report', 'reasonably', 'underwriter', 'note']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                        |

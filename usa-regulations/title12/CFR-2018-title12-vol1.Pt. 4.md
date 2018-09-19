@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 4
 
 
+# Summary
+
+The notification is dated and contains a brief statement of the reasons for the denial, sets forth the name and title or position of the official making the decision, advises the requester of the right to seek dispute resolution services from the OCC's FOIA Public Liaison or the Office of Government Information Services, and advises the requester of the right to appeal to the Comptroller of the Currency in accordance with paragraph (d) of this section.
+In commencing an action described in paragraph (e)(1) of this section, the requester, in addition to complying with the Federal Rules of Civil Procedure (28 U.S.C. appendix) for service upon the United States or agencies thereof, must serve process on the Chief Counsel or the Chief Counsel's delegate at the following location: Office of the Comptroller of the Currency, 400 7th Street, SW., Washington, DC 20219.
+When not prohibited by law, the Comptroller may make available to the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and, in the Comptroller's sole discretion, to certain other government agencies of the United States and foreign governments, state agencies with authority to investigate violations of criminal law, and state bank and state savings association regulatory agencies, a copy of a report of examination, testimony, or other non-public OCC information for their use, when necessary, in the performance of their official duties.
+
+
+# Tags
+
+['occ', 'requesters', 'inform', 'includes', 'records', 'shall', 'agency', 'officer', 'bank', 'times', 'means', 'public', 'examiners', 'pursuant', 'provides', 'supervising', 'testimony', 'fees', 'federal', 'process', 'stated', 'disclosures', 'services', 'american', 'require', 'foia', 'institution', 'follows', 'reasonable', 'iii', 'order', 'notices', 'national', 'limits', 'act', 'seek', 'contracting', 'generated', 'person', 'appropriately', 'reports', 'association', 'idob', 'enforcement', 'administrative', 'supervisory', 'additional', 'written', 'mwobs', 'discloses', 'contain', 'search', 'non', 'use', 'employee', 'business', 'usc', 'case', 'issued', 'describes', 'setting', 'assets', 'day', 'financial', 'materials', 'authorizing', 'determines', 'action', 'receive', 'programs', 'owned', 'specifically', 'confidentiality', 'identified', 'management', 'number']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

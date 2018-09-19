@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 76
 
 
+# Summary
+
+(b) The submission of an application that contains these requirements and assurances takes the place of a separate State plan or other similar document required by this part or by the authorizing statutes and regulations for programs included in the consolidated grant.
+(b) If an Insular Area decides to reallocate the funds it receives under a consolidated grant, it shall notify the Secretary by amending its original application to include an update of the information required under &#167;&#8201;76.131.
+(a) A faith-based organization that receives a grant, subgrant, or contract under a State-administered program of the Department supported in whole or in part by direct Federal financial assistance must give written notice to a beneficiary or prospective beneficiary of certain protections.
+(b)(1) A faith-based organization that receives a subgrant or contract under a State-administered program of the Department must provide beneficiaries with the written notice required under paragraph (a) of this section prior to the time they enroll in or receive services from the organization.
+(2) Failure by a State to submit reports in accordance with paragraph (c)(1) of this section constitutes a failure, under section 454 of the General Education Provisions Act, 20 U.S.C. 1234c, to comply substantially with a requirement of law applicable to the funds made available under that program.
+
+
+# Tags
+
+['program', 'states', 'shall', 'requirements', 'funds', 'secretary', 'including', 'costs', 'federal', 'applications', 'provided', 'subgrantee', 'services', 'followed', 'agency', 'religious', 'school', 'use', 'generally', 'grants', 'years', 'regulation', 'officers', 'approved', 'act', 'organized', 'appropriate', 'subgrant', 'information', 'education', 'written', 'meaning', 'areas', 'reports', 'rate', 'receive', 'periods', 'indirect', 'sections', 'submit', 'projected', 'administration', 'leas', 'plan', 'administering', 'islands', 'student', 'eligible', 'beneficiaries', 'document', 'procedure', 'awards', 'statute', 'apply', 'evaluating', 'determination', 'annual', 'assists']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                   |

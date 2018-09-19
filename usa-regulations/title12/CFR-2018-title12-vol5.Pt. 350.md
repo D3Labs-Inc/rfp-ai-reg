@@ -8,6 +8,22 @@
  CFR-2018-title12-vol5.Pt. 350
 
 
+# Summary
+
+Each bank shall prepare as of December 31 and make available on request an annual disclosure statement.
+The statement shall contain information required by &#167;&#8201;350.4(a) and (b) and may include other information that bank management believes appropriate, as provided in &#167;&#8201;350.4(c).
+A bank shall make its annual disclosure statement available to the public beginning not later than the following March 31 or, if the bank mails an annual report to its shareholders, beginning not later than five days after the mailing of such reports, whichever occurs first.
+At a minimum, the statement must contain information comparable to that provided in the following Call Report schedules:
+The annual disclosure statement shall include such other information as the FDIC may require of a particular bank.
+The following legend shall be included in every annual disclosure statement to advise the public that the FDIC has not reviewed the information contained therein: &#8220;This statement has not been reviewed, or confirmed for accuracy or relevance, by the Federal Deposit Insurance Corporation.&#8221;
+For purposes of this part, a person participating in the affairs of a bank shall include (but not be limited to) any person who provides information contained in, or directly or indirectly assists in the preparation of, the annual disclosure statement.
+
+
+# Tags
+
+['bank', 'shall', 'information', 'report', 'statement', 'financial', 'securities', 'annual disclosure', 'management', 'preparation', 'provide', 'office', 'action', 'insurance', 'schedule', 'exchange']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                       |

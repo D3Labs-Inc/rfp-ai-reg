@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 4
 
 
+# Summary
+
+A requestor of documents for commercial use will be assessed reasonable standard charges for the full allowable direct costs of searching for, reviewing for release and duplicating the records sought, according to the Commission's schedule of fees for those services as set forth at paragraph (c)(4) of this section.
+The Commission will provide documents to requestors in this category for the cost of duplication of the records provided by the Commission in response to the request, according to the Commission's schedule of fees as set forth at paragraph (c)(4) of this section, excluding charges for the first 100 pages of duplication.
+The Commission will provide documents to requestors in this category for the cost of duplication of the records provided by the Commission in response to the request, according to the Commission's schedule of fees as set forth at paragraph (c)(4) of this section, excluding charges for the first 100 pages of duplication.
+The Commission will charge requestors who do not fit into any of the categories listed in paragraph (c)(1)(i), (ii) or (iii) of this section the full direct costs of searching for and duplicating records in response to the request, according to the Commission's schedule of fees as set forth at paragraph (c)(4) of this section, excluding charges for the first two hours of search time and the first 100 pages of duplication.
+
+
+# Tags
+
+['requests', 'shall', 'information', 'record', 'publication', 'timely', 'include', 'commission means', 'fee', 'agency', 'persons', 'requestors', 'actually', 'general', 'enforcement', 'foia', 'charge', 'act', 'news', 'document', 'availability', 'payment', 'reviewing', 'reason', 'exempted', 'excluded', 'specificity', 'provides', 'searching', 'released', 'pursuant', 'institution', 'state', 'rate', 'duplicating', 'related', 'filed', 'copying', 'profits', 'plus', 'costs', 'confidential', 'policy', 'basis', 'national', 'portions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                    |

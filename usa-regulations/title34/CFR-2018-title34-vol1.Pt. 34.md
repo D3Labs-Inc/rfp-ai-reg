@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 34
 
 
+# Summary
+
+This part establishes procedures the Department of Education uses to collect money from a debtor's disposable pay by means of administrative wage garnishment to satisfy delinquent debt owed to the United States.
+(b) If we receive a timely written request from you for a hearing, we will not issue a garnishment order before we&#8212;
+(c)(1) If you object that the proposed garnishment rate would cause financial hardship, you bear the burden of proving by a preponderance of the credible evidence that withholding the amount of wages proposed in the notice would leave you unable to meet the basic living expenses of you and your dependents.
+(2) If you make a timely request for a hearing, we issue a withholding order within 30 days after the hearing official issues a decision to proceed with garnishment.
+(a) If a hearing official determines under &#167;&#167;&#8201;34.16 and 34.17 that a person does not owe the debt described in our notice or that an administrative wage garnishment under this part was barred by law at the time of the collection action, we promptly refund any amount collected by means of this garnishment.
+
+
+# Tags
+
+['garnished', 'employment', 'evidence', 'debt', 'orders', 'paying', 'withholding', 'hearing', 'financial', 'collected', 'amounts', 'official', 'wage', 'records', 'means', 'written', 'debtor', 'request', 'services', 'stating', 'actions', 'period', 'included', 'federal', 'days', 'timely', 'considers', 'law', 'income', 'decision']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                 |

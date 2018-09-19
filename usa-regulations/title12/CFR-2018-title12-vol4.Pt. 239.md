@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 239
 
 
+# Summary
+
+(2) In lieu of making the shareholders list available for inspection by any shareholders as provided in paragraph (d)(1) of this section, the board of directors may perform such acts as required by paragraphs (a) and (b) of Rule 14a-7 of the General Rules and Regulations under the Securities and Exchange Act of 1934 (17 CFR 240.14a-7) as may be duly requested in writing, with respect to any matter which may be properly considered at a meeting of shareholders, by any shareholder who is entitled to vote on such matter and who shall defray the reasonable expenses to be incurred by the subsidiary holding company in performance of the act or acts required.
+If the mutual holding company amends its application for conversion, the Board may require it to re-solicit proxies for the members' meeting as a condition of approval of the amendment.
+(4) The mutual holding company may include stock contributed to a charitable organization in the conversion in the calculation of the total offering of conversion shares under paragraphs (m)(1) and (m)(2) of this section, unless the Board objects on supervisory grounds.
+
+
+# Tags
+
+['shall reorganize', 'board', 'holding companies', 'includes', 'conversion', 'require', 'provides', 'proxies', 'stock issuances', 'associated', 'plan', 'members', 'persons', 'share', 'proposing', 'iii', 'materials', 'accounting', 'approve', 'voting', 'meet', 'directors', 'offerings', 'applications', 'followed', 'notices', 'acts', 'provision', 'charter', 'number', 'state', 'prior written', 'offices', 'securities', 'amendment', 'financial', 'capitalize', 'general', 'pursuant', 'reasonable', 'filings', 'authorizes', 'corporations', 'mutual', 'purchasers', 'dividend', 'requests', 'control', 'communicated', 'times', 'setting', 'business', 'information', 'dates', 'limits', 'relates', 'prices', 'statements', 'tax', 'terms', 'actions', 'federally', 'day', 'means', 'formed', 'marketing', 'loaned', 'appropriate', 'managed', 'bylaw', 'order', 'received', 'shareholders', 'period', 'issuing', 'solicited', 'new', 'acquires', 'year', 'subsidiaries', 'contain', 'contributed', 'deposit', 'right', 'section', 'determines', 'procedural', 'lawful', 'obtain', 'certification', 'executive', 'regulations', 'organized', 'immediate', 'repurchases']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                       |

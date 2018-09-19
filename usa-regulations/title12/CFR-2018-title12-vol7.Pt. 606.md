@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 606
 
 
+# Summary
+
+(a) No qualified individual with handicaps, on the basis of handicap, shall be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity of the agency.
+No qualified individual with handicaps shall, on the basis of handicap, be subjected to discrimination in employment under any program or activity conducted by the agency.
+(1) The agency shall furnish appropriate auxiliary aids where necessary to afford an individual with handicaps an equal opportunity to participate in and enjoy the benefits of a program or activity conducted by the agency.
+If an action required to comply with this section would result in such an alteration or such burdens, the agency shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that, to the maximum extent possible, individuals with handicaps receive the benefits and services of the program or activity.
+(f) The agency shall notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151 through 4157), is not readily accessible to and usable by individuals with handicaps.
+
+
+# Tags
+
+['shall', 'accessibility', 'agency', 'person', 'impairments', 'including', 'programs', 'service', 'require', 'complaint', 'means', 'aids', 'organic', 'provide', 'individual', 'section', 'handicaps', 'activities', 'effect', 'physical', 'buildings', 'facilities', 'fca', 'identified', 'allegations', 'employment', 'general', 'setting', 'information', 'limited', 'compliance', 'extent', 'act']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                       |

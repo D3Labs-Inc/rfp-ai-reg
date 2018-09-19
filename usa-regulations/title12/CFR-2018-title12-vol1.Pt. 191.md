@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 191
 
 
+# Summary
+
+(b) Except as otherwise provided in &#167;&#8201;191.5 of this part with respect to any such loan made on the security of a home occupied or to be occupied by the borrower, exercise by any lender of a due-on-sale clause in a loan originated by a Federal savings association shall be exclusively governed by the terms of the loan contract, and all rights and remedies of the lender and borrower shall at all times be fixed and governed by that contract.
+(b) Except as otherwise provided in paragraph (c) of this section and &#167;&#8201;191.5 of this part, the exercise of due-on-sale clauses in loans originated by lenders other than Federal savings associations shall be governed exclusively by the terms of the loan contract, and all rights and remedies of the lender and the borrower shall be fixed and governed by that contract.
+(i) With respect to real property loans originated in a state by lenders other than national banks, Federal savings associations, and Federal credit unions, a state may otherwise regulate such contracts by state law enacted prior to October 16, 1985, in which case paragraph (b) of this section shall apply only if such state law so provides; and
+
+
+# Tags
+
+['loans', 'credit', 'transferred', 'property', 'states', 'law', 'meaning', 'lenders', 'shall', 'mortgage', 'secured', 'borrowers', 'sales', 'prohibiting', 'applies', 'contracts', 'union', 'banks', 'islands', 'insurance', 'including', 'federally', 'applications', 'specific', 'written', 'agreement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                          |

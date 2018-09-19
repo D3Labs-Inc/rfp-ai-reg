@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 3
 
 
+# Summary
+
+(d) Replica means a copy of the Official Seal displaying the identical form, content, and colors.
+(e) Reproduction means a copy of the Official Seal displaying the form and content, reproduced in only one color.
+The Official Seal of the Department of Education is described as follows: Standing upon a mound, an oak tree with black trunk and limbs and green foliage in front of a gold rising sun, issuing gold rays on a light blue disc, enclosed by a dark blue border with gold edges bearing the inscription &#8220;DEPARTMENT OF EDUCATION&#8221; above a star at either side of the words &#8220;UNITED STATES OF AMERICA&#8221; in smaller letters in the base; letters and stars in white.
+The Offical Seal of the Department is modified when used in reproductions in black and white and when embossed.
+(g) Any person using the Official Seal, replicas, reproductions, or embossing seals in a manner inconsistent with the provisions of this part is subject to the provisions of 18 U.S.C. 1017, which states penalties for the wrongful use of an Official Seal, and to other provisions of law as applicable.
+
+
+# Tags
+
+['seal', 'documents', 'use', 'blue', 'media', 'official', 'cards', 'rooms', 'gold', 'public', 'certificates', 'united']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                                                           |

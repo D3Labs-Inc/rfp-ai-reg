@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 7
 
 
+# Summary
+
+(e) Ex parte communication means any written or oral communication by any person outside the agency to any Commissioner or any member of any Commissioner's staff, but not to any other Commission employee, that imparts information or argument regarding prospective Commission action or potential action concerning any pending enforcement matter.
+(a) A Commissioner or employee seeking advice and guidance on matters covered by this part or 5 CFR parts 735, 2634, 2635, 2640, or 4701 may consult with the Designated Agency Ethics Official.
+The Designated Agency Ethics Official should be consulted before undertaking any action that might violate this part or 5 CFR parts 735, 2634, 2635, 2640, or 4701 governing the conduct of Commissioners or employees.
+(b) The Designated Agency Ethics Official, a Commissioner, or an employee may request an opinion from the Director of the Office of Government Ethics regarding an interpretation of 5 CFR parts 2634, 2635, or 2640.
+Commissioners and employees shall disclose immediately any suspected violation of a statute or of a rule set forth in this part or of a rule set forth in 5 CFR parts 735, 2634, 2635, 2640, or 4701 to the Designated Agency Ethics Official, the Office of Inspector General, or other appropriate law enforcement authorities.
+
+
+# Tags
+
+['shall', 'commission', 'employees', 'enforcement', 'action', 'communications', 'means', 'general', 'cfr', 'governing', 'rule set', 'corrective']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                           |

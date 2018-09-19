@@ -8,6 +8,17 @@
  CFR-2018-title14-vol3.Pt. 119
 
 
+# Summary
+
+(i) At least 90 days before the date proposed by the applicant for the amendment to become effective, unless a shorter time is approved, in cases of mergers; acquisitions of airline operational assets that require an additional showing of safety (e.g., proving tests); changes in the kind of operation as defined in &#167;&#8201;110.2; resumption of operations following a suspension of operations as a result of bankruptcy actions; or the initial introduction of aircraft not before proven for use in air carrier or commercial operator operations.
+(e) Other arrangements for transportation by air: Except as provided in paragraph (f) of this section, a certificate holder under this part operating under part 121 or 135 of this chapter may not conduct any operation for another certificate holder under this part or a foreign air carrier under part 129 of this chapter or a foreign person engaged in common carriage wholly outside the United States unless it holds applicable Department of Transportation economic authority, if required, and is authorized under its operations specifications to conduct the same kinds of operations (as defined in &#167;&#8201;110.2).
+
+
+# Tags
+
+['operating', 'requirements', 'authorized', 'conducts', 'application', 'holders', 'shall', 'persons', 'officers', 'aircraft', 'certificates issued', 'administrator', 'including', 'air', 'amending', 'maintenance', 'appropriate', 'flights', 'financial', 'iii', 'follow', 'chapter', 'information', 'experience', 'specifications', 'list', 'year', 'apply', 'time', 'position', 'maintained', 'explain', 'management personnel', 'materials', 'airplanes', 'accounts', 'control', 'islands', 'conditions', 'services', 'inspected', 'section', 'carriage']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                    |

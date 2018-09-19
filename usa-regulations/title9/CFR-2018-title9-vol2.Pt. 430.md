@@ -8,6 +8,21 @@
  CFR-2018-title9-vol2.Pt. 430
 
 
+# Summary
+
+The antimicrobial agent or process used to suppress or limit growth of the pathogen must be included in either the establishment's HACCP plan or its Sanitation SOP or other prerequisite program.
+The antimicrobial agent or process used to suppress or limit growth of the pathogen must be included in either the establishment's HACCP plan or its Sanitation SOP or other prerequisite program.
+The establishment must document in its HACCP plan or in its Sanitation SOP or other prerequisite program that the antimicrobial agent or process, as used, is effective in suppressing or limiting growth of L.
+The establishment must document in its HACCP plan or in its Sanitation SOP or other prerequisite program that the antimicrobial agent or process, as used, is effective in suppressing or limiting growth of L.
+monocytogenes and procedures for antimicrobial agents or processes that suppress or limit the growth of the pathogen may be incorporated either in the establishment's HACCP plan or in its Sanitation SOP or other prerequisite program.
+monocytogenes by using a post-lethality treatment or an antimicrobial agent or process that eliminates or reduces, or suppresses or limits the growth of the organism may declare this fact on the product label provided that the establishment has validated the claim.
+
+
+# Tags
+
+['products', 'tests', 'rte', 'food', 'alternatively', 'establishment', 'sanitation', 'monocytogenes', 'conditions', 'lethality', 'included', 'antimicrobial', 'controls', 'verification']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                         |

@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 168
 
 
+# Summary
+
+(a) The Area Director shall prescribe the maximum number of each kind of livestock which may be grazed on land under his jurisdiction without inducing damage to vegetation or related resources on each range unit and the season or seasons of use to achieve the objectives of the land recovery program required by the Settlement Act.
+(2) The permitted number shall not exceed either (i) 10 SUYL (See &#167;&#8201;168.1(1)) for each eligible family member, or (ii) the grazing applicant's livestock inventory reduced by voluntary sales as adjusted by reproduction, in accordance with procedures developed by the Project Officer based upon the study by Stubblefield and Camfield, 1975 page 5.
+Unless determined otherwise by the Area Director for conservation purposes, the Hopi Tribe may determine, subject to the authorized carrying capacity, the kind of livestock that may be grazed by their tribal members on the range units within the Hopi Partitioned Land area.
+(a) The rental value of all uses of Hopi Partitioned lands by persons who are not members of the Hopi Tribe, including eligible holders of interim permits, will be determined, and assessed by the Area Director and paid in accordance with 25 U.S.C. 640d-15.
+
+
+# Tags
+
+['grazing', 'permit', 'shall', 'range', 'meanings', 'livestock', 'land', 'areas', 'hopi', 'united', 'authorized', 'tribe', 'thereof', 'management', 'use', 'sales', 'conservation', 'follows', 'tribal', 'forage', 'include written', 'director', 'period', 'improve', 'personally', 'act', 'impounded', 'concurrence', 'value', 'relocating', 'number', 'officer', 'inventory', 'fence', 'term', 'reduces', 'date']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                |

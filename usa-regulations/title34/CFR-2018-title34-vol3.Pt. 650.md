@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 650
 
 
+# Summary
+
+(a) Is enrolled at an institution of higher education in the program of study leading to a doctoral degree, and is not studying for a religious vocation, in the academic field for which the fellowship is awarded;
+Satisfactory progress means that the fellow meets or exceeds the institution's criteria and standards established for all doctoral students' continued status as applicants for the doctoral degree in the academic field of study for which the fellowship was awarded.
+(a) With respect to the awards made for the academic year 1998-1999, the Secretary makes a payment of $10,222 to the institution of higher education for each individual awarded a fellowship for pursuing a course of study at the institution.
+(c) A fellow who withdraws from an institution before completion of an academic term for which the fellow received a stipend installment shall return a prorated portion of the stipend installment to the institution at such time and in such manner as the Secretary may require.
+(a) An institution shall provide to the Secretary, prior to receiving funds for disbursement to a fellow, a certification from an appropriate official at the institution stating whether that fellow is making satisfactory progress in, and is devoting essentially full time to the program for which the fellowship was awarded.
+
+
+# Tags
+
+['institutions', 'shall', 'fellowship', 'secretary awards', 'require', 'year means', 'academic', 'individuals', 'fellow', 'program', 'study', 'education', 'students', 'selects', 'time', 'administrative', 'established', 'department', 'degree', 'regulations', 'satisfactory', 'received']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                           |

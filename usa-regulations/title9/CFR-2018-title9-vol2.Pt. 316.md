@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 316
 
 
+# Summary
+
+(e) Subject to the provisions in paragraph (a) of this section, in the case of sausage of the smaller varieties, the markings prescribed in this section may be limited to links bearing the official inspection legend, and such markings shall not be required if the sausages are packed in properly labeled containers having a capacity of 3 pounds or less and of a kind usually sold at retail intact.
+(b) When any product prepared in an official establishment for domestic commerce has been inspected and passed and is enclosed in a cloth or other wrapping, such wrapping shall bear the official inspection legend and official establishment number applied by the approved 21/2-inch rubber brand in the form prescribed in part 312 of this subchapter: Provided, That the rubber brand may be omitted if the official inspection legend and official establishment number on the product itself are clearly legible through the wrapping or the wrapping is labeled in accordance with part 317 of this subchapter: Provided further, That plain unprinted wrappings, such as stockinettes, cheesecloth, paper, and crinkled paper bags, for properly marked products, which are used solely to protect the product against soiling or excessive drying during transportation or storage, need not bear the official inspection legend.
+
+
+# Tags
+
+['shall', 'markings', 'products', 'contain', 'added', 'approval', 'meat', 'subchapter', 'inspection', 'establishment', 'brand', 'loin', 'bear', 'purpose', 'labeling', 'inedible', 'official', 'need', 'barrels', 'paper', 'ink', 'paint', 'varieties', 'pork', 'prescribed', 'primal', 'ingredients', 'boxes', 'legibility', 'vegetables', 'beef', 'sold', 'carcasses']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                             |

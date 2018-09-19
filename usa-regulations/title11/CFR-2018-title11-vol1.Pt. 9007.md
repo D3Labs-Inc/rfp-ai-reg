@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 9007
 
 
+# Summary
+
+(3) Within 30 days of service of the Final Audit Report, the committee shall submit a check to the United States Treasury for the total amount of any excessive or prohibited contributions not refunded, reattributed or redesignated in a timely manner in accordance with 11 CFR 103.3(b) (1), (2) or (3); or take any other action required by the Commission with respect to sample-based findings.
+(iii) In the case of a candidate who has received contributions pursuant to 11 CFR 9003.3 (b) or (c), the amount of any repayment sought under this section shall bear the same ratio to the total amount determined to have been used for non-qualified campaign expenses as the amount of payments certified to the candidate from the Fund bears to the total deposits, as of December 31 of the Presidential election year.
+If, after any repayment determination made under this section, a candidate or his or her authorized committee(s) receives or becomes aware of assets not previously included in any statement of net outstanding qualified campaign expenses submitted pursuant to 11 CFR 9004.9, the candidate or his or her authorized committee(s) shall promptly notify the Commission of such newly-discovered assets.
+
+
+# Tags
+
+['shall', 'commission', 'committees', 'funding', 'repayable', 'pursuant', 'timely', 'information', 'addition', 'determinations', 'records', 'follow', 'materially', 'candidate', 'audit', 'setting', 'findings', 'iii', 'days', 'issue', 'conducted', 'reports', 'fieldwork', 'period', 'submit', 'expenses', 'account', 'election', 'including', 'provide', 'sampling', 'notice', 'checks', 'cfr', 'raised']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                  |

@@ -8,6 +8,17 @@
  CFR-2018-title12-vol7.Pt. 611
 
 
+# Summary
+
+(i) No director, officer, employee, agent, or other person participating in the conduct of the affairs of a Farm Credit institution may make an oral or written representation to any person that a preliminary or final approval by the FCA of a territory transfer constitutes, directly or indirectly, a recommendation on the merits of the transaction or an assurance concerning the adequacy or accuracy of any information provided to any association's stockholders in connection therewith.
+(j) When a Farm Credit institution, or any of its employees, officers, directors, agents, or other persons participating in the conduct of the affairs thereof, make disclosures or representations that, in the judgment of the FCA, are incomplete, inaccurate, or misleading in connection with a territory transfer, whether or not such disclosure or representation is made in disclosure statements required by this subpart, such institution must make such additional or corrective disclosure as directed by the FCA and as is necessary to provide stockholders and the general public with full and fair disclosure.
+
+
+# Tags
+
+['associated', 'includes', 'votes', 'directors', 'information', 'institution', 'stockholders', 'requires', 'terminate', 'providing', 'banks', 'equity', 'shall', 'approved', 'business', 'service', 'follows', 'fca', 'statement', 'date', 'loans', 'ube', 'financially', 'iii', 'means', 'assets', 'periodic', 'charter', 'board', 'agreement', 'meetings', 'corporations', 'capitalization', 'proposal', 'operating', 'transferring', 'materially', 'plan', 'authorities', 'written', 'term', 'limited', 'disclosures', 'currently', 'acting', 'timely', 'appropriately', 'elected', 'applicants', 'public', 'generate', 'farm', 'relate', 'values', 'policies', 'borrower', 'resolutions', 'identified', 'notice', 'provisions', 'holder', 'accounts', 'ballots', 'reason', 'invest', 'tax', 'officers', 'estimated', 'bylaw', 'liability', 'balances', 'consolidated', 'involved', 'expenses', 'issue', 'years', 'state', 'credits', 'requested', 'retire', 'activity', 'adjustment', 'transaction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

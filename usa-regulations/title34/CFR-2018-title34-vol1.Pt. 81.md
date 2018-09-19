@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 81
 
 
+# Summary
+
+(c) A copy of the petition must be provided to the ALJ at the time the petition is filed under paragraph (b)(2) of this section, and a copy of a petition or any certification must be served upon the parties by certified mail, return receipt requested.
+(b) A recipient shall file an application for review not later than 60 days after the date it receives the notice of a disallowance decision.
+(c) Within 10 days after receipt of a copy of the application for review, the authorized Departmental official who made the disallowance decision shall provide the ALJ with a copy of any document identified in the notice pursuant to &#167;&#8201;81.34(b)(2).
+(c) The initial decision is transmitted to the Secretary by hand-delivery or Department mail, and to the parties by certified mail, return receipt requested, by the Office of Administrative Law Judges.
+(f)(1) A party may respond to a petition for review of an initial decision by filing a statement of its views on the issues raised in the petition with the Secretary, as provided for in this section, not later than 15 days after the date it receives the petition.
+
+
+# Tags
+
+['alj', 'decision', 'shall', 'party', 'applicant', 'require', 'written', 'recipient', 'hearing', 'timely', 'case', 'reviewing', 'files', 'educational', 'department', 'requested', 'departmental official', 'evidence', 'secretary', 'programs', 'iii', 'rules', 'material', 'state', 'days', 'mediator', 'relevant', 'information', 'notice', 'law', 'reasonable', 'caused', 'issues']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                       |

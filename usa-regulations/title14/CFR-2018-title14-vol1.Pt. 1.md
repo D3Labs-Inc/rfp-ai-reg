@@ -8,6 +8,18 @@
  CFR-2018-title14-vol1.Pt. 1
 
 
+# Summary
+
+Category A, with respect to transport category rotorcraft, means multiengine rotorcraft designed with engine and system isolation features specified in Part 29 and utilizing scheduled takeoff and landing operations under a critical engine failure concept which assures adequate designated surface area and adequate performance capability for continued safe flight in the event of engine failure.
+Rated continuous OEI power, with respect to rotorcraft turbine engines, means the approved brake horsepower developed under static conditions at specified altitudes and temperatures within the operating limitations established for the engine under part 33 of this chapter, and limited in use to the time required to complete the flight after the failure or shutdown of one engine of a multiengine rotorcraft.
+Rated maximum continuous thrust, with respect to turbojet engine type certification, means the approved jet thrust that is developed statically or in flight, in standard atmosphere at a specified altitude, without fluid injection and without the burning of fuel in a separate combustion chamber, within the engine operating limitations established under part 33 of this chapter, and approved for unrestricted periods of use.
+
+
+# Tags
+
+['mean', 'aircraft', 'operation', 'including', 'speed', 'altitude', 'engine', 'ifr flights', 'air', 'controllable', 'takeoff', 'land', 'maximum', 'areas', 'level', 'navigate', 'routes', 'lights', 'requirements', 'surface', 'rated', 'extend', 'standards', 'condition', 'propeller', 'minimum', 'designed', 'performance', 'powered airplanes', 'etops', 'traffic', 'thrust', 'airspeed', 'equipped', 'specified', 'time', 'approved', 'category', 'rotor', 'structure', 'specification', 'procedures', 'service', 'ils approach', 'maintenance', 'load', 'fixed', 'certificating', 'forward wing', 'continuation', 'runway', 'safely', 'rotorcraft', 'configuration', 'lift', 'vfr', 'airspace', 'rotational', 'pilots', 'authority', 'atmospheric', 'marker', 'civil', 'states', 'instrument', 'limitations', 'indication', 'type', 'airports', 'devices', 'non', 'transportation', 'frequency', 'main', 'iii', 'high', 'range', 'positive', 'external', 'radar', 'association', 'distance', 'features', 'visual', 'activity', 'affects', 'provided', 'visibility', 'water', 'forces']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

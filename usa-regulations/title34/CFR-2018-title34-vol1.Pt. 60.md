@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 60
 
 
+# Summary
+
+(i) The conduct giving rise to the verdict, judgment, or award occurred within the scope of his or her employment with the Department; and
+(c) The Department does not indemnify or settle a personal damage claim before entry of an adverse verdict, judgment, or monetary award unless the Secretary determines that exceptional circumstances justify the earlier indemnification or settlement.
+(d) Any payment under this part, either to indemnify a Department of Education employee or to settle a personal damage claim, is contingent upon the availability of appropriated funds.
+(a) When an employee of the Department of Education becomes aware that an action has been filed against the employee in his or her individual capacity as a result of conduct taken within the scope of his or her employment, the employee shall immediately notify the head of his or her principal operating component and shall cooperate with appropriate officials of the Department in the defense of the action.
+(c)(1) The employee's request must be in writing to the head of his or her principal operating component and must be accompanied by copies of the complaint and other documents filed in the action, including the verdict, judgment, award, settlement, or settlement proposal, as appropriate.
+
+
+# Tags
+
+['award', 'secretary', 'employee', 'including', 'conduct', 'department', 'action', 'shall']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                         |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 704
 
 
+# Summary
+
+The limitations and requirements of this section do not apply to certain assets, whether or not considered investments under this part, including fixed assets, individual loans and loan participation interests, investments in CUSOs, investments that are issued or fully guaranteed as to principal and interest by the U.S. government or its agencies or its sponsored enterprises (but not exempting, for purposes of paragraph (d) of this section, mortgage backed securities), investments that are fully insured or guaranteed (including accumulated dividends and interest) by the NCUSIF or the Federal Deposit Insurance Corporation, and settlement funds in federally insured depository institutions.
+(3) A corporate credit union must limit its aggregate holdings in any investments not described in paragraphs (d)(1) or (2) of this section to the lower of 100 percent of total capital or 5 percent of assets.
+(i) A statement of management's responsibilities for preparing the corporate credit union's annual financial statements, for establishing and maintaining an adequate internal control structure and procedures for financial reporting, and for complying with laws and regulations relating to safety and soundness in the following areas: affiliate transactions, legal lending limits, loans to insiders, restrictions on capital and share dividends, and regulatory reporting that meets full and fair disclosure;
+
+
+# Tags
+
+['capitalization', 'includes', 'union', 'means', 'securities', 'investments', 'assets', 'requirements', 'servicer', 'ncua', 'credit', 'risks', 'loaned', 'accounted', 'corporations', 'managers', 'financial', 'plans', 'report', 'action', 'member', 'limitations', 'liquidate', 'funding', 'providing', 'transactions', 'section', 'written', 'compensation', 'timely', 'audit', 'approve', 'reasonably', 'iii', 'business', 'appropriate', 'base', 'mortgages', 'term', 'supervisory', 'restricting', 'rating', 'periodic', 'committee', 'directors', 'notices', 'officers', 'marketable', 'purchases', 'receivables', 'dated', 'addition', 'minimum', 'specifically', 'address', 'boards', 'statements', 'states', 'control', 'policy', 'material', 'annually', 'activity', 'related', 'pcc', 'insured', 'standards', 'gaap', 'generally', 'company', 'values', 'reviewing', 'year', 'cash', 'prices', 'losses', 'institute', 'described', 'retained earnings', 'payment', 'federal', 'provisions', 'entity', 'disclosure', 'followed', 'non', 'obligation', 'availability', 'establishment', 'party', 'agreements', 'public', 'sets', 'immediately', 'adequately', 'operational', 'issue', 'condition']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 264b
 
 
+# Summary
+
+Board employees who accept a gift of travel or expenses for travel under &#167;&#8201;264b.5(b)(2) without the prior approval of the Administrative Governor must submit a report to the Office of the Secretary within 30 days of acceptance that contains the following information:
+(a) Board employees may accept, retain, and wear a decoration tendered or awarded by a foreign government in recognition of active field service in time of combat operations or for other outstanding or unusually meritorious performance, subject to the approval of the Administrative Governor.
+(b) Decorations accepted by Board employees without the approval of the Administrative Governor are considered to have been accepted on behalf of the United States and must be deposited within 60 days of the decoration's acceptance with the Office of the Secretary for disposition or retention under &#167;&#8201;264b.8.
+(b) The Attorney General may bring a civil action in any district court of the United States against a Board employee who knowingly solicits or accepts a gift from a foreign government in violation of the Act, or who fails to deposit or report such a gift as required by the Act. The court may assess a maximum penalty of the retail value of a gift improperly solicited or received plus $5,000.
+
+
+# Tags
+
+['board', 'gifts', 'meaning', 'decoration', 'general', 'value', 'states', 'accepted', 'year', 'acting', 'including', 'governors', 'foreign governments', 'law', 'price']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                               |

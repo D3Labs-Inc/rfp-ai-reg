@@ -8,6 +8,21 @@
  CFR-2018-title12-vol7.Pt. 710
 
 
+# Summary
+
+(a) Voluntary liquidation means the dissolution of a solvent Federal credit union with the assets being sold or collected, liabilities paid, and shares distributed under the direction of the board of directors or its duly appointed liquidating agent.
+(a) When approval for liquidation is obtained from the members, the board of directors or the liquidating agent shall cause notice to be given to creditors to present their claims.
+(b) Within 10 days of the liquidation date, a copy of the notice of liquidation shall be mailed to all creditors reflected on the records of the Federal credit union.
+(a) With the approval of the Regional Director, a partial pro rata distribution of the Federal credit union's assets may be made to its members from cash funds available on authorization by the board of directors or liquidating agent.
+(a) The board of directors or liquidating agent shall appoint a custodian for the Federal credit union's records which are to be retained after the final distribution of assets.
+(b) All records of the liquidated Federal credit union necessary to establish that creditors were paid and that assets were equitably distributed to the members shall be retained by the custodian for a period of five years following the date of charter cancellation.
+
+
+# Tags
+
+['shall', 'liquidating', 'member', 'director', 'federal', 'shares distributed', 'notice', 'union', 'vote', 'provide', 'date', 'means', 'funds', 'cause', 'state']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

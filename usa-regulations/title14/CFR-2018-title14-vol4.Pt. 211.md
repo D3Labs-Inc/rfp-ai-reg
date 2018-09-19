@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 211
 
 
+# Summary
+
+(b) Mexican air taxi operators filing applications for foreign air carrier permits authorizing charter flights across the Mexico-United States border with small aircraft (a maximum passenger capacity of 60 seats or less, or a maximum payload capacity of 18,000 pounds or less) shall file an original and two copies of the application.
+(m) Briefly describe any agreements or cooperative working arrangements (e.g., block-space, wet-lease), both oral and written, entered with and between the applicant, or on behalf of the applicant, and any U.S. or foreign air carrier, affecting the proposed services to the United States that are not on file with the Department.
+If the Department is satisfied that the applicant meets the requirements of &#167;&#8201;211.31 (a) through (e), and that grant of all or part of the requested authority would otherwise be in the public interest, the Department may, subject to Presidential review under section 801(a) of the Federal Aviation Act, issue a &#8220;Freely Associated State Foreign Air Carrier Permit&#8221; to the applicant, including such terms, conditions or limitations as the Department may find to be in the public interest.
+
+
+# Tags
+
+['stating', 'shall', 'operating', 'carrier', 'applications', 'authorizing', 'transport', 'foreign air', 'information', 'services', 'financial', 'capital', 'aviation', 'summary', 'government', 'number', 'year', 'proposed', 'documents', 'program', 'section', 'passenger', 'include', 'economic', 'agreement', 'form', 'data', 'charter', 'islands', 'owned', 'aircraft', 'file', 'available']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                 |

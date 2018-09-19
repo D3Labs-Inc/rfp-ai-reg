@@ -8,6 +8,22 @@
  CFR-2018-title2-vol1.Pt. 175
 
 
+# Summary
+
+This part establishes a Governmentwide award term for grants and cooperative agreements to implement the requirement in paragraph (g) of section 106 of the Trafficking Victims Protection Act of 2000 (TVPA), as amended (22 U.S.C. 7104(g)).
+In each agency award (i.e., grant or cooperative agreement) under which funding is provided to a private entity, section 106(g) of the TVPA, as amended, requires the agency to include a condition that authorizes the agency to terminate the award, without penalty, if the recipient or a subrecipient&#8212;
+(a) To implement the trafficking in persons requirement in section 106(g) of the TVPA, as amended, a Federal awarding agency must include the award term in paragraph (b) of this section in&#8212;
+(2) A grant or cooperative agreement to a State, local government, Indian tribe or foreign public entity, if funding could be provided under the award to a private entity as a subrecipient.
+(b) The award term that an agency must include, as described in paragraph (a) of this section, is:
+(1) This term means any entity other than a State, local government, Indian tribe, or foreign public entity.
+(3) Any agency or instrumentality of a State other than a local government or State-controlled institution of higher education;
+
+
+# Tags
+
+['organization', 'state', 'entity', 'district', 'act', 'awards', 'public', 'means', 'requires', 'including']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                                                                                                                                                                                               |

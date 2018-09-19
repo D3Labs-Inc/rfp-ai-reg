@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 81
 
 
+# Summary
+
+If the child abuse reported by the covered professional pursuant to 42 U.S.C. 13031 occurred outside the federal area or facility in question, the designated local law enforcement agency or local child protective services agency receiving the report shall immediately forward the matter to the appropriate authority with jurisdiction outside the federal area in question.
+Local law enforcement agency means that federal, state, tribal or local law enforcement agency that has the primary responsibility for the investigation of an instance of alleged child abuse occurring within a particular portion of the federal lands, a particular federally operated facility, or a particular federally contracted facility in which children are cared for or reside.
+The regulations in this subpart B designate the agencies that are authorized to receive and investigate reports of child pornography that are forwarded from the National Center for Missing and Exploited Children under the provisions of 42 U.S.C. 13032.
+When the National Center for Missing and Exploited Children receives a report from a provider concerning an apparent violation of Federal child pornography statutes specified in 42 U.S.C. 13032(b)(1), it shall immediately forward that report, to the Federal Bureau of Investigation, the Bureau of Immigration and Customs Enforcement, the United States Postal Inspection Service, and the United States Secret Service, designated pursuant to 42 U.S.C. 13032(b)(2).
+
+
+# Tags
+
+['federal', 'reporting', 'designation', 'agencies', 'child abuse', 'service', 'local', 'states', 'provided']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                   |

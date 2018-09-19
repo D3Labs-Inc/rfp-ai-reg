@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 240
 
 
+# Summary
+
+(5) A broker or dealer registered under section 15(b) (except paragraph (11) thereof) or 15C of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b), 78o-5) or a U.S. financial institution other than a banking institution, provided the counterparty is subject to a rule or regulation of a Federal regulatory agency covering retail forex transactions.
+(1) Except as provided in paragraph (e)(2) of this section, immediately upon the receipt of a retail forex transaction order, a banking institution shall prepare an order ticket for the order (whether unfulfilled, executed or canceled).
+(3) Transmits on a regular basis to the banking institution copies of all statements for the account and of all written records prepared by the other retail forex counterparty upon receipt of orders for such account pursuant to paragraph (d)(2) of this section.
+A banking institution to which retail forex accounts or positions are assigned or transferred under paragraph (a) of this section must provide to the affected retail forex customers the risk disclosure statements and forms of acknowledgment required by this part and receive the required signed acknowledgments within sixty days of such assignments or transfers.
+
+
+# Tags
+
+['transaction', 'accounting', 'customer', 'shall', 'order', 'institutions', 'recorded', 'requirement', 'written', 'includes', 'persons', 'trade', 'prices', 'options', 'acting', 'iii', 'means', 'retail foreign', 'dates', 'statements', 'bank', 'positive', 'thereof', 'dollar', 'execution', 'information', 'currency', 'received', 'period', 'forex', 'state', 'futures', 'margined', 'generally', 'corporation', 'financial', 'disclosures', 'basis', 'number', 'viii', 'specifically', 'data', 'delivery', 'charges', 'establish', 'follows']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                    |

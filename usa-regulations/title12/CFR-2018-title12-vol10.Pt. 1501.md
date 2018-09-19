@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1501
 
 
+# Summary
+
+Once the Secretary determines that an activity is financial in nature or incidental to a financial activity (either in accordance with this section or after evaluation of a proposal raised by the Board under section 5136A(b)(1)(B)(ii) of the Revised Statutes), a financial subsidiary may engage in the activity subject to the requirements of 12 CFR part 5 and in accordance with any terms or conditions established by the Secretary in connection with authorizing the activity.
+After consultation with the Board, the Secretary will promptly make a written determination regarding whether the specific activity described in the request is included in an activity category listed in paragraph (a)(1) of this section and is therefore either financial in nature or incidental to a financial activity.
+In evaluating a request made under this section, the Secretary will take into account the factors listed in section 5136A(b)(2) of the Revised Statutes (12 U.S.C. 24a(b)(2)) that the Secretary must consider when determining whether an activity is financial in nature or incidental to a financial activity.
+(ii) Provide information supporting the requested determination, including information regarding how the proposed activity falls into one of the categories listed in paragraph (a)(1) of this section, and any other information required by the Secretary concerning the proposed activity.
+
+
+# Tags
+
+['financial', 'activity', 'ratings', 'requirements', 'requested', 'secretary', 'determine', 'banks', 'act', 'inform', 'public', 'establishes', 'iii']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                  |

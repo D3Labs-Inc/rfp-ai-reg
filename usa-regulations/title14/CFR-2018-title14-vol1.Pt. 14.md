@@ -8,6 +8,21 @@
  CFR-2018-title14-vol1.Pt. 14
 
 
+# Summary
+
+The Equal Access to Justice Act, 5 U.S.C. 504 (the Act), provides for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (adversary adjudications) before the Federal Aviation Administration (FAA).
+(c) For the purpose of eligibility, the net worth and number of employees of an applicant shall be determined as of the date the proceeding was initiated.
+(b) If review or reconsideration is sought or taken of a decision to which an applicant believes it has prevailed, proceedings for the award of fees shall be stayed pending final disposition of the underlying controversy.
+(c) A decision under paragraph (a) or (b) of this section shall include written findings and conclusions on the applicant's eligibility and status as prevailing party and an explanation of the reasons for any difference between the amount requested and the amount awarded.
+If review is taken, the FAA Decisionmaker will issue a final decision on the application or remand the application to the ALJ who issue the initial fee award determination for further proceedings.
+The agency will pay the amount awarded to the applicant within 60 days, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.
+
+
+# Tags
+
+['shall', 'applications', 'proceeding', 'final', 'awards', 'fee', 'counsel', 'specifically', 'administrator', 'including', 'eligible', 'act', 'officer', 'addition', 'written', 'reasonably', 'adjudicative', 'information', 'issued', 'decision', 'expenses', 'order', 'faa', 'organization', 'services', 'exhibit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                           |

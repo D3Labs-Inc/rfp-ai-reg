@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 91
 
 
+# Summary
+
+(3) Lot 1 in block 1 set aside for religious and educational purposes to the Society of Friends, its Associate Executive Committee of Friends on Indian Affairs and its or their representative at Hominy, Okla., by Resolution of the Osage Tribal Council dated June 6, 1956, and approved by the Assistant Secretary of the Interior, September 7, 1956.
+Such authority shall remain in the Council and any group or individual using the property for dance purposes without the written permission of the Council shall be in violation of these regulations: Provided, further, That the village committee shall not permit the use of any of the tracts described in &#167;&#8201;91.5 in any manner that would conflict with Council authorization for dance purposes.
+No improvements located within the village reserves described in &#167;&#8201;91.3 shall be sold, mortgaged, transferred or assigned without the approval of the Superintendent.
+(2) To foreclose the mortgage and to sell the improvements to a non-tribal member, who shall remove the improvements from the village reserve within six (6) months of the date of sale.
+
+
+# Tags
+
+['shall', 'villages', 'indian', 'provide', 'said', 'tribal', 'committee', 'lots', 'permitted', 'osage', 'copies', 'improvements', 'quarter', 'member', 'half', 'purposes', 'stated', 'certified', 'reserve', 'land', 'means', 'squares', 'mortgaged', 'conditions', 'election', 'health']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                    |

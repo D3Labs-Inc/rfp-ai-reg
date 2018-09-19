@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 355
 
 
+# Summary
+
+All operating and storage rooms and departments of inspected plants used for inedible material shall be maintained in clean condition, and shall be separate and apart from rooms and departments where certified products are prepared, handled, or stored.
+In the event of failure by an inspected plant to provide suitable facilities for incubation of test samples, the circuit supervisor may require holding of the entire lot under such conditions and for such period of time as may, in his discretion, be necessary to establish the stability of the canned products.
+(iii) Certified animal protein supplement may contain not more than 3 percent wheat flour or other processing aid acceptable to the Administrator, which shall be of good quality, shall be free from insect infestation, and shall be otherwise fit for use as animal food;
+(d) Certified products for dogs, cats, and other carnivora may contain whale meat, fish, and animal food poultry byproducts or combinations thereof as optional ingredients in lieu of some but not all of the ingredients named in paragraphs (a)(2), (b)(1)(i), and (c)(1) of this section, respectively, upon specific approval of the Administrator.
+
+
+# Tags
+
+['shall', 'plant', 'inspection', 'food', 'includes', 'labeling', 'means', 'preparing certified products', 'regulations contained', 'inspectors', 'number', 'tags', 'water', 'bone', 'cans', 'markings', 'weight', 'applications', 'materials', 'equipment', 'condition', 'meat', 'ingredient', 'rooms', 'provided', 'furnish', 'following', 'program', 'inform', 'facilities', 'processes', 'surfaces', 'properly', 'officials', 'thereof', 'sample', 'cleaning', 'percent', 'generalized', 'heating', 'requires', 'services', 'poultry', 'administrator', 'supplemental', 'infectious', 'acute', 'immediate', 'approved', 'proper', 'blood', 'plan', 'accompany', 'specifically']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                     |

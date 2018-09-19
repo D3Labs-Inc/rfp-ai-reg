@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 658
 
 
+# Summary
+
+The Secretary awards grants under this part to assist in carrying out projects and activities that are an integral part of a program to improve undergraduate instruction in international studies and foreign languages.
+The Secretary may award grants under this part to public and private nonprofit agencies and organizations including scholarly associations, that propose projects that will make an especially significant contribution to strengthening and improving undergraduate instruction in international studies and foreign languages at institutions of higher education.
+(i) The extent to which the proposed activities will contribute to the implementation of a program in international studies and foreign languages at the applicant institution;
+(ii) The extent to which the proposed use of Federal funds will result in the implementation of a program in international studies and foreign languages at the applicant institution;
+(b) The Secretary reviews each application for information that shows the need for and the potential impact of the applicant's proposed projects in improving international studies and the study of modern foreign language at the undergraduate level.
+(iii) The extent to which the proposed project will make an especially significant contribution to the improvement of the teaching of international studies or modern foreign languages at the undergraduate level; and
+
+
+# Tags
+
+['international', 'programs', 'educational', 'secretary', 'institutions', 'including', 'languages', 'contribution', 'develop', 'granting', 'foreign', 'undergraduate', 'faculty', 'costs', 'studies', 'applications', 'funding', 'new', 'assisted', 'proposes', 'applying', 'activity']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                 |

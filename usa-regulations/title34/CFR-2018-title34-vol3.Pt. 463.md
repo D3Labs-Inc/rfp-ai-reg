@@ -8,6 +8,17 @@
  CFR-2018-title34-vol3.Pt. 463
 
 
+# Summary
+
+(ii) If a State chooses to implement a common exit policy, the policy must require that a participant is exited only when all of the criteria in paragraph (c)(1) of this section are met for the WIOA title I core programs and the Employment Service program authorized under the Wagner-Peyser Act, as amended by WIOA title III, as well as any additional required partner programs listed in sec.
+(ii) Direct or allow the Local WDB, chief elected officials, and one-stop partners to: Re-enter negotiations, as necessary; reduce the infrastructure costs to reflect the amount of funds that are available for such costs without exceeding the cap levels; reassess the proportionate share of each one-stop partner; or identify alternative sources of financing for one-stop infrastructure funding, consistent with the requirement that each one-stop partner pay an amount that is consistent with the proportionate use of the one-stop center and relative benefit received by the partner, the program's authorizing laws and regulations, the Federal cost principles in 2 CFR part 200, and other applicable legal requirements.
+
+
+# Tags
+
+['programs', 'includes', 'services', 'state', 'employment', 'require', 'localities', 'educated', 'funded', 'skilled', 'individuals', 'perform', 'plan', 'assistance', 'cost', 'appropriate', 'partner', 'activities', 'provider receiving', 'acting', 'informed', 'jobs', 'developed', 'describing', 'levels', 'application', 'areas', 'determines', 'federal', 'year', 'relating', 'iii', 'customers', 'contributed', 'center', 'wioa', 'entities', 'established', 'operating', 'training', 'consist', 'workforce', 'administrative', 'accessing', 'reports', 'based', 'process', 'agency', 'use', 'career', 'means', 'achieving', 'labor', 'available', 'specifications', 'participation', 'physically', 'adult', 'needed', 'business', 'identifiers', 'additional', 'eligible', 'strategies', 'budgets', 'applies', 'policy', 'grant', 'literacy', 'followed', 'cfr', 'effectiveness', 'public', 'response', 'organized', 'regulations', 'non', 'integration', 'work', 'reasonable', 'authorizing', 'data', 'terms', 'supportive', 'resources', 'setting', 'workers', 'tanf']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

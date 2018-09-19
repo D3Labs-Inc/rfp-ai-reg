@@ -8,6 +8,22 @@
  CFR-2018-title29-vol4.Pt. 1606
 
 
+# Summary
+
+In examining these charges for unlawful national origin discrimination, the Commission will apply general title VII principles, such as disparate treatment and adverse impact.
+The title VII principles of disparate treatment and adverse impact equally apply to national origin discrimination.
+It is not an unlawful employment practice to deny employment opportunities to any individual who does not fulfill the national security requirements stated in section 703(g) of title VII.&#8201;1
+(a) In those circumstances, where citizenship requirements have the purpose or effect of discriminating against an individual on the basis of national origin, they are prohibited by title VII.&#8201;2
+(a)(1) In investigating an employer's selection procedures (including those identified below) for adverse impact on the basis of national origin, the Commission will apply the Uniform Guidelines on Employee Selection Procedures (UGESP), 29 CFR part 1607.
+Prohibiting employees at all times, in the workplace, from speaking their primary language or the language they speak most comfortably, disadvantages an individual's employment opportunities on the basis of national origin.
+If an employer fails to effectively notify its employees of the rule and makes an adverse employment decision against an individual based on a violation of the rule, the Commission will consider the employer's application of the rule as evidence of discrimination on the basis of national origin.
+
+
+# Tags
+
+['employers', 'required', 'employee', 'selection', 'impact', 'national origin', 'working', 'charges', 'general title', 'vii', 'protection', 'equal', 'concept']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                  |

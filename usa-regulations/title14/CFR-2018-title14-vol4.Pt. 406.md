@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 406
 
 
+# Summary
+
+The administrative law judge must serve a copy of each document including, but not limited to, notices of pre-hearing conferences and hearings, rulings on motions, decisions, and orders, upon each party to the proceedings by personal delivery or by mail.
+If the administrative law judge denies the motion, the respondent must file an answer and must serve a copy of the answer on each party not later than 10 days after service of the order of denial.
+The transcript of all testimony in the hearing; all exhibits received into evidence; the complaint, answer, and amendments thereto; all motions, applications, and requests, and responses thereto; and all rulings constitute the exclusive record for decision of the proceedings and the basis for the issuance of any orders in the proceeding.
+A party must file a petition to reconsider or modify with the Federal Docket Management System not later than 30 days after service of the FAA decisionmaker's final decision and order on appeal and must serve a copy of the petition on each party.
+
+
+# Tags
+
+['party', 'document', 'files', 'motions', 'discovery', 'orders', 'judge', 'evidence', 'issued', 'hearing', 'information including', 'persons', 'requests', 'orally', 'iii', 'records', 'reasonably', 'decisions', 'written', 'witness', 'brief', 'time', 'mailed', 'alleges', 'follows', 'specifications', 'responding', 'sections', 'administrator', 'date', 'penalty', 'states', 'rule', 'service', 'confidential', 'docket', 'complaint', 'space', 'receive', 'answer', 'proceeding', 'laws', 'action', 'materials', 'argument', 'decisionmaker', 'business', 'attorney', 'means', 'matters', 'complainant', 'serves']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

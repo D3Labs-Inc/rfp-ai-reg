@@ -8,6 +8,17 @@
  CFR-2018-title12-vol5.Pt. 411
 
 
+# Summary
+
+(c) Each person who requests or receives from an agency a Federal contract, grant, loan, or a cooperative agreement shall file with that agency a disclosure form, set forth in appendix B, if such person has made or has agreed to make any payment using nonappropriated funds (to include profits from any covered Federal action), which would be prohibited under paragraph (a) of this section if paid for with appropriated funds.
+(a) The prohibition on the use of appropriated funds, in &#167;&#8201;411.100 (a), does not apply in the case of any reasonable payment to a person, other than an officer or employee of a person requesting or receiving a covered Federal action, if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
+
+
+# Tags
+
+['shall', 'agency', 'included', 'means', 'services', 'federal', 'provided', 'technical', 'persons', 'loans', 'reporting', 'governments', 'circumstances', 'actions', 'state', 'sections', 'specifications', 'official', 'act', 'certification', 'disclosure', 'years', 'activity', 'filing', 'award', 'assistance', 'legal', 'related', 'requires']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                             |

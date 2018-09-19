@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 80
 
 
+# Summary
+
+These procedures enable issuers and domestic concerns to obtain an opinion of the Attorney General as to whether certain specified, prospective&#8212;not hypothetical&#8212;conduct conforms with the Department's present enforcement policy regarding the antibribery provisions of the Foreign Corrupt Practices Act of 1977, as amended, 15 U.S.C. 78dd-1 and 78dd-2.
+The Attorney General or his designee shall, within 30 days after receiving a request that complies with the foregoing procedure, respond to the request by issuing an opinion that states whether the prospective conduct, would, for purposes of the Department of Justice's present enforcement policy, violate 15 U.S.C. 78dd-1 and 78dd-2.
+In any action brought under the applicable provisions of 15 U.S.C. 78dd-1 and 78dd-2, there shall be a rebuttable presumption that a requestor's conduct, which is specified in a request, and for which the Attorney General has issued an opinion that such conduct is in conformity with the Department's present enforcement policy, is in compliance with those provisions of the FCPA.
+Additional requests for FCPA Opinions may be filed with the Attorney General under the foregoing procedure regarding other prospective conduct that is beyond the scope of conduct specified in previous requests.
+
+
+# Tags
+
+['shall', 'requesting', 'opinions', 'information', 'conduct', 'general', 'appropriate', 'fcpa', 'orally', 'provisions', 'available', 'complete', 'enforcement', 'executive', 'issue', 'procedures']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                         |

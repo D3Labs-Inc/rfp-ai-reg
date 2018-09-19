@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 722
 
 
+# Summary
+
+An appraisal performed by a State certified or licensed appraiser is required for all real estate-related financial transactions except those in which:
+(6) The transaction involves the purchase, sale, investment in, exchange of, or extension of credit secured by, a loan or interest in a loan, pooled loans, or interests in real property, including mortgage-backed securities, and each loan or interest in a loan, pooled loan, or real property interest met the requirements of this regulation, if applicable, at the time of origination;
+(2) (Nonresidential transactions) All federally related transactions having a transaction value of more than $250,000, other than those involving appraisals of 1- to 4-family residential properties, shall require an appraisal prepared by a state-certified appraiser.
+(3) (Complex residential transactions of $250,000 or more) All complex 1- to 4-family residential property appraisals rendered in connection with federally related transactions shall require a state-certified appraiser if the transaction value is $250,000 or more.
+Secured transactions exempted from appraisal requirements pursuant to paragraphs (a)(1) and (a)(5) of this section and not otherwise exempted from this regulation or fully insured shall be supported by a written estimate of market value, as defined in this regulation, performed by an individual having no direct or indirect interest in the property, and qualified and experienced to perform such estimates of value for the type and amount of credit being considered.
+
+
+# Tags
+
+['appraiser', 'transaction', 'including', 'property', 'market', 'union', 'shall', 'require', 'interests', 'credit', 'leased', 'examination', 'mortgage', 'institution', 'means', 'state', 'right', 'orders', 'loans', 'financial', 'sale', 'acting', 'standards', 'federally']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                |

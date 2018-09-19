@@ -8,6 +8,22 @@
  CFR-2018-title2-vol1.Pt. 2701
 
 
+# Summary
+
+SBA will only permit pass-through entities to make awards to subrecipients where expressly authorized by statute.
+SBA will only permit non-Federal entities to receive subawards where expressly authorized by statute.
+(b) No non-Federal entity providing assistance under an SBA award (nor any subrecipient, employee, or contractor of such an entity) may give preferential treatment to any client referred to it by an organization with which it has a financial, business, or other relationship.
+(c) Except where otherwise provided for by law, no non-Federal entity may seek or accept an equity stake in any firm it assists under the auspices of an SBA award.
+(b) After conducting the analysis required in paragraph (a) above, the head of each SBA grant program office will determine in writing whether there is sufficient justification to deviate from a negotiated indirect cost rate.
+Non-Federal entities that are not subject to the requirements of the Single Audit Act and that are performing projects under SBA awards will be required to submit copies of their audited financial statements for their most recently completed fiscal year.
+Costs associated with the auditing of a non-Federal entity's financial statements may be included in its negotiations for an indirect cost rate agreement in accordance with 2 CFR 200.425.
+
+
+# Tags
+
+['program', 'sba', 'auditing', 'regulations', 'office', 'cfr', 'assists', 'cost', 'regulatory', 'funding', 'grants', 'financial']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                            |

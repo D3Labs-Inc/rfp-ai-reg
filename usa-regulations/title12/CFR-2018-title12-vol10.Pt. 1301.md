@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1301
 
 
+# Summary
+
+(5) For the purpose of determining any fees that may apply to processing a request, a requester shall indicate in the request whether the requester is a commercial user, an educational institution, non-commercial scientific institution, representative of the news media, or &#8220;other&#8221; requester, as those terms are defined in &#167;&#8201;1301.12(c), or in the alternative, state how the records released will be used.
+The notification letter shall advise the requester of the right to seek assistance from the FOIA Public Liaison, seek dispute resolution services offered by the Office of Government Information Services, and administratively appeal the Council's determination that no records could be located (i.e., to challenge the adequacy of the Council's search for responsive records) in accordance with &#167;&#8201;1301.11.
+The Council shall provide a submitter with prompt written notice of receipt of a request or appeal encompassing the business information of the submitter whenever required in accordance with paragraph (e) of this section.
+A requester seeking records for any other use shall be charged the full direct cost of searching for and duplicating records that are responsive to the request, as set forth in paragraph (b) of this section, except that the Council shall provide the first one hundred (100) pages of duplication and the first two hours of search time free of charge.
+
+
+# Tags
+
+['shall', 'information', 'specific request', 'record', 'fee', 'timely', 'council', 'publication', 'including', 'reason', 'provides', 'processed', 'agency', 'orders', 'services', 'foia', 'state', 'general', 'appeal', 'days', 'government', 'track', 'applicable', 'expedited', 'pursuant', 'searching', 'uses', 'set', 'seek', 'required', 'material', 'education', 'institution', 'disclosure', 'commercial', 'limits', 'notice', 'written', 'subject', 'reviewing', 'iii', 'contained', 'section', 'available', 'responsibility', 'refer', 'exempted', 'determines', 'substantially']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                        |

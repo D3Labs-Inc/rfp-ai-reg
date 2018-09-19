@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 31
 
 
+# Summary
+
+(b) In day schools in areas where there are no other adequate free school facilities available, tuition fees may be charged for such enrollment at the discretion of the superintendent or other officer in charge provided such fees shall not exceed the tuition fees allowed or charged by the State or county in which such school is located for the children admitted in the public schools of such State or county.
+There shall be no coercion of children in the matter of transfers from one school to another, but voluntary enrollment should be effected through maintenance of Federal Indian schools or programs which suit the needs and interests of the areas in which they are located.
+The plan of operation subject to the approval of authorized officials shall outline procedures and provide for a system of accounting for the student funds commensurate with the age and grade level of the students yet adequate for financial control purposes and shall stipulate the maximum operating capital of activity.
+(d) Student funds accumulated in excess of the amount authorized for operating purposes by the plan of operation shall be deposited in federally insured depositories.
+
+
+# Tags
+
+['school', 'operating', 'indian', 'shall', 'funds', 'activities', 'facilities', 'handled', 'students']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                       |

@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 377
 
 
+# Summary
+
+(b) A written request for such a Board determination shall be filed at least 60 days before the deadline set forth in &#167;&#8201;377.10 for a timely renewal application.
+(c) The filing of such a written request shall not affect the timeliness requirements for renewal applications that are set forth in &#167;&#8201;377.10 or any other applicable Board rule or order.
+(4) For renewal by substantially equivalent certificate authority of fixed term route authorizations granted by exemption and for interim extension of the exemption, pursuant to &#167;&#8201;399.18 of this chapter, the deadline is 90 days before the expiration date; and
+In the case of authorizations which constitute licenses with reference to activities of a continuing nature within the meaning of 5 U.S.C. 558(c), the filing of an application complying in all respects with the requirements of paragraphs (a) through (c) of this section shall extend the authorization to which it relates as then outstanding in its entirety, together with all applicable terms, conditions and limitations, until the application has been finally determined by the Board.
+When the Board determines that a renewal application does not comply with the requirements of this part, or that it does not relate to a license with reference to an activity of a continuing nature, it will so notify the applicant.
+
+
+# Tags
+
+['authority', 'applications', 'shall', 'route', 'board', 'filing', 'certificates', 'date', 'requirement', 'termination', 'occur']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                          |

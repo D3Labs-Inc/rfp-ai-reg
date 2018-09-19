@@ -8,6 +8,16 @@
  CFR-2018-title9-vol2.Pt. 362
 
 
+# Summary
+
+An application or request for service may be rejected, or the benefits of the service may be otherwise denied to, or withdrawn from, any person who, or whose employee or agent in the scope of his employment or agency, (i) has willfully made any misrepresentation or has committed any other fraudulent or deceptive practice in connection with any application or request for service under the regulations in this chapter; (ii) has given or attempted to give, as a loan or for any other purpose, any money, favor, or other thing of value, to any employee of the Department authorized to perform any function under the regulations in this chapter; (iii) has interfered with or obstructed, or attempted to interfere with or to obstruct, any employee of the Department in the performance of his duties under the regulations in this chapter by intimidation, threats, assaults, abuse, or any other improper means; (iv) has knowingly falsely made, issued, altered, forged, or counterfeited any official certificate, memorandum, mark, or other identification, or device for making any such mark or identification authorized or issued under this chapter; (v) has knowingly uttered, published, or used as true any such falsely made, issued, altered, forged, or counterfeited certificate, memorandum, mark, identification, or device; (vi) has knowingly obtained or retained possession of any such falsely made, issued, altered, forged, or counterfeited certificate, memorandum, mark, identification, or device, or of any carcass or poultry or product bearing any such falsely made, issued, altered, forged or counterfeited certificate, memorandum, mark, or identification; (vii) has knowingly represented that any carcass, poultry, or product has been officially inspected and passed (by an authorized inspector) under this chapter, when it had not in fact been so inspected; (viii) has, within the previous ten years, been convicted of any felony or more than one misdemeanor under any law based upon the acquiring, handling, or distributing of adulterated, mislabeled, or deceptively packaged food, or fraud in connection with transactions in food, or any felony indicating a lack of the integrity needed for the conduct of operations affecting the public health; (ix) has in any manner not specified in this paragraph violated subsection 203(h) of the Act:
+
+
+# Tags
+
+['shall', 'costs', 'inspection', 'services', 'products', 'food', 'applicant', 'poultry', 'administrative', 'persons', 'act', 'knowingly', 'operation', 'official', 'reasons', 'following', 'certificate', 'unit', 'export', 'means', 'identification', 'requires', 'water']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                         |

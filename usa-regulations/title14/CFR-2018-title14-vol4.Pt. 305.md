@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 305
 
 
+# Summary
+
+(a) The Deputy General Counsel, the DOT decisionmaker, the chief administrative law judge or the administrative law judge designated to preside at the reception of evidence, may issue a subpena directing the person named therein to appear before a designated administrative law judge at a designated time and place to testify or to produce documentary evidence relating to any matter under investigation, or both.
+Investigations shall be attended only by the witnesses and their counsel, the administrative law judge, the Investigation Attorney, other DOT personnel concerned with the conduct of the proceeding and the official stenographer.
+Any person upon whom an investigation subpena is served may, within seven (7) days after such service or at any time prior to the return date thereof, whichever is earlier, file a motion to quash or modify such subpena with the administrative law judge who issued such subpena, or in the event the administrative law judge is not available, with the chief administrative law judge for action by himself or herself or by the DOT decisionmaker.
+The DOT decisionmaker may at any time review, upon his or her own initiative, the ruling of an administrative law judge or the chief administrative law judge denying a motion to quash a subpena.
+
+
+# Tags
+
+['shall', 'investigation', 'dot', 'proceeding', 'evidence', 'persons', 'action', 'information', 'prescribed', 'stenographically', 'orders', 'general', 'thereof', 'pursuant']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                          |

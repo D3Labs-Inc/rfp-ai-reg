@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 549
 
 
+# Summary
+
+An inmate may be hospitalized in a suitable facility for psychiatric care or treatment after providing informed and voluntary consent when, in the professional medical judgment of qualified health services staff, such care or treatment is required and prescribed.
+An inmate's ability to provide informed and voluntary consent for both hospitalization in a suitable facility for psychiatric care or treatment, and administration of psychiatric medications, will be assessed by qualified health services staff and documented in the inmate's medical record.
+(7) The psychiatrist conducting the hearing must determine whether involuntary hospitalization is necessary because the inmate is presently suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility.
+(7) The psychiatrist conducting the hearing must determine whether involuntary administration of psychiatric medication is necessary because, as a result of the mental illness or disorder, the inmate is dangerous to self or others, poses a serious threat of damage to property affecting the security or orderly running of the institution, or is gravely disabled (manifested by extreme deterioration in personal functioning).
+
+
+# Tags
+
+['medication', 'inmate', 'tested', 'shall', 'procedural', 'provides', 'staff', 'bureau', 'included', 'health', 'information', 'treatment', 'hospitalization', 'evaluation', 'conducts', 'follow', 'determination', 'administration', 'care', 'service', 'food', 'subpart', 'psychiatric', 'records', 'mentally', 'reason', 'purpose', 'written', 'consent', 'initiated', 'authority', 'programming', 'person', 'approval', 'contact', 'institution', 'indicators', 'infectious diseases', 'otc', 'clinically', 'control', 'definition', 'sexually', 'exposures']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                 |

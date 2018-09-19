@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 69
 
 
+# Summary
+
+(a) The prohibition on the use of appropriated funds, in &#167;&#8201;69.100 (a), does not apply in the case of a payment of reasonable compensation made to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement if the payment is for agency and legislative liaison activities not directly related to a covered Federal action.
+(a) The prohibition on the use of appropriated funds, in &#167;&#8201;69.100 (a), does not apply in the case of any reasonable payment to a person, other than an officer or employee of a person requesting or receiving a covered Federal action, if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
+(b) The reporting requirements in &#167;&#8201;69.110 (a) and (b) regarding filing a disclosure form by each person, if required, shall not apply with respect to professional or technical services rendered directly in the preparation, submission, or negotiation of any commitment providing for the United States to insure or guarantee a loan.
+
+
+# Tags
+
+['shall', 'agency', 'included', 'means', 'service', 'federal', 'provide', 'technical', 'person', 'loan', 'report', 'government', 'circumstances', 'actions', 'state', 'section', 'specifications', 'official', 'act', 'certification', 'disclosure', 'year', 'activities', 'files', 'awarding', 'assistance', 'legal', 'related', 'required']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                             |

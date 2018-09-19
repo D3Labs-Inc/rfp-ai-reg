@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 571
 
 
+# Summary
+
+(E) If a consumer makes a telephone inquiry to a depository institution about its products or services and provides contact information to the institution, but does not obtain a product or service from or enter into a financial contract or transaction with the institution, the depository institution has a pre-existing business relationship with the consumer and can therefore use eligibility information it receives from an affiliate to make solicitations to the consumer about its products or services for three months after the date of the inquiry.
+The written agreement also requires the service provider to establish reasonable policies and procedures designed to ensure that the service provider uses the depository institution's eligibility information in accordance with specific terms and conditions established by the depository institution relating to the marketing of the products and services of all affiliates, including the insurance company.
+You must not use eligibility information about a consumer that you receive from an affiliate to make a solicitation to the consumer about your products or services, unless the consumer is provided a reasonable opportunity to opt out, as required by &#167;&#8201;571.21(a)(1)(ii) of this part.
+
+
+# Tags
+
+['information', 'consumer report', 'credit', 'provides', 'includes', 'accountability', 'notices', 'affiliated', 'medical', 'means', 'companies', 'reasons', 'creditor', 'iii', 'servicing', 'applicant', 'general', 'received', 'establish', 'insurance', 'addresses', 'period', 'institution', 'requiring', 'program', 'relationship', 'solicitations', 'opting', 'loan', 'products', 'person', 'sections', 'example', 'transaction', 'describes', 'electronic', 'payments', 'related', 'term', 'eligibility', 'use', 'debts', 'continue', 'acting', 'mails', 'furnished', 'marketed', 'requested', 'financial', 'obtain', 'disputed', 'law', 'applies', 'purposes', 'card', 'specifically', 'secure', 'income', 'associated']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                   |

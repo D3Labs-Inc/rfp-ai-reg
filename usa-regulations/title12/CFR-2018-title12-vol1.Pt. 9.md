@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 9
 
 
+# Summary
+
+Examples of ancillary activities include advertising, marketing, and soliciting for fiduciary business; contacting existing or potential customers, answering questions, and providing information about matters related to their accounts; acting as a liaison between the trust office and the customer (e.g., forwarding requests for distribution or changes in investment objectives, or forwarding forms and funds received from the customer); inspecting or maintaining custody of fiduciary assets or holding title to real property.
+(3) A stress testing report on the results of such testing to be provided to the independent risk manager or the committee responsible for the STIF's oversight that consists of members independent from the STIF's investment management that shall include: the date(s) on which the testing was performed; the magnitude of each hypothetical event that would cause the difference between the STIF's mark-to-market net asset value calculated using available market quotations (or appropriate substitutes which reflect current market conditions) and its net asset value per participating interest calculated using amortized cost to exceed $0.005; and an assessment by the bank of the STIF's ability to withstand the events (and concurrent occurrences of those events) that are reasonably likely to occur within the following year; and
+In addition to the collective investment funds authorized under paragraph (a) of this section, a national bank may collectively invest assets that it holds as fiduciary, to the extent not prohibited by applicable law, as follows:
+
+
+# Tags
+
+['shall', 'banks', 'funding', 'invest', 'fiduciary', 'security', 'include', 'activity', 'marketable', 'assets', 'account', 'state', 'iii', 'require', 'managed', 'occ', 'appropriate', 'authorities', 'audit', 'follow', 'law means', 'trust', 'providing', 'adequately', 'pursuant', 'act', 'report', 'officers', 'loans', 'date', 'customers', 'basis', 'deposit', 'related', 'liquidity', 'advisory', 'procedures', 'participants', 'specifically', 'adopted', 'portfolios', 'person', 'prior', 'value', 'federal', 'approve', 'calculate', 'agent', 'sharing', 'plan', 'written']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                |

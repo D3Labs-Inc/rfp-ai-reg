@@ -8,6 +8,18 @@
  CFR-2018-title25-vol2.Pt. 513
 
 
+# Summary
+
+Written decisions regarding salary offset that are provided after a request for hearing must state: The facts purported to evidence the nature and origin of the alleged debt; the hearing official's analysis, findings, and conclusions as to the employee's or creditor agency's grounds; the amount and validity of the alleged debt; and, where applicable, the repayment schedule.
+(b) If the Commission receives an incomplete certification from a creditor agency, the Commission will return the certification with notice that the procedures under 5 U.S.C. 5514 and 5 CFR 550.1104 must be followed and a properly certified claim submitted before the Commission will take action to collect the debt from the employee's current pay account.
+This part adopts all the provisions of the administrative wage garnishment regulations contained in 31 CFR 285.11, promulgated by Treasury, which allow Federal agencies to collect debts from a debtor's non-Federal pay by means of administrative wage garnishment authorized by 31 U.S.C. 3720D, and in 5 CFR parts 581 and 582, promulgated by the Office of Personnel Management, which provides for garnishment orders for child support and/or alimony and commercial garnishment of federal employees' pay.
+
+
+# Tags
+
+['paying', 'debts', 'collects', 'agency', 'commission', 'offsets', 'means', 'including', 'employee', 'salary', 'written', 'federal', 'statements', 'regulation', 'current', 'hearing', 'notice', 'deduction', 'administrative', 'payment', 'garnishment', 'person', 'days', 'refunds', 'matters', 'stating', 'records', 'proposal', 'assess', 'established', 'cfr', 'act', 'authorized', 'debtor']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                  |

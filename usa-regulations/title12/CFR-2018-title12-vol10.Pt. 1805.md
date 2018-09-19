@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1805
 
 
+# Summary
+
+(c) A Recipient may receive the assistance described in paragraph (b) of this section only if no other application to serve substantially the same Investment Area(s) or Targeted Population(s) that meets the requirements of &#167;&#8201;1805.701(a) was submitted to the CDFI Fund prior to the receipt of the application of said Recipient and within the current funding round.
+(10) In the case of an Applicant that has previously received assistance under the CDFI Program, the CDFI Fund also will consider the Applicant's level of success in meeting its performance goals, financial soundness covenants (if applicable), and other requirements contained in the previously negotiated and executed Assistance Agreement(s) with the CDFI Fund, the unexpended balance of assistance, and whether the Applicant will, with additional assistance from the CDFI Fund, expand its operations into a new Target Market, offer more products or services, and/or increase the volume of its activities; and
+(3) The CDFI Fund's review of the progress of an Insured CDFI, a Depository Institution Holding Company or a State-Insured Credit Union in implementing its Comprehensive Business Plan and satisfying the terms and conditions of its Assistance Agreement may also include information from the Appropriate Federal Banking Agency or Appropriate State Agency, as the case may be.
+
+
+# Tags
+
+['shall', 'applicable', 'require', 'funding', 'provides', 'assist', 'financially', 'investing', 'act means', 'communities', 'cdfi', 'availability', 'government', 'include', 'report', 'recipient', 'activities', 'areas', 'program', 'informal', 'development', 'federal', 'institution', 'state', 'insures', 'control', 'agreement', 'entity', 'service', 'non', 'pursuant', 'appropriate', 'companies', 'generally', 'loans', 'population', 'shares', 'businesses', 'addition', 'set', 'serves', 'agency', 'unions', 'award', 'described', 'record', 'indians', 'planning', 'directly', 'credit', 'submitting', 'markets', 'deposit', 'income', 'auditing', 'meet', 'geographic', 'economic', 'eligibility', 'documentation', 'omb']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

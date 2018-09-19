@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 32
 
 
+# Summary
+
+(q) Loans and extensions of credit means a national bank's or savings association's direct or indirect advance of funds to or on behalf of a borrower based on an obligation of the borrower to repay the funds or repayable from specific property pledged by or on behalf of the borrower; and any credit exposure, as determined pursuant to &#167;&#8201;32.9, arising from a derivative transaction or a securities financing transaction.
+(i) A national bank's or savings association's loans and extensions of credit to one borrower that arise from the discount of negotiable or nonnegotiable installment consumer paper, as defined at &#167;&#8201;32.2(f), that carries a full recourse endorsement or unconditional guarantee by the person selling the paper, may not exceed 10 percent of the bank's or savings association's capital and surplus in addition to the amount allowed under the bank's or savings association's combined general limit.
+This section sets forth the rules for calculating the credit exposure arising from a derivative transaction or a securities financing transaction entered into by a national bank or savings association for purposes of determining the bank's or savings association's lending limit pursuant to 12 U.S.C. 84 or 12 U.S.C. 1464(u), as applicable, and this part.
+
+
+# Tags
+
+['loans', 'credits', 'include', 'securities', 'associated', 'banks', 'limitation', 'means', 'provides', 'funded', 'transaction', 'iii', 'borrowers', 'financially', 'marketing', 'paper', 'agreement', 'person', 'lend', 'methods', 'corporate', 'shall', 'business', 'state', 'generally', 'insurance', 'applicable', 'agency', 'contract', 'similar', 'property', 'commercial', 'calculates', 'capitalized', 'collateral', 'written', 'accepting', 'federal', 'legally', 'derived', 'documents', 'purchasing', 'participation', 'eligibility', 'appropriate', 'non', 'price', 'pursuant', 'qualify', 'debts', 'entity', 'valued', 'control', 'reasons', 'officers', 'residential', 'usc', 'homes', 'companies', 'exposures', 'approve', 'deposit', 'islands', 'prior', 'guaranteed', 'determining', 'issues', 'subsequent', 'restructured']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                      |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 34
 
 
+# Summary
+
+Adjustable-rate mortgage (ARM) loan means an extension of credit made to finance or refinance the purchase of, and secured by a lien on, a one-to-four family dwelling, including a condominium unit, cooperative housing unit, or residential manufactured home, where the lender, pursuant to an agreement with the borrower, may adjust the rate of interest from time to time.
+For a transaction that does not require the services of a State certified or licensed appraiser under paragraph (a)(1), (a)(5) or (a)(7) of this section, the institution shall obtain an appropriate evaluation of real property collateral that is consistent with safe and sound banking practices.
+(1) Certified or licensed appraiser means a person who is certified or licensed by the State agency in the State in which the property that secures the transaction is located, and who performs the appraisal in conformity with the Uniform Standards of Professional Appraisal Practice and the requirements applicable to appraisers in title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, as amended (12 U.S.C. 3331 et seq.), and any implementing regulations, in effect at the time the appraiser signs the appraiser's certification.
+
+
+# Tags
+
+['appraiser', 'includes', 'bank loan', 'means', 'shall', 'state', 'transaction', 'credit', 'require', 'mortgaged', 'standards', 'property', 'amcs', 'pursuant', 'periodically', 'applicant', 'agency', 'acting', 'occ', 'federally related', 'sales', 'institutions', 'regulations', 'prices', 'market', 'documents', 'insurer', 'law', 'financial', 'estate lending', 'order', 'provides', 'leased', 'consumer', 'real', 'prior written', 'values', 'appropriate', 'reasonable', 'information', 'servicing', 'usc', 'policy', 'securities', 'creditor', 'accountable', 'homes', 'payments', 'associated', 'following', 'islands', 'based', 'purchased', 'subparts', 'limits', 'contracted', 'income', 'debts', 'residential', 'persons', 'current', 'rights', 'certificate', 'rate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                        |

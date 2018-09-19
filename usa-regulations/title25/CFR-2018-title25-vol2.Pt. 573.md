@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 573
 
 
+# Summary
+
+(a) Prior to the Chair taking an enforcement action, a letter of concern may be provided by NIGC staff, detailing concerns regarding compliance with the Act, this chapter, or any tribal ordinance or resolution approved by the Chair under part 522 of this chapter.
+Simultaneously with or subsequently to the issuance of a notice of violation under &#167;&#8201;573.3, the Chair may issue an order of temporary closure of all or part of an Indian gaming operation if one or more of the following substantial violations are present:
+(12) A gaming operation's facility is constructed, maintained, or operated in a manner that threatens the environment or the public health and safety, in violation of a tribal ordinance or resolution approved by the Chair under part 522 of this chapter.
+Within seven (7) days after service of an order of temporary closure, the respondent may request, orally or in writing, informal expedited review by the Chair.
+(3) Whether or not a respondent seeks informal expedited review under this paragraph, within thirty (30) days after the Chair serves an order of temporary closure the respondent may appeal the order to the Commission under part 584 or part 585 of this chapter.
+
+
+# Tags
+
+['shall', 'operation', 'tribal', 'violations', 'enforcement', 'voluntary', 'issue', 'information', 'time', 'games', 'concerns', 'order', 'chair']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                         |

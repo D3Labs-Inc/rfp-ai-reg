@@ -8,6 +8,21 @@
  CFR-2018-title14-vol2.Pt. 68
 
 
+# Summary
+
+(b) Upon successful completion of the medical education course, the following items must be electronically provided to the individual seeking to act as pilot in command under the conditions and limitations of &#167;&#8201;61.113(i) of this chapter and transmitted to the FAA&#8212;
+(iv) A certification by the individual that the checklist described in &#167;&#8201;68.7 was followed and signed by the physician during the medical examination required by this section; and
+The comprehensive medical examination required to conduct operations under &#167;&#8201;61.113(i) must include a checklist containing the following:
+(ii) The individual understands that he or she is prohibited under FAA regulations from acting as pilot in command, or any other capacity as a required flight crew member, if he or she knows or has reason to know of any medical deficiency or medically disqualifying condition that would make the individual unable to operate the aircraft in a safe manner; and
+(b) A section with instructions for the individual to provide the completed checklist to the State-licensed physician performing the comprehensive medical examination required under &#167;&#8201;68.5; and
+An individual who has met the qualifications to operate an aircraft under &#167;&#8201;61.113(i) of this chapter and is seeking to serve as a pilot in command under that section must have completed the process for obtaining an Authorization for Special Issuance of a Medical Certificate for each of the following:
+
+
+# Tags
+
+['medically', 'conditions', 'examinations', 'checklist', 'information', 'general', 'including', 'individual', 'iii', 'vision', 'clinical', 'identify', 'required', 'heart', 'disorder', 'neurological', 'stating', 'special', 'certificate', 'shall', 'behavior', 'number', 'physician', 'sinuses', 'xiii']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                              |

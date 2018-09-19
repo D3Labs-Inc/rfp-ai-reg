@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 61
 
 
+# Summary
+
+(1) All persons of Lower Skagit ancestry born on or prior to and living on February 18, 1975, who are lineal descendants of a member of the tribe as it existed in 1859 based on the 1919 Roblin Roll and other records acceptable to the Assistant Secretary, shall be entitled to have their names placed on the roll, to be prepared and used as the basis to distribute the judgment funds awarded the Lower Skagit Tribe in Indian Claims Commission docket 294.
+(1) All persons of Kikiallus ancestry born on or prior to and living on February 18, 1975, who are lineal descendants of a member of the tribe as it existed in 1859 based on the 1919 Roblin Roll and other records acceptable to the Assistant Secretary, shall be entitled to have their names placed on the roll, to be prepared and used as the basis to distribute the judgment funds awarded the Kikiallus Tribe in Indian Claims Commission docket 263.
+(1) All persons of Samish ancestry born on or prior to and living on December 10, 1975, who are lineal descendants of a member of the tribe as it existed in 1859 based on any records acceptable to the Secretary, shall be entitled to have their names placed on the roll to be prepared and used as the basis to distribute the judgment funds awarded the Samish Tribe in Indian Claims Commission docket 261.
+
+
+# Tags
+
+['shall', 'indian', 'applications', 'roll', 'tribes', 'persons', 'means', 'enroll', 'tribal', 'sioux', 'authorized', 'ancestry', 'notice', 'reservation', 'officer', 'legally', 'information', 'date', 'degree', 'states', 'preparation', 'claim', 'shawnee', 'superintendent', 'blood', 'pursuant', 'document', 'acting', 'band', 'eligible', 'enrollee', 'number', 'form', 'mail', 'federal agency', 'including', 'files', 'funds', 'approved', 'member', 'certificate', 'lake', 'named', 'census', 'south', 'affairs', 'established', 'furnish']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

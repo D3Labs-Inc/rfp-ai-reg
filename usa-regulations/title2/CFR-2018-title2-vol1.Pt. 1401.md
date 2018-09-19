@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 1401
 
 
+# Summary
+
+This part requires that the award and administration of the DOI grants and cooperative agreements comply with Office of Management and Budget (OMB) guidance implementing the portion of the Drug-Free Workplace Act of 1988, 41 U.S.C. 701-707, as amended (hereinafter, &#8220;the Act&#8221;) that applies to grants.
+Cooperative agreement means an award of financial assistance that, consistent with 31 U.S.C. 6305, is used to enter into the same kind of relationship as a grant (see definition of grant in section 1401.250), except that substantial involvement is expected between the Federal agency and the recipient when carrying out the activity contemplated by the award.
+Drug-free workplace means a site for the performance of work done in connection with a specific award at which employees of the recipient are prohibited from engaging in the unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance.
+(2) Require the employee to participate satisfactorily in a drug abuse assistance or rehabilitation program approved for these purposes by a Federal, State or local health, law enforcement, or other appropriate agency.
+To obtain a recipient's agreement to comply with applicable requirements in the OMB guidance at 2 CFR part 182, you must include the following term or condition in the award:
+
+
+# Tags
+
+['awards', 'including', 'federal', 'workplaces', 'means', 'drug', 'states', 'required', 'employee', 'government', 'assistance', 'recipients', 'actions', 'doi grants', 'agency', 'authorized', 'dispensing', 'program', 'statute', 'regulatory', 'offices', 'direct']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                          |

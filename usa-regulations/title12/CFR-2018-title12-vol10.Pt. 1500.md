@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1500
 
 
+# Summary
+
+For purposes of paragraph (e) of this section, a financial holding company includes a financial subsidiary held in accordance with section 5136A of the Revised Statutes (12 U.S.C. 24a) or section 46 of the Federal Deposit Insurance Act (12 U.S.C. 1831w), and a subsidiary that is a small business investment company and that is held in accordance with the Small Business Investment Act (15 U.S.C. 661 et seq.), and such a subsidiary may, in accordance with the limitations set forth in this section, routinely manage or operate a portfolio company in which an affiliated company owns or controls an interest under this part.
+A financial holding company may own or control shares, assets and ownership interests pursuant to this part only for a period of time to enable the sale or disposition thereof on a reasonable basis consistent with the financial viability of the financial holding company's merchant banking investment activities.
+(A) Higher than the maximum marginal Tier 1 capital charge applicable under the Board's capital adequacy rules or guidelines (see 12 CFR 225 appendix A) to merchant banking investments held by that financial holding company; and
+A private equity fund that is controlled by a financial holding company may not routinely manage or operate a portfolio company, except as permitted under &#167;&#8201;1500.2(e).
+(2) Any shares, assets or ownership interests of which are held, owned or controlled directly or indirectly by the financial holding company pursuant to this part, including through a private equity fund that the financial holding company controls.
+
+
+# Tags
+
+['companies', 'investing', 'includes', 'manages', 'securities', 'controlled', 'limitations', 'iii', 'capital', 'officers', 'interests', 'holding', 'periods', 'board', 'governing', 'policies', 'records', 'subsidiary', 'apply', 'shares', 'bank', 'acting', 'provides', 'require', 'financial', 'routinely', 'insurance', 'fund']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                    |

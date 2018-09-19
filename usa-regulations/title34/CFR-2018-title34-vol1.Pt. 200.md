@@ -8,6 +8,18 @@
  CFR-2018-title34-vol1.Pt. 200
 
 
+# Summary
+
+(1) Except as provided in paragraph (j)(2) of this section, a State is not required to assess, using an assessment written in English, student achievement in meeting the challenging State academic standards in reading/language arts, mathematics, or science for a student who is enrolled in a school or program that provides instruction primarily in a Native American language if&#8212;
+(9) Provide an unbiased, rational, and consistent determination of progress toward the State's long-term goals for academic achievement under section 1111(c)(4)(A) of the Act for all students and each subgroup of students described in section 1111(c)(2) of the Act and a comparable measure of student performance on the Academic Achievement indicator under section 1111(c)(4)(B) of the Act for participating schools relative to non-participating schools so that the SEA may validly and reliably aggregate data from the system for purposes of meeting requirements for&#8212;
+(3) The strategies the SEA will use to ensure that all students and each subgroup of students under section 1111(c)(2) of the Act in participating schools receive the support, including appropriate accommodations consistent with &#167;&#8201;200.6(b) and (f)(1)(i) and section 1111(b)(2)(B)(vii) of the Act, needed to meet the challenging State academic standards under section 1111(b)(1) of the Act; and
+
+
+# Tags
+
+['school students', 'including', 'states', 'providers', 'leas', 'consistently', 'program', 'iii', 'requirements', 'years', 'education', 'informs', 'meaning', 'academically', 'seas', 'assessment scores', 'data', 'determining', 'parents', 'base', 'service', 'teacher', 'achieved', 'plans', 'children', 'acting', 'locally', 'funds', 'standards', 'described', 'followed', 'section', 'use', 'eligible', 'develops', 'applications', 'participating', 'supports', 'appropriately', 'instructing', 'measures', 'publicize', 'annually', 'level', 'active', 'improvement', 'identify', 'implementation', 'assisting', 'authorized', 'demonstration', 'receiver', 'statewide', 'english', 'time', 'reports', 'periodic', 'need', 'technical', 'establishment', 'grade', 'proficient', 'addition', 'allocated', 'available', 'accountability', 'child', 'approved', 'supplemental', 'alternate', 'progress', 'effectively', 'agency', 'sufficient', 'reasonably', 'specifications', 'subject', 'continuation', 'languages', 'result', 'recorded', 'responsibility', 'disabilities', 'working', 'esea', 'secretary', 'meets', 'requests', 'families', 'high', 'rates', 'notice', 'written', 'individual', 'populations', 'validate', 'shall', 'mep', 'quality', 'federal', 'professional', 'organization', 'terms']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

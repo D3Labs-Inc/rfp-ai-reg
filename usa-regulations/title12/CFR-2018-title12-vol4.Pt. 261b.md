@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 261b
 
 
+# Summary
+
+(e) Immediately following each public announcement required by this section, notice of the time, place and subject matter of a meeting, whether the meeting is open or closed, any change in one of the preceding announcements and the name and telephone number of the official designated by the Board to respond to requests about the meeting, shall also be submitted for publication in the Federal Register.
+(c) A copy of the vote, reflecting the vote of each member, and except to the extent such information is determined to be exempt from disclosure under &#167;&#8201;261b.5, a public announcement of the time, place and subject matter of the meeting or each closed portion thereof, will be made available at the earliest practicable time at the Board's Public Affairs Office and Freedom of Information Office.
+(a) A meeting or a portion of a meeting will be closed to public observation under regular procedures, or information as to such meeting or portion of a meeting will be withheld only by recorded vote of a majority of the members of the agency when it is determined that the meeting or the portion of the meeting or the withholding of information qualifies for exemption under &#167;&#8201;261b.5.
+
+
+# Tags
+
+['agency', 'information', 'meeting', 'shall', 'matter', 'member bank', 'disclose', 'board', 'public', 'pursuant', 'recordings', 'acting', 'announcements', 'term', 'time', 'action', 'votes', 'observe', 'documents', 'specifically', 'enforcement', 'written', 'practices', 'copy', 'requirement', 'investigative', 'procedure']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                              |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 330
 
 
+# Summary
+
+Exception: Despite the general requirement in this paragraph (a), if more than one natural person has the right to withdraw funds from an individual account (excluding persons who have the right to withdraw by virtue of a Power of Attorney), the account shall be treated as a joint ownership account (although not necessarily a qualifying joint account) and shall be insured in accordance with the provisions of &#167;&#8201;330.9, unless the deposit account records clearly indicate, to the satisfaction of the FDIC, that the funds are owned by one individual and that other signatories on the account are merely authorized to withdraw funds on behalf of the owner.
+Except as provided in paragraph (e) of this section, the funds owned by an individual and deposited into one or more accounts with respect to which the owner evidences an intention that upon his or her death the funds shall belong to one or more beneficiaries shall be separately insured (from other types of accounts the owner has at the same insured depository institution) in an amount equal to the total number of different beneficiaries named in the account(s) multiplied by the SMDIA.
+(g) For deposit accounts held in connection with a living trust that provides for a life-estate interest for designated beneficiaries, the FDIC shall value each such life estate interest as the SMDIA for purposes of determining the insurance coverage available to the account owner under paragraph (e) of this section.
+
+
+# Tags
+
+['deposit', 'trusts', 'association shall', 'authorizing accounts', 'funds', 'insured', 'includes', 'plan', 'coverage', 'beneficiary', 'stated', 'ownership', 'institutions', 'banking', 'owners', 'means', 'negotiation', 'owning', 'acting', 'times', 'terms', 'total', 'provides', 'example', 'records', 'employee', 'interests', 'islands', 'persons', 'corporation', 'joint', 'estates', 'rules', 'period', 'payments', 'individual', 'depositor', 'requires', 'separately', 'custodian', 'revocable', 'agents', 'instrumentality', 'indicate', 'regulations', 'evidence', 'purpose', 'balances', 'aggregation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

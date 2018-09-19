@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1236
 
 
+# Summary
+
+A regulated entity that is operating in accordance with an approved corrective plan may submit a written request to FHFA to amend the plan as necessary to reflect any changes in circumstance.
+If a regulated entity that has failed to submit an acceptable corrective plan or has failed in any material respect to implement or otherwise comply with an approved corrective plan, also has experienced extraordinary growth, FHFA shall impose at least one of the sanctions listed in paragraph (a) of this section, consistently with the requirements of 12 U.S.C. 4513b(b)(3).
+Except as provided in paragraph (c)(4) of this section, FHFA will notify a regulated entity in writing of its intent to issue an order requiring the regulated entity to correct its failure to submit or its failure in any material respect to implement or otherwise comply with an approved corrective plan.
+A regulated entity may file a written response to a notice of intent to issue an order, which must be delivered to FHFA within fourteen (14) calendar days of the date of the notice, unless FHFA determines that a different time period is appropriate in light of the safety and soundness of the regulated entity or other relevant circumstances.
+
+
+# Tags
+
+['fhfa', 'ordered', 'standard', 'plans', 'entities', 'requiring', 'shall', 'inform', 'calendar', 'capital', 'correct', 'approves', 'filed', 'responsibilities']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                         |

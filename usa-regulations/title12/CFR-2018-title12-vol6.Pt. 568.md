@@ -8,6 +8,22 @@
  CFR-2018-title12-vol6.Pt. 568
 
 
+# Summary
+
+It requires each savings association to adopt appropriate security procedures to discourage robberies, burglaries, and larcenies and to assist in the identification and prosecution of persons who commit such acts.
+Section 568.5 of this part is applicable to savings associations and their subsidiaries (except brokers, dealers, persons providing insurance, investment companies, and investment advisers).
+Section 568.5 of this part requires covered institutions to establish and implement appropriate administrative, technical, and physical safeguards to protect the security, confidentiality, and integrity of customer information.
+(3) Provide for initial and periodic training of officers and employees in their responsibilities under the security program and in proper employee conduct during and after a burglary, robbery, or larceny; and
+(4) An alarm system or other appropriate device for promptly notifying the nearest responsible law enforcement officers of an attempted or perpetrated robbery or burglary; and
+The security officer for each savings association shall report at least annually to the association's board of directors on the implementation, administration, and effectiveness of the security program.
+Savings associations and their subsidiaries (except brokers, dealers, persons providing insurance, investment companies, and investment advisers) must comply with the Interagency Guidelines Establishing Information Security Standards set forth in appendix B to part 570 of this chapter.
+
+
+# Tags
+
+['secure', 'appropriate', 'offices', 'provide', 'establishing', 'acts', 'robbery', 'persons', 'shall', 'devices', 'protecting', 'reporting']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                      |

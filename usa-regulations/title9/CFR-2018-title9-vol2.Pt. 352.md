@@ -8,6 +8,22 @@
  CFR-2018-title9-vol2.Pt. 352
 
 
+# Summary
+
+An application for inspection service to be rendered in an official exotic animal establishment shall be approved in accordance with the provisions contained in &#167;&#167;&#8201;304.1 and 304.2 of subchapter A of this chapter.
+(a) An initial application for field ante-mortem exotic animal inspection service shall be made by an official exotic animal establishment to the Regional Director.
+The official exotic animal establishment on behalf of the applicant shall notify the Regional Director or designee, in advance, of the hours when such inspection is desired.
+Inspection personnel shall have access at all times to every part of any field ante-mortem inspection area and/or official exotic animal establishment to which they are assigned.
+Reports of the work of inspection carried on within the field ante-mortem inspection area of an exotic animal producer's premises and/or official exotic animal establishment shall be forwarded to the Administrator by the ante-mortem inspector.
+Humane handling of an exotic animal during ante-mortem inspection shall be in accordance with the provisions contained in 9 CFR 313.2.
+FSIS may deny or withdraw ante-mortem inspection services at official establishments that slaughter horses for any applicable reason under &#167;&#8201;352.6.
+
+
+# Tags
+
+['shall', 'means', 'inspection', 'animal', 'applicant', 'exotic', 'establishment', 'products', 'services', 'ante', 'carcasses', 'approval', 'included', 'labeling', 'official', 'operating', 'reason', 'stamp', 'administrative', 'buffalo', 'follows', 'director', 'circumstance', 'provided', 'person', 'marking', 'times', 'area', 'branding', 'meat', 'field', 'passed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                         |

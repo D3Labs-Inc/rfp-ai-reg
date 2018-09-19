@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 195
 
 
+# Summary
+
+(3) A savings association may ask the appropriate Federal banking agency to consider loans originated or purchased by consortia in which the savings association participates or by third parties in which the savings association has invested only if the loans meet the definition of community development loans and only in accordance with paragraph (d) of this section.
+A savings association that elects to have the appropriate Federal banking agency consider loans by an affiliate, for purposes of the lending or community development test or an approved strategic plan, shall collect, maintain, and report for those loans the data that the savings association would have collected, maintained, and reported pursuant to paragraphs (a), (b), and (c) of this section had the loans been originated or purchased by the savings association.
+A savings association that elects to have the appropriate Federal banking agency consider community development loans by a consortium or third party, for purposes of the lending or community development tests or an approved strategic plan, shall report for those loans the data that the savings association would have reported under paragraph (b)(2) of this section had the loans been originated or purchased by the savings association.
+
+
+# Tags
+
+['loans', 'associations', 'including', 'shall', 'agency', 'plans', 'performance', 'community', 'lending', 'areas', 'income', 'data', 'act', 'information', 'credit', 'savings', 'geography', 'publication', 'means', 'activities', 'services', 'provides', 'businesses', 'branches', 'assesses', 'report', 'investments', 'development', 'institution', 'low', 'generally', 'deposit', 'small', 'financial', 'year', 'bank', 'annually', 'applicable', 'tests', 'state', 'considered', 'section', 'housing', 'consumer', 'follows', 'satisfactory', 'based', 'require', 'substantial', 'owned', 'approve']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                           |

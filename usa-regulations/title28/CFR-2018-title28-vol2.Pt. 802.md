@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 802
 
 
+# Summary
+
+(f) Confidential commercial information means records provided to the government by a submitter that arguably contain material exempt from release under Exemption 4 of the Freedom of Information Act, 5 U.S.C. 552(b)(4), because disclosure could reasonably be expected to cause substantial competitive harm.
+(3) A specified disclosure date which is not less than five (5) days (exclusive of Saturdays, Sundays, and legal public holidays) after the notice of the final decision to release the requested information has been mailed to the submitter.
+If a document contains information exempt from disclosure under the Privacy Act, any reasonably segregable portion of the record will be provided to the requester after deletion of the exempt portions.
+(iii) From subsection (d), (e)(4)(G) through (e)(4)(I), (f) and (g) because exemption from this subsection is essential to protect internal processes by which CSOSA/PSA personnel are able to formulate decisions and policies with regard to defendants/offenders, to prevent disclosure of information to defendants/offenders that would jeopardize legitimate correctional interests of rehabilitation, and to permit receipt of relevant information from other federal agencies, state and local law enforcement agencies, and federal and state probation and judicial offices.
+
+
+# Tags
+
+['record', 'information', 'requesters', 'agency', 'shall', 'investigative', 'csosa', 'including', 'means', 'provides', 'fee', 'timely', 'appeals', 'foia', 'reason', 'specifically', 'public', 'act', 'exemption', 'administration', 'services', 'require', 'disclosure', 'iii', 'authority', 'follows', 'determination', 'official', 'searching', 'persons', 'processed', 'materials', 'federal', 'access', 'stating', 'concerns', 'psa', 'purpose', 'duplicating', 'pursuant', 'counsel', 'days', 'officer', 'exceptional circumstances', 'court', 'law', 'expedited', 'employee', 'charge', 'enforceable', 'business', 'limited', 'orders', 'costs', 'criminal', 'relevancy', 'notice', 'written', 'policies', 'individual', 'procedures', 'correctional', 'confidential', 'responsibility', 'staff']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                            |

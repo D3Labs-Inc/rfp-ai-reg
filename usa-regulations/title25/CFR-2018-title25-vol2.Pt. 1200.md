@@ -8,6 +8,21 @@
  CFR-2018-title25-vol2.Pt. 1200
 
 
+# Summary
+
+(b) Information collected in &#167;&#8201;1200.13 (How does a tribe apply to withdraw funds?) will be used to determine the eligibility of applicants, and the capability of tribes or their contractors to manage and invest large blocks of funds.
+(a) Proof that the tribe has notified its members of its intent to remove funds from trust and that, when the request is approved, the tribe and not the United States Government will be liable for funds management.
+(a) If a tribe has withdrawn funds under an approved tribal management plan and wishes to withdraw additional funds that will be managed under the same plan, it need not submit a complete new application.
+Yes. If a tribe wishes to withdraw redeposited funds from Federal trust status, it must submit a written request to do so, accompanied by a new resolution and any revisions it wishes to make in its original management plan.
+(a) We will provide direct or contract technical assistance, in accordance with appropriations availability to tribes for developing, implementing, and managing Indian trust fund investment plans.
+(b) We may award grants to tribes for developing and implementing plans for investing Indian tribal trust funds.
+
+
+# Tags
+
+['funding', 'investment', 'tribal', 'indian tribes', 'management', 'plan', 'include', 'means', 'approved', 'provide', 'government', 'appropriated', 'acts', 'resolution', 'trust', 'information', 'officer', 'security applications', 'agreement', 'technical assistance', 'requests', 'audit', 'custodian', 'available', 'iii', 'asset', 'account', 'transfers', 'dollar', 'adequately', 'agency', 'federal', 'required', 'claims']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                    |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1403
 
 
+# Summary
+
+(b) Individuals shall submit their requests in writing to the Privacy Act Officer, Farm Credit System Insurance Corporation, McLean, Virginia 22102-0826, when seeking to obtain the following information from the Farm Credit System Insurance Corporation:
+(a) The Privacy Act Officer shall, within a reasonable period of time after the date of receipt of a request for information of records:
+(b) If access to a record is denied because the information therein has been compiled by the Farm Credit System Insurance Corporation in reasonable anticipation of a civil or criminal action proceeding, the Privacy Act Officer shall notify the requester of that person's right to judicial appeal under 5 U.S.C. 552a(g).
+(d) If the record is to be made available for personal inspection, the requester shall arrange with the Privacy Act Officer a mutually agreeable time in the offices of the Farm Credit System Insurance Corporation for inspection of the record.
+(a) Not more than 10 days (excluding Saturdays, Sundays, and legal holidays) after receipt by an individual of an adverse determination on the individual's request to amend a record or otherwise, the individual may appeal to the Chief Operating Officer, Farm Credit System Insurance Corporation, McLean, Virginia 22102-0826.
+
+
+# Tags
+
+['records', 'shall', 'requested', 'office', 'individuals', 'agency', 'corporation', 'statement', 'legal', 'timely', 'inform', 'reason', 'maintained', 'action', 'identifying', 'determine', 'criminal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                              |

@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 104
 
 
+# Summary
+
+(a) Political committees shall report the full name and mailing address of each person to whom an expenditure in an aggregate amount or value in excess of $200 within the calendar year (or within the election cycle, in the case of an authorized committee) is made from the reporting political committee's federal account(s), together with the date, amount and purpose of such expenditure, in accordance with paragraph (b) of this section.
+(d) For reports covering activity on or before March 31, 2003, national party committees shall report in a memo Schedule B the full name and mailing address of each person to whom a disbursement in an aggregate amount or value in excess of $200 within the calendar year is made from the committee's building fund account(s), together with the date, amount, and purpose of such disbursement, in accordance with paragraph (b) of this section.
+In each report disclosing a disbursement for administrative expenses, generic voter drives, or public communications that refer to any political party, but do not refer to any clearly identified candidates, as described in 11 CFR 106.6(b)(1)(i), (b)(1)(iii) and (b)(1)(iv), as applicable, the committee shall state the allocation ratio to be applied to each category of activity according to 11 CFR 106.6(c).
+
+
+# Tags
+
+['shall', 'report', 'committees', 'files', 'including', 'contributes', 'elections', 'candidates', 'persons', 'loan', 'statements', 'means', 'iii', 'federal', 'requirements', 'aggregating', 'disbursement', 'communication', 'cfr', 'allocations', 'expenditures', 'covering', 'follows', 'expense', 'periods', 'year', 'activities', 'record', 'totals', 'state', 'organized', 'written', 'account credit', 'receive', 'contributors', 'political', 'form', 'usc', 'sections', 'information', 'itemized', 'days', 'banks', 'dates', 'copied', 'identifying', 'pursuant', 'costs', 'timely', 'purpose', 'schedules', 'mailed', 'amounts', 'makes', 'offices', 'related', 'separately', 'establishes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                              |

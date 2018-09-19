@@ -8,6 +8,20 @@
  CFR-2018-title34-vol2.Pt. 373
 
 
+# Summary
+
+(3) For purposes of paragraph (2) of this definition, projects that carry out services or activities pertaining to Title V of the Act must also meet the requirements for &#8220;an individual with a disability&#8221; in section 7(20)(c) through (e) of the Act, as applicable.
+(a)(1) For projects that provide rehabilitation services or activities to expand and improve the provision of rehabilitation services and other services authorized under Titles I, III, and VI of the Act, individuals are eligible who meet the definition in paragraph (a) of an &#8220;individual with a disability&#8221; as stated in &#167;&#8201;373.4.
+(3) For projects that provide other services or activities that further the purposes of the Act, individuals are eligible who meet the definition in paragraph (b) of an &#8220;individual with a disability&#8221; as stated in &#167;&#8201;373.4.
+(2) Supported employment, including community-based supported employment programs to meet the needs of individuals with the most significant disabilities or to provide technical assistance to States and community organizations to improve and expand the provision of supported employment services.
+(1) Expansion of employment opportunities for individuals with disabilities, as authorized in paragraph(s) of the definition of &#8220;vocational rehabilitation services&#8221; as stated in &#167;&#8201;373.4.
+
+
+# Tags
+
+['services', 'disability', 'including', 'individual', 'employers', 'require', 'costs', 'rehabilitation', 'job', 'active', 'programs', 'projects', 'cfr', 'competitive', 'assistance', 'educational', 'provided', 'act', 'vocational', 'informed', 'secretary', 'business', 'outcomes', 'applicant', 'communication', 'federally', 'follows', 'injury', 'priorities', 'directly', 'support', 'limits', 'related', 'means', 'awards', 'regulations', 'grant', 'organizations', 'substantial', 'based']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                            |

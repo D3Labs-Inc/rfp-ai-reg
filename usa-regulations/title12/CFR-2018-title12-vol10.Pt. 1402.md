@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1402
 
 
+# Summary
+
+A member of the public who requests records from the Farm Credit System Insurance Corporation shall provide a reasonable description of the records sought including, where possible, specific information as to dates, titles, and subject matter, so that such records may be located without undue search or inquiry.
+(b) The Farm Credit System Insurance Corporation shall charge fees for records requested by representatives of the news media in an amount which equals the cost of reproducing the documents responsive to the request, excluding the costs of reproducing the first 100 pages.
+(c) The Farm Credit System Insurance Corporation shall charge fees for records requested by persons or entities making a commercial use request in an amount that equals the full direct costs for searching for, reviewing for release, and reproducing the records sought.
+(d) The Farm Credit System Insurance Corporation shall charge fees for records requested by persons or entities that are not classified in any of the categories listed in paragraphs (a), (b), or (c) of this section in an amount that equals the full reasonable direct cost of searching for and reproducing records that are responsive to the request, excluding the first 2 hours of search time and the cost of reproducing the first 100 pages of records.
+
+
+# Tags
+
+['shall', 'requested', 'information', 'records', 'public', 'fee', 'includes', 'reason', 'provides', 'corporation', 'search', 'documentation', 'mean', 'notice', 'disclosure', 'timely', 'new', 'agency', 'day', 'reviewed', 'seeking', 'business', 'institutions', 'specifically', 'costs', 'charges', 'operating', 'process', 'personnel', 'commercial', 'copying', 'persons', 'contained', 'actually', 'current', 'faith', 'order', 'educational', 'category', 'enforcement', 'national', 'methods', 'appeal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                          |

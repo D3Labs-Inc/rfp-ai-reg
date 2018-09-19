@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 272
 
 
+# Summary
+
+(b) During any period the Department requires an air carrier or Freely Associated State Air Carrier to maintain a level of service proposed to be terminated, suspended or reduced, following the filing of a 90 day notice in accordance with &#167;&#8201;272.7, the Department will provide for the payment of compensation to such carrier for any losses incurred by that carrier as a result of such required continuation of service in accordance with the procedures set forth in part 271 of this chapter.
+(b) To the extent the carrier or carriers upon whom the conditions are imposed pursuant to paragraph (a) of this section do not hold a certificate, permit, or other authority from the Department that may be amended to effectively implement the specified conditions, the Department may notify the Government(s) of the Freely Associated States concerned that the imposition of such conditions on those carriers by those Governments shall be a precondition to the payment of the subsidy compensation required to maintain essential air service in the market in question.
+(c) The Department may withhold or suspend its provision for the payment of subsidy compensation required to maintain essential air service unless and until the Freely Associated State(s) concerned take the necessary action to impose the specified conditions on the carriers referred to in paragraph (b) of this section, and those carriers have complied with the specified conditions.
+
+
+# Tags
+
+['shall', 'services', 'carrier', 'states', 'place', 'essential air', 'providing', 'department', 'conditions', 'determine', 'compensation', 'section', 'applications']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                       |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 167
 
 
+# Summary
+
+Where a Federal savings association holds a residual interest (including a credit-enhancing interest-only strip) and another recourse obligation in connection with the same transfer of assets, the savings association must maintain risk-based capital equal to the greater of:
+If a recourse obligation, direct credit substitute, residual interest, or asset- or mortgage-backed security is not rated by an NRSRO, but is senior or preferred in all features to a traded position (including collateralization and maturity), the savings association may risk-weight the face amount of the senior position under paragraph (b)(3)(i) of this section, based on the rating of the traded position, subject to supervisory guidance.
+If an asset is included in the calculation of the risk-based capital requirement under this paragraph (b) and also appears as an asset on the savings association's balance sheet, the savings association must risk-weight the asset only under this paragraph (b), except in the case of loan servicing assets and similar arrangements with embedded recourse obligations or direct credit substitutes.
+In that case, the savings association must separately risk-weight the on-balance sheet servicing asset and the related recourse obligations and direct credit substitutes under this section, and incorporate these amounts into the risk-based capital calculation.
+
+
+# Tags
+
+['credited', 'capitalized', 'asset', 'includes', 'associated', 'terms', 'means', 'loan', 'internal risk', 'shall', 'rate', 'iii', 'positive', 'requiring', 'bank', 'sections', 'issuing', 'purchase', 'securities', 'financial', 'servicing', 'obligate', 'investment', 'contracted', 'debts', 'provide', 'federally', 'holding', 'mortgage', 'based', 'instrumentality', 'transaction', 'deposit', 'losses', 'netting', 'qualified', 'retained', 'basis', 'maturing', 'relation', 'stated', 'occ', 'liquidity', 'programs', 'generates', 'business', 'period', 'accounts', 'purpose', 'party', 'lends', 'limits', 'institution', 'facilities', 'determines', 'projection', 'recourse', 'home equity', 'subsidiaries', 'similar', 'funded', 'tax', 'cash', 'times', 'property', 'collateralized', 'future', 'plans', 'standards', 'subject', 'year', 'reports', 'values', 'actions', 'minimum', 'marketable', 'saving', 'immediately', 'currencies', 'individual', 'exposure', 'current', 'written', 'assign']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

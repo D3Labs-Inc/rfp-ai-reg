@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 261
 
 
+# Summary
+
+(ii) The certified public accountants or legal counsel shall not disclose the confidential supervisory information for any purpose without the prior written approval of the Board's General Counsel except as necessary to provide advice to the supervised financial institution, its parent bank holding company, or the officers, directors, and employees of such supervised financial institution and parent bank holding company.
+Federal, state, and local law enforcement agencies and other nonfinancial institution supervisory agencies may file written requests with the Board for access to confidential documents and information under this section of the regulation.
+To obtain access to confidential documents or information under this section of the regulation, the head of the law enforcement agency or nonfinancial institution supervisory agency (or their designees) shall address a letter request to the Board's General Counsel, specifying:
+Any other person (except agencies identified in &#167;&#167;&#8201;261.20 and 261.21 of this regulation) seeking access to confidential supervisory information for any other purpose shall file a written request with the General Counsel of the Board.
+
+
+# Tags
+
+['information', 'requester', 'shall', 'board', 'include', 'confidential', 'publicize', 'acting', 'fees', 'record', 'banks', 'processing', 'orders', 'agency', 'persons', 'pursuant', 'report', 'provides', 'written', 'times', 'generally', 'documentation', 'statements', 'reason', 'disclosures', 'administrative', 'section', 'institution', 'authorities', 'file', 'federal', 'responsible', 'uses', 'procedures', 'officers', 'form', 'seek', 'service', 'identifiable', 'particular', 'search', 'law', 'action', 'contain', 'state', 'availability', 'determining', 'circumstances', 'education', 'appropriate', 'commercial', 'materials', 'facts', 'exempt', 'appealing', 'staff', 'employee', 'issue', 'notice', 'charges', 'operating', 'examination']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                   |

@@ -8,6 +8,17 @@
  CFR-2018-title11-vol1.Pt. 100
 
 
+# Summary
+
+(a) The payment by a candidate for any public office (including State or local office), or by such candidate's authorized committee, of the costs of that candidate's campaign materials that include information on or any reference to a candidate for Federal office and that are used in connection with volunteer activities (such as pins, bumper stickers, handbills, brochures, posters, and yard signs) is not a contribution to such candidate for Federal office, provided that the payment is not for the use of broadcasting, newspapers, magazines, billboards, direct mail or similar types of general public communication or political advertising.
+The payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of the Presidential and Vice Presidential nominee(s) of that party is not an expenditure for the purpose of influencing the election of such candidates provided that the following conditions are met:
+
+
+# Tags
+
+['candidate', 'including', 'shall', 'committee', 'means', 'elections', 'active', 'service', 'providing', 'states', 'usc', 'payment', 'contributed', 'section', 'expenditures', 'federally', 'personal', 'travelers', 'individual', 'account communicated', 'party', 'funds', 'officers', 'organization', 'commercially', 'terms', 'loaned', 'general', 'voter', 'reasonably', 'aircraft', 'nation', 'campaign', 'timely', 'mailing', 'costs', 'filed', 'local', 'sharing', 'government', 'receive', 'membership', 'days', 'documents', 'broadcasting', 'cfr', 'uses', 'publicize', 'pursuant', 'requirements', 'amounts', 'associated', 'informing', 'political', 'similar', 'rates', 'basis', 'establishment', 'fundraiser', 'dates', 'expenses', 'owned', 'direct', 'ballot', 'distributed', 'operator', 'pays', 'member', 'voting', 'report', 'follows', 'making', 'volunteers', 'labor', 'described', 'employee', 'telephone', 'internet', 'repayment', 'materials']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol5.Pt. 346
 
 
+# Summary
+
+A NGEP discusses with an insured depository institution or affiliate whether particular loans, services, investments, community development activities, or other activities are generally eligible for consideration by a Federal banking agency under the CRA.
+In responding to a request for a covered agreement from any individual or entity under paragraph (b)(1) of this section, a NGEP, insured depository institution, or affiliate may withhold from public disclosure confidential or proprietary information that the party believes the relevant supervisory agency could withhold from disclosure under the Freedom of Information Act (5 U.S.C. 552 et seq.) (FOIA).
+(ii) The obligation of an insured depository institution or affiliate to provide a covered agreement to the relevant supervisory agency under this paragraph (d)(2) terminates 36 months after the end of the term of the agreement.
+Each NGEP and each insured depository institution or affiliate that is a party to a covered agreement must file an annual report with each relevant supervisory agency concerning the disbursement, receipt, and uses of funds or other resources under the covered agreement.
+(iii) The aggregate amount of payments, aggregate amount of fees, and aggregate amount of loans provided by the insured depository institution or affiliate under the covered agreement to any other party to the agreement during the fiscal year;
+
+
+# Tags
+
+['agreements', 'loans', 'institutions', 'ngep', 'informing', 'communication', 'reporting', 'general', 'provides', 'filings', 'insurance', 'organization', 'affiliates', 'cra', 'included', 'years', 'following', 'state', 'written', 'section', 'iii', 'business', 'agency', 'concerning', 'requirement', 'public', 'federal', 'expenses', 'company', 'purpose', 'makes', 'bank', 'release', 'services', 'annual', 'terminates', 'examples', 'receive', 'act', 'parties']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                         |

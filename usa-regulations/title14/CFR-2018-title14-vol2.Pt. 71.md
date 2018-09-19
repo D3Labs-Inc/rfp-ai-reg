@@ -8,6 +8,20 @@
  CFR-2018-title14-vol2.Pt. 71
 
 
+# Summary
+
+A listing for Class A, B, C, D, and E airspace areas; air traffic service routes; and reporting points can be found in FAA Order 7400.11B, Airspace Designations and Reporting Points, dated August 3, 2017.
+During the incorporation by reference period, proposed changes to the listings of Class A, B, C, D, and E airspace areas; air traffic service routes; and reporting points will be published in full text as proposed rule documents in the Federal Register.
+Amendments to the listings of Class A, B, C, D, and E airspace areas; air traffic service routes; and reporting points will be published in full text as final rules in the Federal Register.
+The airspace descriptions contained in &#167;&#8201;71.33 and the routes contained in subpart A of FAA Order 7400.11B (incorporated by reference, see &#167;&#8201;71.1) are designated as Class A airspace within which all pilots and aircraft are subject to the rating requirements, operating rules, and equipment requirements of part 91 of this chapter.
+The Class B airspace areas listed in subpart B of FAA Order 7400.11B (incorporated by reference, see &#167;&#8201;71.1) consist of specified airspace within which all aircraft operators are subject to the minimum pilot qualification requirements, operating rules, and aircraft equipment requirements of part 91 of this chapter.
+
+
+# Tags
+
+['airspace', 'federal', 'areas', 'route', 'rule', 'faa', 'airways', 'navigational', 'specified', 'requirements', 'administration', 'class', 'extend']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                  |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1233
 
 
+# Summary
+
+The purpose of this part is to implement the Safety and Soundness Act by requiring each regulated entity to report to FHFA upon discovery that it has purchased or sold a fraudulent loan or financial instrument, or suspects a possible fraud relating to the purchase or sale of any loan or financial instrument.
+(1) A regulated entity shall submit to the Director a timely written report upon discovery by the regulated entity that it has purchased or sold a fraudulent loan or financial instrument, or suspects a possible fraud relating to the purchase or sale of any loan or financial instrument.
+Each regulated entity shall establish and maintain adequate and efficient internal controls, policies, procedures, and an operational training program to discover and report fraud or possible fraud in connection with the purchase or sale of any loan or financial instrument.
+The examination by FHFA of fraud reporting programs of each regulated entity includes an evaluation of the effectiveness of the internal controls, policies, procedures, and operational training program in place to minimize risks from fraud and to report fraud or possible fraud to FHFA in accordance with this regulation.
+
+
+# Tags
+
+['report', 'including', 'bank shall', 'fraud', 'entity', 'written', 'action', 'law', 'programs', 'affiliate', 'information', 'agreement', 'definitions']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                 |

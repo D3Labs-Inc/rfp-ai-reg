@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 310
 
 
+# Summary
+
+(4) The circuit supervisor may allow the use of any alternate method proposed by the operator of an official establishment for handling the type of devices described in paragraph (b)(2) of this section if such alternate method would provide a ready means of identifying a specific carcass with the corresponding devices by a Program inspector during the post-mortem inspection.
+(2) Establishments that slaughter cattle and establishments that process the carcasses or parts of cattle must take appropriate corrective action when either the establishment or FSIS determines that the establishment's procedures for the removal, segregation, and disposition of specified risk materials, or the implementation or maintenance of these procedures, have failed to ensure that specified risk materials are adequately and effectively removed from the carcasses of cattle, segregated from edible materials, and disposed of in accordance with paragraph (c) of this section.
+(i) Establishments that slaughter cattle and establishments that process the carcasses or parts of cattle must maintain daily records sufficient to document the implementation and monitoring of the procedures for the removal, segregation, and disposition of the materials listed in paragraph (a) of this section, and any corrective actions taken.
+(4) Maintains records that verify that the official establishment that received the carcasses or parts removed the portions of the vertebral column designated as specified risk materials in paragraph (a)(1) of this section and disposed of them in accordance with &#167;&#8201;314.1 or &#167;&#8201;314.3 of this subchapter.
+
+
+# Tags
+
+['shall', 'inspecting', 'establishment', 'tested', 'carcass preparation', 'slaughters', 'sample', 'inspectors', 'animals', 'materials', 'iii', 'maintained', 'following', 'parts', 'immediate', 'anthrax', 'swine', 'control', 'processes', 'employee', 'contamination', 'records', 'contain', 'identification', 'determines', 'meat food products', 'condition', 'condemnation', 'cattle', 'columns', 'fsis', 'tag', 'removed', 'hypodermae', 'collection', 'methods', 'official', 'operator', 'requiring', 'written', 'number', 'viscera', 'provided', 'residue', 'area', 'completely', 'water', 'equipment', 'devices', 'resultant', 'blood', 'solution', 'criteria', 'table', 'issued', 'identified', 'procedure', 'tissue', 'marked', 'sponge']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                    |

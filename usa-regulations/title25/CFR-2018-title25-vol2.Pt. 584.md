@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 584
 
 
+# Summary
+
+(c) A party that has filed a notice of appeal may waive the right to an oral hearing before a presiding official and instead elect to have the matter determined by the Commission solely on the basis of written submissions.
+(c) A motion to intervene shall be submitted to the presiding official within 10 days of the notice of appeal.
+(b) If the subject of an appeal is whether an order of temporary closure should be made permanent or dissolved, the presiding official shall be designated within 7 days of the timely filing of the notice of appeal, and the hearing shall be concluded within 30 days after the Commission receives a timely notice of appeal, unless the appellant waives this right.
+Notwithstanding any other provision of this part, the presiding official shall conduct such hearing in a manner that will enable him or her to conclude the hearing within the period required by this paragraph and consistent with any due process rights of the parties, including any period that the record is kept open following the hearing.
+The person requesting confidential treatment then shall be given an opportunity to withdraw the document before it is considered by the presiding official, or to disclose the information voluntarily to all parties.
+
+
+# Tags
+
+['shall', 'information', 'hearing', 'party', 'official', 'orders', 'oral', 'appeal', 'commission', 'issued', 'proposals', 'written', 'authorized', 'recorded', 'include', 'briefing', 'timely', 'represented', 'standards', 'requests', 'confidential']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                          |

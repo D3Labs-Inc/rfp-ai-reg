@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 382
 
 
+# Summary
+
+(a)(1) As a U.S. carrier, you must ensure that passengers with a disability who identify themselves as persons needing visual or hearing assistance have prompt access to the same information provided to other passengers at each gate, ticketing area, and customer service desk that you own, lease, or control at any U.S. or foreign airport, to the extent that this does not interfere with employees' safety and security duties as set forth in FAA, TSA, and applicable foreign regulations.
+(a) As a carrier, you must ensure that passengers with a disability who identify themselves as needing visual or hearing assistance have prompt access to the same information provided to other passengers on the aircraft as described in paragraph (b) of this section, to the extent that it does not interfere with crewmembers' safety duties as set forth in FAA and applicable foreign regulations.
+(a) As a carrier, you must permit passengers with a disability to bring the following kinds of items into the aircraft cabin, provided that they can be stowed in designated priority storage areas or in overhead compartments or under seats, consistent with FAA, PHMSA, TSA, or applicable foreign government requirements concerning security, safety, and hazardous materials with respect to the stowage of carry-on items.
+
+
+# Tags
+
+['passenger', 'provide', 'flight', 'service', 'carrier', 'accessing', 'requirements', 'including', 'seated', 'disabilities', 'information', 'mean', 'assisting', 'follow', 'medications', 'safety', 'aircraft', 'transported', 'individualized', 'devices', 'accommodated', 'boarding', 'concern', 'security', 'key', 'wheelchair', 'persons', 'web', 'training', 'meets', 'complaint', 'visual', 'personnel', 'applications', 'air', 'use', 'battery', 'operation', 'schedule', 'time', 'specification', 'airports', 'available', 'receiving', 'cabins', 'impairment', 'written', 'areas baggage', 'functions', 'ticket', 'foreign', 'gates', 'section', 'iii', 'speech', 'travel', 'sign', 'requested', 'consistent', 'reasonable', 'regulation', 'organic', 'controlled', 'related', 'captioning', 'rule', 'mentally', 'need', 'responsibility', 'animals', 'oxygen', 'general', 'automated', 'applies', 'sequal', 'employee', 'kiosks', 'designate', 'shall', 'space', 'special', 'displays', 'priority', 'numbers', 'output', 'effective', 'located', 'compartment', 'standards', 'activation', 'involved', 'significance', 'condition', 'reservations', 'facility', 'undue', 'telephone', 'obtaining', 'electronic', 'health', 'aisle', 'contrast', 'user', 'level', 'lock', 'different', 'advanced', 'action', 'non', 'independently']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

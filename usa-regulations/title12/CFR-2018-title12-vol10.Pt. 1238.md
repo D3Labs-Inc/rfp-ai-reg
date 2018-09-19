@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1238
 
 
+# Summary
+
+Stress test is a process to assess the potential impact on a regulated entity of economic and financial conditions (&#8220;scenarios&#8221;) on the consolidated earnings, losses, and capital of the regulated entity over a set planning horizon, taking into account the current condition of the regulated entity and the regulated entity's risks, exposures, strategies, and activities.
+In conducting its annual stress tests under this section, each regulated entity must use scenarios provided by FHFA, which shall be generally consistent with and comparable to those established by the FRB, that reflect a minimum of three sets of economic and financial conditions, including a baseline, adverse, and severely adverse scenario.
+Not later than 30 days after the FRB publishes its scenarios, FHFA will issue to all regulated entities a description of the baseline, adverse, and severely adverse scenarios that each regulated entity shall use to conduct its annual stress tests under this part.
+(5) Aggregate losses, pre-provision net revenue, allowance for loan losses, net income, net worth, and each Bank's leverage and permanent capital ratios, pro forma capital levels and capital ratios (including regulatory and any other capital ratios specified by FHFA) over the planning horizon, under the scenario; and
+
+
+# Tags
+
+['capital', 'shall', 'fhfa', 'included', 'test', 'requiring', 'scenario', 'act', 'losses', 'entities', 'information', 'condition', 'financial', 'stress', 'net', 'risk', 'public', 'planning', 'guidance']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                           |

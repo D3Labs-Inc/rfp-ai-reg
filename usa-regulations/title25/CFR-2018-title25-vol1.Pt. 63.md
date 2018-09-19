@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 63
 
 
+# Summary
+
+The purpose of these regulations is to prescribe minimum standards of character and suitability for employment for individuals whose duties and responsibilities allow them regular contact with or control over Indian children, and to establish the method for distribution of funds to support tribally operated programs to protect Indian children and reduce the incidents of family violence in Indian country as authorized by the Indian Child Protection and Family Violence Prevention Act of 1990, Pub. L.
+What does the Indian Child Protection and Family Violence Prevention Act require of the Bureau of Indian Affairs and Indian tribes or tribal organizations receiving funds under the Indian Self-Determination and Education Assistance Act or the Tribally Controlled Schools Act?
+(b) All Indian tribes or tribal organizations receiving funds under the authority of the Indian Self-Determination and Education Assistance Act or the Tribally Controlled Schools Act of 1988 must conduct a background investigation for individuals whose duties and responsibilities would allow them regular contact with or control over Indian children, and employ only individuals who meet standards of character that are no less stringent than those prescribed for the Bureau of Indian Affairs.
+All positions that allow an applicant, employee, or volunteer regular contact with or control over Indian children are subject to a background investigation and determination of suitability for employment.
+
+
+# Tags
+
+['indian', 'child', 'employer', 'investigations', 'information', 'including', 'requirements', 'services provided', 'program', 'tribal', 'funds', 'personal', 'acted', 'federal', 'means', 'government', 'adjudicative', 'families', 'violence', 'agency', 'law', 'abusers', 'character', 'tribes', 'standards', 'children', 'reports', 'prevent', 'conducts', 'involves', 'regular contact', 'established', 'employee', 'native', 'records', 'sexual', 'education', 'background', 'statement', 'appropriate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                            |

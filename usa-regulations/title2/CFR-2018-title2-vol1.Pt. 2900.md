@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 2900
 
 
+# Summary
+
+Under the authority listed above, the Department of Labor adopts the Office of Management and Budget (OMB) Guidance in the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards to Non-Federal Entities (subparts A through F of 2 CFR 200), as supplemented by this part, as the Department of Labor policies and procedures for financial assistance administration.
+In addition to the guidance set forth in 2 CFR 200.308(c), for Federal awards from the Department of Labor, the non-Federal entity must request prior approval actions at least 30 days prior to the effective date of the requested action.
+In addition to the guidance set forth in 2 CFR 200.308(c), for Federal awards from the Department of Labor, the non-Federal entity must request prior approval for an extension to the period of performance.
+In addition to the guidance set forth in 2 CFR 200.407, for Federal awards from the Department of Labor, the non-Federal entity must request prior written approval which should include the timeframe or scope of the agreement and be submitted not less than 30 days before the requested action is to occur.
+In the Department of Labor, the provisions of 2 CFR 200.469 apply unless the activities meet a program requirement and have prior written approval from the Federal awarding agency.
+
+
+# Tags
+
+['shall', 'audit', 'cost', 'required', 'federal', 'administrative', 'dol approval', 'entity', 'finding', 'agency', 'prior', 'cfr', 'resolution', 'actions', 'award', 'requested', 'specific', 'including', 'rate', 'report', 'labor', 'period']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                            |

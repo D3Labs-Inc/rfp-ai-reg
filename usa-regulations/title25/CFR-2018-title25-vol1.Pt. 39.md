@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 39
 
 
+# Summary
+
+For each student receiving gifted and talented services, the school must conduct a yearly evaluation of progress, file timely progress reports, and update the specific education plan.
+(b) A school with a 3-year ADM of 51 to 99 students will use the following formula to determine the number of WSU for its adjustment.
+In order to compensate for the additional costs of operating a small residential program, OIEP will add to the total WSUs of each qualifying school as shown in the following table:
+(a) Applying the appropriate standards in this part for classifying and counting ISEP eligible Indian students at the school for formula funding purposes;
+No. Transportation time cannot be used as instruction time for day school students in meeting the minimum required hours for academic funding.
+Subtract the administrative cost grant/agency area technical services revenue per student as a percentage of the total revenue (current expenditures) of Bureau-funded schools from the last year data is available.
+The purpose of this subpart is to provide funds at the agency and area education offices for FY 1991 and future years for administration of all Bureau of Indian Affairs education functions, including but not limited to school operations, continuing education, early childhood education, post-secondary education and Johnson-O'Malley Programs.
+
+
+# Tags
+
+['school', 'students', 'educated', 'funds', 'mean', 'transports', 'programming', 'services', 'years', 'cost', 'shall', 'included', 'provided', 'appropriate', 'isep', 'bureau', 'audits', 'based', 'languages', 'oiep', 'instruction', 'reporting', 'follows', 'residential', 'academic', 'document', 'specially', 'annual', 'level', 'indian', 'count', 'requirements', 'administrator', 'weight', 'receive', 'miles', 'act', 'operations', 'eligible', 'wsu', 'isef', 'federal', 'total', 'average', 'vehicle', 'apply', 'time', 'adjustment', 'supplement', 'individual', 'relating', 'commercial', 'yes', 'nationally', 'maintenance', 'facilities', 'standardized', 'step', 'officers', 'assessment', 'tribal', 'day', 'areas', 'officially', 'current', 'calculations', 'public', 'value']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

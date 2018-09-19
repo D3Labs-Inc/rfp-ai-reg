@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 214
 
 
+# Summary
+
+The term &#8220;officer in charge&#8221; shall refer to the superintendent of the Osage Indian Agency and school or other representative of the Government who may, for the time, be in charge of the Osage Agency and school, or any person who may be detailed by the Secretary of the Interior or the Commissioner of Indian Affairs to take charge of leasing or mining operations under the regulations in this part.
+Should a lessee fail to furnish, within the time specified after his bid is accepted, the papers necessary to put his lease and bond in proper form for consideration, the officer in charge shall recommend that the sale be disapproved and money paid forfeited to the Osage Tribe.
+All prospecting or mining operations or the abandonment of a well or mine shall be subject to the approval of the superintendent, and any disagreement between lessees of mineral leases regarding operations likely to result in injury to either lessee shall be determined by the superintendent, whose decision shall be final, unless an appeal is filed with the Secretary of the Interior within 30 days after notice of such decision.
+
+
+# Tags
+
+['shall', 'leased', 'lessees', 'mining', 'showing', 'bond', 'indian', 'actual', 'minerals', 'corporation', 'providing', 'annually', 'operation', 'acres', 'ore', 'year', 'officers', 'land', 'interior', 'thereof', 'charged', 'holes', 'thereto', 'times', 'damages', 'paid', 'stock', 'osage', 'copies', 'notice', 'locations', 'information']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                         |

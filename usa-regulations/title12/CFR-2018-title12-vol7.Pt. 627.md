@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 627
 
 
+# Summary
+
+(e) Upon the issuance of the order placing a Farm Credit institution into liquidation and appointing the Insurance Corporation as receiver, all rights, privileges, and powers of the board of directors, officers, and employees of the institution shall be vested exclusively in the receiver.
+(1) Upon appointment as receiver, the receiver shall take possession of a Farm Credit institution pursuant to 12 U.S.C. 2183 and &#167;&#8201;627.2710 of this part in order to wind up the business operations of such institution, collect the debts owed to the institution, liquidate its property and assets, pay its creditors, and distribute the remaining proceeds to stockholders.
+(a) The Insurance Corporation shall be appointed as conservator by the Farm Credit Administration Board pursuant to section 4.12 of the Act and &#167;&#8201;627.2710 of this part to take possession of an institution in accordance with the terms of the appointment.
+If a receiver is appointed for the Farm Credit institution as part of a voluntary liquidation, the receivership shall be conducted pursuant to subpart B of this part, except to the extent that an approved plan of liquidation provides otherwise.
+
+
+# Tags
+
+['shall', 'institution', 'received', 'accountants', 'claims', 'provided', 'bank', 'assets', 'include stock', 'liquidating', 'corporation', 'act means', 'board', 'administrative', 'receivership', 'expense', 'finally', 'require', 'financial', 'conserving', 'appoint', 'issue', 'power', 'exist', 'pursuant', 'transferring', 'officers', 'priority', 'category', 'contract', 'obligations', 'payment', 'equity', 'distributions', 'publication', 'right', 'legally', 'bonds', 'appropriate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                    |

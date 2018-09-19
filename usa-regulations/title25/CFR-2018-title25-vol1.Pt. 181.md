@@ -8,6 +8,24 @@
  CFR-2018-title25-vol1.Pt. 181
 
 
+# Summary
+
+This part will assist the BIA Indian Highway Safety Program Administrator to disperse funds DOT/NHTSA has made available.
+The funds assist selected tribes with their proposed Highway Safety Projects.
+Grant means a written agreement between the BIA and the governing body of an Indian tribe or Indian organization wherein the BIA provides funds to the grantee to plan, conduct, or administer specific programs, services, or activities and where the administrative and programmatic provisions are specifically delineated.
+The Indian Highway Safety Program grant is available to any federally recognized tribe.
+Because of the limited financial resources available for the program, the Bureau of Indian Affairs (BIA) is unable to award grants to all applicants.
+Additional application packages are available from the Program Administrator, Indian Highway Safety Program, P.O. Box 2003, Albuquerque, New Mexico 87103.
+(3) Whether the proposed tribal project will contribute to resolution of the identified highway safety problem.
+(7) The number of reported alcohol-related traffic fatalities occurring within the applicant's jurisdiction over the previous 3 years.
+BIA will send a letter to all applicants notifying them of their selection or non-selection for participation in the Indian Highway Safety Program for the upcoming fiscal year.
+
+
+# Tags
+
+['applications', 'bia', 'tribal', 'traffic', 'grants', 'financial', 'fund', 'indian', 'services', 'selected', 'fiscal', 'points']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                              |

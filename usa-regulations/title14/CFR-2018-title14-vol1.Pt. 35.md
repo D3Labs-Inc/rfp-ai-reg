@@ -8,6 +8,19 @@
  CFR-2018-title14-vol1.Pt. 35
 
 
+# Summary
+
+(c) Any systems or components that cannot be adequately substantiated by the applicant to the requirements of this part are required to undergo additional tests or analysis to demonstrate that the systems or components are able to perform their intended functions in all declared environmental and operating conditions.
+(b) Blade features associated with transitions to the retention system (for example, a composite blade bonded to a metallic retention) must be tested either during the test of paragraph (a) of this section or in a separate component test for a period of one hour to a load equivalent to twice the maximum centrifugal load to which the propeller would be subjected during operation at the maximum rated rotational speed.
+The applicant must demonstrate, by tests or analysis based on tests or experience on similar designs, that the propeller can withstand the impact of a 4-pound bird at the critical location(s) and critical flight condition(s) of a typical installation without causing a major or hazardous propeller effect.
+The applicant must demonstrate, by tests, analysis based on tests, or experience on similar designs, that the propeller can withstand a lightning strike without causing a major or hazardous propeller effect.
+
+
+# Tags
+
+['propeller', 'test', 'failures', 'operating', 'pitch', 'includes', 'component', 'designed', 'limiting conditions', 'flight', 'blade', 'required', 'maximum', 'functionality', 'engineering', 'load', 'service', 'manually', 'instructions', 'iii', 'hours', 'declared', 'cycles', 'effect', 'maintenance', 'control', 'analysis', 'applicability', 'fatigue', 'systems', 'equipment', 'power', 'changes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                 |

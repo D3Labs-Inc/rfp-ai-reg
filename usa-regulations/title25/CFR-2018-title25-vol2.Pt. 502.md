@@ -8,6 +8,22 @@
  CFR-2018-title25-vol2.Pt. 502
 
 
+# Summary
+
+(1) An Indian tribe actually operates the same card games as played on or before May 1, 1988, as determined by the Chairman; and
+A gaming operation may be operated by a tribe directly; by a management contractor; or, under certain conditions, by another person or other entity.
+Management contract means any contract, subcontract, or collateral agreement between an Indian tribe and a contractor or between a contractor and a subcontractor if such contract or agreement provides for the management of all or part of a gaming operation.
+Person having a direct or indirect financial interest in a management contract.
+Person having a direct or indirect financial interest in a management contract means:
+Tribal-State compact means an agreement between a tribe and a state about class III gaming under 25 U.S.C. 2710(d).
+Enforcement action means any action taken by the Chair under 25 U.S.C. 2713 against any person engaged in gaming, for a violation of any provision of IGRA, the regulations of this chapter, or tribal regulations, ordinances, or resolutions approved under 25 U.S.C. 2710 or 2712 of IGRA, including, but not limited to, the following: A notice of violation; a civil fine assessment; or an order for temporary closure.
+
+
+# Tags
+
+['game', 'means', 'management', 'person', 'include', 'bingo', 'operating', 'class', 'tribe', 'indians', 'player', 'electronic', 'financial', 'tribal', 'entity', 'play', 'states', 'accounting', 'license', 'explicitly', 'held', 'fine', 'racing', 'parent', 'grant']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                          |

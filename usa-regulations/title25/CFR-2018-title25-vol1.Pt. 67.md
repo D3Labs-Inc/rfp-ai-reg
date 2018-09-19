@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 67
 
 
+# Summary
+
+(c) Notices shall advise of the preparation of the roll and the relevant procedures to be followed, including the qualifications for enrollment and the deadline for filing application forms to be eligible for enrollment.
+(a) Application forms to be filed by or for applicants for enrollment shall be furnished by the Area Director, Superintendent, or other designated persons upon written or oral request.
+(c) Sponsors may file application forms on behalf of other persons, but may not file elections to share in the per capita payment.
+(d) Except as provided in paragraph (a)(2) of this section, a notice of adverse action concerning an individual's enrollment eligibility or the inclusion or exclusion of an individual's name on the per capita payment roll is considered to have been made, and computation of the period for appeal shall begin on the earliest of the following dates:
+(c) If an individual files an appeal on behalf of more than one applicant, one notice of the Area Director's decision may be addressed to the person who filed the appeal.
+(d) Written notice of the Area Director's decision on the appeal shall be sent to the applicant by certified mail, to be received by the addressee only, return receipt requested.
+
+
+# Tags
+
+['shall', 'applications', 'means', 'date', 'personal', 'file', 'indians', 'information', 'legal', 'enrollment', 'roll', 'certificates', 'superintendents', 'notice', 'form', 'represented', 'days', 'seminoles', 'directors', 'register', 'state', 'furnishing', 'offices']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                              |

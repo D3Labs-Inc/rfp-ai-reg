@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 374a
 
 
+# Summary
+
+(a) Air carriers shall make monthly reports to the Bureau of Transportation Statistics with respect to the credit for transportation furnished to candidates, or persons acting on behalf of candidates, during the period from 6 months before nomination, if any, or from 6 months before election, until the date of election.
+The indebtedness accounts reported shall be those which the air carrier knows, or has reason to know, have been incurred by or on behalf of a candidate; and it shall be presumed that the transportation for which the indebtedness has been incurred is intended to be used in connection with the campaign of such candidate for nomination for election, or election, to Federal office.
+The report shall be filed with the Office of Airline Information not later than the 20th day following the end of the calendar month to which the report pertains and shall include (1) the credit limitation established for such person; (2) the balance, if any, of the amount payable for transportation not paid for in advance; (3) any unpaid balance of the charges for such transportation as of the last day of the month covered by the report, and the length of time that such balance has remained unpaid; and (4) a description of the type and value of any bond, collateral, or other security securing such unpaid balance.
+
+
+# Tags
+
+['shall', 'carrier', 'report', 'credit', 'means', 'election', 'transportation', 'following', 'office', 'indebtedness', 'including', 'persons', 'nomination', 'air', 'section', 'candidate', 'services', 'committee', 'acting', 'bonds']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                       |

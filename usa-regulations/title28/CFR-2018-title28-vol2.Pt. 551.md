@@ -8,6 +8,22 @@
  CFR-2018-title28-vol2.Pt. 551
 
 
+# Summary
+
+The Warden shall approve an inmate's request to marry except where a legal restriction to the marriage exists, or where the proposed marriage presents a threat to the security or good order of the institution, or to the protection of the public.
+The Warden may withdraw approval of an inmate organization for reasons of the security, good order, and discipline of the institution, or in accordance with &#167;&#8201;551.34(e).
+Staff in administrative institutions or institutions with administrative components housing U.S. Marshals' prisoners shall establish procedures for admitting a pretrial inmate which include, but are not limited to:
+(a) When consistent with institution security and good order, pretrial inmates may be allowed the opportunity to participate in religious programs with convicted inmates.
+(a) When consistent with institution security and good order, pretrial inmates may be allowed the opportunity to participate with convicted inmates in recreational activities.
+(d) Staff shall provide the pretrial inmate housed in Administrative Detention or Disciplinary Segregation with exercise as provided by the Bureau of Prisons rules on Inmate Discipline.
+(a) Staff shall require the pretrial inmate to abide by Bureau of Prisons rules on Inmate Discipline (see 28 CFR part 541, subpart B), subject to the limitations of &#167;&#8201;551.106 of this part.
+
+
+# Tags
+
+['inmate', 'shall', 'include', 'institution', 'staff', 'persons', 'medication', 'prisons', 'marriage', 'community', 'organization', 'requests', 'activity', 'ordinarily', 'appropriate', 'service', 'provides', 'approving', 'recreational', 'reviews', 'hair', 'released', 'general', 'concerning', 'funding', 'information', 'smoking', 'required', 'received', 'policy', 'work', 'witnesses', 'procedure', 'housing', 'legally', 'program', 'bureau', 'manuscripts', 'civil', 'purpose', 'written', 'federal', 'education', 'management', 'reason', 'offense', 'pretrial']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 38
 
 
+# Summary
+
+An employee, if assigned to sponsor an approved extracurricular activity, may elect annually at the beginning of the contract to be paid a stipend in lieu of overtime premium pay or compensatory time when the employee performs additional activities to provide services to students or otherwise support the school's academic and social programs.
+Within 20 calendar days of receipt of any determination by the school board concerning an individual's appointment, the ASE may appeal to the Director by filing a written statement describing the determination and the reasons the supervisor believes the determination should be overturned.
+The appropriate school board shall be notified in writing by the school supervisor and/or ASE or AEPA not less than 90 days before the end of the school term whether or not an individual's contract is recommended for renewal.
+Where the determination is made that an employee's contract shall not be renewed for the following year, the following procedure will apply to those employees who have completed three full continuous school terms of service under consecutive contract appointments and satisfactory performance in the same or comparable education positions.
+
+
+# Tags
+
+['shall', 'school', 'employee', 'educators', 'position', 'leave', 'pay', 'contracts', 'requirements', 'boards', 'services', 'procedures', 'days', 'performs', 'written', 'appointed', 'official', 'employment', 'years', 'assignments', 'bureau', 'period', 'means', 'individual', 'agency', 'administratively', 'personnel', 'provides', 'federal', 'indian', 'working', 'actions', 'time', 'terms', 'agreement', 'volunteers', 'applications', 'discharged', 'including', 'tribal', 'government', 'compensation', 'annual', 'caused', 'absences', 'determined', 'established', 'approved', 'rates', 'programs', 'supervisor', 'conditional', 'scheduled', 'health']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

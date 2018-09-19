@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 167
 
 
+# Summary
+
+(b) Recommended adjustments in carrying capacities shall be referred by the Superintendent to District Grazing Committee, Central Grazing Committee, and the Navajo Tribal Council for review and recommendations prior to presentation to the Area Director and the Commissioner of Indian Affairs for approval.
+(c) Upon the request of the District Grazing Committee, Central Grazing Committee and Navajo Tribal Council to the Superintendent; recommendations for future adjustments to the established carrying capacities shall be made by Range Technicians based on the best information available through annual utilization studies and range condition studies analyzed along with numbers of livestock and precipitation data.
+(a) All livestock grazed on the Navajo Reservation must be covered by an authorized grazing permit issued by the Superintendent based upon the recommendations of the District Grazing Committee.
+The owner of any livestock grazing in trespass in Navajo Tribal ranges shall be subject to action by the Navajo Court of Indian Offenses as provided in part 11 of this chapter, however, upon recommendations of the District Grazing Committee, first offenses may be referred to the Central Grazing Committee and the Superintendent or his authorized representative for proper settlement out of court.
+
+
+# Tags
+
+['grazing', 'permit', 'livestock', 'reservation shall', 'indian tribal', 'land', 'range', 'committee', 'annually', 'horse', 'areas', 'navajo', 'fence', 'regulate', 'disease', 'stock', 'following', 'district', 'individuals', 'trespass', 'permittees', 'policy', 'united', 'sheep', 'buying', 'provide', 'use', 'authorized', 'capacity']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                       |

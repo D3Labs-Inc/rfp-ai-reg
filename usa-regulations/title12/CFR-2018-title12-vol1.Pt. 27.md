@@ -8,6 +8,20 @@
  CFR-2018-title12-vol1.Pt. 27
 
 
+# Summary
+
+(2) A bank that receives 50 or more home loan applications a year, as measured by the previous calendar year, and that is not required to collect data under paragraph (a)(1) of this section, shall record and maintain for each decision center the following information on home loan activity:
+(ii) If the applicant does not voluntarily provide the information on sex and race/national origin which the bank is required to record and maintain under &#167;&#8201;27.3(b)(1) (xix) and (xx), the bank shall request the applicant to note that fact (by initials or otherwise) on the application, and the bank shall provide the information based on visual observation or surname.
+In addition to the information required by &#167;&#8201;27.3(b), each bank shall maintain the following information in each of its home loan files:
+(1) Within 30 calendar days after receipt of notification from the Comptroller, the bank shall submit, for application records specified by the Comptroller, completed Home Loan Data Submission Forms (set forth as appendix IV).
+(2) The number of Home Loan Data Submission Forms requested by the Comptroller will not exceed 250 per decision center, or 2,000 per bank with multiple decision centers, unless there is cause to believe that a bank is not in compliance with fair housing laws based on examination findings or substantiated complaints, among other factors.
+
+
+# Tags
+
+['shall', 'application', 'banking', 'loans', 'including', 'homes', 'information', 'credit', 'year', 'form', 'income', 'payment', 'monthly', 'request', 'insurance', 'require', 'means', 'housing', 'mortgage', 'federal', 'number', 'purchasing', 'iii', 'permanent', 'recordkeeping', 'completed', 'records', 'act', 'inquiries', 'real', 'total', 'categories', 'date', 'calendar', 'purposes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                               |

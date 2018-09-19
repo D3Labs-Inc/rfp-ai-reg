@@ -8,6 +8,19 @@
  CFR-2018-title12-vol8.Pt. 1004
 
 
+# Summary
+
+(3) Any person who regularly makes loans, credit sales, or advances on an account secured by an interest in a residential structure that contains one to four units, whether or not the structure is attached to real property, including an individual condominium unit, cooperative unit, mobile home, or trailer, if it is used as a residence; and
+Pursuant to 12 U.S.C. 3803, a State-chartered or -licensed housing creditor may make, purchase, and enforce alternative mortgage transactions in accordance with &#167;&#8201;1004.4(a) through (c) of this part (as applicable), notwithstanding any provision of State law that restricts the ability of the housing creditor to adjust or renegotiate an interest rate or finance charge with respect to the transaction or to change the amount of interest or finance charges included in a regular periodic payment as a result of such an adjustment or renegotiation.
+Notwithstanding paragraphs (a) through (c) of this section, a housing creditor that is not making an alternative mortgage transaction pursuant to &#167;&#8201;1004.3 of this part may make that transaction consistent with applicable State or Federal law other than this section.
+Nothing in this section prohibits a creditor from decreasing the interest rate or finance charge on an alternative mortgage transaction.
+
+
+# Tags
+
+['act', 'mortgages', 'housing creditors', 'state', 'law', 'transaction', 'credit', 'material', 'periodic payment', 'making', 'unit', 'islands']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                              |

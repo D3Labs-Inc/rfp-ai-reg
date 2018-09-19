@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 614
 
 
+# Summary
+
+Agricultural credit banks are authorized to make loans and commitments and extend other technical and financial assistance, including but not limited to, collateral custody, discounting notes and other obligations, guarantees, and currency exchanges necessary to service transactions financed under paragraphs (d)(4) and (d)(5) of this section, to:
+(1) Subject to subpart H of this part, agricultural credit banks may sell interests in real estate mortgage loans identified in paragraph (a) of this section to Farm Credit System institutions authorized to purchase such interests, other lenders, and certified agricultural mortgage marketing facilities for the Federal Agricultural Mortgage Corporation.
+Any national bank, State bank, trust company, agriculture credit corporation, incorporated livestock loan company, savings association, credit union, or any association of agricultural producers engaged in the making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products may become an other financing institution (OFI) that funds, discounts, and obtains other similar financial assistance from a Farm Credit Bank or agricultural credit bank in order to extend short- and intermediate-term credit to eligible borrowers for authorized purposes pursuant to sections 1.10(b) and 2.4(a) and (b) of the Act. Each OFI shall be duly organized and qualified to make loans and leases under the laws of each jurisdiction in which it operates.
+
+
+# Tags
+
+['loan', 'shall', 'credit', 'require', 'bank', 'includes', 'borrowers', 'provider', 'institution', 'services', 'marketability', 'associated', 'terms', 'insured', 'means', 'limits', 'collateral', 'policy', 'programs', 'funded', 'operations', 'risk', 'property', 'appraisals', 'stated', 'authorizing', 'lend', 'acting', 'transaction', 'procedure', 'leasing', 'purchasing', 'established', 'agreement', 'written', 'capitalization', 'finance', 'similar financial', 'determines', 'reasonableness', 'values', 'evaluations', 'agriculture', 'business', 'payments', 'farm', 'relation', 'corporation', 'inform', 'secures', 'minimum', 'percent', 'conditional', 'applicant', 'iii', 'liabilities', 'periodically', 'fee', 'control', 'standards', 'manage', 'income', 'followed', 'reports', 'basis', 'territorial', 'rate', 'home', 'annual', 'interests', 'foreign parties', 'qualified', 'eligible', 'general', 'appropriate', 'flood', 'persons', 'lenders', 'pursuant', 'ofi', 'prior', 'specifically', 'sales', 'real', 'total', 'guaranteed', 'receivables', 'objectives', 'performance', 'participation', 'cooperative', 'subject', 'directives']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

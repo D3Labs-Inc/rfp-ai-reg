@@ -8,6 +8,17 @@
  CFR-2018-title12-vol7.Pt. 791
 
 
+# Summary
+
+(c) Meeting means any deliberations by two or more members of the Board or any subdivision of the Board that determine or result in the joint conduct or disposition of official agency business with the exception of: (1) Deliberations to determine whether a meeting or a portion thereof will be open or closed to public observation and whether information regarding closed meetings will be withheld from public disclosure; (2) deliberations to determine whether or when to schedule a meeting; and (3) infrequent dispositions of official agency business by sequential circulation of written recommendations to individual Board members (&#8220;notation voting procedure&#8221;), provided the votes of each Board member and the action taken are recorded for each matter and are publicly available, unless exempted from disclosure pursuant to 5 U.S.C. 552 (the Freedom of Information Act);
+(b) Advance notice is required unless a majority of the members of the Board determine by a recorded vote that agency business requires that a meeting be called at an earlier date, in which case, the information to be announced in paragraph (a) of this section shall be publicly announced at the earliest practicable time.
+
+
+# Tags
+
+['shall', 'meetings', 'board', 'agency', 'inform', 'public', 'procedural', 'disclose', 'action', 'recording', 'acting', 'votes required', 'matters', 'persons', 'rulings', 'announced', 'pursuant', 'particular', 'notices', 'containing', 'exemption', 'state', 'means', 'thereof', 'enforcement', 'conduct', 'written', 'time', 'statement', 'days', 'staff', 'investigation', 'specifically', 'regulations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                     |

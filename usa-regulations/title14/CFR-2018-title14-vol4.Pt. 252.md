@@ -8,6 +8,23 @@
  CFR-2018-title14-vol4.Pt. 252
 
 
+# Summary
+
+(c) Nothing in this section shall be deemed to require air carriers to permit smoking aboard aircraft.
+(a)(1) Foreign air carriers shall prohibit smoking on flight segments that occur between points in the United States, and between the United States and any foreign point, in the following types of operations:
+(ii) Nonscheduled passenger foreign air transportation, if a flight attendant is a required crewmember on the aircraft as determined by the Administrator of the Federal Aviation Administration or a foreign carrier's government.
+(2) Nothing in this section shall be deemed to require foreign air carriers to permit smoking aboard aircraft.
+Air carriers shall prohibit smoking whenever the ventilation system is not fully functioning.
+(a) Air carriers shall prohibit smoking whenever the aircraft is on the ground.
+(b) With respect to the restrictions on smoking described in &#167;&#8201;252.5, foreign air carriers shall prohibit smoking from the time an aircraft begins enplaning passengers until the time passengers complete deplaning.
+Air carriers and foreign air carriers shall take such action as is necessary to ensure that smoking by passengers or crew is not permitted where smoking is prohibited by this part, including but not limited to aircraft lavatories.
+
+
+# Tags
+
+['smoke', 'passenger', 'foreign', 'air', 'aircraft', 'carrier', 'flight', 'product', 'shall']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                            |

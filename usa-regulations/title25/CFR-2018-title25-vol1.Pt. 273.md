@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 273
 
 
+# Summary
+
+(a) The purpose of the regulations in this part is to set forth the application and approval process for education contracts under the Johnson-O'Malley Act. Such contracts shall be for the purpose of financially assisting those efforts designed to meet the specialized and unique educational needs of eligible Indian students, including programs supplemental to the regular school program and school operational support, where such support is necessary to maintain established State educational standards.
+In no instance shall contract funds provided under this part be used as payment for capital outlay or debt retirement expenses; except that, such costs are allowable if they are considered to be a part of the full per capita cost of educating eligible Indian students who reside in Federal boarding facilities for the purpose of attending public schools.
+When informed by a complainant or through its own discovery that possible violation of title VI of the Civil Rights Act of 1964 exists within a State school district receiving funds under this part, the Department of the Interior shall, in accordance with Federal requirements, notify the Department of Health, Education, and Welfare of the possible violation of title VI.
+
+
+# Tags
+
+['shall', 'indian', 'school', 'educational', 'contracts', 'states', 'students including programs', 'means', 'provides', 'requirements', 'records', 'act', 'applications', 'funds', 'bureau', 'information', 'committee', 'established', 'governments', 'receive', 'officers', 'operations', 'federal', 'costs', 'report', 'approved', 'eligible', 'services', 'plans', 'requests', 'contractor', 'determined', 'tribal', 'involved', 'relation', 'appropriate', 'pursuant', 'organization', 'persons', 'use', 'insure', 'following', 'reasonably', 'participation', 'need', 'level', 'corporation', 'budgets', 'stat', 'written', 'public', 'exists', 'concerning', 'days']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

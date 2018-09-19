@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 86
 
 
+# Summary
+
+A written agreement between the owner(s) of a herd of cattle or bison and the animal health officials for the States or Tribes of origin and destination specifying the conditions required for the interstate movement from one premises to another in the course of normal livestock management operations and specifying the time period, up to 1 year, that the agreement is effective.
+(3) All official identification devices affixed to covered livestock carcasses moved interstate for rendering must be removed at the rendering facility and made available to APHIS.
+(b)(1) The APHIS representative, State or Tribal representative, or accredited veterinarian issuing an ICVI or other document required for the interstate movement of animals under this part must forward a copy of the ICVI or other document to the State or Tribal animal health official of the State or Tribe of origin within 7 calendar days from the date on which the ICVI or other document is issued.
+(6) Additionally, cattle and bison may be moved between shipping and receiving States or Tribes with documentation other than an ICVI, e.g., a brand inspection certificate, as agreed upon by animal health officials in the shipping and receiving States or Tribes.
+
+
+# Tags
+
+['animal identification', 'devices', 'state', 'official', 'livestock', 'numbered', 'inspection', 'moving', 'eartag', 'iii', 'approval', 'requires', 'poultry', 'located', 'equines', 'unique', 'cattle', 'movement', 'facilities', 'regulations', 'products', 'tag', 'issued', 'individual', 'interstate', 'dairy', 'code', 'slaughter', 'tribal', 'beginning', 'replacing', 'information', 'herd', 'ain', 'milking']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                   |

@@ -8,6 +8,18 @@
  CFR-2018-title14-vol5.Pt. 1206
 
 
+# Summary
+
+(c) An initial determination on a request for an Agency record addressed in accordance with this regulation (to include one submitted in person at a FOIA office) shall be made (for example, to grant, partially grant or deny a request), and the requester shall be sent an initial determination letter within 20 working days after receipt of the request, as required by 5 U.S.C. 552(a)(6) (unless unusual circumstances exist as defined in &#167;&#8201;1206.403).
+(e) Any notification of an initial determination that does not comply fully with the request for an Agency record, including those searches that produce no responsive documents, shall include a statement of the reasons for the adverse determination, include the name and title of the person making the initial determination, and notify the requester of the right to appeal to the Administrator or the Inspector General, as appropriate, pursuant to subpart G of this part.
+(b) In the case of a requester as defined in &#167;&#8201;1206.507(c)(2) (education and noncommercial scientific institution) and (c)(3) (representative of the news media), no duplication fees will be charged when the FOIA office fails to comply with the statutory time limits in response to a request if no unusual or exceptional circumstances apply to the processing of the request, as those terms are defined in subpart D of this part.
+
+
+# Tags
+
+['requests', 'foia', 'agency records', 'information', 'shall', 'nasa', 'fee waiver', 'officer', 'including', 'provided', 'generally', 'processing', 'publications', 'requirements', 'time', 'new', 'addition', 'charge', 'copies', 'determined', 'reasonably', 'searches', 'responsibility', 'authorized', 'based', 'document', 'electronically', 'available', 'following', 'reviewing', 'notice', 'commercial', 'disclosure', 'administrator', 'center', 'days', 'media', 'number', 'specifically', 'costs', 'associated', 'billing', 'concerning', 'circumstances', 'subject', 'exemption', 'payments', 'publish', 'particular', 'program', 'letters', 'legal', 'receive', 'applicable', 'mail', 'statements', 'rate', 'services', 'individual', 'use', 'submitters', 'reporting', 'purposes', 'referred']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                |

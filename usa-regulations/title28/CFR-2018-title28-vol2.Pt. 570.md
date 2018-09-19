@@ -8,6 +8,22 @@
  CFR-2018-title28-vol2.Pt. 570
 
 
+# Summary
+
+The purpose of this subpart is to provide the procedures of the Bureau of Prisons (Bureau) for designating inmates to pre-release community confinement or home detention.
+The Bureau of Prisons provides approved inmates with staff-escorted trips into the community for such purposes as receiving medical treatment not otherwise available, for visiting a critically-ill member of the inmate's immediate family, or for participating in program or work-related functions.
+A pre-planned escorted trip for the purpose of providing an inmate with medical treatment ordinarily not available at the institution.
+(2) A request for an inmate to receive an emergency non-medical escorted trip is prepared by unit staff, forwarded through the appropriate staff for screening and clearance, and then submitted to the Warden.
+Except as specified in &#167;&#8201;570.43, the Warden may approve an inmate for an emergency non-medical escorted trip.
+A recommendation for an inmate to receive an escorted trip for non-emergency, non-medical reasons is prepared by the recommending staff, forwarded through the appropriate staff for screening and clearance, and then submitted to the Warden.
+Except as specified in &#167;&#8201;570.43, the Warden may approve an inmate for a non-emergency, non-medical escorted trip.
+
+
+# Tags
+
+['inmate', 'medication', 'furlough', 'staff', 'facilities', 'including', 'required', 'non', 'treatment', 'trips', 'released', 'federal', 'funds', 'community', 'institution', 'family', 'center', 'authority', 'bureau', 'programming', 'sufficient', 'emergency', 'permission', 'follows', 'allow', 'time', 'prisons', 'approved', 'work', 'secure', 'reasonable']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                      |

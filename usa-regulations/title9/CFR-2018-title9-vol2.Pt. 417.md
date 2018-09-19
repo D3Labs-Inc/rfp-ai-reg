@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 417
 
 
+# Summary
+
+(1) Every official establishment shall conduct, or have conducted for it, a hazard analysis to determine the food safety hazards reasonably likely to occur in the production process and identify the preventive measures the establishment can apply to control those hazards.
+(1) Every establishment shall develop and implement a written HACCP plan covering each product produced by that establishment whenever a hazard analysis reveals one or more food safety hazards that are reasonably likely to occur, based on the hazard analysis conducted in accordance with paragraph (a) of this section, including products in the following processing categories:
+(3) Records documenting the monitoring of CCP's and their critical limits, including the recording of actual times, temperatures, or other quantifiable values, as prescribed in the establishment's HACCP plan; the calibration of process-monitoring instruments; corrective actions, including all actions taken in response to a deviation; verification procedures and results; product code(s), product name or identity, or slaughter production lot.
+(b) The individual performing the functions listed in paragraph (a) of this section shall have successfully completed a course of instruction in the application of the seven HACCP principles to meat or poultry product processing, including a segment on the development of a HACCP plan for a specific product and on record review.
+
+
+# Tags
+
+['products', 'shall', 'hazard', 'establishment', 'recording', 'including', 'haccp', 'food process', 'verification', 'corrective', 'activities', 'plan', 'occurred', 'reassessment', 'required', 'procedure', 'validate', 'listed', 'identified', 'actions', 'vii']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                      |

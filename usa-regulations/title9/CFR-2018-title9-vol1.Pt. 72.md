@@ -8,6 +8,18 @@
  CFR-2018-title9-vol1.Pt. 72
 
 
+# Summary
+
+Cars and other vehicles, and yards, pens, chutes, or other premises or facilities, which have contained interstate shipments of animals infested with or exposed to ticks, shall be cleaned and treated within 72 hours of use and prior to further use in the required concentration with a permitted dip listed in &#167;&#8201;72.13 under supervision of a State or Federal inspector or an accredited veterinarian.
+Cars or others vehicles which have carried cattle exposed to or infested with ticks within the quarantined area of any State shall be cleaned and treated in the required concentration with a permitted dip listed in &#167;&#8201;72.13 before being moved interstate under supervision of a State or Federal inspector or an accredited veterinarian.
+The litter and manure removed from cars, boats, or other vehicles and from pens, chutes, alleys, or other premises or inclosures which have contained interstate shipments of tick-infested animals, shall be destroyed or treated by the transportation or yard company, or other owner thereof, under APHIS supervision, by saturating it in the required concentration with a permitted dip listed in &#167;&#8201;72.13, or shall be otherwise disposed of under prior permission received from the Administrator, APHIS.
+
+
+# Tags
+
+['cattle', 'dipping', 'shall', 'areas', 'animal', 'required', 'inspection', 'cars', 'interstate', 'pens', 'tick', 'state', 'infested', 'administrative', 'facilities', 'premises', 'fence', 'babesiosis', 'authorities', 'litter', 'treatment', 'aphis', 'texas', 'sufficient', 'prior', 'set', 'outside', 'condition', 'handling']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                             |

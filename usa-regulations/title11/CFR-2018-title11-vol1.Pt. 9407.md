@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 9407
 
 
+# Summary
+
+(3) Change the subject matter of a publicly announced meeting or the determination of the Commission to open or close a meeting or portions of a meeting to public observation, as provided in &#167;&#8201;9407.4(f);
+The announcement shall include the information required by paragraph (b) of this section and shall be issued in accordance with those procedures set forth in paragraphs (c) and (d) of this section that are practicable given the available period of time.
+(b) Before a meeting or portions of a meeting may be closed to public observation, the Commission shall determine, notwithstanding the exemptions set forth in paragraph (a) of this section, whether the public interest requires that the meeting or portions of a meeting be open consistent with Federal law.
+(b) In the case of either a meeting or portions of a meeting closed to the public under &#167;&#8201;9407.5(a)(8) or (10), the Commission shall maintain a complete transcript, an electronic recording, or a set of minutes of the proceedings.
+The Commission shall make available to the public the transcript, electronic recording, or minutes of a meeting, except for items of discussion or testimony that relate to matters the Commission has determined to contain information that may be withheld under &#167;&#8201;9407.5(a).
+
+
+# Tags
+
+['shall', 'commission', 'meetings', 'voting', 'practicable information', 'disclose', 'record', 'publication', 'conduct', 'requirement', 'means', 'act', 'determination', 'open', 'matter', 'lawful', 'electronic', 'enforcement', 'investigative', 'particular', 'announced', 'actions', 'exemption', 'participating', 'person']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                     |

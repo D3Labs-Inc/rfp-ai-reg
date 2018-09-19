@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 83
 
 
+# Summary
+
+Documented petition means the detailed arguments and supporting documentary evidence submitted by a petitioner claiming that it meets the Indian Entity Identification (&#167;&#8201;83.11(a)), Governing Document (&#167;&#8201;83.11(d)), Descent (&#167;&#8201;83.11(e)), Unique Membership (&#167;&#8201;83.11(f)), and Congressional Termination (&#167;&#8201;83.11(g)) Criteria and claiming that it:
+Petitioner means any entity that has submitted a documented petition to OFA requesting Federal acknowledgment as a federally recognized Indian tribe.
+(1)(i) OFA will conduct a Phase I technical assistance review and notify the petitioner by letter of any deficiencies that would prevent the petitioner from meeting the Governing Document, Descent, Unique Membership, or Termination Criteria.
+(4) OFA will publish a positive proposed finding and proceed to Phase II if it determines that the petitioner meets the Governing Document, Descent, Unique Membership, and Termination criteria.
+(5) OFA will publish a positive proposed finding if it determines that the petitioner meets the Indian Entity Identification (&#167;&#8201;83.11(a)), Community (&#167;&#8201;83.11(b)) and Political Authority (&#167;&#8201;83.11(c)) Criteria or, for petitioners with previous Federal acknowledgment, that the petitioner meets the criteria at &#167;&#8201;83.12(b).
+(a) AS-IA will issue a final determination granting acknowledgment as a federally recognized Indian tribe when AS-IA finds that the petitioner meets the Governing Document (&#167;&#8201;83.11(d)), Descent (&#167;&#8201;83.11(e)), Unique Membership (&#167;&#8201;83.11(f)), and Congressional Termination (&#167;&#8201;83.11(g)) Criteria and:
+
+
+# Tags
+
+['petitioners', 'ofa', 'evidence', 'federal', 'entity', 'means', 'indian', 'including', 'document', 'government', 'member', 'acknowledging', 'reviews', 'informal', 'lists', 'states', 'time', 'provided', 'criteria', 'tribes', 'political', 'previous', 'significant', 'organize', 'following', 'demonstration', 'determined', 'record', 'comment', 'criterion', 'secretary', 'current', 'department', 'iii', 'addition', 'acted', 'petitioned', 'written', 'requests', 'officer', 'relationships', 'historical', 'administrative', 'number', 'social', 'available', 'identification']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                     |

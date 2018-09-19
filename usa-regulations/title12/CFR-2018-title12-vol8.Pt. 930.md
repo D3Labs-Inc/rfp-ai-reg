@@ -8,6 +8,22 @@
  CFR-2018-title12-vol8.Pt. 930
 
 
+# Summary
+
+Class B stock means capital stock issued by a Bank, including subclasses, that has the characteristics specified by &#167;&#8201;931.1(b) of this subchapter.
+Class B stock means capital stock issued by a Bank, including subclasses, that has the characteristics specified by &#167;&#8201;931.1(b) of this subchapter.
+General allowance for losses means an allowance established by a Bank in accordance with GAAP for losses, but which does not include any amounts held against specific assets of the Bank.
+Market risk means the risk that the market value, or estimated fair value if market value is not available, of a Bank's portfolio will decline as a result of changes in interest rates, foreign exchange rates, equity and commodity prices.
+Regulatory risk-based capital requirement means the amount of permanent capital that a Bank is required to maintain in accordance with &#167;&#8201;932.3 of this chapter.
+Total assets means the total assets of a Bank, as determined in accordance with GAAP.
+Total capital of a Bank means the sum of permanent capital, the amounts paid-in for Class A stock, the amount of any general allowance for losses, and the amount of other instruments identified in a Bank's capital plan that the Finance Board has determined to be available to absorb losses incurred by such Bank.
+
+
+# Tags
+
+['means', 'rates', 'credit', 'contracts', 'capital', 'risk', 'marketable assets', 'including', 'stock', 'bank', 'total', 'states', 'controlled', 'values', 'funds', 'losses', 'similar']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                             |

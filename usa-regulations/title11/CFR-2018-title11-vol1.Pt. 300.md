@@ -8,6 +8,17 @@
  CFR-2018-title11-vol1.Pt. 300
 
 
+# Summary
+
+Notwithstanding 11 CFR 102.17, a State, district, or local committee of a political party must not raise Levin funds by means of joint fundraising with a Federal candidate, an individual holding Federal office, or an entity directly or indirectly established, financed, maintained, or controlled by, or acting on behalf of, one or more candidates or individuals holding Federal office.
+Subject to the conditions of 11 CFR 300.32(c), State, district, and local party committees and organizations may allocate disbursements or expenditures, except salaries and wages for employees, between Federal funds and Levin funds for voter identification, get-out-the-vote activity, or generic campaign activities, as defined in 11 CFR 100.24(a)(3) and (4) and 11 CFR 100.25, that are conducted in connection with an election in which a candidate for Federal office is on the ballot and within the time periods set forth in 11 CFR 100.24(a)(1), provided that the activity does not refer to a clearly identified Federal candidate.
+
+
+# Tags
+
+['include', 'federal', 'elections', 'non funds', 'active', 'state committees', 'account', 'allocated', 'shall', 'officers', 'candidates', 'organized', 'parties', 'solicitations', 'entity', 'report', 'sections', 'usc', 'provide', 'disburse', 'pursuant', 'iii', 'levin', 'follows', 'generate', 'campaign', 'persons', 'act', 'contributed', 'fundraiser', 'public', 'written', 'year', 'prohibited', 'transfer', 'communication', 'described', 'limited', 'amounts', 'subject', 'donations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                |

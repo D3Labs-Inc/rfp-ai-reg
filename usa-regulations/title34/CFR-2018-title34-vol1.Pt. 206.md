@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 206
 
 
+# Summary
+
+The High School Equivalency Program (HEP) is designed to assist persons who are eligible under &#167;&#8201;206.3&#8212;to obtain the equivalent of a secondary school diploma and subsequently to gain employment or be placed in an institution of higher education (IHE) or other postsecondary education or training.
+The College Assistance Migrant Program (CAMP) is designed to assist persons who are eligible under &#167;&#8201;206.3&#8212;who are enrolled or are admitted for enrollment on a full-time basis in the first academic year at an IHE.
+(4) Be determined by the grantee to need the academic and supporting services and financial assistance provided by the project in order to attain the equivalent of a secondary school diploma and to gain employment or be placed in an IHE or other postsecondary education or training.
+A HEP project may provide the following types of services to assist participants in obtaining the equivalent of a secondary school diploma, and as needed, to assure the success of the participants in meeting the project's objectives and in succeeding at the secondary school level and beyond:
+(1) The grantee will develop and implement a plan for identifying, informing, and recruiting eligible participants who are most in need of the academic and supporting services and financial assistance provided by the project.
+
+
+# Tags
+
+['program', 'educational', 'students', 'services', 'academic', 'assistance', 'schools', 'cfr', 'activity', 'required', 'include', 'camp', 'institutions', 'accrediting', 'follow', 'provided', 'funds', 'iii', 'participation', 'college', 'hep', 'migrant', 'supports', 'financially', 'personal', 'administrative']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                 |

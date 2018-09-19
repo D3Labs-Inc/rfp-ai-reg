@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 325
 
 
+# Summary
+
+(1) The minimum leverage capital requirement for a bank (or an insured depository institution making application to the FDIC) shall consist of a ratio of Tier 1 capital to total assets of not less than 3 percent if the FDIC determines that the institution is not anticipating or experiencing significant growth and has well-diversified risk, including no undue interest rate risk exposure, excellent asset quality, high liquidity, good earnings and in general is considered a strong banking organization, rated composite 1 under the Uniform Financial Institutions Rating System (the CAMELS rating system) established by the Federal Financial Institutions Examination Council.
+(2) For all but the most highly-rated institutions meeting the conditions set forth in paragraph (b)(1) of this section, the minimum leverage capital requirement for a bank (or for an insured depository institution making an application to the FDIC) shall consist of a ratio of Tier 1 capital to total assets of not less than 4 percent.
+The principal purpose of this subpart is to define, for FDIC-insured state-chartered nonmember banks, the capital measures and capital levels, and for insured branches of foreign banks, comparable asset-based measures and levels, that are used for determining the supervisory actions authorized under section 38 of the FDI Act. This subpart also establishes procedures for submission and review of capital restoration plans and for issuance and review of directives and orders pursuant to section 38.
+
+
+# Tags
+
+['capitalized', 'banks', 'assets', 'require', 'shall', 'include', 'losses means', 'plan', 'risk', 'financial', 'fdic', 'pursuant', 'rate', 'determining', 'addition', 'institution', 'significant', 'insures', 'year', 'test', 'section', 'action', 'condition', 'liability', 'act', 'credit', 'periods', 'provisions', 'purposes', 'subsidiaries', 'report', 'tax', 'equity', 'written', 'date', 'calendar', 'net', 'based', 'federal', 'relating', 'provides', 'levels', 'beginning', 'estimated', 'companies', 'value', 'tier', 'appropriate', 'reserve', 'total', 'minus', 'subpart', 'limitation', 'follow', 'applicable', 'supervisory', 'proposed', 'information']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

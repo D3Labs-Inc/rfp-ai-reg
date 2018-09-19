@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 547
 
 
+# Summary
+
+(3) If a TGRA authorizes a component modification under this paragraph, it must maintain a record of the modification and a copy of the testing laboratory report so long as the Class II gaming system that is the subject of the modification remains available to the public for play.
+(3) If a TGRA authorizes a component modification under this paragraph, it must maintain a record of the modification and a copy of the testing laboratory report so long as the Class II gaming system that is the subject of the modification remains available to the public for play.
+(iii) Be constructed to permit communication with the Class II gaming system of the accounting information required by &#167;&#8201;547.9(a) and by applicable provisions of any Commission and TGRA regulations governing minimum internal control standards.
+(iii) Be constructed to permit communication with the Class II gaming system of the accounting information required by &#167;&#8201;547.9(a) and by applicable provisions of any Commission and TGRA regulations governing minimum internal control standards.
+(2) The monetary amount related to all valid financial instrument transactions by the Class II gaming system must be recorded as required by &#167;&#8201;547.9(a), the applicable provisions of part 543 of this chapter, and any TGRA regulations governing minimum internal control standards.
+
+
+# Tags
+
+['game', 'components', 'account', 'tested', 'iii', 'data', 'player credits', 'displayed', 'information', 'prize', 'software', 'requirements', 'standards', 'approved', 'accessible', 'tgra', 'operations', 'random number', 'class', 'included', 'financial instrument', 'progressive', 'provided', 'states', 'functionality', 'voucher', 'generation', 'downloading', 'events', 'program', 'value', 'reportable', 'following', 'mode', 'coupon', 'rng', 'play', 'government', 'transactions', 'acceptable', 'recorded', 'specifications', 'non', 'security', 'output', 'balancing', 'storage', 'frequency', 'memory', 'determined', 'applies', 'recall', 'identify', 'electronically', 'hardware', 'discharge', 'outcome', 'verification', 'validation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                    |

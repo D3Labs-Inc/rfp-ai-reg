@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 431
 
 
+# Summary
+
+(a) The FAA reviews an RLV mission license application to determine whether the proposed mission presents any issues, other than those issues addressed in the safety review, that would adversely affect U.S. national security or foreign policy interests, would jeopardize public health and safety or the safety of property, or would not be consistent with international obligations of the United States.
+Lines of communication within the applicant's organization, between the applicant and the launch site, and between the applicant and the reentry site, shall be employed to ensure that personnel perform RLV mission operations in accordance with plans and procedures required by this subpart.
+(c) To demonstrate compliance with acceptable risk criteria in this section, an applicant shall employ a system safety process to identify the hazards and assess the risks to public health and safety and the safety of property associated with the mission, including nominal and non-nominal operation and flight of the vehicle and payload, if any.
+The MIP and ERP shall be signed by an individual authorized to sign and certify the application in accordance with &#167;&#8201;413.7(c) of this chapter, the person responsible for the conduct of all licensed RLV mission activities designated under &#167;&#8201;431.33(b) of this subpart, and the safety official designated under &#167;&#8201;431.33(c) of this subpart.
+
+
+# Tags
+
+['missions', 'safety', 'shall', 'included', 'licenses', 'launching', 'reentry', 'requirements', 'procedures', 'faa', 'payload', 'flight', 'planned', 'identify', 'rlvs', 'time', 'vehicles', 'operations', 'information', 'orbit', 'associate', 'site approved', 'policy', 'iii', 'communication', 'environmental', 'impacts', 'applicable', 'risk', 'public', 'ensuring', 'space', 'provided', 'issued', 'determined', 'designated', 'measurably', 'proposes', 'authorized', 'personnel', 'contain', 'reviews', 'federal', 'responsibility', 'activation', 'states']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                        |

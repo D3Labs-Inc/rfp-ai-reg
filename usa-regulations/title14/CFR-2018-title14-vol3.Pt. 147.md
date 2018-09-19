@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 147
 
 
+# Summary
+
+An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must have at least the facilities, equipment, and materials specified in &#167;&#167;&#8201;147.15 to 147.19 that are appropriate to the rating he seeks.
+An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must have an adequate supply of material, special tools, and such of the shop equipment as are appropriate to the approved curriculum of the school and are used in constructing and maintaining aircraft, to assure that each student will be properly instructed.
+An applicant for an aviation maintenance technician school certificate and rating, or for an additional rating, must provide the number of instructors holding appropriate mechanic certificates and ratings that the Administrator determines necessary to provide adequate instruction and supervision of the students, including at least one such instructor for each 25 students in each shop class.
+Each certificated aviation maintenance technician school shall, after certification or addition of a rating, continue to provide the number of instructors holding appropriate mechanic certificates and ratings that the Administrator determines necessary to provide adequate instruction to the students, including at least one such instructor for each 25 students in each shop class.
+
+
+# Tags
+
+['shall', 'school', 'certificated', 'rating', 'equipped', 'required', 'instruction', 'curriculum', 'including', 'students', 'aviation maintenance', 'material', 'powerplants', 'test', 'provide', 'inspect', 'airframe', 'working', 'general operating', 'specialized', 'number', 'current', 'faa']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                    |

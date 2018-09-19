@@ -8,6 +8,20 @@
  CFR-2018-title12-vol6.Pt. 563b
 
 
+# Summary
+
+(15) After OTS, and in the case of a state-chartered savings association, the appropriate state regulator, approves the proposed conversion, you will send proxy materials providing additional information.
+(iii) Any additional proxy soliciting materials, including press releases, personal solicitation instructions, radio or television scripts that you plan to use or furnish to your members, and a legal opinion indicating that any marketing materials comply with all applicable securities laws.
+If you amend your application for conversion, OTS may require you to re-solicit proxies for your members' meeting as a condition of approval of the amendment.
+(d) After you complete your stock offering, you must submit four executed copies of the following documents to the OTS Applications Filing Room in Washington, and three executed copies to the OTS Regional Office: the charitable organization's charter and bylaws (or trust agreement), operating plan (within six months after your stock offering), conflict of interest policy, and the gift instrument for your contributions of either stock or cash to the charitable organization.
+(3) An opinion of independent counsel indicating that applicable state law authorizes the voluntary supervisory conversion, if you are a state-chartered savings association converting to state stock form.
+
+
+# Tags
+
+['ots', 'conversion', 'plan', 'include', 'require', 'proxies', 'stock form', 'materials', 'offers', 'members', 'voting', 'person', 'follows', 'accountant', 'purchases', 'associated', 'acting', 'securities', 'proposal', 'control', 'approve', 'applicable law', 'tax', 'capitalized', 'savings', 'eligibility', 'soliciting', 'written request', 'information', 'repurchases', 'financial', 'statements', 'prices', 'officers', 'charter', 'reasons', 'state', 'provides', 'condition', 'managed', 'community', 'marketing', 'confidential', 'notice', 'holder', 'authorize', 'date', 'holds', 'subscription', 'qualify', 'file', 'new', 'federal', 'company', 'underwriter', 'appraisal', 'additional', 'contributions', 'total', 'copy', 'right', 'number', 'action']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                 |

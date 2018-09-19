@@ -8,6 +8,23 @@
  CFR-2018-title12-vol7.Pt. 796
 
 
+# Summary
+
+This part identifies those National Credit Union Administration (NCUA) employees who are subject to the special, post-employment restrictions in section 1786(w) of the Act and implements those restrictions as they apply to NCUA employees.
+For purposes of this part, an NCUA employee is considered to be the &#8220;senior examiner&#8221; for a federally insured credit union if the employee&#8212;
+What special post-employment restrictions apply to senior examiners?
+An officer or employee of the NCUA who performs work (onsite or offsite) as the senior examiner of a federally insured credit union for a total of two or more months during the last 12 months of individual's employment with NCUA may not, within one year after leaving NCUA employment, knowingly accept compensation as an employee, officer, director, or consultant from that credit union.
+An NCUA resident corporate credit union examiner assigned to work at a federally insured, corporate credit union for two or more months during the last 12 months of that individual's employment with NCUA will be subject to the one-year prohibition of this section.
+The post-employment restrictions in section 1786(w) of the Act and &#167;&#8201;796.3 do not apply to any current or former NCUA employee, if:
+What are the penalties for violating these special post-employment restrictions?
+(a) Penalties under section 1786(w)(5) of the Act. An NCUA senior examiner who violates the post-employment restrictions set forth in &#167;&#8201;796.3 can be:
+
+
+# Tags
+
+['ncua', 'work', 'credit', 'examinations', 'restrictions', 'employment']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                             |

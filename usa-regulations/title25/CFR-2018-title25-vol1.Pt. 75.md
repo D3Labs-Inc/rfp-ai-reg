@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 75
 
 
+# Summary
+
+A press release should be prepared announcing the date the revision of the roll shall begin, together with other pertinent information such as the membership requirements and where application forms may be obtained.
+All persons whose names appear on the roll of the Eastern Band of Cherokee Indians of North Carolina, prepared and approved pursuant to the act of June 4, 1924 (43 Stat.
+Application forms will be supplied by the Tribal Enrollment Office of the Eastern Band of Cherokee Indians, Council House, Cherokee, N.C. 28719, upon request, either in person or by mail.
+The membership roll of the Eastern Band of Cherokee Indians shall be kept current by striking therefrom the names of persons who have relinquished their membership in the Band as provided in &#167;&#8201;75.17 and of deceased persons upon receipt of a death certificate or other evidence of death acceptable to the Tribal Enrollment Office, and by adding thereto the names of individuals who meet the qualifications and are accepted for membership in the Band as set forth in this part.
+(c) Application forms may be obtained from the Tribal Enrollment Office of the Eastern Band of Cherokee Indians, Council House, Cherokee, North Carolina 28719.
+
+
+# Tags
+
+['shall', 'enroll', 'applications', 'person', 'indian', 'rolls', 'cherokee', 'band means', 'committee', 'offices', 'tribal', 'sufficient', 'stat', 'direct', 'council', 'files', 'august', 'member', 'publication']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                    |

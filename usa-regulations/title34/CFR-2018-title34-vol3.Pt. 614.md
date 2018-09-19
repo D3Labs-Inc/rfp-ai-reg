@@ -8,6 +8,23 @@
  CFR-2018-title34-vol3.Pt. 614
 
 
+# Summary
+
+What is the purpose of the Preparing Tomorrow's Teachers to Use Technology program?
+(a) This program provides grants to help future teachers become proficient in the use of modern learning technologies and to support training for pre-service teachers.
+(b) A grantee may not use funds under this program for in-service training or continuing education for currently certified teachers.
+(a) Except as provided in paragraph (b) of this section, an eligible applicant is a consortium that includes at least two or more of the following: institutions of higher education, schools of education, community colleges, State educational agencies, local educational agencies, private elementary or secondary schools, professional associations, foundations, museums, libraries, private sector businesses, public or private nonprofit organizations, community based organizations, or any other entities able to contribute to teacher preparation program reforms that produce technology-proficient teachers.
+The following regulations apply to Preparing Tomorrow's Teachers to Use Technology:
+Which member of the consortium must act as the lead applicant and fiscal agent?
+(a) For purposes of 34 CFR 75.127, the lead applicant for the consortium must be a nonprofit member of the consortium.
+What prohibitions apply to the use of grant funds under this program?
+
+
+# Tags
+
+['educational', 'cost', 'program', 'teacher', 'cfr', 'regulations', 'technology', 'private', 'requirements', 'federal', 'applications', 'reserved', 'schools']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                  |

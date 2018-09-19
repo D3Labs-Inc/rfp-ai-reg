@@ -8,6 +8,17 @@
  CFR-2018-title12-vol2.Pt. 209
 
 
+# Summary
+
+(i) The Reserve Bank of the member bank's former District, or of the nonsurviving member bank, shall cancel the bank's shares and transfer the amount paid in for those shares, plus accrued dividends (as specified in paragraph (d)(1)(ii) of &#167;&#8201;209.4) and subject to paragraph (d)(3) of &#167;&#8201;209.4 (or, in the case of a mutual savings bank member not authorized to purchase Federal Reserve Bank stock, the amount of its deposit, adjusted in a like manner), to the Reserve Bank of the bank's new District or of the surviving bank; and
+Whenever any member bank that is a mutual savings bank experiences a cumulative increase or decrease in total deposit liabilities as shown on its most recent report of condition requiring a change in its holding of Reserve Bank stock in excess of the lesser of 15 percent or 100 shares, it shall file with the appropriate Reserve Bank an application for issue or cancellation of Reserve Bank capital stock in order to adjust its Reserve Bank capital stock subscription to equal six-tenths of 1 percent of the member bank's total deposit liabilities.
+
+
+# Tags
+
+['banks', 'shall', 'dividends', 'shares', 'reserve', 'cancel', 'stock', 'payments', 'state', 'adjusted', 'assets', 'requirements', 'deposit', 'total', 'year', 'pursuant', 'business']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

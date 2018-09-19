@@ -8,6 +8,22 @@
  CFR-2018-title12-vol10.Pt. 1206
 
 
+# Summary
+
+Working capital fund means an account for amounts collected from the Regulated Entities to establish an operating reserve that is intended to provide for the payment of large or multiyear capital and operating expenditures, as well as unanticipated expenses.
+The Director shall establish annual assessments on the Regulated Entities in an amount sufficient to maintain a working capital fund and provide for the payment of the FHFA's costs and expenses, including, but not limited to:
+Assessments collected from the Enterprises shall not exceed amounts sufficient to provide for payment of the costs and expenses relating to the Enterprises as determined by the Director.
+Assessments collected from the Banks shall not exceed amounts sufficient to provide for payment of the costs and expenses relating to the Banks as determined by the Director.
+The Director shall establish and collect from the Regulated Entities such assessments he or she deems necessary to maintain a working capital fund.
+Assessments collected to maintain the working capital fund shall be used to establish an operating reserve and to provide for the payment of large or multiyear capital and operating expenditures as well as unanticipated expenses.
+The Director shall provide each Regulated Entity with written notice of the annual assessment and the semiannual payments to be collected under this part.
+
+
+# Tags
+
+['assess', 'expenses', 'shall', 'capitalized', 'usc', 'means', 'enterprises', 'director', 'mortgage', 'housing', 'payments', 'entities', 'banks', 'funds']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                   |

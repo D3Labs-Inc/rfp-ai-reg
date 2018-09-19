@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1808
 
 
+# Summary
+
+(8) Enforcing the terms and requirements of the Bond Trust Indenture including, but not limited to: ensuring the repayment of Bond Loans in a timely manner pursuant to the terms of Bond Loan documents; assigning delinquent Bond Loans to the Guarantor upon demand by the CDFI Fund or the Guarantor; and ensuring that the Master Servicer/Trustee establishes and maintains the Risk-Share Pool throughout the term of the Guarantee;
+(1) A Qualified Issuer shall provide all required information in its Guarantee Application to establish that it meets all criteria set forth in this interim rule to receive a Guarantee and can carry out all Guarantee requirements including, but not limited to, information that demonstrates that the Qualified Issuer has the appropriate expertise, capacity, and experience and is qualified to make, administer and service Bond Loans for Eligible Purposes.
+Each Qualified Issuer applicant shall provide, in its Qualified Issuer Application, information on its proposed Servicer that demonstrates the appropriate expertise, capacity and experience, as well as any additional information that as may be required to meet the criteria set forth in the applicable Notice of Guarantee Availability including, but not limited to, information on the entity's management and organization, loan servicing, and financial capability.
+
+
+# Tags
+
+['shall', 'loans', 'bonding', 'applicant', 'includes', 'means', 'funds', 'require', 'cdfis', 'financial', 'servicing', 'accounting', 'guarantees', 'documentation', 'credit', 'payments', 'issuer', 'qualifying', 'area', 'pursuant', 'programs', 'principal', 'following', 'information', 'governing', 'eligibility', 'secondary', 'set', 'fees', 'provided', 'proposes', 'income', 'based', 'rate', 'omb', 'agency', 'performing', 'island', 'federally', 'statements', 'authorize', 'collateral', 'additional', 'report', 'execute', 'certain', 'agreements', 'ratio', 'related', 'terms', 'evaluated', 'general', 'administrative', 'stated', 'availability', 'dates', 'auditing', 'purpose', 'appropriate', 'amounts', 'debt', 'costs', 'provision', 'community', 'issuing', 'entity', 'reasonably', 'defaults', 'annual', 'control']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

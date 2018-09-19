@@ -8,6 +8,17 @@
  CFR-2018-title12-vol10.Pt. 1310
 
 
+# Summary
+
+The principal purposes of this part are to set forth the standards and procedures governing Council determinations under section 113 of the Dodd-Frank Act (12 U.S.C. 5323), including whether material financial distress at a nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company, could pose a threat to the financial stability of the United States, and whether a nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards in accordance with title I of the Dodd-Frank Act.
+(2) An opportunity to submit written materials, within such time as the Council determines to be appropriate (which shall be not less than 30 days after the date of receipt by the nonbank financial company of the notice described in paragraph (a)(1)), to the Council to contest the Council's consideration of the nonbank financial company for a proposed determination, including materials concerning whether, in the nonbank financial company's view, material financial distress at the nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company, could pose a threat to the financial stability of the United States; and
+
+
+# Tags
+
+['companies', 'shall', 'council', 'acting', 'registered', 'determinations', 'terms', 'means', 'includes', 'state', 'securities', 'material financial', 'foreign', 'appropriate', 'federal', 'insurance', 'swap', 'agencies', 'activities', 'written', 'usc', 'information', 'exchange', 'time', 'commission', 'section']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                          |

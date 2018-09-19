@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1262
 
 
+# Summary
+
+(a) The pertinent provisions of the Equal Access to Justice Act at 5 U.S.C. 504 (hereinafter &#8220;the Act&#8221;) provide for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (called &#8220;adversary adjudications&#8221;).
+Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
+A separate itemized statement, accompanied by an oath of affirmation under penalty of perjury (28 U.S.C. 1746), shall be submitted for each professional firm or individual whose services are covered by the application, showing the hours spent in connection with the proceeding by each individual, a description of the specific services performed, the rate at which each fee has been computed, any expenses for which reimbursement is sought, the total amount paid or payable by the applicant or by any other person or entity for the services provided.
+(b) If review or reconsideration is sought or taken of a decision as to which an applicant believes it has prevailed, proceedings for the award of fees shall be stayed pending final disposition of the underlying controversy.
+
+
+# Tags
+
+['shall', 'agency', 'applicable', 'acting', 'proceeding', 'usc', 'final', 'administrative', 'decision', 'rates', 'counsel', 'information', 'matter', 'awards', 'adjudicative officer', 'specific', 'issued', 'eligible', 'fee', 'determined', 'expense', 'include', 'provide', 'addition', 'written', 'licenses', 'seeks', 'exhibit', 'file', 'services', 'appeal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                     |

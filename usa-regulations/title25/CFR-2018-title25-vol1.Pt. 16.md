@@ -8,6 +8,17 @@
  CFR-2018-title25-vol1.Pt. 16
 
 
+# Summary
+
+The regulations in this part set forth procedures for discharging the responsibilities of the Secretary in connection with the performance by State courts, as authorized by Federal statutes, of certain functions which affect properties in which a restricted interest is owned by an Indian of the Five Civilized Tribes.
+Where information, furnished by the Bureau pursuant to &#167;&#8201;16.4 or otherwise obtained, reveals that the estate of a deceased Indian of the Five Civilized Tribes, who has been dead 5 or more years after having died intestate without heirs, consists of restricted interests in lands or rents or profits therefrom, the Field Solicitor shall, in the absence of any final decree determining that the decedent died without heirs or devisees, prepare and furnish to the Bureau a finding and order of escheat, based on affidavit or other proof of intestate death without heirs, setting forth the restricted interests in lands or rents or profits therefrom which have by escheat vested in the tribe which allotted the lands.
+
+
+# Tags
+
+['shall', 'courts', 'property', 'legal', 'action', 'terms', 'functions', 'tribe', 'bureau', 'indians', 'duties', 'federal', 'escheated', 'concerning', 'including', 'land', 'setting', 'solicitor']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                       |

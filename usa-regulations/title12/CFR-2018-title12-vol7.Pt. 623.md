@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 623
 
 
+# Summary
+
+(3) Any person temporarily suspended from appearing and practicing before the FCA in accordance with paragraph (c)(1) of this section may, within 30 days after service of the order of temporary suspension, petition the Board to lift such suspension.
+(5) In any hearing held on a petition filed in accordance with paragraph (c)(3) of this section, a showing that the petitioner has been enjoined or has been found to have committed, caused, aided or abetted violations as described in paragraph (c)(1) of this section, without more, may be a basis for suspension or debarment; that showing having been made, the burden shall then be on the petitioner to show why the petitioner should not be censured or be temporarily or permanently suspended or debarred.
+Any person appearing or practicing before the FCA who has been or is the subject of a conviction, suspension, debarment, license revocation, injunction or other finding of the kind described in &#167;&#8201;623.4 (b) or (c) of this part is an action not instituted by the FCA shall promptly file a copy of the relevant order, judgment or decree with the Board together with any related opinion or statement of the agency or tribunal involved.
+
+
+# Tags
+
+['shall', 'suspension', 'person', 'administration', 'proceeding', 'hearing', 'fca', 'mean', 'board', 'order', 'suspending', 'involved', 'state', 'cause', 'authority', 'filed', 'including', 'corporation', 'term', 'license', 'appraisal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                           |

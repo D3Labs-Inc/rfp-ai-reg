@@ -8,6 +8,22 @@
  CFR-2018-title14-vol5.Pt. 1209
 
 
+# Summary
+
+This subpart continues in effect the Contract Adjustment Board (hereinafter referred to as &#8220;the Board&#8221;) to consider and dispose of requests for extraordinary contractual adjustments by contractors of the National Aeronautics and Space Administration (hereinafter referred to as NASA).
+This subpart describes the functions, authority, and membership of the NASA Inventions and Contributions Board (hereafter referred to as &#8220;the Board&#8221;).
+Pursuant to the authority of the National Aeronautics and Space Act of 1958 as amended (42 U.S.C. 2457(f) and 2458) and the Government Employees Incentive Awards Act of 1954 (5 U.S.C. 4501-6), the Board was established on December 4, 1958, and is further continued in effect by this subpart 4.
+(a) The Board will consist of a full-time Chairperson and at least six members appointed by the Administrator from within NASA.
+The Chairperson is authorized to extend the initial appointment of any Board member for an additional period of service.
+(2) Establish such panels as may be considered necessary to discharge the responsibilities and perform the functions of the Board; and
+(a) The staff of the Board is established to assist the Board in discharging its functions and responsibilities.
+
+
+# Tags
+
+['board', 'members', 'awards', 'establish', 'nasa', 'administrator', 'authorizes', 'shall', 'terms', 'functions', 'subpart', 'regulation', 'hereinafter']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                       |

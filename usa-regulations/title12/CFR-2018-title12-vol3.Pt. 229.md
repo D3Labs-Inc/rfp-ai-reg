@@ -8,6 +8,19 @@
  CFR-2018-title12-vol3.Pt. 229
 
 
+# Summary
+
+Except as provided in paragraphs (d), (e), and (f) of this section, a depositary bank shall make funds deposited in an account by a check available for withdrawal not later than the fifth business day following the banking day on which funds are deposited, in the case of&#8212;
+A depositary bank that extends the time when funds will be available for withdrawal on a case-by-case basis and does not furnish the depositor with written notice at the time of deposit shall not assess any fees for any subsequent overdrafts (including use of a line of credit) or return of checks or other debits to the account, if&#8212;
+A bank makes the warranties described in paragraph (a) of this section to the person to which the bank transfers, presents, or returns the substitute check or a paper or electronic representation of such substitute check and to any subsequent recipient, which could include a collecting or returning bank, the depositary bank, the drawer, the drawee, the payee, the depositor, and any indorser.
+A bank shall provide the disclosure described in paragraph (a) of this section to a consumer customer who receives paid original checks or paid substitute checks with his or her periodic account statement&#8212;
+
+
+# Tags
+
+['bank', 'checks', 'shall', 'account', 'including', 'section', 'means', 'deposit', 'returning', 'time', 'notice', 'require', 'electronic', 'funds', 'received', 'inform', 'availability', 'payment', 'reason', 'consumer', 'numbers', 'state', 'warranty claims', 'periodic', 'person', 'providing', 'collected', 'disclosures', 'day', 'action', 'generally', 'described', 'transferring', 'recredited', 'iii', 'relating', 'subparts', 'indorsed', 'liability', 'purposes', 'processing', 'applicable', 'contain', 'accepting', 'board', 'act', 'facilities', 'insured', 'atms', 'federal', 'giving', 'location', 'rule', 'specifically', 'business', 'government', 'withdrawals', 'charges', 'exception', 'provisions', 'subsequently', 'cash', 'applied', 'similar', 'puerto', 'sets', 'standard', 'paper']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 621
 
 
+# Summary
+
+(b) Prepare its financial statements and reports, including reports to the shareholders, investors, boards of directors, institution management and the Farm Credit Administration, in accordance with generally accepted accounting principles, except as otherwise directed by statutory and regulatory requirements; and
+(1) Account for, report, and disclose to shareholders, investors, boards of directors, and the Farm Credit Administration all material items with respect to performance categories and other property owned in accordance with the rules and definitions set forth in this part and any other applicable requirements;
+(a) Each institution, including the Federal Agricultural Mortgage Corporation, shall prepare and file such reports of condition and performance as may be required by the Farm Credit Administration.
+(2) Submit to the Farm Credit Administration and the Reporting Entity a written certification that the information provided in the report of accounts and exposures has been prepared in accordance with all applicable regulations and instructions, and is a true and accurate record of the data maintained by the bank or association, to the best of its knowledge and belief.
+(1) Collect, store, and manage the information submitted to it by each bank and association under the requirements of this section in a central data repository in accordance with Farm Credit Administration regulations and prescribed instructions.
+
+
+# Tags
+
+['loan', 'shall', 'accountant', 'mean', 'auditing', 'includes', 'performance', 'services', 'reports', 'information', 'requirement', 'administration', 'data', 'institutions', 'times', 'assets', 'following', 'applicable', 'general', 'associated', 'credit', 'standards', 'accurate', 'financial', 'payments', 'entity', 'sources', 'repayment', 'collectible', 'immediately', 'written', 'principal', 'provided', 'specifically', 'corporations', 'develop', 'annual', 'direct', 'considering', 'participation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 605
 
 
+# Summary
+
+It is the policy of the Farm Credit Administration to act in matters relating to national security information in accordance with Executive Order 13292 and directives issued thereunder by the Information Security Oversight Office (ISOO).
+All requests for review for declassification under the mandatory review provisions of the Executive order shall be handled by the Information Security Officer or his/her designee.
+All employees who have been granted a security clearance and who have occasion to handle classified materials shall be advised of handling, reproduction, and storage procedures and shall be required to review the Executive order and appropriate ISOO directives.
+It is the policy of the Farm Credit Administration that any employee authorized access to classified information holds a personal responsibility for safeguarding against unlawful disclosures, and such employees are prohibited from disclosure without consent of the FCA Information Security Officer.
+All inquiries regarding requests for classified information under the Freedom of Information Act (5 U.S.C. 552), including those from the news media, shall be referred to the FCA FOI Officer, Office of Congressional and Public Affairs, Farm Credit Administration, and shall be handled in accordance with provisions of that statute and applicable regulations.
+
+
+# Tags
+
+['shall', 'information', 'secured', 'agency', 'classify', 'documents', 'materials', 'classification', 'administration', 'office', 'review', 'including', 'time', 'authority', 'safes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                               |

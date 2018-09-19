@@ -8,6 +8,20 @@
  CFR-2018-title12-vol2.Pt. 219
 
 
+# Summary
+
+It establishes the rates and conditions for reimbursement of reasonably necessary costs directly incurred by financial institutions in assembling or providing customer financial records to a government authority pursuant to the Act.
+(iii) Other agency administrative procedures, including administrative subpoenas, voluntary requests, or other process shall reimburse the financial institution for reasonably necessary costs directly incurred in searching for, reproducing or transporting books, papers, records, or other data as set forth in this section.
+When the legal process or formal written request is withdrawn, or the customer authorization is revoked, or where the customer successfully challenges disclosure to a grand jury or government authority, the financial institution shall be reimbursed for the reasonably necessary costs incurred in assembling the requested financial records prior to the time the financial institution is notified of such event.
+Promptly following a service of legal process or request, the court or government authority shall notify the financial institution that it must submit an itemized bill or invoice in order to obtain payment and shall furnish an address for this purpose.
+The Board and the Treasury are authorized to promulgate jointly recordkeeping and reporting requirements for domestic and international funds transfers by insured depository institutions whenever the agencies determine that the maintenance of such records has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings.
+
+
+# Tags
+
+['financial', 'cost', 'authority', 'record', 'shall', 'institutions', 'category', 'request', 'rates', 'including', 'credit', 'information', 'federal', 'customer', 'loan', 'processing', 'act', 'proceeding', 'program', 'payment', 'requirements', 'administration', 'procedure', 'period', 'office', 'job', 'debt', 'jointly', 'necessary', 'banks']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                             |

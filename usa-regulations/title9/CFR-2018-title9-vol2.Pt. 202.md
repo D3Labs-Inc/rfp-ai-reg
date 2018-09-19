@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 202
 
 
+# Summary
+
+If an oral hearing is held, except as otherwise provided in these rules, such a transcript or recording may be made a part of the record as evidence, on written motion filed by any party, or oral motion of any party made at the oral hearing, if no party objects after reasonable notice and opportunity to do so, or if the presiding officer finds that the evidence is otherwise admissible and:
+Any party present or represented at an oral hearing, desiring to file any written argument or brief, proposed findings of fact, conclusions, and order, or statement of objections to rulings made by the presiding officer, must so inform the presiding officer at the oral hearing; upon being so informed, the presiding officer shall set a reasonable time for the filing of such documents, and state it on the record at the oral hearing.
+The record shall include: Pleadings; motions and requests filed and rulings thereon; the investigation report if one is prepared by the agency head and served on the parties; the transcript or recording of an oral hearing, and exhibits received, if an oral hearing was held; evidence filed by the parties if a written hearing was held; documents filed in connection with pre-hearing conferences; any proposed findings of fact, conclusions and orders, statements of objections, and briefs; any stipulations; and proof of service.
+
+
+# Tags
+
+['shall', 'ruling', 'hear', 'office', 'timely', 'file', 'persons', 'proceedings', 'parties', 'written', 'services', 'means', 'evidence', 'recorded', 'thereof', 'noticed', 'oral', 'state', 'included', 'provided', 'ordered', 'placed', 'reason', 'administrative', 'copy', 'prior', 'document', 'report', 'mailing', 'respondents', 'matters', 'involved', 'information', 'complaint', 'permit', 'agency', 'deposit', 'fact', 'complain', 'require', 'proposing', 'answer', 'testimony', 'admit', 'conduct', 'department', 'issues', 'alleged', 'motion']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                    |

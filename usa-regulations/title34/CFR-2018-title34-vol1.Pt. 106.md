@@ -8,6 +8,18 @@
  CFR-2018-title34-vol1.Pt. 106
 
 
+# Summary
+
+Such notification shall contain such information, and be made in such manner, as the Assistant Secretary finds necessary to apprise such persons of the protections against discrimination assured them by title IX and this part, but shall state at least that the requirement not to discriminate in the education program or activity extends to employment therein, and to admission thereto unless Subpart C does not apply to the recipient, and that inquiries concerning the application of title IX and this part to such recipient may be referred to the employee designated pursuant to &#167;&#8201;106.8, or to the Assistant Secretary.
+Except as provided elsewhere in this part, no person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any academic, extracurricular, research, occupational training, or other education program or activity operated by a recipient which receives Federal financial assistance.
+A recipient shall not, on the basis of sex, apply different rules or regulations, impose different fees or requirements, or offer different services or benefits related to housing, except as provided in this section (including housing provided only to married students).
+
+
+# Tags
+
+['shall', 'sexes', 'includes', 'educational', 'provides', 'employment', 'student', 'differently', 'recipient', 'institutions', 'school', 'separate', 'activities', 'recruitment', 'assisting', 'services', 'means', 'applicants', 'benefit', 'requires', 'plan', 'agency', 'equal', 'federal', 'athletics', 'admissions', 'offer', 'materials', 'applies', 'operator', 'action', 'discriminates', 'concerning', 'transfer', 'organizations', 'degree', 'limits', 'related', 'policy', 'periodic', 'leave', 'facilities', 'employee', 'effective', 'jobs', 'subpart', 'professional', 'sections', 'housing', 'treats', 'particular', 'occupation', 'studies', 'practicable', 'opportunities', 'procedural', 'use', 'person', 'purposes', 'provision']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                   |

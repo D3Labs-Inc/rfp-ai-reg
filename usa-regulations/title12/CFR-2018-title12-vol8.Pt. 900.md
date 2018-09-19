@@ -8,6 +8,21 @@
  CFR-2018-title12-vol8.Pt. 900
 
 
+# Summary
+
+As used throughout this chapter, the following basic terms relating to the Finance Board, the Bank System and related entities have the meanings set forth below, unless otherwise indicated in a particular subchapter, part, section, or paragraph:
+Bank, written in title case, means a Federal Home Loan Bank established under section 12 of the Act (12 U.S.C. 1432).
+Office of Finance or OF means the Office of Finance, a joint office of the Banks referred to in section 2B of the Act (12 U.S.C. 1422b) and established under part 985 of this chapter.
+As used throughout this chapter, the following terms relating to Bank operations, mission and supervision have the meanings set forth below, unless otherwise indicated in a particular subchapter, part, section or paragraph:
+Affordable Housing Program or AHP means the Affordable Housing Program, the CICA program that each Bank is required to establish pursuant to section 10(j) of the Act (12 U.S.C. 1430(j)) and part 951 of this chapter.
+As used throughout this chapter, the following terms relating to other entities and concepts used throughout 12 CFR chapter IX have the meanings set forth below, unless otherwise indicated in a particular subchapter, part, section or paragraph:
+
+
+# Tags
+
+['act means', 'state', 'chapter', 'banking', 'program', 'development', 'federal', 'board', 'investment', 'term', 'funding', 'issued', 'housing', 'corporation', 'pursuant', 'financing', 'institute']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                    |

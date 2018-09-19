@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 558
 
 
+# Summary
+
+(a) Upon receipt of a complete notice of results for a key employee or primary management official as required by &#167;&#8201;556.6(b)(2) of this chapter, the Chair has 30 days to request additional information from a tribe concerning the applicant or licensee and to object.
+(b) If the Commission has no objection to issuance of a license, it shall notify the tribe within thirty (30) days of receiving notice of results pursuant to &#167;&#8201;556.6(b)(2) of this chapter.
+(c) If, within the 30-day period described in paragraph (a) of this section, the Commission provides the tribe with a statement itemizing objections to the issuance of a license to a key employee or to a primary management official applicant for whom the tribe has provided a notice of results, the tribe shall reconsider the application, taking into account the objections itemized by the Commission.
+(a) After a tribe has provided a notice of results of the background check to the Commission, a tribe may license a primary management official or key employee.
+(a) If, after the issuance of a gaming license, the Commission receives reliable information indicating that a key employee or a primary management official is not eligible for employment under &#167;&#8201;556.5 of this chapter, the Commission shall notify the issuing tribe of the information.
+
+
+# Tags
+
+['shall', 'notices', 'gaming', 'ordinances', 'licensing', 'tribe', 'information', 'day', 'applications']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                    |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 161
 
 
+# Summary
+
+The term note account means a note, subject to the right of immediate call, evidencing funds held by depositories electing the note option under applicable United States Treasury Department regulations.
+The term subsidiary means any company which is owned or controlled directly or indirectly by a person, and includes any service corporation owned in whole or in part by a savings association, or a subsidiary of such service corporation.
+The term savings account means any withdrawable account, except a demand account as defined in &#167;&#8201;161.16 of this chapter, a tax and loan account, a note account, a United States Treasury general account, or a United States Treasury time deposit-open account.
+The term security means any non-withdrawable account, note, stock, treasury stock, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, or, in general, any interest or instrument commonly known as a security, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing, except that a security shall not include an account or deposit insured by the Federal Deposit Insurance Corporation.
+
+
+# Tags
+
+['terms', 'meaning', 'account', 'associated', 'loan', 'state', 'security', 'person', 'similar', 'savings', 'united', 'deposit', 'transfer', 'officers', 'note', 'shares', 'director', 'including', 'credit', 'corporation', 'operated', 'shall', 'district', 'owned', 'certificate', 'brothers', 'controls', 'insurance', 'basis', 'provides', 'authorities', 'banking']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                     |

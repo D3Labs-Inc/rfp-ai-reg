@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 708b
 
 
+# Summary
+
+If the continuing credit union is nonfederally-insured, the merging credit union must use the form notice and ballot in subpart C of this part unless the Regional Director approves the use of different forms.
+If the continuing credit union is nonfederally-insured, the merging credit union must use the certification form in subpart C of this part unless the Regional Director approves the use of a different form.
+(a) When the board of directors of a federally-insured credit union adopts a resolution proposing to terminate federal insurance, including termination due to a merger or conversion of charter, it must provide its members with written notice of the proposal to terminate and of the date set for the membership vote.
+(d) Approval of a conversion of Federal to nonfederal insurance requires the affirmative vote of a majority of the credit union's members who vote on the proposition, provided at least 20 percent of the total membership participates in the voting.
+The first written communication following this resolution that is made by or on behalf of the credit union and that informs the members that the credit union will seek conversion of insurance is the notice of the proposal to convert.
+
+
+# Tags
+
+['union', 'insurance', 'including', 'share', 'states', 'votes', 'merger', 'credit', 'conversion', 'federally', 'ballot', 'proposed', 'accounting', 'financial', 'member', 'approval', 'forms', 'ncua', 'communication', 'requirement', 'means', 'region', 'directors', 'terminates', 'notice', 'membership', 'current', 'corporation', 'following', 'charter']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                               |

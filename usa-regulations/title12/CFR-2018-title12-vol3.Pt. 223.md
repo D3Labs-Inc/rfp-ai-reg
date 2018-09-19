@@ -8,6 +8,19 @@
  CFR-2018-title12-vol3.Pt. 223
 
 
+# Summary
+
+The valuation principles of paragraphs (a)(1) and (2) of this section do not apply to a member bank's purchase of or investment in a debt security issued by an affiliate, which is governed by &#167;&#8201;223.23.
+A purchase from an affiliate of a line of credit, revolving credit facility, or other similar credit arrangement for a nonaffiliate must be valued initially at the total amount of consideration given by the member bank in exchange for the asset plus any additional amount that the member bank could be required to provide to the borrower under the terms of the credit arrangement.
+Except as provided in paragraph (b) of &#167;&#8201;223.32 with respect to financial subsidiaries, a member bank's purchase of or investment in a security issued by an affiliate must be valued at the greater of:
+Eligible affiliated mutual fund securities are not considered to be securities issued by an affiliate, and are instead considered to be nonaffiliate collateral, for purposes of paragraphs (a) and (b) of this section, unless the member bank knows or has reason to know that the proceeds of the extension of credit will be used to purchase the eligible affiliated mutual fund securities collateral or will otherwise be used for the benefit of or transferred to an affiliate of the member bank.
+
+
+# Tags
+
+['bank', 'affiliates', 'securities', 'companies', 'transaction', 'credit', 'including', 'purchases', 'marketable', 'assets', 'loan', 'means', 'exemption', 'iii', 'require', 'certain', 'financial', 'section', 'percent', 'capitalized', 'subsidiary', 'valued', 'collateral', 'addition', 'acting', 'generally', 'investments', 'control', 'stocks', 'federal', 'state', 'similar', 'obligation', 'funding', 'described', 'underwriter', 'agency', 'rate term', 'provides', 'month', 'institution', 'basis', 'period', 'deposit', 'business', 'initially', 'syndicate', 'debt', 'equity', 'trust', 'members', 'makes', 'acceptances', 'following', 'limited', 'engages']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

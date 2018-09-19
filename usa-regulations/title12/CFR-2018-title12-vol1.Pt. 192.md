@@ -8,6 +8,20 @@
  CFR-2018-title12-vol1.Pt. 192
 
 
+# Summary
+
+The appropriate Federal banking agency may require you to delete or revise any provision in your plan of conversion if it determines the provision is inequitable; is detrimental to you, your account holders, or other savings associations; or is contrary to public interest.
+(15) After the appropriate Federal banking agency, and in the case of a state-chartered savings association, the appropriate state regulator, approves the proposed conversion, you will send proxy materials providing additional information.
+(2) The appropriate Federal banking agency may deny your application if your business plan does not demonstrate that your proposed use of conversion proceeds will help you to meet the credit and lending needs of the communities that you will serve.
+If you amend your application for conversion, the appropriate Federal banking agency may require you to re-solicit proxies for your members' meeting as a condition of approval of the amendment.
+(d) You may include stock contributed to a charitable organization in the conversion in the calculation of the total offering of conversion shares under paragraphs (a) and (b) of this section, unless the appropriate Federal banking agency objects on supervisory grounds.
+
+
+# Tags
+
+['conversion', 'agency', 'including', 'plans', 'requirements', 'proxies', 'stock form', 'material', 'offers', 'member', 'voting', 'applications', 'persons', 'follows', 'account', 'purchases', 'act', 'proposal', 'written', 'securities', 'approves', 'controlled', 'associates', 'savings', 'tax', 'capitalization', 'eligibility', 'solicitation', 'financial', 'repurchases', 'statements', 'information', 'federal', 'price', 'stating', 'notice', 'chartered', 'officers', 'reasons', 'provides', 'marketing', 'communicated', 'managed', 'appropriate', 'holders', 'condition', 'date', 'qualify', 'law', 'subscription', 'confidential', 'holding company', 'new', 'requests', 'underwriter', 'additional', 'appraisal', 'contributed', 'total', 'right', 'action', 'number', 'documents', 'copies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                 |

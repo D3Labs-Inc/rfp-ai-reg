@@ -8,6 +8,17 @@
  CFR-2018-title12-vol7.Pt. 790
 
 
+# Summary
+
+(6) * * * The Executive Director translates the NCUA Board policy decisions into workable programs, delegates responsibility for these programs to appropriate staff members, and coordinates the activities of the senior executive staff, which includes: The General Counsel; the Regional Directors; and the Office Directors for the Asset Management and Assistance Center, Chief Economist, Chief Financial Officer, Chief Information Officer, Consumer Financial Protection, Continuity and Security Management, Credit Union Resources and Expansion, Examination and Insurance, Human Resources, Minority and Women Inclusion, National Examinations and Supervision, and Public and Congressional Affairs.
+The Executive Director translates NCUA Board policy decisions into workable programs, delegates responsibility for these programs to appropriate staff members, and coordinates the activities of the senior executive staff, which includes: The General Counsel; the Regional Directors; and the Office Directors for the Asset Management and Assistance Center, Chief Economist, Chief Financial Officer, Chief Information Officer, Consumer Protection, Continuity and Security Management, Examination and Insurance, Human Resources, Minority and Women Inclusion, National Examinations and Supervision, Public and Congressional Affairs and Small Credit Union Initiatives.
+
+
+# Tags
+
+['offices', 'managed', 'ncua', 'credit', 'union', 'programs', 'including', 'policy', 'reporting', 'agency', 'examiner', 'financial', 'assisting', 'act', 'provides', 'directors', 'consumer', 'organizes', 'developments', 'public', 'insurance', 'board', 'staff', 'evaluating', 'responsibility', 'general', 'information', 'federally', 'employees', 'directed', 'regional', 'administrative', 'training', 'activity', 'asset', 'risk', 'security']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                               |

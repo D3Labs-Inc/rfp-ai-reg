@@ -8,6 +8,17 @@
  CFR-2018-title14-vol4.Pt. 232
 
 
+# Summary
+
+(c) Any interested person may, within not more than four calendar days after the service of an application for postponement of the effective date, serve and file with the Department an answer in opposition to, or in support of, the application: Provided, That if the final day of the four day period is a Saturday, Sunday, or holiday for the Department, the application may be filed with the Department no later than the end of the next day which is neither a Saturday, Sunday, or holiday: Provided further, however, That the Department need not consider any answer filed later than eight calendar days after issuance of the Postmaster General's order.
+(b) At the time a written or telegraphic application, answer, or reply is filed under this part, a copy thereof shall be served by personal service, registered mail, or telegraph upon the Postmaster General and upon the air carrier operating or ordered to operate the mail service in question.
+
+
+# Tags
+
+['including', 'shall', 'services', 'applications', 'filing', 'timely', 'answers', 'days', 'review', 'mail', 'allocated', 'general', 'provided']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                  |

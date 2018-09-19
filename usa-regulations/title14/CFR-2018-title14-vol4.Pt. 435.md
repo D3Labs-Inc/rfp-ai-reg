@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 435
 
 
+# Summary
+
+(a) The FAA issues a reentry license to an applicant who has obtained all approvals and determinations required under this chapter for a reentry license.
+The FAA will transfer a reentry license to an applicant who has obtained all of the approvals and determinations required under this chapter for a reentry license.
+Unless otherwise indicated in this subpart, regulations applicable to policy review and approval of the reentry of an RLV contained in part 431, subpart B of this subchapter shall apply to the policy review conducted for a license to reenter a reentry vehicle under this part.
+Unless otherwise stated in this subpart, regulations applicable to safety review and approval of the reentry of an RLV contained in part 431, subpart C of this subchapter shall apply to the safety review conducted for a license to reenter a reentry vehicle under this part.
+Unless otherwise indicated in this subpart, regulations contained in part 431, subpart D of this subchapter applicable to a payload reentry review and determination for reentering a payload using an RLV shall apply to the payload reentry review conducted for a license to reenter a reentry vehicle under this part.
+
+
+# Tags
+
+['licenses', 'reentry', 'required', 'reviews', 'applicable', 'contained', 'policy', 'public', 'payload', 'risk', 'shall', 'approved']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                           |

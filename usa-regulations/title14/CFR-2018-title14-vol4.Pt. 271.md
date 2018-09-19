@@ -8,6 +8,22 @@
  CFR-2018-title14-vol4.Pt. 271
 
 
+# Summary
+
+This part establishes the guidelines required by 49 U.S.C. 41736 to be used by the Department in establishing the fair and reasonable amount of compensation needed to ensure the continuation of essential air service to an eligible place under 49 U.S.C. 41731 and 41734.
+In establishing the subsidy for an air carrier providing essential air service at an eligible place, the Department will consider the following:
+(a) The reasonable costs projected for a carrier providing essential air service at an eligible place will be evaluated:
+(4) By determining whether the aircraft to be used by the carrier at the eligible place, and on which its costs are derived, are appropriate for providing essential air service there.
+(a) The projected passenger revenue for a carrier providing essential air service at an eligible place will be calculated by multiplying the following:
+The reasonable return for a carrier for providing essential air service at an eligible place generally will be set at a flat percentage, typically 5 percent of that carrier's projected operating costs as established under &#167;&#8201;271.4, plus any applicable interest expenses on flight equipment.
+(c) At the end of the rate period, the carrier will not have a continuing right to receive subsidy for providing essential air service at the eligible place.
+
+
+# Tags
+
+['carrier', 'cost', 'place', 'fare', 'subsidy', 'rate', 'operating', 'pricing', 'projections', 'air', 'following', 'act', 'traffic', 'revenue', 'discrimination']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                 |

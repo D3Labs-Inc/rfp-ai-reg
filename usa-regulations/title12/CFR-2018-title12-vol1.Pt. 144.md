@@ -8,6 +8,25 @@
  CFR-2018-title12-vol1.Pt. 144
 
 
+# Summary
+
+Communication between members of a Federal mutual savings association.
+If a member of a Federal mutual savings association desires to communicate with other members, the following procedures shall be followed:
+(1) The member shall give the Federal mutual savings association a written request to communicate;
+(2) If the proposed communication is in connection with a meeting of the Federal savings association's members, the request shall be given at least thirty days before the annual meeting or 10 days before a special meeting;
+(ii) The nature and extent of the member's interest in the Federal savings association at the time the information is given;
+(4) The Federal savings association shall reply to the request within either&#8212;
+(iii) Three days, if the communication is in connection with a special meeting;
+(6) After receiving the amount of the estimated costs of mailing and sufficient copies of the communication, the Federal savings association shall mail the communication to all members, by a class of mail specified by the requesting member, either&#8212;
+(iii) Three days, if the communication is in connection with a special meeting, after the Federal savings association receives the request for communication.
+(iii) Makes statements impugning the stability and soundness of the Federal savings association.
+
+
+# Tags
+
+['shall', 'personal', 'related', 'association', 'communication', 'savings', 'days', 'materials']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                       |

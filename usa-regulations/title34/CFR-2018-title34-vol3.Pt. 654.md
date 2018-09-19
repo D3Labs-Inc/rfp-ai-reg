@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 654
 
 
+# Summary
+
+Byrd Honors Scholarship Program, the Secretary makes grants to the States to provide scholarships for study at institutions of higher education to outstanding high school graduates who show promise of continued excellence, in an effort to recognize and promote student excellence and achievement.
+To apply for a scholarship under this program, a student must follow the application procedures established by the SEA in the student's State of legal residence.
+(3) Maintain satisfactory progress as determined by the institution of higher education the scholar is attending, in accordance with the criteria established in 34 CFR 668.14(e) of the Student Assistance General Provisions regulations.
+If after the first year of study, the SEA determines that unusual circumstances justify waiver of the full-time attendance requirement, the scholar may enroll part time and continue to receive a scholarship payment.
+(b)(1) Except as provided in paragraph (a) of this section, if an SEA finds that a scholar fails to meet the requirements of &#167;&#8201;654.51 within an award year, it shall suspend the scholar's eligibility to receive scholarship funds until the scholar is able to demonstrate to the satisfaction of the SEA that he or she meets these requirements.
+
+
+# Tags
+
+['scholarships', 'scholar', 'educational', 'students', 'islands', 'years', 'school', 'meaning', 'shall', 'sea', 'participating', 'award', 'programs', 'academic', 'states', 'requirement', 'regulations', 'period', 'enrolls', 'secretary', 'time', 'follows']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                               |

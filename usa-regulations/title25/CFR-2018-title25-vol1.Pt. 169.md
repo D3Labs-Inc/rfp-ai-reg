@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 169
 
 
+# Summary
+
+(c) For individually owned land, we may grant a right-of-way that provides for an alternative form of compensation or varying type of compensation if we determine that it is in the best interest of the Indian landowners.
+(2) We may enter the Indian land subject to a right-of-way at any reasonable time, upon reasonable notice, and consistent with any notice requirements under applicable tribal law and applicable grant documents, to protect the interests of the Indian landowners and to determine if the grantee is in compliance with the requirements of the right-of-way.
+(a) If the grantee does not cure a violation of a right-of-way grant within the required time period, or provide adequate proof of payment as required in the notice of violation, we will consult with the tribe for tribal land or, where feasible, communicate with Indian landowners for individually owned Indian land, and determine whether:
+If a grantee remains in possession after the expiration, termination, or cancellation of a right-of-way, and is not accessing the land to perform reclamation or other remaining grant obligations, we may treat the unauthorized possession as a trespass under applicable law and will communicate with the Indian landowners in making the determination whether to treat the unauthorized possession as a trespass.
+
+
+# Tags
+
+['including', 'granted', 'means', 'bia', 'tribal', 'lands', 'requirements', 'landowners', 'indian', 'authority', 'lines', 'compensation', 'use', 'payments', 'application', 'document', 'provided', 'consent', 'rights', 'actions', 'tribes', 'approved', 'constructed', 'acting', 'follows', 'bond', 'grantees', 'located', 'fee', 'public', 'time', 'issued', 'immediately', 'written', 'cancelled', 'specifies', 'interested', 'non', 'reasonably', 'states', 'minors', 'appropriate', 'water', 'additional', 'assign', 'law', 'legally', 'agreement', 'condition', 'purposes', 'utilization', 'federal', 'maintaining', 'specifically', 'appraisals', 'improvement', 'terms', 'resources', 'annually', 'business operations', 'damages', 'decisions', 'lineal', 'negotiations', 'information', 'compliance', 'easement', 'limited']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

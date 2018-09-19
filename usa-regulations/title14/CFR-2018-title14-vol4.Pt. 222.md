@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 222
 
 
+# Summary
+
+(a) Under its foreign air carrier permit, a direct foreign air carrier may provide or control the surface portion of intermodal cargo services within a zone extending 35 miles from the boundary of the airport or city it is authorized to serve.
+A direct foreign air carrier shall not provide or control the surface portion of intermodal cargo services outside of this 35-mile zone unless authorized to do so by the Board in accordance with &#167;&#167;&#8201;222.3, 222.4 and 222.5.
+(c) Except as provided in paragraphs (a) and (b) of this section with respect to control by a direct foreign air carrier, any U.S. or foreign indirect air carrier, surface carrier or surface freight forwarder may provide the surface portion of intermodal cargo services without limitation as to geographic area within the United States.
+A Statement of Authorization may be canceled or made subject to additional terms, conditions, or limitations, at any time, with or without hearing, if the Board finds that it is in the public interest to do so.
+An order canceling or conditioning a Statement of Authorization shall be submitted to the President for stay or disapproval and shall become effective on the 31st day after transmittal or within any longer time period established by the Board.
+
+
+# Tags
+
+['services', 'shall', 'carrier', 'division', 'air', 'form', 'procedures', 'surface', 'intermodal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                           |

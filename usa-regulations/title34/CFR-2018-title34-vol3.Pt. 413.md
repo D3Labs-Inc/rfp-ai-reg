@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 413
 
 
+# Summary
+
+(g) In accordance with section 404(a)(5) of the Act, the Secretary will give preference in grant selection to institutions or consortia of institutions that demonstrate the ability to carry out both the research and development and the dissemination and training activities effectively, either directly or by contract.
+(20 points) The Secretary reviews each application to determine the extent to which each of the required research and development activities described in &#167;&#8201;413.3(a)(2) will be of high quality and effective.
+(5) The quality of the applicant's general plans for developing appropriate, coherent, and effective vocational education research and development activities, or dissemination and training activities, or both, for years two through five.
+(1) The applicant's experience in conducting applied research and development activities, dissemination and training activities, or both, in the field of vocational education of the type described in &#167;&#8201;413.3;
+(2) The applicant's capacity for conducting applied research and development activities, dissemination and training activities, or both, in the field of vocational education of the type described in &#167;&#8201;413.3; and
+(20 points) The Secretary reviews each application to determine the extent to which each of the required dissemination and training activities, described in &#167;&#8201;413.3(b), will be of high quality and effective.
+
+
+# Tags
+
+['including', 'educate', 'program', 'activities', 'effectiveness', 'vocational', 'iii', 'center', 'develop', 'points', 'needs', 'plan', 'secretary', 'dissemination', 'national', 'institutions', 'applications', 'high', 'skills', 'appropriately', 'jobs', 'conducted', 'sufficient', 'training']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                         |

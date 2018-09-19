@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1225
 
 
+# Summary
+
+In furtherance of that responsibility, this part sets forth standards and procedures FHFA will employ to determine whether to require or rescind a temporary increase in the minimum capital levels for a regulated entity or entities pursuant to 12 U.S.C. 4612(d).
+If the Director determines, based on standards enunciated in this part, that a temporary increase in the minimum capital level is necessary, the Director will provide notice to the affected regulated entity or entities 30 days in advance of the date that the temporary minimum capital requirement becomes effective, unless the Director determines that an exigency exists that does not permit such notice or the Director determines a longer time period would be appropriate.
+The affected regulated entity or entities may provide comments regarding or objections to the temporary increase to FHFA within 15 days or such other period as the Director determines appropriate under the circumstances.
+In making a determination to rescind a temporary increase in the minimum capital level for a regulated entity or entities, whether in full or in part, the Director will consider the consistency of such a rescission with the prudential regulation and safe and sound operations of a regulated entity.
+
+
+# Tags
+
+['timely', 'minimum capital', 'level', 'market', 'issued', 'regulations', 'determines', 'operation', 'shall', 'entity', 'risk']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                             |

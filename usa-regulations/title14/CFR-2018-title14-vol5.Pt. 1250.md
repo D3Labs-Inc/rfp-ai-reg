@@ -8,6 +8,17 @@
  CFR-2018-title14-vol5.Pt. 1250
 
 
+# Summary
+
+The purpose of this part is to effectuate the provisions of Title VI of the Civil Rights Act of 1964 (hereafter referred to as &#8220;the Act&#8221;) to the end that no person in the United States shall, on the ground of race, color or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity receiving Federal financial assistance from the National Aeronautics and Space Administration, hereinafter referred to as NASA.
+All regulations, orders, or like directions heretofore issued by any officer of NASA which impose requirements designed to prohibit any discrimination against individuals on the ground of race, color, or national origin under any program to which this part applies, and which authorize the suspension or termination of or refusal to grant or to continue Federal financial assistance to any applicant for or recipient of such assistance for failure to comply with such requirements, are hereby superseded to the extent that such discrimination is prohibited by this part, except that nothing in this part shall be deemed to relieve any person of any obligation assumed or imposed under any such superseded regulation, order, instruction, or like direction prior to the effective date of this Instruction.
+
+
+# Tags
+
+['shall', 'federal', 'assurance', 'including', 'program', 'compliance', 'applications', 'hearing', 'provided', 'nasa', 'services', 'pursuant', 'educational', 'requirements', 'evidence', 'agency', 'employment', 'administrator means', 'assisting', 'decisions', 'entire', 'officer', 'discriminate', 'practice', 'discriminatory acts', 'issued', 'special', 'subjected', 'availability', 'information', 'action', 'findings', 'recipients', 'regulation', 'reviews', 'states', 'section', 'records', 'reasonably', 'individual', 'effected', 'proceeding']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                            |

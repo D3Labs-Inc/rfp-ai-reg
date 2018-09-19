@@ -8,6 +8,22 @@
  CFR-2018-title14-vol4.Pt. 374
 
 
+# Summary
+
+The purpose of this part is to state the Department of Transportation's responsibility to enforce air carrier and foreign air carrier compliance with Subchapters I, III, IV, V and VI of the Consumer Credit Protection Act and Regulations B and Z of the Board of Governors of the Federal Reserve System.
+This part is applicable to all air carriers and foreign air carriers engaging in consumer credit transactions.
+Compliance with the Consumer Credit Protection Act and regulations.
+(a) Each air carrier and foreign air carrier shall comply with the requirements of the Consumer Credit Protection Act, 15 U.S.C. 1601-1693r.
+Any violation of the following requirements of that Act will be a violation of 49 U.S.C. Subtitle VII, enforceable by the Department of Transportation:
+(b) Each air carrier and foreign air carrier shall comply with the requirements of Regulation B, 12 CFR part 202, and Regulation Z, 12 CFR part 226, of the Board of Governors of the Federal Reserve Board.
+Any violation of the requirements of those regulations will be a violation of 49 U.S.C. Subtitle VII, enforceable by the Department of Transportation.
+
+
+# Tags
+
+['credit', 'act', 'enforceable', 'carrier']
+
+
 # Structured Analysis Summary
 
 | Type     | Values                                         |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1260
 
 
+# Summary
+
+Any notice issued by FHFA under &#167;&#8201;1260.2(b) may establish requirements for the timing of requests to withhold proprietary information that are different from those specified under paragraph (b)(1) of this section for any category of information to be distributed thereunder.
+After receiving a written request that meets the requirements of paragraphs (a) and (b) of this section, the Director or his designee shall promptly determine whether FHFA will, or the Bank may, withhold any information from distribution pursuant to the request, which determination shall be final.
+FHFA may distribute information as provided in the notice issued under &#167;&#8201;1260.2(b) after the expiration of the applicable time period specified in &#167;&#8201;1260.3(b) unless, within that time period, the affected Bank has filed with FHFA a written request to withhold particular proprietary information that meets the requirements of &#167;&#8201;1260.3(a).
+A Bank that is required to distribute information directly to the other Banks and the Office of Finance shall distribute that information at the time specified in the notice issued under &#167;&#8201;1260.2(b) unless, within the time period specified in &#167;&#8201;1260.3(b)(1)(iii), the Bank has submitted to FHFA a request to withhold particular proprietary information that meets the requirements of &#167;&#8201;1260.3(a).
+
+
+# Tags
+
+['banks', 'fhfa shall', 'non information', 'distributing', 'notice', 'time', 'appropriate', 'setting', 'proprietary']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                   |

@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 319
 
 
+# Summary
+
+(b) Frankfurter, frank, furter, hot-dog, wiener, vienna, bologna, garlic bologna, knockwurst and similar cooked sausages that are labeled with the phrase &#8220;with byproducts&#8221; or &#8220;with variety meats&#8221; in the product name are comminuted, semisolid sausages consisting of not less than 15 percent of one or more kinds of raw skeletal muscle meat with raw meat byproducts, or not less than 15 percent of one or more kinds of raw skeletal muscle meat with raw meat byproducts and raw or cooked poultry products; and seasoned and cured, using one or more of the curing ingredients in accordance with a regulation permitting that use in this subchapter or in 9 CFR chapter III, subchapter E, or in 21 CFR chapter I, subchapter A or subchapter B.
+(1) Either fresh beef, cured beef, or canned corned beef or a mixture of two or more of these ingredients, may be used, and the finished product shall contain not less than 35 percent of beef computed on the weight of the cooked and trimmed beef.
+Meat food products characterized and labeled as liver products such as liver loaf, liver cheese, liver spread, liver mush, liver paste, and liver pudding shall contain not less than 30 percent of pork, beef, sheep, or goat livers computed on the fresh weight of the livers.
+
+
+# Tags
+
+['shall', 'meats', 'production', 'beef', 'percent', 'pork', 'ingredients', 'fats', 'contain', 'cure', 'acids', 'hams', 'sausage', 'salt', 'contents', 'including', 'fresh', 'milk', 'labels', 'liver', 'water', 'proteins', 'mechanically', 'required', 'corn', 'food', 'cooked', 'sections', 'veal', 'chop', 'sodium', 'smoking', 'frozen', 'vegetable', 'flavor', 'lard', 'species', 'standards', 'calcium', 'drying', 'potassium', 'following', 'methods', 'preparation', 'italian', 'weight', 'specifically', 'butylated', 'characteristic', 'color', 'tissue', 'edible', 'poultry', 'identified', 'chapter', 'uncured', 'finished', 'ascorbyl', 'spices', 'separation', 'binder', 'computed', 'statements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

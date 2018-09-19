@@ -8,6 +8,21 @@
  CFR-2018-title12-vol10.Pt. 1235
 
 
+# Summary
+
+The purpose of this part is to set forth minimum requirements for a record retention program for each regulated entity and the Office of Finance.
+Record retention schedule means a schedule that details the categories of records a regulated entity or the Office of Finance is required to retain and the corresponding retention periods.
+Management of each regulated entity and the Office of Finance shall evaluate in writing the adequacy and effectiveness of the record retention program at least every two years and provide a copy of the evaluation to the board of directors and the Director.
+The record retention program established and maintained by each regulated entity and the Office of Finance under &#167;&#8201;1235.3 shall:
+(c) Communication and training&#8212;(1) The record retention program established and maintained by each regulated entity and the Office of Finance under &#167;&#8201;1235.3 shall provide for periodic training and communication throughout the organization.
+(1) Address how employees and, as appropriate, how agents or independent contractors consistent with their respective roles and responsibilities to the regulated entity or the Office of Finance, will receive prompt notification of a record hold;
+
+
+# Tags
+
+['record retention', 'shall include', 'electronic', 'required', 'means', 'accessible', 'fhfa', 'storage', 'provide', 'managers', 'legal', 'financing', 'holds', 'periods', 'regulations', 'minimum', 'messages', 'schedule', 'accurate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

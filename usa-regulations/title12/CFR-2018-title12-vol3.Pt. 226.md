@@ -8,6 +8,18 @@
  CFR-2018-title12-vol3.Pt. 226
 
 
+# Summary
+
+Creditors imposing annual percentage rates that vary by state or based on the consumer's creditworthiness and providing the disclosures required by paragraph (b) of this section in person at the time the open-end (not home-secured) plan is established in connection with financing the purchase of goods or services may, at the creditor's option, disclose pursuant to paragraph (b)(2)(i) of this section in the account-opening table:
+A card issuer that imposes any annual or other periodic fee to renew a credit or charge card account of the type subject to &#167;&#8201;226.5a, including any fee based on account activity or inactivity or any card issuer that has changed or amended any term of a cardholder's account required to be disclosed under &#167;&#8201;226.6(b)(1) and (b)(2) that has not previously been disclosed to the consumer, shall mail or deliver written notice of the renewal to the cardholder.
+Except as provided in paragraph (b) of this section, a card issuer must not increase an annual percentage rate or a fee or charge required to be disclosed under &#167;&#8201;226.6(b)(2)(ii), (b)(2)(iii), or (b)(2)(xii) on a credit card account under an open-end (not home-secured) consumer credit plan.
+
+
+# Tags
+
+['crediting', 'payments', 'shall', 'rates', 'consumer', 'fee', 'included', 'requiring disclosures', 'iii', 'loans', 'charges', 'transaction', 'section', 'terms', 'creditor', 'account', 'periodically', 'providers', 'meanings', 'applicability', 'information', 'balances', 'reasons', 'issuer', 'plans', 'notices', 'appraiser', 'person', 'timely', 'service', 'stating', 'changing', 'agreements', 'cards', 'annual', 'insurable', 'written', 'certain', 'day', 'statement', 'advertisements', 'specific', 'follows', 'additional', 'general', 'acting', 'disclosing', 'mortgages', 'limitations', 'pursuant', 'forms', 'priced', 'obligations', 'applying', 'properties', 'new', 'increasing', 'offer', 'taxes', 'financed', 'optional', 'date', 'base', 'describing', 'secure', 'purchaser', 'prior', 'current', 'prohibition', 'exception', 'originated', 'dwelling', 'relation', 'opening', 'minimum', 'similar', 'federal', 'institutions', 'rule', 'repayment', 'determinations', 'right', 'valuing', 'receives', 'totaled', 'purposes', 'provisions', 'available', 'error', 'amounts', 'report', 'material', 'law', 'contained', 'imposed', 'solely', 'home', 'specified', 'request', 'initiated', 'items', 'mailed', 'billing', 'financial', 'year', 'government', 'multiple', 'agencies', 'identifiable', 'electronic', 'subject', 'advances', 'actually']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

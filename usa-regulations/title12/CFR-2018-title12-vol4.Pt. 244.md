@@ -8,6 +8,17 @@
  CFR-2018-title12-vol4.Pt. 244
 
 
+# Summary
+
+In addition to the disclosures required pursuant to &#167;&#8201;244.4(c), the sponsor provides, or causes to be provided, to potential investors a reasonable period of time prior to the sale of the asset-backed securities as part of the securitization transaction and, upon request, to the Commission and its appropriate Federal banking agency, if any, in written form under the caption &#8220;Credit Risk Retention&#8221;, the name and form of organization of any originator that will acquire and retain (or has acquired and retained) an interest in the transaction pursuant to this section, including a description of the form and amount (expressed as a percentage and dollar amount (or corresponding amount in the foreign currency in which the ABS interests are issued, as applicable)) and nature (e.g., senior or subordinated) of the interest, as well as the method of payment for such interest under paragraph (a)(1)(iv) of this section.
+(4) The sponsor provides, or causes to be provided, to potential investors a reasonable period of time prior to the sale of asset-backed securities of the issuing entity, and, upon request, to the Commission, and to its appropriate Federal banking agency, if any, in written form under the caption &#8220;Credit Risk Retention&#8221;, a description of the manner in which the sponsor determined the aggregate risk retention requirement for the securitization transaction after including qualifying commercial loans, qualifying CRE loans, or qualifying automobile loans with 0 percent risk retention.
+
+
+# Tags
+
+['loan', 'includes', 'means', 'asset', 'secures', 'shall', 'property', 'interests', 'require', 'transaction', 'issuing', 'pursuant', 'securitizer', 'sponsors', 'payments', 'provider', 'credit risk', 'entities', 'qualified', 'iii', 'collateralize', 'purchasers', 'acting', 'debts', 'services', 'application', 'income', 'financial', 'mortgage', 'year', 'section', 'principally', 'followed', 'vehicle', 'original', 'basis', 'agreement corporation', 'rate', 'similar', 'abs', 'persons', 'funded', 'cash', 'commercial', 'specifies', 'dates', 'values', 'determines', 'material', 'describes', 'document', 'prior', 'periodic', 'developer', 'banking', 'control', 'state', 'retaining', 'monthly', 'federal', 'compliance', 'seller', 'accounting', 'thereof', 'standards', 'family', 'ratios', 'capitalization', 'finance', 'times', 'clos', 'amounts', 'utility', 'operations', 'insured', 'losses', 'generates', 'definitions', 'affiliated', 'hedging', 'based', 'obligated']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

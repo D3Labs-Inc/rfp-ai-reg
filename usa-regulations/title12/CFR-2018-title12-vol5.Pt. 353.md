@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 353
 
 
+# Summary
+
+The purpose of this part is to ensure that an insured state nonmember bank files a Suspicious Activity Report when it detects a known or suspected criminal violation of federal law or a suspicious transaction related to a money laundering activity or a violation of the Bank Secrecy Act. This part applies to all insured state nonmember banks as well as any insured, state-licensed branches of foreign banks.
+(2) In situations involving violations requiring immediate attention, such as when a reportable violation is ongoing, the bank shall immediately notify, by telephone, an appropriate law enforcement authority and the appropriate FDIC regional office (Division of Supervision and Consumer Protection (DSC)) in addition to filing a timely report.
+The safe harbor provisions of 31 U.S.C. 5318(g), which exempts any bank that makes a disclosure of any possible violation of law or regulation from liability under any law or regulation of the United States, or any constitution, law or regulation of any state or political subdivision, cover all reports of suspected or known criminal violations and suspicious activities to law enforcement and financial institution supervisory authorities, including supporting documentation, regardless of whether such reports are filed pursuant to this part or are filed on a voluntary basis.
+
+
+# Tags
+
+['bank', 'reporting', 'shall', 'lawful', 'transaction', 'violations', 'involves', 'securities', 'filed', 'suspect', 'enforcement', 'office', 'state', 'numbers', 'includes', 'activity']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                              |

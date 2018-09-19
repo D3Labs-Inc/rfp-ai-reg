@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 652
 
 
+# Summary
+
+The subpart contains requirements for Farmer Mac's board of directors to adopt policies covering such areas as investment management, interest rate risk, and liquidity reserves.
+(b) The board of directors of Farmer Mac must adopt an interest rate risk management policy that establishes appropriate interest rate risk exposure limits based on the Corporation's risk-bearing capacity and reporting requirements in accordance with paragraphs (c) and (d) of this section.
+(A) Projected revenues, losses, reserves, and pro forma capital levels, including the core capital and regulatory capital ratios required by sections 8.32 and 8.33 of the Act, the Tier 1 ratio as defined in this section, and any additional capital measures deemed relevant by Farmer Mac, over the planning horizon under expected conditions and under a range of at least two progressively severe stress scenarios developed by Farmer Mac appropriate to its business model and portfolios, as well as any scenarios provided by the Director of OSMO.
+(iii) Farmer Mac's ability to maintain capital above the minimum core capital and regulatory capital ratios and above a Tier 1 ratio set in accordance with a risk tolerance policy established by the board of directors on a pro forma basis under expected and stressful conditions throughout the planning horizon, including but not limited to any stressed scenarios required under paragraphs (c)(2)(i)(A) and (c)(2)(ii) of this section.
+
+
+# Tags
+
+['risk', 'capital', 'investments', 'require', 'farmer', 'including', 'plan', 'means', 'loans', 'marketable', 'managing', 'rate', 'liquidity', 'policies', 'security', 'bank', 'stressful', 'losses', 'assets', 'changes', 'generally', 'appropriately', 'corporate', 'program', 'financial', 'maturing', 'prices', 'board', 'scenarios', 'values', 'funding', 'iii', 'mortgages', 'state', 'information', 'following', 'osmo', 'regulatory', 'periods', 'business', 'guaranteed', 'report', 'mac', 'eligibility', 'obligation', 'set', 'data', 'specified', 'purchases', 'limitation', 'positions', 'levels', 'average', 'stock', 'establishes', 'assumptions', 'fca', 'internal', 'recognizes', 'maintaining', 'credit', 'timely', 'based', 'ensure']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                          |

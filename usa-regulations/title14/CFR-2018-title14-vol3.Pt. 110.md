@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 110
 
 
+# Summary
+
+(i) Common carriage operations conducted with airplanes, including turbojet-powered airplanes, having a passenger-seat configuration of 30 seats or fewer, excluding each crewmember seat, and a payload capacity of 7,500 pounds or less, except that operations using a specific airplane that is also used in domestic or flag operations and that is so listed in the operations specifications as required by &#167;&#8201;119.49(a)(4) of this chapter for those operations are considered supplemental operations;
+(ii) Noncommon or private carriage operations conducted with airplanes having a passenger-seat configuration of less than 20 seats, excluding each crewmember seat, and a payload capacity of less than 6,000 pounds; or
+Scheduled operation means any common carriage passenger-carrying operation for compensation or hire conducted by an air carrier or commercial operator for which the certificate holder or its representative offers in advance the departure location, departure time, and arrival location.
+(iii) Each propeller-powered airplane having a passenger-seat configuration of more than 9 seats and less than 31 seats, excluding each crewmember seat, that is also used in domestic or flag operations and that is so listed in the operations specifications as required by &#167;&#8201;119.49(a)(4) of this chapter for those operations; or
+
+
+# Tags
+
+['operating', 'means', 'flight', 'fuel', 'passengers', 'air', 'specifically', 'certificated', 'states', 'airplanes', 'location', 'weight', 'carriage', 'aircraft', 'oil', 'points', 'equipment', 'arrangement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                |

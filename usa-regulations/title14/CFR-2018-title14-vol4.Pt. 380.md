@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 380
 
 
+# Summary
+
+(e) The charter operator shall make all refunds required to be described in the operator-participant contract within the time limits set forth in paragraphs (k), (n), (r), and (s) of &#167;&#8201;380.32, as applicable.
+(b) Operator's option plan contracts shall state, in addition to the information required by &#167;&#8201;380.32, that the selection of the actual dates or cities, as applicable, is at the charter operator's option and will not entitle the participant to a refund, and that the operator will notify the participant of the actual dates or cities at least 10 days before the earliest of any alternative dates for the outbound flight.
+(2) A statement from the direct air carrier and its securer (under &#167;&#8201;212.12 of this chapter), OST Form 4533, that they have entered into a security agreement assuring the direct air carrier's responsibilities to charter participants under this section in an unlimited amount (except that the liability of the securer with respect to any charter participant may be limited to the charter price paid by or on behalf of such participant), and that the securer has received a copy of the proposed flight schedule identified by the schedule number assigned by the charter operator under this part.
+
+
+# Tags
+
+['shall', 'charters', 'operations', 'participant', 'flights', 'dates', 'requirements', 'bank', 'department', 'securer', 'state', 'air transportation', 'carriers', 'provide', 'including', 'schedules', 'contracts', 'applications', 'means', 'public', 'amounts', 'follows', 'authorized', 'changed', 'registration', 'departure', 'account', 'issuing', 'price', 'companies', 'hotel', 'actions', 'foreign', 'prospectus', 'trips', 'agents', 'cancel', 'payments', 'origin city', 'persons', 'returning', 'academic', 'agreement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                      |

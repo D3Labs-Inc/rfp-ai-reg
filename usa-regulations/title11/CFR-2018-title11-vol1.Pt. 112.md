@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 112
 
 
+# Summary
+
+(a) Any person may request in writing an advisory opinion concerning the application of the Act, chapters 95 or 96 of the Internal Revenue Code of 1954, or any regulation prescribed by the Commission.
+If the Office of General Counsel determines that a request for an advisory opinion is incomplete or otherwise not qualified under 11 CFR 112.1, it shall, within 10 calendar days of receipt of such request, notify the requesting person and specify the deficiencies in the request.
+(a) Any interested person may submit written comments concerning advisory opinion requests made public at the Commission.
+(d) The Commission may issue advisory opinions pertaining only to the Federal Election Campaign Act of 1971, as amended, chapters 95 or 96 of the Internal Revenue Code of 1954, or rules or regulations duly prescribed under those statutes.
+(a) The Commission may reconsider an advisory opinion previously issued if the person to whom the opinion was issued submits a written request for reconsideration within 30 calendar days of receipt of the opinion and if, upon the motion of a Commissioner who voted with the majority that originally approved the opinion, the Commission adopts the motion to reconsider by the affirmative vote of 4 members.
+
+
+# Tags
+
+['shall', 'requested', 'days', 'advisory opinions', 'commission', 'public', 'person', 'periods', 'comments', 'written', 'relations', 'actual']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                              |

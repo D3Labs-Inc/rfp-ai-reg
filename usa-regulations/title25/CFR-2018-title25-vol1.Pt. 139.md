@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 139
 
 
+# Summary
+
+The cost per acre of the construction under &#167;&#8201;139.1 is, therefore, calculated at $57.8782 for &#8220;A&#8221; lands and $83.9337 for &#8220;B&#8221; lands in non-Indian ownership as established by Designation Report dated August 1962.
+Under the provisions of the acts cited in &#167;&#8201;139.1 the annual per acre assessment for forty equal annual payments, is hereby fixed at $1.45 per acre for &#8220;A&#8221; lands and $2.10 per acre for &#8220;B&#8221; lands for the year 1962 and each succeeding year, until the entire cost for each tract shall have been repaid to the U.S. Treasury.
+On those tracts where payments have been made pursuant to uncodified special regulations, annual assessments beginning with the year 1962 at the rate of $1.45 per acre for &#8220;A&#8221; lands and $2.10 per acre for &#8220;B&#8221; lands will be made until the entire cost of $57.8782 per acre for &#8220;A&#8221; lands and $83.9337 per acre for &#8220;B&#8221; lands shall have been repaid to the U.S. Treasury.
+&#8220;B&#8221; lands will also be assessed for reservoir construction costs in the annual per-acre rate as established in the Designation Report dated August 1962.
+Assessments against this land will continue until the entire established construction costs shall have been repaid to the U.S. Treasury.
+
+
+# Tags
+
+['assessment', 'indian', 'stat', 'land', 'shall', 'construction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                      |

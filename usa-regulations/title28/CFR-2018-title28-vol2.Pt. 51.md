@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 51
 
 
+# Summary
+
+(c) If the objection is not withdrawn, the submitting authority shall be advised that notwithstanding the objection it may institute an action in the U.S. District Court for the District of Columbia for a declaratory judgment that the change objected to by the Attorney General neither has the purpose nor will have the effect of denying or abridging the right to vote on account of race, color, or membership in a language minority group.
+Therefore, the Attorney General shall make the same determination that would be made by the court in an action for a declaratory judgment under section 5: whether the submitted change neither has the purpose nor will have the effect of denying or abridging the right to vote on account of race, color, or membership in a language minority group.
+(4) Where at the time of submission of a change for section 5 review there exists no other lawful standard, practice, or procedure for use as a benchmark (e.g., where a newly incorporated college district selects a method of election) the Attorney General's determination will necessarily center on whether the submitted change was designed or adopted for the purpose of discriminating against members of racial or language minority groups.
+
+
+# Tags
+
+['changing', 'shall', 'information', 'vote', 'section', 'submission', 'elective', 'jurisdictions', 'require', 'include', 'request', 'generic', 'acting', 'annexed', 'filing', 'publications', 'groups', 'data', 'follow', 'districts', 'concerns', 'determination', 'notice', 'minorities', 'standard', 'certain', 'days', 'contained', 'action', 'state', 'procedural', 'authorities', 'appropriate', 'number', 'material', 'periodically', 'objection', 'provide', 'legislation', 'redistrictings', 'political', 'electorate', 'justice', 'relevant', 'related', 'person', 'specify', 'decisions', 'electronic', 'party', 'courts', 'addressed', 'mailing', 'unit', 'submit', 'effect', 'means', 'blocks', 'county', 'set', 'subsequently', 'subject', 'responsible', 'remains', 'media', 'receive', 'covered', 'purpose', 'consider']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

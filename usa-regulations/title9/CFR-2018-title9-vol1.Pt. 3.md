@@ -8,6 +8,18 @@
  CFR-2018-title9-vol1.Pt. 3
 
 
+# Summary
+
+(b) Any dealer, research facility, exhibitor or operator of an auction sale offering any live guinea pig or hamster to any carrier or intermediate handler for transportation, in commerce, shall provide an adequate supply of food or type of food, which provides the requirements for food and water, within the primary enclosure to meet the requirements of this section.
+(a) During surface transportation, it shall be the responsibility of the driver or other employee to visually observe the live rabbits as frequently as circumstances may dictate, but not less than once every 4 hours, to assure that they are receiving sufficient air for normal breathing, their ambient temperatures are within the prescribed limits, all other applicable standards are being complied with and to determine whether any of the live rabbits are in obvious physical disress and to provide any needed veterinary care as soon as possible.
+(c) Innovative primary enclosures not precisely meeting the floor area and height requirements provided in paragraphs (b)(1) and (b)(2) of this section, but that do provide nonhuman primates with a sufficient volume of space and the opportunity to express species-typical behavior, may be used at research facilities when approved by the Committee, and by dealers and exhibitors when approved by the Administrator.
+
+
+# Tags
+
+['shall', 'animal food', 'provide', 'watering', 'require', 'facilities', 'enclosures', 'includes', 'contained', 'primary', 'areas', 'housed', 'sufficient', 'clean', 'temperature', 'dog', 'spaces', 'transported', 'adequately', 'preventing', 'species', 'follows', 'physically', 'marine', 'times', 'shelters', 'materials', 'veterinarian', 'conditioned', 'feed', 'cetaceans', 'individually', 'mammal', 'iii', 'floor', 'nonhuman primates', 'live', 'care', 'written', 'trained', 'number', 'cat', 'surfaces', 'air', 'additional', 'minimum', 'standards', 'maintained', 'accepts', 'behavior', 'position', 'hamsters', 'nature', 'separation', 'pinniped', 'interactive', 'ventilation', 'programs', 'drying', 'diseases', 'normal', 'periodic', 'appropriate plan', 'pools', 'veterinary', 'contamination', 'recorded', 'securely', 'public', 'lighting', 'conveyor', 'wastes', 'walls', 'age', 'odors', 'sanitation', 'opening', 'handling', 'methods', 'persons', 'hour', 'bedding', 'activities', 'contact', 'healthful', 'attendant', 'kept', 'exhibiting', 'devices', 'medications', 'proper husbandry practices', 'cage', 'outdoor', 'groups', 'indoors', 'necropsies', 'daily', 'subpart', 'quality', 'measures', 'females', 'potential', 'prior', 'compatible', 'constructed', 'breeding', 'body', 'allow', 'feet', 'instructions', 'purposes', 'rabbits', 'conveyances', 'treatments', 'inches', 'metal', 'pests']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

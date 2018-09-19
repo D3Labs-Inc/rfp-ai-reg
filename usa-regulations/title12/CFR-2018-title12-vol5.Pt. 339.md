@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 339
 
 
+# Summary
+
+Except as provided in paragraphs (a)(2) or (c) of this section, an FDIC-supervised institution, or a servicer acting on its behalf, shall require the escrow of all premiums and fees for any flood insurance required under &#167;&#8201;339.3(a) for any designated loan secured by residential improved real estate or a mobile home that is made, increased, extended, or renewed on or after January 1, 2016, payable with the same frequency as payments on the designated loan are required to be made for the duration of the loan.
+For any loan subject to paragraph (d) of this section, the FDIC-supervised institution, or a servicer acting on its behalf, shall mail or deliver to the borrower no later than June 30, 2016, or September 30 of the first calendar year in which the FDIC-supervised institution has had a change in status pursuant to paragraph (c)(2) of this section, a notice in writing, or if the borrower agrees, electronically, informing the borrower of the option to escrow all premiums and fees for any required flood insurance and the method(s) by which the borrower may request the escrow, using language similar to the model clause in appendix B to this part.
+Notwithstanding any Federal or State law other than the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001-4129), any FDIC-supervised institution, or a servicer acting on its behalf, may charge a reasonable fee for determining whether the building or mobile home securing the loan is located or will be located in a special flood hazard area.
+
+
+# Tags
+
+['insurance', 'shall', 'requiring', 'flood', 'loans', 'home', 'means', 'notices', 'fee', 'acting', 'institution', 'including', 'coverage', 'servicing', 'borrower', 'escrowing', 'permanently', 'principally', 'determines', 'electronically', 'residential', 'hazard', 'form', 'federally', 'premiums', 'areas', 'pursuant', 'property', 'person']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                            |

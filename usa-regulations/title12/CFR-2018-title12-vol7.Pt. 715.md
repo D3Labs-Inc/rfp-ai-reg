@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 715
 
 
+# Summary
+
+Any federally-insured credit union, whether Federally- or State-chartered and regardless of asset size, may choose to fulfill its Supervisory Committee audit responsibility by obtaining an annual audit of its financial statements performed in accordance with GAAS by an independent person who is licensed to do so by the State or jurisdiction in which the credit union is principally located.
+To fulfill its Supervisory Committee audit responsibility, a federally-insured State-chartered credit union having total assets of $500 million or greater must obtain an annual audit of its financial statements performed in accordance with GAAS by an independent person who is licensed to do so by the State or jurisdiction in which the credit union is principally located.
+The NCUA Board may compel a federal credit union to obtain a financial statement audit performed in accordance with GAAS by an independent person who is licensed by the State or jurisdiction in which the credit union is principally located (even if such audit is not required by &#167;&#8201;715.5), for any fiscal year in which the credit union has experienced serious and persistent recordkeeping deficiencies as defined in paragraph (c) of this section.
+
+
+# Tags
+
+['auditing', 'union', 'accountant', 'statement', 'financial', 'members', 'procedures', 'control', 'independence requires', 'reporting', 'shall', 'ncua', 'provided', 'include', 'standard', 'committee', 'state', 'performing', 'credit', 'refers', 'auditor', 'years', 'acts', 'preparing', 'papers', 'general', 'access', 'period', 'records', 'reasonably']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                      |

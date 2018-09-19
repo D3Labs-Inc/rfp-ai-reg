@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 505
 
 
+# Summary
+
+This part establishes procedures for the assessment and collection of a fee to cover the cost of incarceration.
+The Director of the Bureau of Prisons has been delegated the authority of the Attorney General (see 28 CFR 0.96c) to assess and collect a fee imposed by the Bureau in the event the court neither imposes nor waives a fine pursuant to the Sentencing Guidelines 5E1.2(d).
+Pursuant to 28 CFR 0.96c, the Bureau of Prisons staff is responsible for calculating the annual average cost of incarceration.
+Bureau of Prisons Unit Team staff are responsible for computing the amount of the fee to be paid by each inmate who has not been exempted from fee assessment.
+(b) The fee is assessed in accordance with the following formula: If an inmate's assets are equal to or less than the poverty level, as established by the United States Department of Health and Human Services and published annually in the Federal Register, no fee is to be imposed.
+If an inmate's assets are above the poverty level, Unit Team staff are to impose a fee equal to the inmate's assets above the poverty level up to the average cost to the Bureau of Prisons of confining an inmate for one year.
+
+
+# Tags
+
+['inmates', 'fees', 'annually', 'unit', 'pursuant', 'procedures', 'staff', 'states', 'sentence']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                              |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol8.Pt. 1007
 
 
+# Summary
+
+Each employee of a covered financial institution who acts as a mortgage loan originator must register with the Registry, obtain a unique identifier, and maintain this registration in accordance with the requirements of this part.
+A covered financial institution that employs one or more individuals who act as a residential mortgage loan originator must require each such employee to register with the Registry, maintain this registration, and obtain a unique identifier in accordance with the requirements of this part.
+For purposes of the registration required by this section, a covered financial institution must require each employee who is a mortgage loan originator to submit to the Registry, or must submit on behalf of the employee, the following categories of information, to the extent this information is collected by the Registry:
+For the purpose of providing information required by paragraph (e) of this section, this individual and their delegates must not act as mortgage loan originators unless the covered financial institution has 10 or fewer full time or equivalent employees and is not a subsidiary; and
+(g) Provide for appropriate action in the case of any employee who fails to comply with the registration requirements of the S.A.F.E. Act, this part, or the covered financial institution's related policies and procedures, including prohibiting such employees from acting as mortgage loan originators or other appropriate disciplinary actions;
+
+
+# Tags
+
+['employees', 'including', 'mortgage', 'information', 'federal', 'acted', 'bank', 'institutions', 'provided', 'registrant', 'insurance', 'origination', 'related', 'actions', 'registry', 'means', 'state', 'financial', 'credit', 'requirement', 'pursuant', 'loans', 'authorize', 'regulations', 'business', 'order', 'iii', 'collected', 'appropriate', 'identifies', 'number', 'registered']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                       |

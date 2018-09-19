@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1264
 
 
+# Summary
+
+(c) Nothing in this section shall be construed to limit the reviewing official's authority to join in a single complaint against a person claims that are unrelated or were not submitted simultaneously, regardless of the amount of money or the value of property or services demanded or requested.
+The reviewing official, as provided in &#167;&#8201;1264.110, shall file promptly with the presiding officer the complaint, the general answer denying liability, and the request for an extension of time.
+(d) Except as otherwise provided in this section, by failing to file a timely answer, the defendant waives any right to further review of the penalties and assessments imposed under paragraph (c) of this section, and the initial decision shall become final and binding upon the parties 30 days after it is issued.
+The presiding officer shall at the same time serve all parties with a statement describing the right of any defendant determined to be liable for a civil penalty or assessment to file a motion for reconsideration with the presiding officer or a notice of appeal with the authority head.
+
+
+# Tags
+
+['shall', 'including', 'officer', 'party', 'time', 'authority', 'administrator', 'evidence', 'document', 'witnesses', 'defend', 'hear', 'files', 'persons', 'claim', 'means', 'reasonably', 'decision', 'services', 'requests', 'written statements', 'general', 'stating', 'actually', 'following', 'answer', 'days', 'facts', 'issued', 'government', 'civil', 'ordered', 'information', 'matters', 'relating', 'discovery', 'allegations', 'presenting', 'notice', 'case', 'rule', 'motions', 'specify', 'mail', 'conference', 'represented', 'pursuant', 'nasa', 'subpoenas', 'process', 'section', 'official', 'contained']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                      |

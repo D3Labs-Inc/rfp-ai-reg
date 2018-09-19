@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 330
 
 
+# Summary
+
+(c) Air carriers that operate both passenger/combination aircraft and all-cargo aircraft and routinely report to the Department ASMs and RTMs separately for both types of flights must submit two versions of Form 330 (Final) in appendix A to this part to seek compensation on both an ASM and RTM basis.
+(4) Determine that the actual expenses and revenues presented to the Department are in accordance with the official accounting records of the carrier or the financial statements included in the carrier's Securities and Exchange Commission Form 10-Q (for availability, see 17 CFR 249.0-1(b)), and consistent with Generally Accepted Accounting Principles (GAAP), except to the extent that GAAP would require or allow treatment that would be inconsistent with the Act or this part;
+(8) Determine that the amounts presented to the Department in Form 330 (Final), pages 2-3, in appendix A to this part that the carrier identified as adjustments to the difference between the pre-September 11 forecast and actual results for the period September 11 through December 31, 2001, were in accordance with the official accounting records of the carrier or the financial statements included in the carrier's Securities and Exchange Commission Form 10-Q, and consistent with GAAP, except to the extent that GAAP would require or allow treatment that would be inconsistent with the Act or this part;
+
+
+# Tags
+
+['carriers', 'air', 'loss', 'asm', 'operating revenues', 'document', 'accountant', 'forecasted', 'include', 'aircraft', 'september', 'general', 'submit', 'procedures', 'report', 'support payments', 'records', 'rtm', 'information', 'mean', 'officer', 'compensate', 'periods', 'determination', 'require', 'reductions', 'transportation', 'collection', 'follow']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                             |

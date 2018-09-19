@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 204
 
 
+# Summary
+
+If the applicant has previously formally filed any of the required data with the Department or with another Federal agency and they are available to the Department, and those data continue to reflect the current state of the carrier's fitness, the applicant may instead identify the data and provide a citation for the date(s) and place(s) of filing.
+Prior to filing any data, the carrier may contact the Department (Air Carrier Fitness Division) to ascertain what data required by this section, if any, are already available to the Department or are not applicable to the substantial change in question and need not be included in the filing.
+(d) Information filed in support of a certificated or commuter air carrier's continuing fitness to operate under its existing authority in light of substantial changes in its operations, management, or ownership, including changes that may affect the air carrier's citizenship, shall be addressed to the Chief, Air Carrier Fitness Division, Office of the Secretary, U.S. Department of Transportation, Washington, DC 20590.
+
+
+# Tags
+
+['operating', 'including', 'shall', 'filing', 'air carrier', 'aircraft', 'services', 'authorizing', 'transport', 'certification', 'substantially', 'years', 'statements', 'applicable', 'proposals', 'states', 'fitness data', 'information', 'current', 'provide', 'require', 'revenues', 'accounts', 'actions', 'means', 'office', 'department', 'addition', 'faa', 'chief', 'holds', 'period', 'new', 'personnel']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                            |

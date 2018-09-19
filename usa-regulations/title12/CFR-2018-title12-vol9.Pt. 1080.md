@@ -8,6 +8,19 @@
  CFR-2018-title12-vol9.Pt. 1080
 
 
+# Summary
+
+(i) Civil investigative demands for the production of documentary material shall describe each class of material to be produced with such definiteness and certainty as to permit such material to be fairly identified, prescribe a return date or dates that will provide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction, and identify the custodian to whom such material shall be made available.
+(b) A person withholding material solely for reasons described in this subsection shall comply with the requirements of this subsection in lieu of filing a petition for an order modifying or setting aside a civil investigative demand pursuant to section 1080.6(e).
+(b) Material produced pursuant to a civil investigative demand, while in the custody of the custodian, shall be for the official use of the Bureau in accordance with the Act; but such material shall upon reasonable notice to the custodian be made available for examination by the person who produced such material, or his or her duly authorized representative, during regular office hours established for the Bureau.
+(a) Documentary materials, written reports, answers to questions, tangible things or transcripts of oral testimony the Bureau receives in any form or format pursuant to a civil investigative demand are subject to the requirements and procedures relating to the disclosure of records and information set forth in part 1070 of this title.
+
+
+# Tags
+
+['shall', 'investigative', 'bureau', 'reasons', 'persons', 'demands', 'documentary material', 'including electronically', 'information produced', 'recording', 'states', 'means', 'law', 'prescribed', 'public', 'custodian', 'requested', 'requires', 'hearing', 'reporting', 'individual', 'answers', 'petitions', 'designate', 'conducting', 'violation', 'custody', 'pursuant', 'office', 'set']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                           |

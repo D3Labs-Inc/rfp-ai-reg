@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 286
 
 
+# Summary
+
+The purpose of this part 286 is to prescribe the regulations and procedures under which non-reimbursable grants may be made to eligible applicants to stimulate and increase Indian entrepreneurship and employment through establishment, acquisition or expansion of profit-making Indian-owned economic enterprises which will contribute to the economy of a reservation.
+These applicants must have a form of organization acceptable to the Assistant Secretary and unable to meet their total financing needs from their own resources and by loans from other sources such as banks, Farmers Home Administration, Small Business Administration, Production Credit Associations, and Federal Land Banks.
+Grant funds will not be disbursed to a grantee until the Assistant Secretary has been informed by the lender that a loan has been approved for the grantee in the amount of the loan financing needed.
+Grantees will be required to return unused grant funds to the Assistant Secretary if the economic enterprise for which the grant was approved is not initiated, i.e., lease obtained, if needed, construction started, equipment purchased or other, within the time stated in the grant agreement.
+(a) Grantees are required to furnish the Assistant Secretary comparative balance sheets and profit and loss statements semi-annually for the first two years of operation following receipt of the grant, and annually thereafter for the succeeding three years.
+
+
+# Tags
+
+['indian', 'grants', 'applications', 'financed', 'include', 'requirements', 'economic enterprise', 'reservation', 'means', 'projects', 'profits', 'shall', 'secretary', 'loan', 'establishing', 'statements', 'operating', 'act', 'organized', 'assistance', 'partnership', 'management', 'business activity', 'lenders', 'providing', 'native', 'officer', 'associated', 'information', 'reporting', 'states']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 26
 
 
+# Summary
+
+Tribal Service Provider means a tribe or tribal organization that administers the Job Training and Placement Program pursuant to Public Law 93-638 or Public Law 102-477.
+The Job Placement and Training Program is administered by the Bureau of Indian Affairs or a tribal service provider.
+Tribes may also consolidate Job Placement and Training Program funds in accordance with the provisions of the Indian Employment, Training, and Related Services Demonstration Act of 1992, Public Law 102-477.
+(c) You may receive other financial assistance under this program determined by your ISP that you have developed with your tribal service provider.
+A service provider is an administrative unit of a BIA Regional Office, a BIA Agency Office, a BIA Field Office, a Tribal contracted office, or Alaska Native federally recognized tribe, or a tribal organization, that provides grants to help offset the cost of vocational or technical training (at approved places), or immediate job placement services.
+A service provider may offer career counseling, assessment, recommend training institutions that properly prepare applicants for entry into their career field, and help prepare applicants for gainful employment to the extent program funding will allow and based on applicants' established need.
+
+
+# Tags
+
+['training', 'services', 'job', 'program', 'means', 'employer', 'applicable', 'working', 'providing', 'indian', 'tribal', 'yes', 'plan', 'financially', 'includes', 'needs', 'assists', 'office', 'gainful', 'tribe', 'requirements', 'government', 'current', 'funding', 'federal', 'received', 'preparation', 'agency', 'omb', 'laws']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                     |

@@ -8,6 +8,23 @@
  CFR-2018-title34-vol3.Pt. 401
 
 
+# Summary
+
+(1) A tribal organization of any Indian tribe that is eligible to contract with the Secretary of the Interior under the Indian Self-Determination and Education Assistance Act or under the Act of April 16, 1934.
+(a) An application from a tribal organization, other than a Bureau-funded school, must be submitted to the Secretary by the Indian tribe.
+(1) Proposes measurable goals for student enrollment, completion, and placement (including placement in jobs or military specialties and in continuing education or training opportunities) that are realistic in terms of stated needs, resources, and job opportunities in each occupation for which training is to be provided;
+(15 points) The Secretary reviews each application to determine the extent to which the project addresses specific needs, including&#8212;
+(15 points) The Secretary reviews each application to determine the quality of the plan of operation for the project, including&#8212;
+(10 points) (1) The Secretary reviews each application to determine the quality of key personnel the applicant plans to use on the project, including&#8212;
+(10 points) The Secretary reviews each application to determine the quality of the evaluation plan for the project, including the extent to which&#8212;
+(10 points) The Secretary reviews each application to determine the quality of the plan for job placement of participants who complete training under this program, including&#8212;
+
+
+# Tags
+
+['programs', 'including', 'plan', 'projects', 'indians', 'act', 'training', 'tribally', 'educational', 'employers', 'school', 'secretary', 'vocational', 'provided', 'applicant', 'points', 'services', 'following', 'need', 'job', 'participant', 'means', 'office', 'written', 'shall', 'economic', 'organizations', 'establishment', 'national']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                             |

@@ -8,6 +8,17 @@
  CFR-2018-title12-vol8.Pt. 932
 
 
+# Summary
+
+All unsecured extensions of credit by a Bank to a single counterparty that arise from the Bank's on- and off-balance sheet and derivative transactions (but excluding the amount of sales of federal funds with a maturity of one day or less and sales of federal funds subject to a continuing contract) shall not exceed the product of the maximum capital exposure limit applicable to such counterparty, as determined in accordance with paragraph (a)(4) of this section and Table 4 of this part, multiplied by the lesser of:
+The term limit set forth in paragraph (a)(1) of this section when applied to the marketable direct obligations of state, local or tribal government unit or agencies that are acquired member assets identified in &#167;&#8201;955.2(a)(3) of this chapter or are otherwise excluded from the prohibition against investments in whole mortgages or whole loan or interests in such mortgages or loans by &#167;&#8201;956.3(a)(4)(iii) of this chapter shall be calculated based on the Bank's total capital and the credit rating assigned to the particular obligation as determined in accordance with paragraph (a)(5) of this section.
+
+
+# Tags
+
+['bank shall', 'credit', 'rating', 'contract', 'required', 'assets', 'capital', 'limits', 'risk', 'derive', 'obligation', 'provide', 'model', 'total', 'counterparties', 'markets', 'unsecured', 'calculations', 'including', 'section', 'prices', 'potential', 'term', 'debt', 'legally', 'net', 'portion', 'determinations', 'historical', 'highest', 'collateral', 'member', 'category']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                      |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1806
 
 
+# Summary
+
+(4) Other services provided to Eligible Residents who meet Low- and Moderate-Income requirements or enterprises that are Integrally Involved in a Distressed Community, as deemed appropriate by the CDFI Fund, and other comparable services as may be specified by the CDFI Fund in the applicable NOFA;
+Financial Services means check-cashing, providing money orders and certified checks, automated teller machines, safe deposit boxes, new branches, and other comparable services as may be specified by the CDFI Fund in the applicable NOFA, that are provided by the Applicant to Eligible Residents or enterprises that are Integrally Involved in the Distressed Community;
+Project Investment means providing financial assistance in the form of a purchase of stock, limited partnership interest, other ownership instrument, or a grant to an entity that is Integrally Involved in a Distressed Community and formed for the sole purpose of engaging in a project or activity (approved by the CDFI Fund), including Affordable Housing Development Loans, Affordable Housing Loans, Commercial Real Estate Loans, and Small Business Loans;
+An Applicant may receive a BEA Program Award for engaging in any of the following categories of Qualified Activities during an Assessment Period: CDFI Related Activities, Distressed Community Financing Activities, or Service Activities.
+
+
+# Tags
+
+['applicants', 'funding', 'require', 'activity', 'award', 'act means', 'loans', 'community', 'provides', 'shall', 'nofa', 'deposit', 'include', 'financial', 'cdfi', 'period', 'areas', 'eligibility', 'program', 'service', 'availability', 'institution', 'business', 'account', 'investments', 'federal', 'development', 'assist', 'bea', 'agreement', 'transaction', 'data', 'informal', 'consumer', 'pursuant', 'followed', 'individual', 'value', 'set', 'islands', 'markets', 'insurance', 'geographic', 'electronic', 'purposes', 'report', 'pos', 'census', 'law', 'home']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 160
 
 
+# Summary
+
+210; 25 U.S.C. 387) creates a first lien against irrigable lands under all Indian irrigation projects where the construction, operation and maintenance costs of such projects remain unpaid and are reimbursable, and directs that such lien shall be recited in any patent or instrument issued for such lands to cover such unpaid charges.
+This requirement will be in addition to the existing regulations requiring the superintendents in case of sales of irrigable lands to obtain from the project engineer a written statement relative to the irrigability of the lands to be sold, and whether or not there are any unpaid irrigation charges, together with the estimated per acre construction cost assessable against the land involved in the sale.
+It is important, also, for superintendents in leasing irrigable lands to present to the project engineer lists containing descriptions of the lands involved for his approval of the irrigable acreage and for checking as to whether or not such lands are in fact irrigable under existing works.
+Such unpaid charges are a lien against the land, and accordingly any failure on the part of the superintendents to collect same increases the obligation against the land.
+
+
+# Tags
+
+['irrigability', 'reservations', 'fort', 'projects', 'regulations', 'prompt', 'legislation', 'charges', 'construction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                           |

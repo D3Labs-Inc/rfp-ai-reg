@@ -8,6 +8,17 @@
  CFR-2018-title34-vol1.Pt. 100
 
 
+# Summary
+
+No order suspending, terminating or refusing to grant or continue Federal financial assistance shall become effective until (1) the responsible Department official has advised the applicant or recipient of his failure to comply and has determined that compliance cannot be secured by voluntary means, (2) there has been an express finding on the record, after opportunity for hearing, of a failure by the applicant or recipient to comply with a requirement imposed by or pursuant to this part, (3) the expiration of 30 days after the Secretary has filed with the committee of the House and the committee of the Senate having legislative jurisdiction over the program involved, a full written report of the circumstances and the grounds for such action.
+The final decision may provide for suspension or termination of, or refusal to grant or continue Federal financial assistance, in whole or in part, to which this regulation applies, and may contain such terms, conditions, and other provisions as are consistent with and will effectuate the purposes of the Act and this regulation, including provisions designed to assure that no Federal financial assistance to which this regulation applies will thereafter be extended under such law or laws to the applicant or recipient determined by such decision to be in default in its performance of an assurance given by it pursuant to this regulation, or to have otherwise failed to comply with this regulation unless and until it corrects its noncompliance and satisfies the responsible Department official that it will fully comply with this regulation.
+
+
+# Tags
+
+['shall', 'federal', 'including', 'educational', 'providing', 'acting', 'assured', 'assisting', 'hearing', 'services', 'program', 'practice', 'compliance', 'regulation', 'term', 'application', 'pursuant', 'means', 'requirements', 'evidence', 'discriminated', 'specially', 'actions', 'reviews', 'department', 'recipients', 'official', 'orders', 'agency', 'institutions', 'employment', 'information', 'facilities', 'subject', 'states', 'decisions', 'thereof', 'effected', 'entire', 'findings', 'proceeding', 'section', 'reasonably', 'school', 'time', 'availability', 'property', 'students']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                      |

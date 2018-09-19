@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 563g
 
 
+# Summary
+
+(2) Written disclosure to each purchaser prior to the sale that the securities are not offered by an offering circular filed with, and declared effective by, the Office pursuant to &#167;&#8201;563g.2 of this part, but instead are being sold in reliance upon the exemption from the offering circular requirement provided for by this section; and
+(7) If the issuer has not previously been required to file reports pursuant to section 13(a) of the Exchange Act or &#167;&#8201;563g.18 of this part, include in part II of Form OC the following undertaking: &#8220;The issuer hereby undertakes, in connection with any distribution of the offering circular, to have a preliminary or effective offering circular including the information required by this part distributed to all persons expected to be mailed confirmations of sale not less than 48 hours prior to the time such confirmations are expected to be mailed;&#8221;
+(a) Each savings association which files an offering circular which becomes effective pursuant to this part, after such effective date, shall file with the Office periodic and current reports on Forms 8-K, 10-Q and 10-K as may be required by section 13 of the Exchange Act (15 U.S.C. 78m) as if the securities sold by such offering circular were securities registered pursuant to section 12 of the Exchange Act (15 U.S.C. 78l).
+
+
+# Tags
+
+['securities', 'shall include', 'offerings', 'requires', 'file', 'acting', 'pursuant', 'personal', 'officers', 'account', 'circulars', 'means', 'associations', 'amended', 'information', 'commission', 'issuer', 'form', 'right', 'follows', 'reasons', 'period', 'condition', 'state', 'conversion', 'report', 'transaction', 'stock', 'plan', 'sale', 'sharing', 'prior', 'date', 'purchaser', 'document', 'number', 'certificate', 'issue']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                               |

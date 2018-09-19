@@ -8,6 +8,20 @@
  CFR-2018-title14-vol5.Pt. 1213
 
 
+# Summary
+
+(d) Center Public Affairs Directors are responsible for implementing their portion of the Agency's communications program, adhering to Agency policies, procedures, and priorities, and coordinating their activities with Headquarters (and others where appropriate).
+(f) All NASA employees are required to coordinate, in a timely manner, with the appropriate Public Affairs Officers prior to releasing information that has the potential to generate significant media or public interest or inquiry.
+(i) All NASA employees are responsible for adhering to plans (including schedules) for activities established by public affairs offices and senior management for the coordinated release of public information.
+All NASA employees involved in preparing and issuing NASA public information are responsible for proper coordination among Headquarters and Center offices to include review and clearance by appropriate officials prior to issuance.
+(c) All public information shall be coordinated through the appropriate Headquarters offices, including review by the appropriate Mission Directorate Associate Administrator and Mission Support Office head, or their designees, to ensure scientific, technical, and programmatic accuracy, and review by the Assistant Administrator for Public Affairs or his/her designee to ensure that public information products are well written and appropriate for the intended audience.
+
+
+# Tags
+
+['information', 'nasa', 'policies', 'releases', 'publication', 'agency', 'media', 'scientific', 'include', 'news', 'program', 'office', 'community', 'center', 'appropriated', 'affairs', 'shall', 'official', 'providing material', 'regulations', 'interviews', 'headquarters', 'technical', 'security', 'activity', 'coordinated', 'administrators', 'act', 'multimedia']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                   |

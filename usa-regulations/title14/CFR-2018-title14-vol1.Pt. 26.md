@@ -8,6 +8,18 @@
  CFR-2018-title14-vol1.Pt. 26
 
 
+# Summary
+
+(b) Holders of, and applicants for, type certificates, as identified in paragraph (d) of this section must develop Instructions for Continued Airworthiness (ICA) for the representative airplane's EWIS in accordance with part 25, Appendix H paragraphs H25.5(a)(1) and (b) of this subchapter in effect on December 10, 2007 for each affected type design, and submit those ICA for review and approval by the FAA Oversight Office.
+The type certificate holder must submit for approval by the FAA Oversight Office design changes and service instructions for installation of fuel tank flammability reduction means (FRM) meeting the criteria of paragraph (c) of this section.
+No later than December 27, 2010, holders of type certificates required by paragraph (c) of this section to make design changes must submit for approval by the FAA Oversight Office, critical design configuration control limitations (CDCCL), inspections, or other procedures to prevent increasing the flammability exposure of any tanks equipped with FRM above that permitted under paragraph (c)(1) of this section and to prevent degradation of the performance of any IMM provided under paragraph (c)(2) of this section.
+
+
+# Tags
+
+['airplanes', 'structure', 'approved', 'designed', 'included', 'applications', 'type certificates', 'section', 'repaired', 'mean', 'requirements', 'tanks', 'holders', 'fatigue', 'develop', 'tcds', 'airworthiness', 'altered', 'model', 'fuel', 'identify', 'affected', 'inspection', 'aviation', 'timely', 'data', 'limitation', 'service', 'operating', 'specify', 'dti']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                     |

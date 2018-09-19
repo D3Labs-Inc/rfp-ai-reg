@@ -8,6 +8,17 @@
  CFR-2018-title12-vol9.Pt. 1070
 
 
+# Summary
+
+Pursuant to 5 U.S.C. 552a(k)(2), the CFPB exempts the systems of records listed below from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G)-(H), and (f), and &#167;&#167;&#8201;1070.53 through 1070.59 of this subpart, to the extent that such systems of records contain investigatory materials compiled for law enforcement purposes, provided, however, that if any individual is denied any right, privilege, or benefit to which he or she would otherwise be entitled under Federal law, or for which he or she would otherwise be eligible as a result of the maintenance of such material, such material shall be disclosed to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the CFPB under an express promise that the identity of the source would be held in confidence:
+(1) The head of each office of the CFPB shall be responsible for assuring that employees subject to such official's supervision are advised of the provisions of the Privacy Act, including the criminal penalties and civil liabilities provided therein, and the regulations in this subpart, and that such employees are made aware of their individual and collective responsibilities to protect the security of personal information, to assure its accuracy, relevance, timeliness and completeness, to avoid unauthorized disclosure either orally or in writing, and to insure that no system of records is maintained without public notice.
+
+
+# Tags
+
+['requesting', 'shall', 'informant', 'cfpb', 'record', 'including', 'fees', 'publication', 'providing', 'authorizes', 'reasoned', 'generated', 'disclosures', 'employees', 'written', 'timely', 'foia', 'personally', 'state agency', 'procedure', 'individuals', 'responsibility', 'requires', 'institution', 'governing', 'acting', 'service', 'processing', 'officers', 'federal', 'material', 'set', 'demanded', 'business day means', 'counsel', 'testimony', 'appropriately', 'pursuant', 'use', 'disclosed', 'prior', 'legally', 'official', 'concerns', 'availability', 'review', 'confidentiality', 'statement', 'applicants', 'proceeding', 'orders', 'non', 'compliance', 'determine', 'circumstances', 'rules', 'purposes', 'subparts', 'report', 'enforceable', 'laws', 'iii', 'contained', 'copying', 'exemption', 'specific', 'addition', 'administration', 'news', 'document', 'secures', 'follows', 'appeals', 'identified', 'collection', 'relates']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

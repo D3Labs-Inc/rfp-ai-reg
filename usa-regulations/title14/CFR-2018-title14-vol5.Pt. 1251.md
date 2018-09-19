@@ -8,6 +8,18 @@
  CFR-2018-title14-vol5.Pt. 1251
 
 
+# Summary
+
+(3) Recipients shall take appropriate steps to ensure that no individual with disability is denied the benefits of, excluded from participation in, or otherwise subjected to discrimination in any program or activity receiving Federal financial assistance because of the absence of auxiliary aids for individuals with impaired sensory, manual, or speaking skills.
+The agency may comply with the requirements of this section through such means as redesign of equipment, reassignment of services to accessible buildings, assignment of aides to beneficiaries, home visits, delivery of services at alternate accessible sites, alteration of existing facilities and construction of new facilities, use of accessible rolling stock, or any other methods that result in making its programs or activities readily accessible to and usable by individuals with disabilities.
+If an action required to comply with this section would result in such an alteration or such burdens, the agency shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that, to the maximum extent possible, individuals with disabilities receive the benefits and services of the program or activity.
+
+
+# Tags
+
+['shall', 'accessibility', 'agency', 'services', 'program', 'including', 'provided', 'individual', 'disability', 'facilities requirements', 'personal', 'discrimination', 'means', 'appropriate', 'altering', 'applications', 'federal', 'assisted', 'recipient', 'section', 'activity', 'effecting', 'acts', 'actions', 'states', 'administrator', 'impair', 'materials', 'test', 'physical', 'use', 'complaints', 'standard', 'procedures', 'information', 'compliance', 'education', 'employment', 'buildings', 'telephones', 'qualified', 'extent', 'medical', 'general', 'available', 'reader', 'participate', 'opportunities', 'prohibited', 'health', 'design', 'entity', 'properties']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                         |

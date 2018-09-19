@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 313
 
 
+# Summary
+
+(c) The purpose of these regulations is to establish procedures and guidelines for the implementation of DOT's responsibility under 42 U.S.C. 6362 to include in any major regulatory action taken by DOT a statement of the probable impact on energy efficiency and energy conservation.
+Implementation of this policy is through the integration of energy findings and conclusions into decisions, opinions, or orders in proceedings involving a major regulatory action, as defined in this part.
+(c) Major regulatory action is any decision by the DOT decisionmaker or administrative law judge requiring an energy statement pursuant to &#167;&#8201;313.4 of this part.
+(a) It shall be the responsibility of applicants and other parties or participants to a proceeding which may involve a major regulatory action to submit sufficient information about the energy consumption and energy efficiency consequences of their proposals or positions in the proceeding to enable the administrative law judge or the DOT decisionmaker, as the case may be, to determine whether the proceeding will in fact involve a major regulatory action for purposes of this part, and if so, to consider the relevant energy factors in the decision and prepare the energy statement.
+(b) In proceedings involving evidentiary hearings, the energy information shall be submitted at such hearings pursuant to DOT's usual procedural regulations and practices, under control of the administrative law judge or other hearing officer.
+
+
+# Tags
+
+['energy', 'shall', 'action', 'hearing', 'dot', 'procedures', 'orders', 'major', 'public', 'information', 'decisions', 'efficiency', 'regulatory', 'statement', 'usc', 'requires', 'authority', 'environmental']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                         |

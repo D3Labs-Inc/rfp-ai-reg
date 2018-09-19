@@ -8,6 +8,19 @@
  CFR-2018-title2-vol1.Pt. 376
 
 
+# Summary
+
+This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Health and Human Services (HHS or Department) policies and procedures for nonprocurement debarment and suspension.
+The HHS Debarring/Suspension Official has the authority to grant an exception to let an excluded person participate in a covered transaction as provided at 2 CFR 180.135.
+Any individual or entity excluded from participation in Medicare, Medicaid, and other Federal health care programs under Title XI of the Social Security Act, 42 U.S.C. 1320a-7, 1320a-7a, 1320c-5, or 1395ccc, and implementing regulation at 42 CFR part 1001, will be subject to the prohibitions against participating in covered transactions, as set forth in this part and part 180, and is prohibited from participating in all Federal Government procurement programs and nonprocurement programs.
+Disqualified means persons prohibited from participating in specified federal procurement and nonprocurement transactions pursuant to the statutes listed in 2 CFR 180.935, and pursuant to Title XI of the Social Security Act (42 U.S.C. 1320a-7, 1320a-7a, 1320c-5, and 1395ccc) as enforced by the HHS Office of the Inspector General.
+
+
+# Tags
+
+['hhs', 'transaction', 'section', 'medicare', 'cfr', 'program', 'require', 'tiers', 'federally']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                                             |

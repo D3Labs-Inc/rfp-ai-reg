@@ -8,6 +8,22 @@
  CFR-2018-title11-vol1.Pt. 8
 
 
+# Summary
+
+This part prescribes standards and procedures under which the Commission will collect and dispose of certain debts owed to the United States, as described in 11 CFR 8.2.
+The regulations in this part implement the Debt Collection Improvement Act of 1996, 31 U.S.C. 3701, 3711, and 3716-3720A, as amended; and the Federal Claims Collection Standards, 31 CFR parts 900-904.
+(a) The procedures covered by this part apply to debts that are either owed by current and former Commission employees, or arise from the provision of goods or services by contractors or vendors doing business with the Commission.
+On behalf of the Commission, the U.S. Department of the Treasury will attempt to collect the debt, in accordance with the statutory and regulatory requirements and authorities applicable to the debt and action.
+(d) The U.S. Department of the Treasury is authorized to charge a fee for services rendered regarding referred or transferred debts.
+The Commission will add the fee to the debt as an administrative cost, in accordance with 11 CFR 8.5.
+(a) The Commission shall assess interest, penalties, and administrative costs on debts owed to the United States Government in accordance with 31 U.S.C. 3717 and 31 CFR 901.9.
+
+
+# Tags
+
+['debts', 'collection', 'claim', 'administrative', 'cfr', 'offset', 'action', 'shall', 'standards', 'states']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                             |

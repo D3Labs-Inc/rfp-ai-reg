@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1227
 
 
+# Summary
+
+The procedures set forth a process for FHFA to issue suspension orders directing the regulated entities to cease or refrain from engaging in covered transactions with such persons and any affiliates thereof for a specified period of time or permanently.
+Suspension means an action taken by a suspending official pursuant to a final suspension order that requires a regulated entity to cease or refrain from engaging in any covered transactions with a person and any affiliates thereof for a specified period of time or permanently.
+A suspending official may issue a final suspension order to the regulated entities directing them to cease or refrain from engaging in any covered transactions with a particular person and any affiliates thereof for a specified period of time or permanently, pursuant to the requirements of this part.
+The suspending official shall provide prompt written notice to the respondent of the final suspension order issued to the regulated entities with respect to such respondent.
+A regulated entity to which a final suspension order in effect is applicable may request an exception from such order to allow it to engage in a particular covered transaction with a suspended person and any affiliates thereof.
+
+
+# Tags
+
+['shall', 'included', 'order', 'suspension', 'administrative', 'fhfa', 'respondent', 'means', 'entity', 'official', 'information', 'action', 'timely', 'persons', 'submit', 'covered', 'calendar', 'address', 'misconduct', 'agencies', 'proposed', 'appropriate', 'notices', 'written', 'requirement', 'final', 'director']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                  |

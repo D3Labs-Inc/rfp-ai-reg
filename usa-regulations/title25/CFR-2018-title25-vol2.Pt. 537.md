@@ -8,6 +8,22 @@
  CFR-2018-title25-vol2.Pt. 537
 
 
+# Summary
+
+(b) For each natural person identified in paragraph (a) of this section, the management contractor shall provide to the Commission the following information:
+In compliance with the Privacy Act of 1974, each person required to submit information under this section shall sign and submit the following statement:
+(c) For each entity identified in paragraph (a)(4) of this section, the management contractor shall provide to the Commission the following information:
+(xi) For each criminal charge (excluding minor traffic charges) whether or not there is a conviction, if such criminal charge is within 10 years of the date of the application and is not otherwise listed pursuant to paragraph (c)(1)(viii) or (c)(1)(ix) of this section, the criminal charge, the name and address of the court involved and the dates of the charge and disposition.
+Each entity with a direct or indirect financial interest in a management contract shall respond within thirty (30) days to written or oral questions propounded by the Chairman.
+Each entity required to submit information under this section shall sign and submit the following statement:
+The Chair shall determine whether the results of a background investigation preclude the Chair from approving a management contract because of the individual disqualifying factors contained in &#167;&#8201;533.6(b)(1) of this chapter.
+
+
+# Tags
+
+['shall', 'businesses', 'statement', 'largest', 'management', 'iii', 'residence', 'state', 'investigation', 'charged', 'information', 'tribal', 'remaining', 'including', 'entity', 'persons', 'federal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                        |

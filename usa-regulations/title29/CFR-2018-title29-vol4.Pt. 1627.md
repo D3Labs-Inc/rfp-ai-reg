@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1627
 
 
+# Summary
+
+(3) When an enforcement action is commenced under section 7 of the Act regarding a particular applicant or employee, the Commission or its authorized representative shall require the employer to retain any record required to be kept under paragraph (b) (1) or (2) of this section which is relative to such action until the final disposition thereof.
+Each employer, employment agency, or labor organization who for good cause wishes to maintain records in a manner other than required in this part, or to be relieved of preserving certain records for the period or periods prescribed in this part, may submit in writing a petition to the Commission requesting such relief setting forth the reasons therefor and proposing alternative recordkeeping or record-retention procedures.
+(c)(1) The requirement that an employee be entitled to the equivalent of a $44,000 straight life annuity (with no ancillary benefits) is statisfied in any case where the employee has the option of receiving, during each year of his or her lifetime following retirement, an annual payment of at least $44,000, or periodic payments on a more frequent basis which, in the aggregate, equal at least $44,000 per year: Provided, however, that the portion of the retirement income figure attributable to Social Security, employee contributions, rollover contributions and contributions of prior employers is excluded in the manner described in paragraph (e) of this section.
+
+
+# Tags
+
+['shall', 'recorded', 'benefit', 'employers', 'contributes', 'employee', 'plan', 'act', 'retirement', 'general', 'life', 'actions', 'following', 'require', 'job', 'actuarial', 'sets', 'payment', 'accounted', 'recordkeeping', 'periodic', 'regulations', 'appropriate', 'providing', 'attributable', 'makes', 'amounts', 'representatives']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                   |

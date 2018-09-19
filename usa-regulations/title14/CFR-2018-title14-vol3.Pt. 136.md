@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 136
 
 
+# Summary
+
+(2) Has not engaged in the business of providing commercial air tour operations over the national park or tribal lands for the 12-month period preceding enactment.
+The Administrator, in cooperation with the Director, shall establish an air tour management plan for any national park or tribal land for which such a plan is not in effect whenever a person applies for authority to conduct a commercial air tour operation over the park.
+(2) May establish conditions for the conduct of commercial air tour operations, including, but not limited to, commercial air tour routes, maximum number of flights per unit of time, maximum and minimum altitudes, time of day restrictions, restrictions for particular events, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
+(4) Solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in paragraph (d)(3) of this section.
+
+
+# Tags
+
+['shall', 'operating', 'flights', 'landing', 'helicopters', 'planned', 'means', 'requirements', 'maximum', 'park', 'engine power', 'commercial air tour', 'aircraft', 'waters', 'including', 'areas', 'period', 'emergency', 'environmental', 'providing', 'section', 'limiting', 'altitudes', 'public', 'applies', 'impact']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                      |

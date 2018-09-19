@@ -8,6 +8,18 @@
  CFR-2018-title2-vol1.Pt. 1532
 
 
+# Summary
+
+(b) CAA or CWA disqualification applies to both the person convicted of the offense, and to the violating facility during performance of an award or covered transaction under the Federal procurement and nonprocurement suspension and debarment system.
+Whenever the EPA determines that the risk presented to Federal procurement and nonprocurement activities on the basis of the misconduct which gives rise to a person's CAA or CWA conviction exceeds the coverage afforded by mandatory disqualification, the EPA may use its discretionary authority to suspend or debar a person under subparts A through I of 2 CFR part 180, or under 48 CFR part 9, subpart 9.4.
+(b) If the EPA debarring official finds that he or she has certified correction of the condition giving rise to a CAA or CWA conviction or violation on the basis of a false, misleading, incomplete or inaccurate information; or if a person fails to comply with material condition of an administrative agreement, the EPA debarring official may take suspension or debarment action against the person(s) responsible for the misinformation or noncompliance with the agreement as appropriate.
+
+
+# Tags
+
+['officially', 'information', 'federal', 'epa policies', 'debarring', 'reinstated', 'nonprocurement', 'cwa', 'disqualification', 'suspension', 'convicted', 'states', 'section', 'decision', 'require', 'person', 'giving', 'awards', 'issuing', 'material', 'conditions', 'criminal', 'epls', 'caa', 'contracts', 'officer', 'correction', 'tiers', 'providers']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                      |

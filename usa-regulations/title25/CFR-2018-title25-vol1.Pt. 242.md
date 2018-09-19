@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 242
 
 
+# Summary
+
+No person shall engage in commercial fishing in the waters of the Red Lakes on the Red Lake Indian Reservation in the State of Minnesota except the Red Lake Fisheries Association, a corporation organized and incorporated under the laws of Minnesota, and its members, and then only in accordance with the regulations in this part.
+The association may conduct commercial fishing operations on the reservation under authority of its articles of incorporation and by-laws only in accordance with the regulations in this part.
+(b) Fish may be taken for commercial purposes only by the Association through members of the Association in residence on the reservation during the fishing season which shall be May 15 to November 15 inclusive.
+The Secretary may set such commercial quotas as he may find desirable, based on available biological and other information, on the amount of fish which may be taken under authority of the regulations in this part in any one season.
+(a) Any variety of fish may be taken by enrolled members of the Band from any waters on the reservation by hook and line, and from Upper and Lower Red Lakes by gill net or entrapment gear for noncommercial use only.
+
+
+# Tags
+
+['fishing', 'shall', 'association', 'indians', 'lakes', 'authorized', 'purpose', 'commercial', 'means']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                            |

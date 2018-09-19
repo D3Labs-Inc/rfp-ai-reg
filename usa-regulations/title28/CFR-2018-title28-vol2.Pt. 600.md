@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 600
 
 
+# Summary
+
+Subject to the limitations in the following paragraphs, the Special Counsel shall exercise, within the scope of his or her jurisdiction, the full power and independent authority to exercise all investigative and prosecutorial functions of any United States Attorney.
+Except as provided in this part, the Special Counsel shall determine whether and to what extent to inform or consult with the Attorney General or others within the Department about the conduct of his or her duties and responsibilities.
+However, the Attorney General may request that the Special Counsel provide an explanation for any investigative or prosecutorial step, and may after review conclude that the action is so inappropriate or unwarranted under established Departmental practices that it should not be pursued.
+(3) Upon conclusion of the Special Counsels investigation, including, to the extent consistent with applicable law, a description and explanation of instances (if any) in which the Attorney General concluded that a proposed action by a Special Counsel was so inappropriate or unwarranted under established Departmental practices that it should not be pursued.
+All other releases of information by any Department of Justice employee, including the Special Counsel and staff, concerning matters handled by Special Counsels shall be governed by the generally applicable Departmental guidelines concerning public comment with respect to any criminal investigation, and relevant law.
+
+
+# Tags
+
+['shall', 'appropriate', 'investigate', 'counsels', 'action', 'matter', 'including', 'general', 'employees', 'departmental', 'justice', 'concerning', 'procedural', 'decisions', 'attorney', 'conducting', 'specific', 'reports', 'extent']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                       |

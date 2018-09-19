@@ -8,6 +8,17 @@
  CFR-2018-title28-vol2.Pt. 50
 
 
+# Summary
+
+(3) When the Attorney General has authorized the use of a subpoena, court order, or warrant to obtain communications records or business records of a member of the news media, and the affected member of the news media has not been given notice, pursuant to paragraph (e)(2) of this section, of the Attorney General's determination before the use of the subpoena, court order, or warrant, the United States Attorney or Assistant Attorney General responsible for the matter shall provide to the affected member of the news media notice of the order or warrant as soon as it is determined that such notice will no longer pose a clear and substantial threat to the integrity of the investigation, risk grave harm to national security, or present an imminent risk of death or serious bodily harm.
+(a) Under the procedures set forth below, a federal employee (hereby defined to include present and former Federal officials and employees) may be provided representation in civil, criminal and Congressional proceedings in which he is sued, subpoenaed, or charged in his individual capacity, not covered by &#167;&#8201;15.1 of this chapter, when the actions for which representation is requested reasonably appear to have been performed within the scope of the employee's employment and the Attorney General or his designee determines that providing representation would otherwise be in the interest of the United States.
+
+
+# Tags
+
+['shall', 'inform', 'appropriate', 'included', 'department', 'general', 'criminal', 'federally', 'request', 'act', 'stating', 'attorneys', 'recordings', 'proceeding', 'personal', 'procedure', 'authorities', 'justice', 'representation', 'providing', 'law', 'publication', 'agency', 'reasonably', 'enforceable', 'divisions', 'investigations', 'government', 'employee', 'civil', 'requirements', 'service', 'case', 'seek', 'circumstances', 'settlement', 'securities', 'notice', 'communicated', 'statements', 'member', 'prior', 'protection', 'assistants', 'related', 'pursuant', 'iii', 'arbitration', 'officer', 'issue', 'substantial', 'policies', 'media', 'officially designate', 'usc', 'litigants', 'individual', 'administration', 'exceptional', 'limitations', 'applicable', 'arrested', 'legal', 'rules', 'timely', 'written', 'particular', 'medal', 'listed', 'considerable', 'available', 'responsibility', 'annuity broker', 'documented', 'setting', 'concerning', 'regulates', 'consenting', 'periodically', 'trials', 'local', 'approval', 'followed', 'insured', 'section', 'received', 'drugs', 'present', 'reviewing', 'propose', 'materials', 'interests', 'employment', 'subpoena']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

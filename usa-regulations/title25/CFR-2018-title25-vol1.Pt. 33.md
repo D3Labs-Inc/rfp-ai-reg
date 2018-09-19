@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 33
 
 
+# Summary
+
+(b) Authority to perform education functions shall be delegated directly from the Assistant Secretary-Indian Affairs to the Director, Office of Indian Education Programs.
+(e) Indian Education program functions to be performed at the Area office level shall include those dealing with higher education, Johnson-O'Malley aid to non-Bureau schools, off-reservation boarding schools, those education program operations serving tribes from more than one Agency except those at the three post-secondary institutions, on-reservation education functions located at an Agency where no educational personnel are assigned, education contract operations, and adult education.
+A Bureau Area Education Programs Director shall perform those Bureau of Indian Affairs education functions related to Johnson-O'Malley aid to non-Bureau schools, higher education, Bureau peripheral dormitories, adult education, off-reservation residential schools, on-reservation functions located at an Agency where no education personnel are assigned, education contract operations, and those education program operations serving Tribes from more than one Agency, except those of the Bureau's post-secondary institutions.
+(2) Define responsibilities for employees providing technical and coordinating assistance for support services to the Director, Office of Indian Education Programs and his/her subordinates, including procurement, contracting, personnel, and other administrative support areas.
+The Director, Office of Indian Education Programs shall prepare and promulgate procedures to govern the provision of support services by the Bureau of Indian Affairs for the education function.
+
+
+# Tags
+
+['educational', 'shall', 'indian', 'program', 'affairs', 'areas', 'functions', 'agency means', 'level', 'including', 'institutions', 'office', 'bureau']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                    |

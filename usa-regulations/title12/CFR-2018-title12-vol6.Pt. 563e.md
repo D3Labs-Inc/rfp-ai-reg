@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 563e
 
 
+# Summary
+
+(1) The lending test evaluates a savings association's record of helping to meet the credit needs of its assessment area(s) through its lending activities by considering a savings association's home mortgage, small business, small farm, and community development lending.
+Subject to paragraphs (b) and(c) of this section, the OTS assigns to a savings association a rating of &#8220;outstanding,&#8221; &#8220;satisfactory,&#8221; &#8220;needs to improve,&#8221; or &#8220;substantial noncompliance&#8221; based on the savings association's performance under the lending, investment and service tests, the community development test, the small savings association performance standards, or an approved strategic plan, as applicable.
+A savings association that elects to have the OTS consider loans by an affiliate, for purposes of the lending or community development test or an approved strategic plan, shall collect, maintain, and report for those loans the data that the savings association would have collected, maintained, and reported pursuant to paragraphs (a), (b), and (c) of this section had the loans been originated or purchased by the savings association.
+A savings association that elects to have the OTS consider community development loans by a consortium or third party, for purposes of the lending or community development tests or an approved strategic plan, shall report for those loans the data that the savings association would have reported under paragraph (b)(2) of this section had the loans been originated or purchased by the savings association.
+
+
+# Tags
+
+['loan', 'associations', 'includes', 'shall', 'plan', 'areas', 'performance', 'community', 'lending', 'income', 'data', 'ots assesses', 'public', 'act', 'information', 'credit', 'savings', 'means', 'geography', 'provides', 'activities', 'services', 'branches', 'business', 'develop', 'investment', 'small', 'home', 'institutions', 'low', 'general', 'state', 'deposit', 'years', 'controlled', 'requiring', 'reports', 'criteria', 'annual', 'applicants', 'sections', 'considers', 'test', 'housing', 'programs', 'satisfactory', 'follows', 'financial', 'production', 'approved']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                   |

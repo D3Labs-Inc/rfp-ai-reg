@@ -8,6 +8,22 @@
  CFR-2018-title14-vol5.Pt. 1207
 
 
+# Summary
+
+(i) Those Headquarters employees described in paragraph (c)(1) of this section must submit their requests to the Official-in-Charge of the Headquarters office in which they are employed and to the General Counsel for concurrence.
+(ii) Other Center employees must submit their requests to the Center Chief Counsel for concurrence, and then to their Center Director or Deputy Center Director for approval.
+The General Counsel of NASA is the Designated Agency Ethics Official and is delegated the authority to coordinate and manage NASA's ethics program as set forth in 5 CFR 2638.203.
+The Associate General Counsel (General) is the Alternate Designated Agency Ethics Official.
+(1) For employees at NASA Headquarters, or for matters affecting employees Agencywide, the Associate Deputy Administrator, the Designated Agency Ethics Official, the Alternate Designated Agency Ethics Official, or the Chief of Staff; and
+(2) For Center employees, the Center Director, who may delegate specific responsibilities of the Agency Designee to the Center Chief Counsel or to another official who reports directly to the Center Director.
+(b) If the former government employee has questions as to whether the communication comes within the scientific and technological exemption, he or she should contact the General Counsel, the designated agency ethics official.
+
+
+# Tags
+
+['employee', 'nasa', 'ethics', 'waivers', 'employment', 'official', 'financial', 'center', 'agency', 'communications', 'approved', 'usc']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                        |

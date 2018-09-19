@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 100
 
 
+# Summary
+
+All costs specifically identified with other projects, business units, or cost objectives of the carrier shall not be charged to the CALEA compliance effort, directly or indirectly.
+(c) An allocable cost shall not be assigned to the CALEA compliance effort if other costs incurred for the same purpose in like circumstances have been included as a direct cost of that, or any other, cost objective.
+(b) The requirement for submission of cost data is met if, as determined by the FBI, all cost data reasonably available to the carrier are either submitted or identified in writing by the date of agreement on the costs.
+In order to evaluate the accuracy, completeness, and timeliness of the cost data, the FBI or other representatives of the Government shall have the right to examine and audit all of the carrier's supporting materials.
+If the carrier is required to furnish cost, funding, or performance reports, the FBI or representatives of the Government shall have the right to examine and audit books, records, other documents, and supporting materials, for the purpose of evaluating the effectiveness of the carrier's policies and procedures to produce data compatible with the objectives of these reports and the data reported.
+
+
+# Tags
+
+['costs', 'shall include', 'data', 'reason', 'information', 'estimating', 'services', 'means', 'generally', 'material', 'reimbursement', 'directly', 'carriers', 'allocated', 'bases', 'proposal', 'supporting', 'requirements', 'agreement', 'provide', 'performance', 'calea', 'united', 'timely', 'rates', 'work', 'practices', 'management', 'element', 'items', 'appropriate', 'bargaining', 'labor', 'business', 'specific', 'modifications', 'submit', 'authorized', 'identifying', 'related', 'breakdowns', 'adequate', 'total', 'purpose']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                         |

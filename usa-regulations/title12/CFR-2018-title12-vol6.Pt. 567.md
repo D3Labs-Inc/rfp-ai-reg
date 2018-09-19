@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 567
 
 
+# Summary
+
+If a recourse obligation, direct credit substitute, residual interest, or asset- or mortgage-backed security is not rated by an NRSRO, but is senior or preferred in all features to a traded position (including collateralization and maturity), the savings association may risk-weight the face amount of the senior position under paragraph (b)(3)(i) of this section, based on the rating of the traded position, subject to supervisory guidance.
+Notwithstanding any other provision of this paragraph (b), with respect to a transfer of a small business loan or lease of personal property with recourse that is a sale under generally accepted accounting principles, a qualified savings association may elect to include only the amount of its recourse in its risk-weighted assets.
+The total outstanding amount of recourse retained by a qualified savings association with respect to transfers of small business loans and leases of personal property and included in the risk-weighted assets of the savings association as described in paragraph (b)(5)(ii) of this section, may not exceed 15 percent of the association's total capital computed under &#167;&#8201;567.5(c).
+In that case, the savings association must separately risk-weight the on-balance sheet servicing asset and the related recourse obligations and direct credit substitutes under this section, and incorporate these amounts into the risk-based capital calculation.
+
+
+# Tags
+
+['credited', 'capitalized', 'asset', 'includes', 'associated', 'terms', 'means', 'loan', 'internal risk', 'shall', 'rate', 'iii', 'requiring', 'positive', 'bank', 'sections', 'provide', 'issuing', 'purchase', 'financial', 'obligate', 'securing', 'servicing', 'stated', 'dates', 'accounting', 'saving', 'investment', 'basis', 'contracted', 'transaction', 'debts', 'period', 'ots', 'losses', 'holding', 'programs', 'based', 'mortgage', 'qualified', 'instrumentality', 'recourse', 'netting', 'relation', 'generates', 'deposit', 'maturing', 'retained', 'liquidity', 'funded', 'limits', 'determines', 'purpose', 'business', 'party', 'institution', 'consolidated', 'facilities', 'lends', 'supervisory', 'actions', 'projection', 'home equity', 'similar', 'reports', 'standards', 'subsidiaries', 'tax', 'cash', 'calculated', 'property', 'future', 'offices', 'times', 'marketable', 'collateralized', 'current', 'year', 'subject', 'plans', 'appropriate', 'minimum', 'values', 'followed', 'sheet', 'directives']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

@@ -8,6 +8,30 @@
  CFR-2018-title3-vol1.Pt. 101
 
 
+# Summary
+
+Executive Office of the President.
+Until further regulations are promulgated, the remainder of the entities within the Executive Office of the President, to the extent that 5 U.S.C. 552 is applicable, shall follow the procedures set forth in the regulations applicable to the Office of Management and Budget (5 CFR Ch. III).
+Requests for information from these other entities should be submitted directly to such entity.
+Office of Management and Budget.
+Freedom of Information regulations for the Office of Management and Budget appear at 5 CFR Ch. III.
+National Security Council.
+Freedom of Information regulations for the National Security Council appear at 32 CFR Ch. XXI.
+Council on Environmental Quality.
+Freedom of Information regulations for the Council on Environmental Quality appear at 40 CFR Ch. V.
+Office of National Drug Control Policy.
+Freedom of Information regulations for the Office of National Drug Control Policy appear at 21 CFR parts 1400-1499.
+Office of Science and Technology Policy.
+Freedom of Information regulations for the Office of Science and Technology Policy appear at 32 CFR part 2402.
+Office of the United States Trade Representative.
+Freedom of Information regulations for the Office of the United States Trade Representative appear at 15 CFR part 2004.
+
+
+# Tags
+
+['freedom', 'appear', 'office']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                      |

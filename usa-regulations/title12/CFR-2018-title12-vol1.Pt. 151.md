@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 151
 
 
+# Summary
+
+You are not required to comply with this part for securities transactions effected by a registered broker-dealer, if the registered broker-dealer directly provides the customer with a confirmation.
+Periodic plan means a written document that authorizes you to act as agent to purchase or sell for a customer a specific security or securities (other than securities issued by an open end investment company or unit investment trust registered under the Investment Company Act of 1940).
+Security does not include currency; any note, draft, bill of exchange, or banker's acceptance which has a maturity at the time of issuance of less than nine months, exclusive of days of grace, or any renewal thereof, the maturity of which is likewise limited; a deposit or share account in a Federal or state chartered depository institution; a loan participation; a letter of credit or other form of bank indebtedness incurred in the ordinary course of business; units of a collective investment fund; interests in a variable amount (master) note of a borrower of prime credit; U.S. Savings Bonds; or any other instrument the OCC determines does not constitute a security for purposes of this part.
+
+
+# Tags
+
+['certain securities', 'transaction', 'investment', 'orders', 'records', 'customer', 'account', 'timely', 'purchases', 'including', 'effect', 'trust', 'dealer', 'means', 'funds', 'require', 'described', 'information', 'providers', 'calendar', 'registered', 'offer', 'certificate', 'prices', 'bond', 'report', 'underwriter', 'note', 'specific']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                |

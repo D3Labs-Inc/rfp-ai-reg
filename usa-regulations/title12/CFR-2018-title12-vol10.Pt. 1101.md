@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1101
 
 
+# Summary
+
+The time for response may be extended up to 10 additional working days in unusual circumstances, as defined in 5 U.S.C. 552(a)(6)(B), where the Council has provided written notice to the requester setting forth the reasons for the extension and the date on which a determination is expected to be dispatched.
+The Council will assess fees for commercial use requesters sufficient to recover the full direct costs of searching for, reviewing for release, and duplicating the records sought.
+The Council shall charge requesters who do not fit into any of the categories in paragraphs (b)(5)(iii)(A) and (B) of this section fees which recover the full reasonable direct cost of searching for and reproducing records that are responsive to the request, except that the first 100 pages of reproduction and the first two hours of search time shall be furnished without a fee.
+(C) When the Council acts under paragraph (b)(5)(vii)(A) or (B) of this section, the administrative time limits prescribed in subsection (a)(6) of the FOIA (i.e., 20 working days from receipt of initial requests, plus permissible extensions of these time limits) will begin only after the Council has received the fee payments described.
+
+
+# Tags
+
+['council', 'requesting', 'records', 'information', 'fee', 'shall', 'agency', 'staff', 'timely', 'documents', 'public', 'search', 'means', 'including', 'plus', 'federal', 'foia', 'cost', 'circumstances', 'authorize', 'mailing', 'procedure', 'charging', 'iii', 'administration', 'examiner', 'media', 'act', 'related', 'provides', 'limitation', 'services', 'group', 'expedited', 'institutions', 'copies', 'statements', 'actually', 'reporting', 'exemptions', 'reasonably', 'order', 'written', 'responses']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                 |

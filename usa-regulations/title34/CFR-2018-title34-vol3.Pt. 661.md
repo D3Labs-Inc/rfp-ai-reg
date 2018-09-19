@@ -8,6 +8,23 @@
  CFR-2018-title34-vol3.Pt. 661
 
 
+# Summary
+
+Who is eligible to apply for a grant under the Business and International Education Program?
+Under this program the Secretary considers applications from institutions of higher education that have entered into agreements with business enterprises, trade organizations or associations engaged in international economic activity&#8212;or a combination or consortium of these enterprises, organizations or associations&#8212;for the purposes of pursuing the activities authorized under this program.
+What definitions apply to the Business and International Education Program?
+The activities that the Secretary may assist institutions of higher education to conduct under this program, include but are not limited to&#8212;
+(a) Innovation and improvement of international education curricula to serve the needs of the business community, including the development of new programs for nontraditional, mid-career, or part-time students;
+(i) Development of research programs on issues of common interest to institutions of higher education and private sector organizations and associations engaged in or promoting international economic activity;
+An institution that applies for a grant under this program shall include the following in its application:
+The Secretary evaluates an application for a grant under this program on the basis of the criteria in &#167;&#8201;661.31.
+
+
+# Tags
+
+['international', 'activity', 'business', 'secretary', 'programs', 'educational', 'trade', 'applicable', 'including', 'foreign', 'language', 'appropriate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                     |

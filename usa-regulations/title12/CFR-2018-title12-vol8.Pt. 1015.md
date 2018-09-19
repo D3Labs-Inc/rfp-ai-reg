@@ -8,6 +8,19 @@
  CFR-2018-title12-vol8.Pt. 1015
 
 
+# Summary
+
+(1) Receiving any scheduled periodic payments from a consumer pursuant to the terms of the dwelling loan that is the subject of the offer to provide mortgage assistance relief services, including amounts for escrow accounts under section 10 of the Real Estate Settlement Procedures Act (12 U.S.C. 2609); and
+(12) The terms, conditions, or limitations of any offer of mortgage assistance relief the provider obtains from the consumer's dwelling loan holder or servicer, including the time period in which the consumer must decide to accept the offer;
+(b) Fail to disclose, at the time the mortgage assistance relief service provider furnishes the consumer with the written agreement specified in paragraph (a) of this section, the following information: &#8220;This is an offer of mortgage assistance we obtained from your lender [or servicer].
+(d) Fail to disclose in the notice specified in paragraph (c) of this section, in cases where the offer of mortgage assistance relief the provider obtained from the consumer's dwelling loan holder or servicer is a trial mortgage loan modification, the terms, conditions, and limitations of this offer, including but not limited to:
+
+
+# Tags
+
+['services', 'means', 'provides', 'included', 'payment', 'consumers', 'mortgage', 'communication', 'loan', 'material', 'act', 'commercial', 'accountability', 'disclosures shall', 'united', 'states', 'performing', 'receive', 'manner', 'pursuant', 'insert', 'generally', 'amounts', 'type', 'iii', 'program', 'persons', 'individual', 'public', 'assisting', 'rate', 'following', 'requiring', 'offer', 'records', 'script']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                               |

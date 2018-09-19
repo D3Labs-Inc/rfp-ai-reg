@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 413
 
 
+# Summary
+
+(a) The FAA accepts the application and will initiate the reviews required to make a decision about the license or permit; or
+If, in addition to the information required by this chapter, the FAA requires other information necessary for a determination that public health and safety, safety of property, and national security and foreign policy interests of the United States are protected during the conduct of a licensed or permitted activity, an applicant must submit the additional information.
+If an accepted application does not provide sufficient information to continue or complete the reviews or evaluations required by this chapter for a licensing or permitting determination, or an issue exists that would affect a determination, the FAA notifies the applicant, in writing, and informs the applicant of any information required to complete the application.
+If the FAA does not make a decision within 120 days of receiving an accepted license application or within 90 days of receiving an accepted permit application, the FAA informs the applicant, in writing, of any outstanding information needed to complete the review, or of any issues that would affect the decision.
+After the FAA completes its reviews and makes the decisions required by this chapter, the FAA issues a license or permit to the applicant.
+
+
+# Tags
+
+['information', 'applications', 'faa', 'permit', 'requirements', 'licensed', 'stating', 'issued', 'reviews', 'administrative', 'following', 'period', 'requests', 'address', 'nation', 'submit', 'proposes', 'confidentially', 'addition', 'respects']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                               |

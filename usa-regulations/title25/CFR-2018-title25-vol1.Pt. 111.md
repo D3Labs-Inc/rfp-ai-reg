@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 111
 
 
+# Summary
+
+In making all annuity and other per capita payments, the funds shall be equally divided among the Indians entitled thereto share and share alike.
+(b) Deceased enrollees may be carried on the rolls for one payment after death;
+(c) Where final rolls have been prepared constituting the legal membership of the tribe, only Indians whose names appear thereon are entitled to share in future payments, after-born children being excluded and the shares of deceased enrollees paid to the heirs if determined or if not determined credited to the estate pending determination; and
+In making payments to competent Indians, each check should be drawn to the order of the enrollee and given or sent directly to him.
+Powers of attorney and orders given by an Indian to another person for his share in a payment will not be recognized.
+An Indian holding equal rights in two or more tribes can share in payments to only one of them and will be required to elect with which tribe he wishes to be enrolled and to relinquish in writing his claims to payments to the other.
+Indians who have received or applied for their pro rata shares of an interest-bearing tribal fund under the act of March 2, 1907 (34 Stat.
+
+
+# Tags
+
+['indians', 'payments', 'man', 'share', 'enrollee', 'children', 'minors', 'equally']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                             |

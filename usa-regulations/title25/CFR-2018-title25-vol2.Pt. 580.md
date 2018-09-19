@@ -8,6 +8,21 @@
  CFR-2018-title25-vol2.Pt. 580
 
 
+# Summary
+
+The procedural provisions of parts 580 through 585 of this subchapter may be waived, in whole or in part, to promote the orderly conduct of business on motion to the Commission or on its own motion, if the ends of justice so require and if to do so does not substantially prejudice any party, except that the Commission may not extend the time for filing a notice of appeal.
+In any appellate proceeding under parts 582 through 585 of this subchapter, a party or limited participant may appear in person or by an attorney or other authorized representative.
+(c) All documents filed after the notice of appeal shall be served on the Commission and copies concurrently served on all parties, intervenors, or limited participants.
+(b) The Commission shall review the Chair's actions or decisions de novo.
+In the absence of a decision of a majority of the Commission within the time provided, the Chair's decision shall constitute the final decision of the Commission, except that if the subject of the appeal is a temporary closure order, the order shall be dissolved.
+Except as otherwise provided by Commission regulations at 25 CFR 522.5 and 522.7, the filing of an appeal does not stay the effect of the Chair's decision.
+
+
+# Tags
+
+['shall', 'decisions', 'personal', 'commission reviews', 'limited', 'days', 'mail', 'address', 'proceeding', 'appeal', 'time', 'service']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                         |

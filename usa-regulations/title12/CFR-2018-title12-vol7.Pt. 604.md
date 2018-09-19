@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 604
 
 
+# Summary
+
+(b)(1) The Farm Credit Administration shall make available for public inspection the time, place, and subject matter of the meeting, and whether it is to be open or closed, by posting notice on its public notice board or on its public Web site except to the extent that such information is exempt from disclosure under the provisions of &#167;&#8201;604.420 of this part.
+(c) The Farm Credit Administration shall promptly make available to the public, in its offices, the transcript, electronic recording, or minutes, of the discussion of any item on the agenda of a closed meeting, or closed portion of a meeting, except for such item or items of discussion which the Farm Credit Administration determines to contain information which may be withheld under &#167;&#8201;604.420 of this part.
+Requests to the Farm Credit Administration for information about the time, place, and subject matter of a meeting, whether it or any portion thereof is closed to the public, and any requests for copies of the transcript or minutes, or of a transcript of an electronic recording of a closed meeting, or closed portion of a meeting, to the extent not exempt from disclosure by the provisions of &#167;&#8201;604.420 of this part, shall be addressed to the Secretary to the Board, Farm Credit Administration, McLean, Virginia 22102-5090.
+
+
+# Tags
+
+['shall', 'administration', 'board', 'meets', 'records', 'public', 'information', 'action', 'disclose', 'notice', 'enforcement', 'investigative', 'means', 'exempt', 'time', 'business', 'corporations', 'matters', 'specifically']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                          |

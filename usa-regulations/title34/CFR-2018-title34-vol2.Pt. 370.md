@@ -8,6 +8,20 @@
  CFR-2018-title34-vol2.Pt. 370
 
 
+# Summary
+
+(f) A designated agency, including the protection and advocacy system serving the American Indian Consortium, that contracts to provide CAP services with another entity or individual remains responsible for&#8212;
+(1) A decision by a designated agency to cancel its existing contract with another entity with which it has previously contracted to carry out and operate all or part of its responsibilities under the CAP (including providing advisory, assistance, or advocacy services to eligible clients and client-applicants); or
+(b)(1) Each State and the protection and advocacy system serving the American Indian Consortium also shall submit to the Secretary an assurance that the designated agency has the authority to pursue legal, administrative, and other appropriate remedies to ensure the protection of the rights of clients or client-applicants within the State or American Indian Consortium.
+(c) The Secretary shall reserve funds, from the amount appropriated to carry out this part, to make a grant to the protection and advocacy system serving the American Indian Consortium to provide services in accordance with this part.
+(a) The designated agency, including the eligible protection and advocacy system serving the American Indian Consortium, shall apply the regulations at 2 CFR part 200.
+
+
+# Tags
+
+['agency', 'states', 'including', 'shall', 'program', 'funds', 'required', 'receive', 'secretary', 'written', 'means', 'individuals', 'information', 'services', 'cap', 'administrative', 'legally', 'rehabilitation', 'provide', 'assisting', 'act', 'advocacy', 'apply', 'cfr', 'redesignated', 'public', 'designed', 'activity', 'mediation', 'requested', 'audit', 'access', 'directly', 'laws']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                          |

@@ -8,6 +8,24 @@
  CFR-2018-title34-vol1.Pt. 226
 
 
+# Summary
+
+What regulations apply to the State Charter School Facilities Incentive program?
+The following regulations apply to the State Charter School Facilities Incentive program:
+What definitions apply to the State Charter School Facilities Incentive program?
+What selection criteria does the Secretary use in evaluating an application for a State Charter School Facilities Incentive program grant?
+(a) Charter schools that receive grant funds through their State must use the funds for facilities.
+(b) Charter schools may not use these grant funds for purchasing land when they have no immediate plans to construct a building on that land.
+State grantees may use up to five percent of their grant award for administrative expenses that include: indirect costs, evaluation, technical assistance, dissemination, personnel costs, and any other costs involved in administering the State's per-pupil facilities aid program.
+(a) Except as provided in paragraph (b) of this section, charter school subgrantees may use grant funds for administrative costs that are necessary and reasonable for the proper and efficient performance and administration of this Federal grant.
+(b) Consistent with the requirements in 34 CFR 75.564(c)(2), any charter school subgrantees that use grant funds for construction activities may not be reimbursed for indirect costs for those activities.
+
+
+# Tags
+
+['schools', 'states', 'charters', 'grants', 'educational', 'facility', 'including', 'fund', 'program', 'cost', 'cfr', 'federal', 'students', 'administration', 'projects', 'regulations', 'performance', 'required', 'aid', 'award', 'assistance', 'periodic']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                      |

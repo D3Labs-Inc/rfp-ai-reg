@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 141
 
 
+# Summary
+
+As a condition to doing business on the Hopi or the Zuni Reservation each applicant for license under this part shall, in accordance with the constitutions of those tribes, voluntarily submit the applicant and the applicant's employees or agents to the jurisdiction of the tribal court for the purpose of the adjudication of any dispute, claim or obligation arising under tribal ordinance relating to commerce carried out by the licensee.
+(d) The notice required in paragraph (c) of this section shall be sent to the pledgor and proof of delivery obtained and shall contain a description of the item pawned, a statement of the principal and finance charge owed, a statement of the intention to sell, the date of the sale, and the procedure for redemption.
+Any person other than an enrolled member of the tribe who either resides as a reservation business owner within the exterior boundaries of the Navajo, Hopi, or Zuni Reservations or introduces or attempts to introduce goods or to trade therein without a license shall forfeit all merchandise offered for sale to the Indians or found in the person's possession and is liable to a penalty of $1,296.
+
+
+# Tags
+
+['shall', 'persons', 'tribal', 'licenses', 'charged', 'business', 'pawns', 'indian', 'commissioner', 'periodic', 'priced', 'transact', 'consumer credit', 'financed', 'reserving', 'loaned', 'reasons', 'ordered', 'receipt', 'requirements', 'customers', 'means', 'employee', 'sale', 'annual', 'bond', 'items', 'fee', 'applications', 'prohibits', 'tribes', 'goods', 'offered', 'fresh', 'provided', 'reports', 'obligations', 'licensee', 'product', 'pawnbroker', 'health', 'companies', 'follows', 'trade', 'including', 'records', 'government', 'insure', 'stating', 'issued', 'determined', 'days', 'checks', 'notice', 'money', 'accounts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

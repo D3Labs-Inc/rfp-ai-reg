@@ -8,6 +8,20 @@
  CFR-2018-title14-vol3.Pt. 139
 
 
+# Summary
+
+(b) Under 49 U.S.C. 44706(c), the Administrator may exempt an applicant or a certificate holder that enplanes annually less than one-quarter of 1 percent of the total number of passengers enplaned at all air carrier airports from all, or part, of the aircraft rescue and firefighting equipment requirements of this part on the grounds that compliance with those requirements is, or would be, unreasonably costly, burdensome, or impractical.
+(a) In a manner authorized by the Administrator, each certificate holder must maintain, and promptly repair the pavement of, each runway, taxiway, loading ramp, and parking area on the airport that is available for air carrier use as follows:
+(1) Each certificate holder must provide and maintain sign systems for air carrier operations on the airport that are authorized by the Administrator and consist of at least the following:
+Each certificate holder must ensure that all lighting on the airport, including that for aprons, vehicle parking areas, roadways, fuel storage areas, and buildings, is adequately adjusted or shielded to prevent interference with air traffic control and aircraft operations.
+(k) The emergency plan required by this section must be submitted by each holder of a Class II, III, or IV Airport Operating Certificate no later than 24 consecutive calendar months after June 9, 2004.
+
+
+# Tags
+
+['airports', 'aircraft', 'areas', 'requirements', 'operations', 'including', 'administrator', 'providing', 'vehicles', 'emergency', 'condition', 'personnel', 'train', 'wildlife hazard', 'followed', 'iii', 'surface', 'procedures', 'fuel', 'management', 'markings', 'means', 'index', 'equipment', 'air', 'information', 'control', 'authorized', 'responsibility', 'persons', 'materials', 'rescue', 'agents', 'lighting', 'firefighters', 'faa', 'land', 'sufficient', 'planned', 'signs', 'communicate', 'action', 'damage', 'minimums', 'certificate', 'report', 'carry', 'incident', 'serves', 'dry', 'applications', 'facilities', 'section', 'use', 'services', 'safety', 'maintained', 'contain', 'adequate', 'passengers', 'scheduled', 'itemized', 'prevent', 'inspections', 'capable', 'safely', 'having', 'water', 'holders', 'direction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

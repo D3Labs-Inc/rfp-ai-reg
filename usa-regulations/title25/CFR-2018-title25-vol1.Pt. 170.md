@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 170
 
 
+# Summary
+
+It is a financially constrained prioritized list of transportation projects and activities eligible for TTP funding covering a period of four years that is developed by BIA and FHWA based on each Tribe's submission of their TTIP or Tribal priority list.
+(b) BIA and/or FHWA, upon request of the Tribe, will work cooperatively with Tribal, State, regional, and metropolitan transportation planning organizations concerning the leveraging of funds from non-TTP sources and identification of other funding sources to expedite the planning, design, and construction of projects on the TTPTIP.
+(b) BIA, FHWA, or Tribes can also use the NTTFI to assist in transportation and project planning, justify expenditures, identify transportation needs, maintain existing TTP facilities, and develop management systems.
+Yes. Regardless of whether BIA or FHWA is responsible for the oversight of a Tribe's TTP activities, the Categorical Exclusions under NEPA at 23 CFR 771.117 governing the use of funds made available through title 23 shall apply to all qualifying TTP projects involving the construction or maintenance of roads.
+(c) Tribes and Tribal employment rights offices should work cooperatively with State and local governments to develop contract provisions promoting employment opportunities for Indians on eligible federally funded transportation projects.
+
+
+# Tags
+
+['tribally', 'transportation', 'ttp', 'tribes', 'projects', 'program', 'funds', 'included', 'planning', 'bia', 'activity', 'roads', 'facility', 'mean', 'public highway', 'fhwa', 'construction', 'indians', 'developed', 'safety', 'requirements', 'service', 'information', 'identify', 'federal administrative', 'contracted', 'regionally', 'governed', 'bridge', 'grants', 'years', 'use', 'designed', 'eligible', 'trail', 'provided', 'authorizes', 'transit', 'yes', 'approval', 'need', 'areas', 'data', 'states', 'follows', 'assisting', 'addition', 'traffic', 'responses', 'officials', 'houses', 'applied', 'working', 'document', 'environmental', 'meetings', 'maintenance', 'performance', 'nations', 'secretaries', 'usc', 'consult', 'management', 'improvements', 'communication', 'appropriately', 'relating', 'new', 'list', 'act', 'determination', 'cost', 'operation', 'policies', 'route', 'located', 'annually', 'section', 'structures', 'office', 'agreements', 'written', 'agency', 'land', 'involve', 'function', 'study', 'reviews', 'available', 'supportive', 'non', 'processes', 'vehicles', 'accessible', 'standards', 'nttfi', 'conducts', 'shall', 'proposes', 'ttips', 'regulate', 'applications', 'scales', 'inventory']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

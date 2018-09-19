@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 10
 
 
+# Summary
+
+Policies and standards are required to ensure that all Bureau of Indian Affairs (BIA) and tribal entities that receive Federal funding for the operation, maintenance, design and construction or renovation of detention facilities, community residential, or holding facilities are supporting constitutional rights and are complying with the Indian Law Enforcement Reform Act of 1990.
+The Director, Office of Law Enforcement Services who reports to the Deputy Commissioner of Indian Affairs, BIA, establishes policies, procedures, and standards for the operations, design, planning, maintenance, renovation, and construction of detention programs in the BIA and by tribal contract under Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended, 25 U.S.C. 450.
+Detention officers, guards, cooks and other staff conducting business in the facilities must meet minimum standards of law enforcement personnel as prescribed in 25 CFR part 12, subpart D, &#8220;Qualifications and Training Requirements.&#8221; Those tribal programs not receiving Federal funding under the Indian Self-Determination and Education Assistance Act (Public Law 93-638, as amended) who wish to be accredited are encouraged to use the policies and standards in that part since they have been modified and approved for Indian country.
+
+
+# Tags
+
+['detention', 'standards', 'program', 'bia', 'procedures', 'indian', 'safety', 'reporting', 'rights', 'funding', 'affairs', 'operation', 'services', 'tribal', 'enforcement', 'policies', 'handbooks']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                |

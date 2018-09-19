@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 71
 
 
+# Summary
+
+The subpart establishes administrative procedures for imposing civil penalties and assessments against persons who make, submit, or present, or cause to be made, submitted, or presented, false, fictitious, or fraudulent claims or written statements to authorities or to their agents, and specifies the hearing and appeal rights of persons subject to allegations of liability for such penalties and assessments.
+(d) Except as otherwise provided in this section, by failing to file a timely answer the defendant waives any right to further review of the penalties and assessments imposed under paragraph (c) of this section and the initial decision shall become final and binding upon the parties 30 days after it is issued.
+The ALJ shall at the same time serve all parties with a statement describing the right of any defendant determined to be liable for a civil penalty or assessment to file a motion for reconsideration with the ALJ or a notice of appeal with the authority head.
+(j) The authority head shall promptly serve each party to the appeal with a copy of the decision of the authority head and a statement describing the right of any person determined to be liable for a penalty or assessment to seek judicial review.
+
+
+# Tags
+
+['shall include', 'parties', 'timely', 'authorities', 'administration', 'service', 'reasonable', 'alj means', 'evidence', 'document', 'stating', 'witnesses', 'defendant', 'filed', 'claimed', 'written statements', 'request', 'hear', 'decision', 'person alleged', 'official', 'following', 'civil', 'counsel', 'days', 'issue', 'fact', 'answers', 'actual', 'general', 'government', 'assessments', 'cases', 'information', 'ordered', 'related', 'require', 'matters', 'discovery', 'mailed', 'investigation', 'proceeding', 'present', 'motions', 'specify', 'rules', 'briefs', 'circumstances', 'reviewing', 'imposing', 'penalty']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

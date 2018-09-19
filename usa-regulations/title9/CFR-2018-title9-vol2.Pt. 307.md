@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 307
 
 
+# Summary
+
+Office space, including necessary furnishings, light, heat, and janitor service, shall be provided by official establishments, rent free, for the exclusive use for official purposes of the inspector and other Program employees assigned thereto.
+When required by the circuit supervisor, the following facilities and conditions, and such others as may be found to be essential to efficient conduct of inspection and maintenance of sanitary conditions, shall be provided by each official establishment:
+(h) Retention rooms, cages, or other compartments, and receptacles in which carcasses and product may be held for further inspection (these shall be in such number and in such locations as the needs of the inspection in the establishment may require; they shall be equipped for secure locking or sealing and shall be held under locks or official seals furnished by the Department; the keys of such locks shall not leave the custody of Program employees.
+(b) Official establishments, importers, or exporters requesting and receiving the services of a Program employee after he has completed his day's assignment and left the premises, or called back to duty during any overtime or holiday period, shall be billed for a minimum of 2 hours overtime or holiday inspection service at the established rate.
+
+
+# Tags
+
+['shall', 'days', 'inspection', 'equipment', 'electricity', 'stimulation', 'carcass', 'operation', 'establishment', 'requiring', 'including', 'inspectors', 'services', 'facilities', 'conducting', 'sanitary', 'work', 'located', 'slaughter lines', 'schedules', 'hours', 'free', 'official', 'water', 'light', 'device', 'furnish', 'holiday', 'rooms', 'cleaned', 'employees', 'workweek', 'condemnation', 'change', 'warning', 'program', 'table', 'period']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                           |

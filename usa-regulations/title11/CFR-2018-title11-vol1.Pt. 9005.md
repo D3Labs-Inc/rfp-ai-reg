@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 9005
 
 
+# Summary
+
+Not later than 10 days after the Commission determines that the Presidential and Vice Presidential candidates of a major party have met all applicable conditions for eligibility to receive payments under 11 CFR 9003.1 and 9003.2, the Commission shall certify to the Secretary that payment in full of the amounts to which such candidates are entitled under 11 CFR part 9004 should be made pursuant to 11 CFR 9005.2.
+(1) Not later than 10 days after a minor or new party candidate has met all applicable conditions for eligibility to receive payments under 11 CFR 9003.1, 9003.2 and 9004.2, the Commission will make an initial determination of the amount, if any, to which the candidate is entitled.
+(a) Upon receipt of a certification from the Commission under 11 CFR 9005.1 for payment to the eligible Presidential and Vice Presidential candidates of a political party, the Secretary shall pay to such candidates out of the Fund the amount certified by the Commission.
+(b)(1) If at the time of a certification from the Commission under 11 CFR 9005.1, the Secretary determines that the monies in the Fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he or she shall withhold an amount which is determined to be necessary to assure that the eligible candidates of each political party will receive their pro rata share.
+
+
+# Tags
+
+['shall', 'votes', 'account', 'receive', 'determined', 'presidential', 'parties', 'commission', 'election']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                        |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 612
 
 
+# Summary
+
+(b) To achieve these high standards of conduct, directors and employees shall observe, to the best of their abilities, the letter and intent of all applicable local, state, and Federal laws and regulations and policy statements, instructions, and procedures of the Farm Credit Administration and System institutions and shall exercise diligence and good judgment in carrying out their duties, obligations, and responsibilities.
+(3) The Standards of Conduct Official determines, pursuant to policies and procedures adopted by the board, that the potential for conflict is insignificant because the transaction is in the ordinary course of business or is not material in amount and the director does not participate in the determination of any matter affecting the financial interests of the other party to the transaction except those matters affecting all shareholders/borrowers in a nondiscriminatory way.
+(3) The Standards of Conduct Official determines, pursuant to policies and procedures adopted by the board, that the potential for conflict is insignificant because the transaction is in the ordinary course of business or is not material in amount and the employee does not participate in the determination of any matter affecting the financial interests of the other party to the transaction except those matters affecting all shareholders/borrowers in a nondiscriminatory way.
+
+
+# Tags
+
+['shall', 'institution', 'employee', 'establishing', 'directors', 'requires', 'means', 'official', 'offices', 'banks', 'credit', 'procedural', 'business', 'federal', 'transactions', 'report', 'involves', 'policy', 'joint', 'include', 'public', 'appropriate', 'provides', 'states', 'persons', 'potential', 'service', 'directly', 'associations', 'obligations', 'information', 'financial', 'criminal', 'activity', 'investigate', 'owning', 'generally', 'corporations', 'fca', 'special']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                      |

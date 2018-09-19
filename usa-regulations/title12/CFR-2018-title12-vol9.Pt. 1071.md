@@ -8,6 +8,18 @@
  CFR-2018-title12-vol9.Pt. 1071
 
 
+# Summary
+
+(1) An eligible applicant will receive an award for fees and expenses incurred after initiation of the adversary adjudication related to defending against the portion of a Bureau demand that is substantially in excess of the decision of the adjudicative officer and is unreasonable when compared with that decision under all the facts and circumstances of the case.
+With respect to a claim for fees and expenses involving an excessive demand by the Bureau, the application shall be accompanied by full documentation of the fees and expenses incurred after initiation of the adversary adjudication, including the cost of any study, engineering report, test, or project for which an award is sought attributable to the portion of the demand alleged to be excessive and unreasonable.
+(b) For a decision involving an allegedly excessive Bureau demand: The decision on the application shall include written findings and conclusions on the applicant's eligibility and an explanation of the reasons why the Bureau's demand was or was not determined to be substantially in excess of the underlying decision of the adjudicative officer and was or was not unreasonable when compared with that decision.
+
+
+# Tags
+
+['shall', 'application', 'proceeding', 'bureau', 'issue', 'final written', 'counsel', 'acted', 'decisions', 'award', 'eligibility', 'demand', 'rate', 'information', 'settlement', 'matters', 'financial', 'addition', 'fees', 'party', 'service', 'reasons', 'expenses', 'exempt', 'adjudication']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

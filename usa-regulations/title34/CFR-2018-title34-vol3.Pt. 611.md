@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 611
 
 
+# Summary
+
+(b) In addition to the elements contained in &#167;&#8201;611.11(b) (Significance), the Secretary considers the applicant's commitment to continue recruitment activities, scholarship assistance, and preparation and support of additional cohorts of new teachers after funding under this part ends.
+(b) In addition to the elements contained in &#167;&#8201;611.23(b) (Significance of project activities), the Secretary considers the extent to which the project promotes the recruitment, scholarship assistance, preparation, and support of additional cohorts of new teachers.
+(ii) The partnership's or State's commitment to sustaining the work of the project after federal funding has ended by recruiting, providing scholarship assistance, training, and supporting additional cohorts of new teachers.
+(iii) The project will be institutionalized after federal funding ends, including recruitment, scholarship assistance, preparation, and support of additional cohorts of new teachers;
+(2) Unless the service obligation is deferred or the repayment requirement is discharged, the obligation to repay the amount provided in paragraph (b)(1) of this section begins six months after the date the recipient is no longer employed as a teacher in a high-need school of a high-need LEA.
+(b) Until the Secretary determines that the individual either has satisfied his or her service obligation or has repaid the full amount of the scholarship, accrued interest, and any costs, the recipient also remains responsible for providing the Department&#8212;
+
+
+# Tags
+
+['teacher', 'project', 'including', 'secretary', 'scholarship', 'teaching', 'academic', 'applications', 'information', 'leas', 'supports', 'students', 'active', 'recruits', 'program', 'preparation', 'schools', 'following', 'provided', 'requirements', 'new', 'significance', 'educational', 'recipients', 'working', 'periods', 'responsive', 'states', 'years', 'iii', 'costs', 'improve', 'planned', 'receive', 'effective', 'grants', 'partner', 'objective', 'addressing', 'assistance', 'selection', 'systemic', 'obligated']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                      |

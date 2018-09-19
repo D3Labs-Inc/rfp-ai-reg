@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 140
 
 
+# Summary
+
+(d)(1) Under authority granted by section 437(b)(1) of title 18 U.S. Code, employees of the Bureau of Indian Affairs may with the approval of an authorized officer of the Bureau, as designated in paragraph (d)(2) of this section, purchase from or sell to an Indian any service or any real or personal property, not held in trust by the United States or subject to a restriction against alienation imposed by the United States, or any interest in such property.
+(2) Trading by employees with Indians which involves property or funds which are either held in trust by the United States or are subject to restrictions against alienation imposed by the United States must be conducted on the basis of sealed bid or public auction.
+To this end the traders shall on request submit to the superintendent or inspecting officials the original invoice, showing cost, together with a statement of transportation charges, retail price of articles sold by them, the amount of Indian accounts carried on their books, the total annual sales, the value of buildings, livestock owned on reservation, the number of employees, and any other business information such officials may desire.
+
+
+# Tags
+
+['indians', 'affairs shall', 'licensed', 'trading', 'personal', 'tribes', 'employee', 'traders', 'sales', 'laws', 'prohibition', 'store', 'transaction', 'officers', 'credit', 'selling', 'purchases', 'land', 'means', 'setting', 'benefits', 'organization', 'state', 'services', 'approved', 'section', 'authorized', 'use', 'showing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                           |

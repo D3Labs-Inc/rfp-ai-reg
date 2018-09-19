@@ -8,6 +8,19 @@
  CFR-2018-title14-vol2.Pt. 77
 
 
+# Summary
+
+Non-precision instrument runway means a runway having an existing instrument approach procedure utilizing air navigation facilities with only horizontal guidance, or area type navigation equipment, for which a straight-in non-precision instrument approach procedure has been approved, or planned, and for which no precision approach facilities are planned, or indicated on an FAA planning document or military service military airport planning document.
+A horizontal plane 150 feet above the established airport elevation, the perimeter of which is constructed by SW.inging arcs of a specified radii from the center of each end of the primary surface of each runway of each airport and connecting the adjacent arcs by lines tangent to those arcs.
+(1) The effects on VFR/IFR aeronautical departure/arrival operations, air traffic procedures, minimum flight altitudes, and existing, planned, or proposed airports listed in &#167;&#8201;77.15(e) of which the FAA has received actual notice prior to issuance of a final determination.
+(c) The FAA will issue a Determination of Hazard to Air Navigation when the aeronautical study concludes that the proposed construction or alteration will exceed an obstruction standard and would have a substantial aeronautical impact.
+
+
+# Tags
+
+['airports', 'surfaces', 'faa', 'determining', 'including', 'feet', 'runways', 'approach', 'aeronautical', 'notices', 'publications', 'proposals', 'structure', 'services', 'constructed', 'supplement', 'instrument', 'horizontally', 'planned', 'existing', 'navigation', 'heliports', 'areas', 'effective', 'obstruction', 'flight', 'air', 'minimums', 'studied', 'interested', 'extend', 'operating', 'requiring', 'following', 'approved', 'use', 'fcc']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                         |

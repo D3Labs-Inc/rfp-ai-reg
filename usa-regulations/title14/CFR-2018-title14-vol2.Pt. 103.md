@@ -8,6 +8,24 @@
  CFR-2018-title14-vol2.Pt. 103
 
 
+# Summary
+
+(a) Any person operating an ultralight vehicle under this part shall, upon request, allow the Administrator, or his designee, to inspect the vehicle to determine the applicability of this part.
+No person may conduct operations that require a deviation from this part except under a written waiver issued by the Administrator.
+(a) No person may operate any ultralight vehicle in a manner that creates a hazard to other persons or property.
+(a) Each person operating an ultralight vehicle shall maintain vigilance so as to see and avoid aircraft and shall yield the right-of-way to all aircraft.
+(b) No person may operate an ultralight vehicle in a manner that creates a collision hazard with respect to any aircraft.
+No person may operate an ultralight vehicle over any congested area of a city, town, or settlement, or over any open air assembly of persons.
+No person may operate an ultralight vehicle in areas designated in a Notice to Airmen under &#167;&#8201;91.137, &#167;&#8201;91.138, &#167;&#8201;91.141, &#167;&#8201;91.143 or &#167;&#8201;91.145 of this chapter, unless authorized by:
+No person may operate an ultralight vehicle except by visual reference with the surface.
+No person may operate an ultralight vehicle when the flight visibility or distance from clouds is less than that in the table found below.
+
+
+# Tags
+
+['operating', 'ultralights', 'certificates', 'flight', 'air', 'areas', 'rules', 'aircraft', 'atc', 'shall', 'airspace', 'required']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                         |

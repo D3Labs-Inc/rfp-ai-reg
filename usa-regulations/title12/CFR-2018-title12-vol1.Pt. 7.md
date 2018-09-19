@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 7
 
 
+# Summary
+
+In cases involving an administrative proceeding or civil action not initiated by a Federal banking agency, a national bank may indemnify an institution-affiliated party for damages and expenses, including the advancement of expenses and legal fees, in accordance with the law of the state in which the main office of the bank is located, the law of the state in which the bank's holding company is incorporated, or the relevant provisions of the Model Business Corporation Act (1984, as amended 1994, and as amended thereafter), or Delaware General Corporation Law, Del. Code Ann. tit.
+State officials may not exercise visitorial powers with respect to national banks, such as conducting examinations, inspecting or requiring the production of books or records of national banks, or prosecuting enforcement actions, except in limited circumstances authorized by federal law.
+(a) In accordance with section 1046 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 25b), Federal savings associations and their subsidiaries shall be subject to the same laws and legal standards, including regulations of the OCC, as are applicable to national banks and their subsidiaries, regarding the preemption of state law.
+
+
+# Tags
+
+['banking', 'including', 'service', 'providing', 'law', 'officers', 'activities', 'electronic', 'shared', 'authorities', 'stock', 'associated', 'credited', 'directors', 'shall', 'loaned', 'state', 'nationals', 'fees', 'occ', 'reason', 'shareholders', 'applications', 'customers', 'transaction', 'financial', 'businesses', 'acting', 'accounts', 'require', 'operating', 'party', 'corporations', 'iii', 'limitations', 'market', 'pursuant', 'plan', 'deposited', 'insurance', 'issue', 'relate', 'funds', 'purchase', 'purposes', 'powers', 'holds', 'federal', 'valued', 'usc', 'ownership', 'agreement', 'regulate', 'establishes', 'item', 'public', 'periods', 'record', 'licensing', 'section', 'documentation', 'legal', 'securities', 'undertake', 'data processing', 'information', 'products', 'payments', 'estate', 'subsidiaries', 'adequate', 'offers', 'practicable', 'employees', 'transfer', 'charged', 'potential', 'rate', 'capacity', 'facility', 'permit', 'function', 'saving', 'companies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

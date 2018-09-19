@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 310
 
 
+# Summary
+
+(c) Except for records that must be publicly disclosed pursuant to the Freedom of Information Act, 5 U.S.C. 552, where the Corporation determines it to be necessary for the individual's protection, a certification of a duly commissioned notary public, of any state or territory, attesting to the requesting individual's identity, or an unsworn declaration subscribed to as true under the penalty of perjury under the laws of the United States of America, at the election of the individual, may be required before a written request seeking access to or amendment of a record will be honored.
+Such a request should be submitted in writing to the Federal Deposit Insurance Corporation, Attn: FOIA/PA Group, 550 17th Street, NW., Washington, DC 20429 and should contain the individual's reason for requesting the amendment and a description of the record (including the name of the appropriate designated system and category thereof) sufficient to enable the Corporation to identify the particular record or portion thereof with respect to which amendment is sought.
+(a) A system manager's denial of an individual's request for access to or amendment of a record pertaining to him/her may be appealed in writing to the Corporation's General Counsel (or designee) within 30 business days following receipt of notification of the denial.
+
+
+# Tags
+
+['record', 'individuals', 'corporation', 'requesting', 'information', 'shall', 'written', 'pursuant', 'reasonably', 'regulations', 'identifiable', 'follows', 'agency', 'thereof', 'terms amend', 'set', 'mean', 'fees', 'law', 'use', 'time', 'act', 'procedures', 'maintains']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                      |

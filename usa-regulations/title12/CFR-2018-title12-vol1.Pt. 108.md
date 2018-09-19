@@ -8,6 +8,17 @@
  CFR-2018-title12-vol1.Pt. 108
 
 
+# Summary
+
+The rules in this part apply to hearings, which are exempt from the adjudicative provisions of the Administrative Procedure Act, afforded to any officer, director, or other person participating in the conduct of the affairs of a Federal savings association, Federal savings association subsidiary, or affiliate service corporation, where such person has been suspended or removed from office or prohibited from further participation in the conduct of the affairs of one of the aforementioned entities by a Notice or Order served by the OCC upon the grounds set forth in section 8(g) of the Federal Deposit Insurance Act, (12 U.S.C. 1818(g)).
+If the subject individual fails to file a petition for a hearing, or fails to appear at a hearing, either in person or by attorney, or fails to submit a written argument where oral argument has been waived pursuant to &#167;&#8201;108.7(d) or (f) of this part, the Notice shall remain in effect until the information, indictment, or complaint is finally disposed of and the Order shall remain in effect until terminated by the OCC.
+
+
+# Tags
+
+['shall', 'association', 'decision', 'term', 'thereof', 'act', 'occ', 'record', 'witnesses', 'means', 'federal', 'public', 'hearing', 'set', 'issue', 'parties', 'office', 'service']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                           |

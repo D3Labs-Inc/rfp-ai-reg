@@ -8,6 +8,21 @@
  CFR-2018-title12-vol5.Pt. 391
 
 
+# Summary
+
+It requires each State savings association to adopt appropriate security procedures to discourage robberies, burglaries, and larcenies and to assist in the identification and prosecution of persons who commit such acts.
+Section 391.5 is applicable to State savings associations and their subsidiaries (except brokers, dealers, persons providing insurance, investment companies, and investment advisers).
+(b) It is the responsibility of a State savings association's board of directors to comply with this regulation and ensure that a written security program for the State savings association's main office and branches is developed and implemented.
+(3) Provide for initial and periodic training of officers and employees in their responsibilities under the security program and in proper employee conduct during and after a burglary, robbery, or larceny; and
+The security officer for each State savings association shall report at least annually to the State savings association's board of directors on the implementation, administration, and effectiveness of the security program.
+State savings associations and their subsidiaries (except brokers, dealers, persons providing insurance, investment companies, and investment advisers) must comply with the Interagency Guidelines Establishing Information Security Standards set forth in appendix B to subpart B.
+
+
+# Tags
+
+['secure', 'appropriate', 'officers', 'acts', 'establishing', 'robbery', 'shall', 'persons', 'insurance', 'protection', 'devices', 'provides']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                      |

@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1275
 
 
+# Summary
+
+(c) NASA shall make a determination of research misconduct only after careful inquiry and investigation by an awardee institution, another Federal agency, or NASA, and an adjudication conducted by NASA.
+(l) Adjudication means the formal procedure for reviewing and evaluating the investigation report and the accompanying evidentiary record and for determining whether to accept the recommended findings and any recommendations for administrative actions resulting from the investigation.
+If the OIG decides to recommend acceptance of the results of the external investigation, in whole or in part, the OIG shall transmit a copy of the final determination, the investigation report, and the evidentiary record to the NASA Adjudication Official, and to the NASA Office of the Chief Scientist.
+(g) If, during the course of an OIG conducted inquiry or investigation, it appears that immediate administrative action, as described in &#167;&#8201;1275.106, is necessary to protect public health or safety, Federal resources or interests, or the interests of those involved in the inquiry or investigation, the OIG shall inform the NASA sponsor for the research and the NASA Office of the Chief Scientist.
+
+
+# Tags
+
+['nasa', 'shall', 'researchers', 'investigated', 'including', 'oig', 'misconduct', 'reviews', 'procedures', 'means', 'administrative actions', 'institutions', 'federal', 'science', 'appropriation', 'inquiries', 'individual', 'iii', 'records', 'report', 'public', 'required', 'possible', 'involve', 'conducted', 'determined', 'reasonably', 'written', 'criminal', 'active', 'laws', 'adjudication', 'recommendations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                        |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 590
 
 
+# Summary
+
+(1) The provisions of the constitution or the laws of any state expressly limiting the rate or amount of interest, discount points, finance charges, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, credit sale, or advance which is secured by a first lien on a residential mobile home if a creditor covered by this part complies with the consumer protection regulations of this section.
+The earned precomputed finance charge shall be determined by applying an annual percentage rate based on the total precomputed finance charge (as that term is defined in this section), under the actuarial method, to the unpaid balances for the actual time those balances were unpaid up to the date of prepayment.
+(a) Section 501 provides that &#8220;the provisions of the constitution or laws of any state expressly limiting the rate or amount of interest, discount points, finance charges, or other charges shall not apply to any&#8221; federally-related loan secured by a first lien on residential real property, a residential manufactured home, or all the stock allocated to a dwelling unit in a residential housing cooperative.
+
+
+# Tags
+
+['shall', 'charges', 'states having', 'payment', 'federally residential mortgage loans', 'law', 'creditor', 'section', 'mean', 'precomputed', 'provides', 'home', 'period', 'housing', 'secured', 'installment', 'credited', 'institutions', 'regulations', 'extends', 'islands', 'prepayment', 'rate', 'agreements', 'late']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

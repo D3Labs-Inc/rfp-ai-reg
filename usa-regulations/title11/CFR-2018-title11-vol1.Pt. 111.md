@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 111
 
 
+# Summary
+
+(b) If the Commission finds reason to believe that a violation has occurred or is about to occur the notification to respondent required by 11 CFR 111.9(a) shall include a copy of a staff report setting forth the legal basis and the alleged facts which support the Commission's action.
+(a) If the Commission makes a finding of no reason to believe or no probable cause to believe or otherwise terminates its proceedings, it shall make public such action and the basis therefor no later than thirty (30) days from the date on which the required notifications are sent to complainant and respondent.
+(b) The prohibition of this regulation shall apply from the time a complaint is filed with the Commission pursuant to 11 CFR part 111 or from the time that the Commission determines on the basis of information ascertained in the normal course of its supervisory responsibilities that it has reason to believe that a violation has occurred or may occur pursuant to 11 CFR part 111, and remains in force until the Commission has finally concluded all action with respect to the enforcement matter in question.
+
+
+# Tags
+
+['shall', 'respondents', 'day', 'commission', 'usc', 'file', 'report', 'pursuant', 'action', 'debt', 'person', 'elections', 'collected', 'written', 'subpoenas', 'claims', 'timely', 'include', 'requiring', 'civil', 'federal', 'matter', 'violated', 'set', 'committee', 'penalty', 'reasons', 'cfr', 'information', 'provider', 'conciliation', 'procedures', 'periods', 'act', 'agreements', 'follows', 'notification', 'responsive', 'determines', 'generated', 'administrative', 'subpart', 'investigation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                    |

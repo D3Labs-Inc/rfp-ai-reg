@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 11
 
 
+# Summary
+
+Except as otherwise provided in this section, a national bank or Federal savings association whose securities are subject to registration pursuant to section 12(b) or section 12(g) of the Exchange Act (15 U.S.C. 78l(b) and (g)) shall comply with the rules, regulations, and forms adopted by the SEC pursuant to:
+For national banks and Federal savings associations, any references to registration requirements under the Securities Act of 1933 and its accompanying rules in the rules, regulations, and forms described in paragraph (a)(1) of this section mean the registration requirements in 12 CFR part 16.
+Except as otherwise provided in this section, all papers required to be filed with the OCC pursuant to the Exchange Act or regulations thereunder shall be submitted to the Securities and Corporate Practices Division of the OCC electronically at http://www.banknet.gov/.
+If a national bank or Federal savings association experiences unanticipated technical difficulties preventing the timely preparation and submission of an electronic filing, other than the filings described in paragraph (a)(3)(ii) of this section, the bank may, upon notice to the OCC's Securities and Corporate Practices Division, file the subject filing in paper format no later than one business day after the date on which the filing was to be made.
+
+
+# Tags
+
+['file', 'occ', 'act', 'requirements', 'time', 'securities', 'association', 'statement', 'pursuant', 'shall', 'fees', 'registration', 'savings']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                               |

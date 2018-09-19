@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 163
 
 
+# Summary
+
+(4) If the savings association is in default (as defined in section 3(x)(1) of the Federal Deposit Insurance Act), all obligations under the contract shall terminate as of the date of default, but this paragraph (b)(4) shall not affect any vested rights of the contracting parties: Provided, that this paragraph (b)(4) need not be included in an employment contract if prior written approval is secured from the Comptroller or his or her designee.
+Each Federal savings association or service corporation maintaining a plan not subject to recordkeeping and reporting requirements of the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code of 1954, as amended, shall establish and maintain records containing the following:
+Following the date of the approval of the application by the appropriate Federal banking agency, the association shall have an offering period of not more than one year in which to complete the sale of the mutual capital certificates issued pursuant to this section.
+In situations involving violations requiring immediate attention, such as when a reportable violation is ongoing, the savings association or service corporation shall immediately notify, by telephone, an appropriate law enforcement authority and the appropriate Federal banking agency in addition to filing a timely SAR.
+
+
+# Tags
+
+['shall', 'corporations', 'requirements', 'associations', 'provide', 'secured', 'financial', 'offices', 'include', 'authority', 'certification', 'federal', 'report stating', 'plans', 'lawful', 'issue', 'record', 'right', 'pursuant', 'sar', 'filed', 'violate', 'contracts', 'transactions', 'thereof', 'iii', 'directors', 'persons', 'approves', 'applicant', 'involves', 'management', 'form', 'appropriate', 'mortgage', 'participants', 'business', 'following', 'statements', 'stock', 'materials', 'establish', 'suspect', 'provisions', 'services', 'periods', 'act', 'dividend', 'information', 'duty', 'effective', 'account', 'capital', 'condition', 'supervisory']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                           |

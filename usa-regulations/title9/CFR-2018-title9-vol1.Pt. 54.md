@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 54
 
 
+# Summary
+
+Animals removed from the flock as part of a post-exposure management and monitoring plan will be paid indemnity based on the AMS average prices at the time an APHIS representative designates the animals for removal.
+These other requirements may include, but are not limited to: Utilization of a live-animal screening test; restrictions on the animals that may be moved from the flock; segregated lambing; cleaning and disinfection of lambing facilities; and/or education of the owner of the flock and personnel working with the flock in techniques to recognize clinical signs of scrapie and to control the spread of scrapie.
+The animals must be removed either by movement to an approved research facility or by euthanization and disposal of the carcasses by burial, incineration, or other methods in accordance with local, State, and Federal laws, or, in the case of high-risk animals, by movement to slaughter in accordance with the provisions of part 79 of this chapter, or upon request in individual cases by another means determined by the Administrator to be sufficient to prevent the spread of scrapie;
+The Scrapie Flock Certification Program is a cooperative effort between APHIS; members of the sheep and goat industry, including owners of flocks, slaughtering and rendering establishments, and breed associations and registries; accredited veterinarians; and State governments.
+
+
+# Tags
+
+['animal', 'flock', 'scrapie', 'test', 'aphis', 'includes', 'requirement', 'recording', 'state', 'programs', 'owners', 'approval', 'indemnity', 'laboratories', 'lambed', 'follows', 'based', 'cooperatively', 'officials', 'representatives', 'slaughtered', 'contact', 'plan', 'premises', 'services', 'identification', 'high', 'facilities', 'movement', 'methods', 'shall', 'weighted average', 'written', 'requested', 'certificate', 'pricing', 'administration', 'tissue', 'designed', 'ewe', 'personnel', 'incinerate', 'goat', 'standards', 'hydroxide', 'health', 'materials', 'contained', 'specificity', 'research', 'age', 'maintained', 'breeding', 'individual', 'procedures', 'market', 'equipment', 'data', 'current']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

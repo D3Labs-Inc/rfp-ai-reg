@@ -8,6 +8,22 @@
  CFR-2018-title28-vol2.Pt. 800
 
 
+# Summary
+
+In addition, the District of Columbia Public Defender Service, an independent District of Columbia agency, receives its appropriated federal funds through a transfer from CSOSA.
+CSOSA's mission is to increase public safety, prevent crime, reduce recidivism, and support the fair administration of justice in close collaboration with the community.
+(1) The Revitalization Act requires CSOSA to provide supervision, through qualified supervision officers, to offenders on probation, parole, and supervised release for violation of District of Columbia Code offenses.
+Accordingly, CSOSA supervises all offenders placed on probation by the Superior Court of the District of Columbia, and all individuals on parole pursuant to the District of Columbia Code.
+(2) CSOSA is also required to determine uniform supervision and reporting practices, develop and operate intermediate sanctions programs for sentenced offenders, and arrange for the supervision of District of Columbia Code offenders in jurisdictions outside the District of Columbia.
+The Executive Committee includes the four chief judges of the local and Federal trial and appellate courts, the United States Attorney for the District of Columbia, the Director of the District of Columbia Public Defender Service, and the Director of CSOSA.
+(4) Office of Community Justice Programs.
+
+
+# Tags
+
+['supervising', 'csosa', 'agency', 'courts', 'office', 'offenders', 'director', 'services', 'federal', 'act', 'columbia', 'criminal', 'community']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                      |

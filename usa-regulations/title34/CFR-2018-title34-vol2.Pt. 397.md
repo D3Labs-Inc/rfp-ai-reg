@@ -8,6 +8,19 @@
  CFR-2018-title34-vol2.Pt. 397
 
 
+# Summary
+
+(1) A designated State unit to provide youth with disabilities documentation demonstrating that they have completed certain requirements, as described in this part, prior to starting subminimum wage employment with entities (as defined in &#167;&#8201;397.5(d)) holding special wage certificates under section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c));
+(3) A designated State unit, in consultation with the State educational agency, to develop a process or utilize an existing process, to document completion of required activities under this part by a youth with a disability known to be seeking employment at subminimum wage.
+(C) Be provided within 30 calendar days of a determination under paragraph (a)(2)(i) or (a)(2)(ii)(C) of this section for a youth known by the designated State unit to be seeking employment at subminimum wage.
+(1) A designated State unit must provide career counseling and information and referral services, as described in &#167;&#8201;397.20(a)(3), to individuals with disabilities, regardless of age, or the individual's representative as appropriate, who are known by the designated State unit to be employed by an entity, as defined in &#167;&#8201;397.5(d), at a subminimum wage level.
+
+
+# Tags
+
+['employer', 'services', 'required', 'individuals', 'including', 'documents', 'disabilities', 'educational', 'wages', 'act', 'providers', 'rehabilitation', 'cfr', 'opportunities', 'unit', 'competitive', 'case', 'information', 'self', 'personnel', 'determined', 'program']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                     |

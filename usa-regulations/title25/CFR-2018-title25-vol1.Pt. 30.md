@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 30
 
 
+# Summary
+
+(a) Effective in the 2005-2006 school year, the academic content and student achievement standards, assessments, and the definition of AYP are those of the State where the school is located, unless an alternative definition of AYP is proposed by the tribal governing body or school board and approved by the Secretary.
+Yes. A tribal governing body or school board may waive all or part of the Secretary's definition of academic content and achievement standards, assessments, and AYP.
+Yes, the Secretary through the Bureau, shall provide technical assistance either directly or through contract to the tribal governing body or the school board in developing an alternative AYP definition.
+(c) If the proposed alternative definition is incomplete, OIEP will provide the tribal governing body or school board with technical assistance to complete the proposed alternative definition of AYP, including identifying what additional items are necessary.
+The performance data of all students assessed pursuant to &#167;&#8201;30.114 must be included for purposes of AYP if the student is enrolled in a Bureau-funded school for a full academic year as defined by the Secretary or by an approved alternative definition of AYP.
+
+
+# Tags
+
+['schools', 'students', 'education', 'ayp', 'academic', 'bureau funding', 'included', 'secretaries', 'assessments', 'state', 'definitions', 'board', 'identify', 'act', 'information', 'providing', 'years', 'shall', 'oiep', 'achieving', 'progress', 'assisting']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                             |

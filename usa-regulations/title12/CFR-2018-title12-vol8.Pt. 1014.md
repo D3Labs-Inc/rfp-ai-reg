@@ -8,6 +8,20 @@
  CFR-2018-title12-vol8.Pt. 1014
 
 
+# Summary
+
+(c) The existence, nature, or amount of fees or costs to the consumer associated with the mortgage credit product, including but not limited to misrepresentations that no fees are charged;
+(e) The terms, amounts, payments, or other requirements relating to taxes or insurance associated with the mortgage credit product, including but not limited to misrepresentations about:
+(f) Any prepayment penalty associated with the mortgage credit product, including but not limited to misrepresentations concerning the existence, nature, amount, or terms of such penalty;
+(m) The effectiveness of the mortgage credit product in helping the consumer resolve difficulties in paying debts, including but not limited to misrepresentations that any mortgage credit product can reduce, eliminate, or restructure debt or result in a waiver or forgiveness, in whole or in part, of the consumer's existing obligation with any person;
+(3) Documents describing or evidencing all additional products or services (such as credit insurance or credit disability insurance) that are or may be offered or provided with the mortgage credit products available to consumers during the time period in which the person made or disseminated each commercial communication regarding any term of any mortgage credit product, including but not limited to the names and terms of each such additional product or service available to consumers.
+
+
+# Tags
+
+['payment', 'credit', 'mortgage', 'act', 'consumers', 'material', 'included', 'terms', 'script', 'means', 'association', 'commercial', 'products', 'insert', 'rate', 'persons', 'program', 'advice', 'required', 'debts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                        |

@@ -8,6 +8,19 @@
  CFR-2018-title2-vol1.Pt. 176
 
 
+# Summary
+
+(c) If a determination, under &#167;&#8201;176.80 is made after Recovery Act funds were obligated for a project for construction, alteration, maintenance, or repair that an exception to section 1605 of the Recovery Act applies, the award official must amend the award to allow use of the foreign iron, steel, and/or relevant manufactured goods.
+When awarding Recovery Act funds for construction, alteration, maintenance, or repair of a public building or public work that does not involve iron, steel, and/or manufactured goods covered under international agreements, the agency shall use the award term described in the following paragraphs:
+(2) If the Federal Government determines after funds have been obligated for a project for construction, alteration, maintenance, or repair that an exception to section 1605 of the Recovery Act applies, the award official will amend the award to allow use of the foreign iron, steel, and/or relevant manufactured goods.
+(2) If the Federal Government determines after funds have been obligated for a project for construction, alteration, maintenance, or repair that an exception to section 1605 of the Recovery Act applies, the award official will amend the award to allow use of the foreign iron, steel, and/or relevant manufactured goods.
+
+
+# Tags
+
+['act', 'awards', 'requirements', 'official shall', 'recipient', 'agreements', 'agencies', 'states', 'federal', 'cost', 'funds', 'information', 'manufactured goods', 'recovery', 'projects', 'domestic', 'means', 'data', 'applications', 'free', 'material', 'republic', 'foreign', 'government', 'section', 'country', 'applies', 'number', 'use', 'united', 'general', 'including', 'requests', 'evaluating', 'american', 'exception', 'subrecipient', 'covered', 'iron', 'follows', 'determined', 'actions', 'proposed', 'assisted']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

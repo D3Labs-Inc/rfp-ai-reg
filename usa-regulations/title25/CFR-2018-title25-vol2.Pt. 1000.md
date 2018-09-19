@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 1000
 
 
+# Summary
+
+(7) It is the policy of the Secretary, to the extent of the Secretary's authority, to maintain active communication with Tribal governments regarding budgetary matters applicable to programs subject to the Act, and that are included in an individual self-governance annual funding agreement.
+By no later than January 1 of each year, the Director will publish a notice in the Federal Register that provides relevant details about the application process, including the funds available, timeframes, and requirements for negotiation grants, advance planning grants, and financial assistance as described in subpart D of this part.
+Do Tribes/Consortia need Secretarial approval to reallocate funds between Title-I eligible programs that the Tribe/Consortium administers under a non-BIA AFA?
+This subpart describes how the trust responsibility of the United States is legally maintained through a system of trust evaluations when Tribes/Consortia perform trust functions through AFAs under the Tribal Self-Governance Act of 1994.
+Yes, Tribes/Consortia may appeal decisions of Department officials relating to the self-governance program to an appropriate Federal court, as authorized by section 110 of Pub. L.
+
+
+# Tags
+
+['program', 'fund', 'consortium', 'including', 'tribally', 'federal', 'negotiation', 'governed', 'tribes', 'yes', 'afas', 'inform', 'acts', 'secretary', 'activity', 'applications', 'bia', 'bureau', 'trust', 'appeal', 'provided', 'service', 'appropriate', 'requirements', 'reports', 'shall', 'costs', 'mean', 'claiming', 'follow', 'construction', 'requested', 'budgeting', 'relates', 'years', 'agreements', 'process', 'meets', 'non', 'general', 'indians', 'provisions', 'decisions', 'projects', 'documentation', 'written', 'self', 'planned', 'identify', 'contracted', 'significance', 'office', 'disputed', 'department', 'annually', 'functional', 'reviews', 'granted', 'managers', 'osg', 'responsibility', 'determining', 'proposes', 'initiate', 'standards', 'action', 'law', 'employee', 'authority', 'awards', 'supported', 'audits', 'interior', 'applied', 'additions', 'designed', 'residuals', 'working', 'specifically', 'agency', 'party', 'assistant', 'sections', 'involve', 'resource', 'time', 'approved', 'subsequently', 'conducted', 'congressional']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

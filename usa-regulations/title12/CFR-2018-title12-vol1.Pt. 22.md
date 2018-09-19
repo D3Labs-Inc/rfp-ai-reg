@@ -8,6 +8,17 @@
  CFR-2018-title12-vol1.Pt. 22
 
 
+# Summary
+
+Except as provided in paragraphs (a)(2) or (c) of this section, a national bank or a Federal savings association, or a servicer acting on its behalf, shall require the escrow of all premiums and fees for any flood insurance required under &#167;&#8201;22.3(a) for any designated loan secured by residential improved real estate or a mobile home that is made, increased, extended, or renewed on or after January 1, 2016, payable with the same frequency as payments on the designated loan are required to be made for the duration of the loan.
+If a national bank or Federal savings association, or a servicer acting its behalf, determines at any time during the term of a designated loan secured by residential improved real estate or a mobile home that is made, increased, extended, or renewed on or after January 1, 2016, that an exception under paragraph (a)(2) of this section does not apply, then the bank or savings association, or the servicer acting on its behalf, shall require the escrow of all premiums and fees for any flood insurance required under &#167;&#8201;22.3(a) as soon as reasonably practicable and, if applicable, shall provide any disclosure required under section 10 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2609) (RESPA).
+
+
+# Tags
+
+['insurance', 'shall', 'requiring', 'flood', 'means', 'associated', 'homes', 'notices', 'fee', 'loans secured', 'including', 'servicing', 'determines', 'coverage', 'escrowing', 'borrower', 'permanently', 'principally', 'electronically', 'acting', 'form', 'residential', 'structural', 'property', 'premiums', 'areas', 'person']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                      |

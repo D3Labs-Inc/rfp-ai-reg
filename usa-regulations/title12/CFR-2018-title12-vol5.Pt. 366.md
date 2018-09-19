@@ -8,6 +8,21 @@
  CFR-2018-title12-vol5.Pt. 366
 
 
+# Summary
+
+(c) The terms I, me, my, mine, you, and yourself refer to a person who submits an offer to perform or performs, directly or indirectly, contractual services or functions on our behalf.
+(a) This part applies to a person who submits an offer to perform or performs, directly or indirectly, a contractual service or function on our behalf.
+We will not enter into a contract with you to perform a service or function on our behalf, if you or any person that owns or controls you, or any entity you own or control:
+We may waive the prohibitions for entities other than individuals for good cause shown at our discretion when our need to contract for your services outweighs all relevant factors.
+We will consider whether granting the waiver will adversely affect the fairness of the sale, the type of services provided, and other facts and circumstances relevant to the sale in making our determination.
+(a) Neither you nor any person who performs services on your behalf may use or disclose information obtained from us or a third party in connection with an FDIC contract, unless:
+
+
+# Tags
+
+['fdic', 'services', 'provided', 'informed', 'final', 'bank', 'contract', 'following', 'insurance', 'performing', 'general', 'asset', 'control', 'law', 'authorize', 'affect', 'corporation', 'relevant', 'balance', 'persons', 'determinations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                           |

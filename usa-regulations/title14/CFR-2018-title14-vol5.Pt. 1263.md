@@ -8,6 +8,21 @@
  CFR-2018-title14-vol5.Pt. 1263
 
 
+# Summary
+
+(b) Demand&#8212;A subpoena, order, or authorized request for official information, or for the appearance and testimony of NASA personnel, issued as the result of a legal proceeding.
+Whenever an employee or former employee of NASA receives a demand for production of materials or the disclosure of information, or for appearance and testimony as a witness in a legal proceeding in which NASA or the United States is a party, the employee shall immediately notify in writing the Installation Chief Counsel for Installation employees, the General Counsel for Headquarters employees, or the Attorney-Adviser to the Inspector General (IG) for IG employees.
+Procedure when a demand is issued in a legal proceeding not involving the United States.
+Procedure when a demand is issued in a legal proceeding not involving the United States.
+Whenever an employee or former employee of the Agency receives a demand for production or disclosure of official information in a legal proceeding not involving the United States, the employee shall immediately notify the General Counsel or designate.
+In addition, the party causing the demand to be issued shall furnish the Office of General Counsel a written, detailed statement of the information sought and its relevance to the proceeding in connection with which it is requested.
+
+
+# Tags
+
+['shall', 'employee', 'procedures', 'nasa', 'official', 'demanded', 'inform', 'administrator', 'attorney', 'federal', 'written', 'issues', 'proceeding', 'substantive', 'concerning']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                              |

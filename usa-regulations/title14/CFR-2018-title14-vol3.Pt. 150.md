@@ -8,6 +8,18 @@
  CFR-2018-title14-vol3.Pt. 150
 
 
+# Summary
+
+(b) Each map, and related documentation submitted under this section must be developed and prepared in accordance with appendix A of this part, or an FAA approved equivalent, and in consultation with states, and public agencies and planning agencies whose area, or any portion of whose area, of jurisdiction is within the Ldn 65 dB contour depicted on the map, FAA regional officials, and other Federal officials having local responsibility for land uses depicted on the map.
+(a) Any airport operator who has submitted an acceptable noise exposure map under &#167;&#8201;150.21 may, after FAA notice of acceptability and other consultation and public procedure specified under paragraphs (b) and (c) of this section, as applicable, submit to the Regional Airports Division Manager five copies of a noise compatibility program.
+In this case, the Regional Airports Division Manager will not begin the statutory 180-day review period (for the program) until after FAA reviews the noise exposure map and finds that it and its supporting documentation are in compliance with the applicable requirements.
+
+
+# Tags
+
+['noise', 'airports', 'programs', 'faa', 'included', 'region', 'means', 'approved', 'publications', 'use', 'administrator', 'operations', 'maps', 'planned', 'actions', 'days', 'land', 'documentation', 'management', 'determining', 'shall', 'measured', 'aviation', 'sound level', 'federal', 'areas', 'new', 'procedure', 'government', 'local', 'future', 'noncompatibility', 'act', 'affecting', 'compatibility', 'office', 'undue', 'revising', 'following', 'submit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                              |

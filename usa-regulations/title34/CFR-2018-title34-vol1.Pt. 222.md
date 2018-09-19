@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 222
 
 
+# Summary
+
+(b) An LEA is eligible to receive a payment under section 8003 for a fiscal year on behalf of federally connected children described in section 8003(a)(1)(F) or (G) only if the total number of those children for whom it provided a free public education for the preceding fiscal year was&#8212;
+(a) In a State in which a substantial portion of revenues for current expenditures for educational purposes is derived from local tax sources other than real property taxes, the State educational agency (SEA) may request that the Secretary take those revenues into account in determining whether an LEA in that State meets the applicable tax rate requirement under &#167;&#8201;222.68.
+(a) Except as otherwise provided in paragraph (b) of this section, the Secretary identifies generally comparable LEAs for purposes of this subpart in accordance with the local contribution rate procedures described in &#167;&#167;&#8201;222.39 through 222.40.
+(a) An LEA may use emergency grant funds received under this program only to repair, renovate, alter, and, in the limited circumstances described in paragraph (c) of this section, replace a public elementary or secondary school facility used for free public education to ensure the health and safety of students and personnel, including providing accessibility for the disabled as part of a larger project.
+
+
+# Tags
+
+['leas', 'secretary', 'applications', 'states', 'including', 'federal', 'locally', 'requirements', 'school', 'section', 'followed', 'children', 'described', 'mean', 'program', 'agency', 'education', 'shall', 'written', 'determining', 'funds', 'act', 'requests', 'tax', 'provided', 'years', 'facility', 'iii', 'data', 'costs', 'procedures', 'properties', 'eligible', 'payments', 'total', 'time', 'information', 'construction', 'service', 'pupil', 'receive', 'administrative hearing', 'revenue', 'applied', 'appropriate', 'grants', 'factors', 'expenditures', 'rates', 'governed', 'subpart', 'located', 'base', 'generating', 'seas', 'authority', 'record', 'cfr', 'purposes', 'evidence', 'submit', 'legally', 'ada', 'indians', 'fiscally', 'identify', 'projections', 'equals', 'parties', 'public', 'law', 'final', 'filing', 'grouping', 'approved', 'current', 'considers', 'actually', 'reasonably', 'limitations', 'periodically', 'numbers', 'completion', 'averaging', 'parents', 'addition', 'regulations', 'areas', 'makes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

@@ -8,6 +8,23 @@
  CFR-2018-title25-vol1.Pt. 290
 
 
+# Summary
+
+This part contains procedures for submitting, reviewing, and approving tribal revenue allocation plans for distributing net gaming revenues from tribal gaming activities.
+Per capita payment means the distribution of money or other thing of value to all members of the tribe, or to identified groups of members, which is paid directly from the net revenues of any tribal gaming activity.
+Tribal revenue allocation plan or allocation plan means the document submitted by an Indian tribe that provides for distributing net gaming revenues.
+Any Indian tribe that intends to make a per capita payment from net gaming revenues must submit one.
+Do Indian tribes have to make per capita payments from net gaming revenues to tribal members?
+Is an Indian tribe in violation of IGRA if it makes per capita payments to its members from net gaming revenues without an approved tribal revenue allocation plan?
+Yes, you are in violation of IGRA if you make per capita payments to your tribal members from net gaming revenues without an approved tribal revenue allocation plan.
+Yes, revisions/amendments to a tribal revenue allocation plan must be submitted to the ABO for approval to ensure that they comply with &#167;&#8201;290.12 and IGRA.
+
+
+# Tags
+
+['tribal', 'tribes', 'plan', 'means', 'member', 'government', 'require', 'approved', 'gaming', 'funding', 'administrative', 'law', 'trust', 'establishing', 'education', 'welfare', 'igra', 'legally', 'dispute']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                 |

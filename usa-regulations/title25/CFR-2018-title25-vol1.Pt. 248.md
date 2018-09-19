@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 248
 
 
+# Summary
+
+The Area Director shall issue identification cards to such other Columbia River Indians, if any, as may be eligible to use the sites.
+The Area Director may in his discretion suspend or withdraw privileges for future access to or use of the sites for violation of such laws and regulations: Provided, That, nothing contained in the regulations in this part is intended or shall be construed as limiting or affecting any treaty rights of any tribe nor as subjecting any Indian properly exercising tribal treaty rights to State fishing laws or regulations which are not compatible with such rights.
+All camping, picnicking, use of alcoholic beverages, setting or use of fires, use of the sites for cleaning of fish, the deposit of any garbage, paper, cans, bottles, or rubbish of any kind, or use of the sites for any commercial activity (including commercial purchase of fish) shall be subject to such prohibitions, restrictions, or other regulations as the Area Director may prescribe and cause to be posted on the site or sites to which said regulations are applicable; provided that no fee may be charged to any Indian or member of his family for any such use.
+
+
+# Tags
+
+['indians', 'fishing', 'shall', 'use', 'site', 'states', 'health', 'structures', 'issue', 'laws', 'property', 'camping areas']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                            |

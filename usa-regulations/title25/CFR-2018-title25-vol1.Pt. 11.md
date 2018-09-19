@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 11
 
 
+# Summary
+
+(a) Each magistrate of a Court of Indian Offenses shall have the authority to issue warrants to apprehend any person the magistrate has probable cause to believe has committed a criminal offense in violation of the regulations under this part based on a written complaint filed with the court by a law enforcement officer and bearing the signature of the complainant.
+At the time set for hearing upon the final account, the Court of Indian Offenses shall proceed to examine all evidence relating to the distribution of the decedent's estate, and consider objections to the final account which may have been filed by any heir, devisee, legatee, or other person having an interest in the distribution of the estate.
+(b) If a minor has been released to the parents, guardian or custodian, the children's court shall conduct a preliminary inquiry within three days after receipt of the complaint for the sole purpose of determining whether probable cause exists to believe the minor committed the alleged delinquent act.
+
+
+# Tags
+
+['shall', 'courts', 'personal', 'ordering', 'property', 'means', 'offensive', 'followed', 'tribes', 'indians', 'tribal', 'law', 'minors', 'reasonably', 'office', 'commitment', 'marriages', 'causing', 'included', 'jurisdictional', 'official', 'false', 'receive', 'child', 'warrants', 'legally', 'place', 'misdemeanor', 'parental', 'witnesses', 'proceeding', 'party', 'provide', 'physical evidence', 'informs', 'criminal', 'petition', 'public', 'custodial', 'written', 'violation', 'authority', 'issuing', 'care protection', 'substantially', 'purposes', 'recorded', 'possessed', 'transfers', 'case', 'estates', 'acts', 'requirements', 'hear', 'arrested', 'oklahoma', 'rights prior', 'appointment', 'set', 'knowingly', 'subject', 'money', 'temporary', 'dispositional', 'thereof', 'judgment', 'states', 'action', 'sexual', 'sections', 'serving', 'trial', 'separate', 'determining', 'notice', 'applicable', 'substances', 'affected', 'offender', 'agency', 'support', 'recklessly', 'federal', 'pending', 'injuries', 'statements', 'days', 'sentencing', 'release', 'establishes', 'making', 'fact', 'damages', 'concealed', 'cost', 'expenses', 'mentally', 'counsel', 'files', 'having', 'time', 'appeal', 'enforceable', 'unlawful']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

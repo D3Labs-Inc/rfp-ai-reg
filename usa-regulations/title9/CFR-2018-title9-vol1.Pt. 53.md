@@ -8,6 +8,16 @@
  CFR-2018-title9-vol1.Pt. 53
 
 
+# Summary
+
+(b) Upon agreement of the authorities of the State to enforce quarantine restrictions and orders and directives properly issued in the control and eradication of such a disease, the Administrator is hereby authorized to agree, on the part of the Department, to cooperate with the State in the control and eradication of the disease, and to pay 50 percent (and in the case of Newcastle disease or highly pathogenic avian influenza, up to 100 percent, and in the case of infectious salmon anemia, up to 60 percent) of the expenses of purchase, destruction and disposition of animals, eggs, and materials required to be destroyed because of being contaminated by or exposed to such disease: Provided, however, that if the animals or eggs were exposed to such disease prior to or during interstate movement and the owners or parties contracting with the owners to raise or care for the animals or eggs are not eligible to receive indemnity from any State, the Department may pay up to 100 percent of the purchase, destruction, and disposition of animals, eggs, and materials required to be destroyed; Provided further, that the cooperative program for the purchase, destruction, and disposition of birds shall be limited to birds which are identified in documentation pursuant to Agreements between the Department and the particular State involved relating to cooperative animal (including poultry) disease prevention, control, and eradication, as constituting a threat to the poultry industry of the United States; And provided further, that the Secretary may authorize other arrangements for the payment of such expenses upon finding that an extraordinary emergency exists.
+
+
+# Tags
+
+['shall', 'state disease', 'animal', 'poultry', 'material', 'aphis', 'programs', 'sites', 'eggs', 'plan', 'influenza', 'water', 'fish', 'veterinarians', 'following', 'participant', 'require', 'vessels', 'provided', 'approved', 'indemnity', 'premises', 'including birds', 'pathogenicity', 'cooperative', 'isa', 'mortgage', 'acid', 'administrator', 'destroyed', 'virus', 'person', 'claims', 'islands', 'biosecurity', 'spring']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                  |

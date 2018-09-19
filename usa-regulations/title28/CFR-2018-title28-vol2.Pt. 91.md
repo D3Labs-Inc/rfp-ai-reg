@@ -8,6 +8,17 @@
  CFR-2018-title28-vol2.Pt. 91
 
 
+# Summary
+
+In accordance with OJP's general policy of providing the States with the maximum amount of control and flexibility over the use of formula grant funds, the States can use VOI/TIS grant funds to pay for the costs of preparing environmental documents, to implement mitigation measures to reduce adverse environmental impacts, and to cover the costs of construction delays or other project changes resulting from compliance with the NEPA process.
+Additionally, an otherwise excluded activity loses its exclusion and is subject to environmental review if it either would be located within or potentially affect any of the following: a 100-year flood plain, a wetland, important farmland, a proposed or listed endangered or threatened species, a proposed or listed critical habitat, a property that is listed or eligible for listing on the National Register of Historic Places, an area within an approved State Coastal Zone Management Program, a coastal barrier or a portion of a barrier within the Coastal Barrier Resources System, a river or portion of a river included in or designated for potential addition to the Wild and Scenic Rivers System, a designated or proposed Wilderness Area, or a sole source aquifer recharge area designated by the Environmental Protection Agency (EPA).
+
+
+# Tags
+
+['environmental', 'projected', 'state', 'act', 'ojp', 'require', 'shall', 'programming', 'corrections', 'construct', 'impacts', 'publication', 'include', 'federal', 'facilities', 'grants', 'agency', 'planning', 'action', 'prison', 'activity', 'grantee', 'means', 'proposal', 'funding', 'law', 'comments', 'preparation', 'process', 'appropriate', 'documenting', 'implemented', 'management', 'generally', 'providing notice', 'nepa', 'area', 'local', 'review', 'offenders', 'eis', 'violent', 'assurances', 'water', 'environment', 'involving', 'protection', 'new', 'adverse', 'work', 'procedural', 'crime', 'indian', 'space', 'assisted', 'analysis', 'related', 'completing', 'substantial', 'statements', 'operational', 'phase', 'applicability', 'site', 'non', 'persons', 'policy', 'treatment', 'issued']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                            |

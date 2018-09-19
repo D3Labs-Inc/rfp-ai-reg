@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 90
 
 
+# Summary
+
+Prior to the date of the election, the election board shall assemble and make necessary arrangements for the election in a building to be designated by the Superintendent of the Osage Agency as the polling site and make the necessary preparation for receiving prospective voters, for receiving absentee ballots, and see to it that voting booths are arranged to afford privacy.
+Copies of the list shall also be made available to all qualified candidates for office and for the purpose of checking off the name of each voter as his ballot is cast and for determining, in the event of question, the right of any individual to vote.
+The supervisor or the assistant supervisor in the presence of at least two judges shall unlock the locked box containing the absentee ballots and shall then determine whether the person whose name is signed to the statement is a qualified voter of the Osage Tribe and check said voter off the poll list before opening the outer envelope.
+The supervisor shall then deliver the locked ballot box and keys to same to the Superintendent, Osage Agency, and the box shall be retained in a safe place until opened by order of the supervisor or election board in the event a contest is filed.
+
+
+# Tags
+
+['shall', 'voter', 'ballots', 'election official', 'voted', 'supervisor', 'officer', 'assistants', 'osage', 'said', 'candidates', 'absentee', 'services', 'count', 'written', 'designated', 'envelopes', 'duly', 'remaining', 'personally', 'stat', 'board', 'box', 'days', 'qualified', 'prior']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                   |

@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 9032
 
 
+# Summary
+
+(a) Notwithstanding the definition at 11 CFR 100.5, authorized committee means with respect to candidates (as defined at 11 CFR 9032.2) seeking the nomination of a political party for the office of President, any political committee that is authorized by a candidate to solicit or receive contributions or to incur expenditures on behalf of the candidate.
+Candidate means an individual who seeks nomination for election to the office of President of the United States.
+Matching payment period means the period beginning January 1 of the calendar year in which a Presidential general election is held and may not exceed one of the following dates:
+(a) Primary election means an election held by a State or a political party, including a run-off election, or a nominating convention or a caucus&#8212;
+Political committee means any committee, club, association, organization or other group of persons (whether or not incorporated) which accepts contributions or incurs qualified campaign expenses for the purpose of influencing, or attempting to influence, the nomination of any individual for election to the office of President of the United States.
+
+
+# Tags
+
+['means', 'committees', 'expenditure', 'states', 'elections', 'campaign', 'primary', 'authorized', 'payment']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                  |

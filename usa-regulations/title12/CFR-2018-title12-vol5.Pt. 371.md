@@ -8,6 +8,17 @@
  CFR-2018-title12-vol5.Pt. 371
 
 
+# Summary
+
+(9) All documents that govern QFC transactions between the records entity (or any of its reportable subsidiaries) and each counterparty, including, without limitation, master agreements and annexes, schedules, netting agreements, supplements, or other modifications with respect to the agreements, confirmations for each QFC position that has been confirmed and all trade acknowledgments for each QFC position that has not been confirmed, all credit support documents including, but not limited to, credit support annexes, guarantees, keep-well agreements, or net worth maintenance agreements that are relevant to one or more QFCs, and all assignment or novation documents, if applicable, including documents that confirm that all required consents, approvals, or other conditions precedent for such assignment or novation have been obtained or satisfied.
+If at any time after it becomes a records entity, the institution and, if it is a full scope entity, its reportable subsidiaries, if applicable, have more than 50 open QFC positions in total (without duplication), it must record and maintain records in electronic form as required by this section within 270 days (or, if it is an accelerated records entity at that time, within 60 days).
+
+
+# Tags
+
+['means', 'entities', 'recorded', 'shall', 'qfc', 'agreements', 'bank', 'consolidated', 'master', 'day', 'financial contracts', 'insured', 'compliance', 'including', 'requires', 'federal', 'information', 'maintained', 'conditions', 'subsidiaries', 'institutions', 'securities', 'notwithstanding', 'time', 'following']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                     |

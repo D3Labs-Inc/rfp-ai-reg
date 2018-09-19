@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 584
 
 
+# Summary
+
+(ii) Any savings and loan holding company (or subsidiary thereof) that controls more than one savings association if all, or all but one of the savings association subsidiaries of such company were acquired pursuant to an acquisition under section 13(c) or 13(k) of the Federal Deposit Insurance Act, or section 408(m) of the National Housing Act, as in effect immediately prior to the date of enactment of the Financial Institutions Reform, Recovery and Enforcement Act of 1989, and all of the savings association subsidiaries of such company are qualified thrift lenders as defined in &#167;&#8201;583.17 of this chapter.
+(12) Any services or activities approved by order of the former Federal Savings and Loan Insurance Corporation prior to March 5, 1987, pursuant to its authority under section 408(c)(2)(F) of the National Housing Act, as in effect at the time.
+(1) Before a savings and loan holding company subject to restrictions on its activities pursuant to &#167;&#8201;584.2(b) of this part or a subsidiary thereof may commence performing or engaging in a service or activity prescribed by paragraph (b) of this section (other than purchase or sale of a government debt security), either de novo or by an acquisition of a going concern, it shall file a notice of intent to do so in a form prescribed by the OTS.
+
+
+# Tags
+
+['companies', 'shall', 'activities', 'loan', 'savings', 'associations', 'acquire', 'holds', 'including', 'pursuant', 'service', 'insurance', 'business', 'applicable', 'iii', 'act', 'approved', 'registration', 'subsidiaries', 'controlling', 'filings', 'office', 'homes', 'account', 'thereof', 'estate', 'state', 'corporate', 'set', 'immediately', 'managing', 'federal', 'real', 'development']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                          |

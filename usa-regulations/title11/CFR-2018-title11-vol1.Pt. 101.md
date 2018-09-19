@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 101
 
 
+# Summary
+
+(a) Any candidate who receives a contribution as defined at 11 CFR part 100, subparts B and C obtains any loan, or makes any disbursement, in connection with his or her campaign shall be considered as having received such contribution, obtained such loan or made such disbursement as an agent of his or her authorized committee(s).
+(b) When an individual becomes a candidate, any funds received, loans obtained, or disbursements made prior to becoming a candidate in connection with his or her campaign shall be deemed to have been received, obtained or made as an agent of his or her authorized committee(s).
+When an individual becomes a candidate, all funds received or payments made in connection with activities conducted under 11 CFR 100.72(a) and 11 CFR 100.131(a) or his or her campaign prior to becoming a candidate shall be considered contributions or expenditures under the Act and shall be reported in accordance with 11 CFR 104.3 in the first report filed by such candidate's principal campaign committee.
+The individual shall keep records of the name of each contributor, the date of receipt and amount of all contributions received (see 11 CFR 102.9(a)), and all expenditures made (see 11 CFR 102.9(b)) in connection with activities conducted under 11 CFR 100.72 and 11 CFR 100.131 or the individual's campaign prior to becoming a candidate.
+
+
+# Tags
+
+['shall', 'receives', 'designation', 'filing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                     |

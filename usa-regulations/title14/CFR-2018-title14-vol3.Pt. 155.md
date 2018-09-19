@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 155
 
 
+# Summary
+
+This part applies to releases from terms, conditions, reservations, or restrictions in any deed, surrender of leasehold, or other instrument of transfer or conveyance (in this part called &#8220;instrument of disposal&#8221;) by which some right, title, or interest of the United States in real or personal property was conveyed to a non-Federal public agency under section 13 of the Surplus Property Act of 1944 (58 Stat.
+In addition, section 3 of the Act of October 1, 1949 (50 U.S.C. App. 1622b) authorizes the Administrator to issue instruments that he considers necessary to correct any instrument of disposal by which surplus property was transferred to a non-Federal public agency for airport purposes or to conform the transfer to the requirements of applicable law.
+(d) The Administrator may issue a release from the terms, conditions, reservations, or restrictions of an instrument of disposal subject to any other terms or conditions that he considers necessary to protect or advance the interests of the United States in civil aviation.
+(a) A request for the release of surplus airport property from a term, condition, reservation, or restriction in an instrument of disposal need not be in any special form, but must be in writing and signed by an authorized official of the public agency that owns the airport.
+
+
+# Tags
+
+['airport', 'property', 'use', 'faa', 'releases', 'land', 'office', 'purpose', 'disposed', 'environmental', 'laws', 'emergency', 'instrument', 'issue', 'shall', 'possession', 'restrictions', 'improvements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1228
 
 
+# Summary
+
+Direct benefit means that the proceeds of a private transfer fee are used exclusively to support maintenance and improvements to encumbered properties, and acquisition, improvement, administration, and maintenance of property owned by the covered association of which the owners of the burdened property are members and used primarily for their benefit.
+Excepted transfer fee covenant means a private transfer fee covenant that requires payment of a private transfer fee to a covered association and limits the use of such transfer fees exclusively to purposes which provide a direct benefit to the real property encumbered by the private transfer fee covenants.
+Private transfer fee means a transfer fee, including a charge or payment, imposed by a covenant, restriction, or other similar document and required to be paid in connection with or as a result of a transfer of title to real estate, and payable on a continuing basis each time a property is transferred (except for transfers specifically excepted) for a period of time or indefinitely.
+This part shall apply only to mortgages on properties encumbered by private transfer fee covenants if those covenants are created on or after February 8, 2011.
+
+
+# Tags
+
+['property means', 'covenant', 'fees', 'shall', 'transferred', 'community', 'private', 'home', 'include']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                        |

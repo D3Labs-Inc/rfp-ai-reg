@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 460
 
 
+# Summary
+
+(b) Each member of a flight crew must demonstrate an ability to withstand the stresses of space flight, which may include high acceleration or deceleration, microgravity, and vibration, in sufficient condition to safely carry out his or her duties so that the vehicle will not harm the public.
+An operator must inform in writing any individual serving as crew that the United States Government has not certified the launch vehicle and any reentry vehicle as safe for carrying flight crew or space flight participants.
+This subpart establishes requirements for space flight participants on board a vehicle whose operator is licensed or permitted under this chapter.
+(b) An operator licensed or permitted under this chapter who has a space flight participant on board a vehicle; and
+An operator must inform each space flight participant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type.
+The operator's safety record must cover launch and reentry accidents and human space flight incidents that occurred during and after vehicle verification performed in accordance with &#167;&#8201;460.17, and include&#8212;
+
+
+# Tags
+
+['include', 'train', 'flights', 'crew', 'vehicle', 'operation', 'reentry', 'participate', 'space', 'safety', 'pressure', 'verification', 'condition', 'aeronautical', 'requirements', 'information', 'cabin', 'certificate', 'questions', 'function']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                               |

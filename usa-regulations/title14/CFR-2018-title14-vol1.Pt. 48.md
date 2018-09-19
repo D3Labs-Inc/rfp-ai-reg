@@ -8,6 +8,22 @@
  CFR-2018-title14-vol1.Pt. 48
 
 
+# Summary
+
+(b) Small unmanned aircraft eligible for registration in the United States must be registered and identified in accordance with either:
+(c) Small unmanned aircraft intended to be operated outside of the territorial airspace of the United States, or registered through a trust or voting trust, must be registered in accordance with subparts A and B of part 47 and satisfy the identification and registration marking requirements of subparts A and C of part 45.
+(a) To register a small unmanned aircraft in the United States under this part, a person must provide the information required by &#167;&#8201;48.100 to the Registry in the form and manner prescribed by the Administrator.
+(a) Required information: Persons intending to use the small unmanned aircraft as other than a model aircraft.
+(b) Required information: Individuals intending to use the small unmanned aircraft exclusively as a model aircraft.
+(a) No person may operate a small unmanned aircraft registered in accordance with this part unless the aircraft displays a unique identifier in accordance with the requirements of &#167;&#8201;48.205 of this subpart.
+(2) If authorized by the Administrator and provided with the application for Certificate of Aircraft Registration under &#167;&#8201;48.100 of this part, the small unmanned aircraft serial number.
+
+
+# Tags
+
+['aircraft', 'registration', 'requirements', 'applicable', 'state', 'information', 'persons', 'expired', 'operation', 'including', 'small', 'owners', 'provided', 'issue', 'identifier']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                   |

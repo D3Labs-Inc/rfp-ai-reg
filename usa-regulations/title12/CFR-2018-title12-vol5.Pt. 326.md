@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 326
 
 
+# Summary
+
+shall designate a security officer who shall have the authority, subject to the approval of the board of directors, to develop, within a reasonable time, but no later than 180 days, and to administer a written security program for each banking office.
+The security officer for each insured nonmember bank shall report at least annually to the bank's board of directors on the implementation, administration, and effectiveness of the security program.
+This subpart is issued to assure that all insured nonmember banks as defined in 12 CFR 326.1 establish and maintain procedures reasonably designed to assure and monitor their compliance with the requirements of subchapter II of chapter 53 of title 31, United States Code, and the implementing regulations promulgated thereunder by the Department of Treasury at 31 CFR Chapter X.
+Each bank shall develop and provide for the continued administration of a program reasonably designed to assure and monitor compliance with recordkeeping and reporting requirements set forth in subchapter II of chapter 53 of title 31, United States Code, and the implementing regulations issued by the Department of Treasury at 31 CFR Chapter X.
+
+
+# Tags
+
+['banking', 'secure', 'officer', 'program', 'state', 'compliance', 'appropriate', 'insurance', 'testing', 'shall', 'regulations', 'islands', 'procedures', 'devices', 'robbery', 'persons']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                |

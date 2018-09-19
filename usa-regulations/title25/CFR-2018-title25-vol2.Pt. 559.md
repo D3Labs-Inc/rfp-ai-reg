@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 559
 
 
+# Summary
+
+(a) The purpose of this part is to ensure that each place, facility, or location where class II or III gaming will occur is located on Indian lands eligible for gaming and obtains an attestation certifying that the construction and maintenance of the gaming facility, and the operation of that gaming, is conducted in a manner that adequately protects the environment and the public health and safety, pursuant to the Indian Gaming Regulatory Act.
+(a) A tribe shall submit to the Chair a notice that a facility license is under consideration for issuance at least 120 days before opening any new place, facility, or location on Indian lands where class II or III gaming will occur.
+A tribe must submit to the Chair a copy of each newly issued or renewed facility license within 30 days of issuance.
+May the Chair require a tribe to submit applicable and available Indian lands or environmental and public health and safety documentation regarding any gaming place, facility, or location where gaming will occur?
+A tribe shall provide applicable and available Indian lands or environmental and public health and safety documentation requested by the Chair.
+
+
+# Tags
+
+['documents', 'tribes', 'gaming', 'shall submit', 'facility', 'land', 'indian']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                            |

@@ -8,6 +8,20 @@
  CFR-2018-title14-vol1.Pt. 34
 
 
+# Summary
+
+Pursuant to the definition of &#8220;aircraft&#8221; in 40 CFR 87.1, this regulation applies to civil airplanes that are powered by aircraft gas turbine engines of the classes specified herein and that have foreign airworthiness certificates that are equivalent to U.S. standard airworthiness certificates.
+(c) Exhaust emission of smoke from each new aircraft gas turbine engine of class T3 manufactured on or after January 1, 1978, shall not exceed a smoke number (SN) of 25.
+(c) Engines (including engines that are determined to be derivative engines for the purposes of emission certification) type certificated with characteristic levels at or below the NOX standards of &#167;&#8201;34.21(d)(1)(vi) of this part (as applicable based on rated output and rated pressure ratio) and introduced before July 18, 2012, may be produced through December 31, 2012, without meeting the NOX standard of paragraph (a)(2) of this section.
+(b) Exhaust emissions of smoke from each in-use aircraft gas turbine engine of Class TF and of rated output of 129 kN (29,000 lb) thrust or greater, beginning January l, 1976, shall not exceed
+(c) The standards set forth in paragraphs (a) and (b) of this section refer to exhaust smoke emission emitted during operation of the engine as specified in the applicable sections of subpart G of this part, and measured and calculated in accordance with the procedures set forth in subpart G.
+
+
+# Tags
+
+['engineering', 'emissions', 'meanings', 'aircraft', 'applications', 'exemption', 'test', 'required', 'standard', 'administrative', 'certification', 'regulation', 'includes', 'fuel', 'specified', 'operating', 'follows', 'smoke', 'air', 'power', 'shall', 'procedures', 'designed', 'service', 'icao', 'issue', 'flights', 'beginning', 'production', 'model', 'output', 'foreign', 'new', 'date', 'consists', 'derivative', 'exception', 'conditions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                              |

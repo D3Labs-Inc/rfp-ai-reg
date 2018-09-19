@@ -8,6 +8,20 @@
  CFR-2018-title12-vol4.Pt. 231
 
 
+# Summary
+
+(c) Financial contract means a qualified financial contract as defined in section 11(e)(8)(D) of the Federal Deposit Insurance Act (12 U.S.C. 1821(e)(8)(D)), as amended, except that a forward contract includes a contract with a maturity date two days or less after the date the contract is entered into (i.e., a &#8220;spot&#8221; contract).
+(a) A person qualifies as a financial institution for purposes of sections 401-407 of the Act if it represents, orally or in writing, that it will engage in financial contracts as a counterparty on both sides of one or more financial markets and either&#8212;
+(2) Had total gross mark-to-market positions of at least $100 million (aggregated across counterparties) in one or more financial contracts on any day during the previous 15-month period with counterparties that are not its affiliates.
+(b) If a person qualifies as a financial institution under paragraph (a) of this section, that person will be considered a financial institution for the purposes of any contract entered into during the period it qualifies, even if the person subsequently fails to qualify.
+(c) If a person qualifies as a financial institution under paragraph (a) of this section on March 7, 1994, that person will be considered a financial institution for the purposes of any outstanding contract entered into prior to March 7, 1994.
+
+
+# Tags
+
+['contract', 'markets', 'act', 'person', 'financial', 'gross', 'means']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                        |

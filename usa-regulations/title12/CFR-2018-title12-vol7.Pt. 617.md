@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 617
 
 
+# Summary
+
+A qualified lender must also establish policies and procedures for determining major assumptions used in calculating the effective interest rate, e.g., criteria on how the cost of borrower stock (or participation certificates) and loan origination charges are assigned or allocated among multiple loans obtained by a borrower simultaneously.
+If a qualified lender increases the amount of stock (or participation certificates) a borrower must own during the term of a loan, the lender must send a written notice to the borrower at least ten (10) days prior to the effective date of the increase.
+As part of a CRC review, an applicant may request an independent collateral evaluation of the agricultural real estate securing the loan or being offered as security, regardless of whether collateral was an identified reason for the adverse credit decision.
+The independent collateral evaluation may be for any interest(s) in the property securing the loan, except stock or participation certificates issued by the qualified lender and held by the applicant or borrower.
+The response may include a plan for achieving compliance with the distressed loan restructuring requirements of the Act. The response must be in writing and delivered to FCA within 30 days after the date on which the qualified lender received the notice.
+
+
+# Tags
+
+['loan means', 'lenders', 'restructured', 'borrower', 'included', 'rates', 'reasonably', 'written', 'credit decision', 'financial information', 'fca', 'applicant', 'required', 'institutions', 'right', 'notice', 'foreclosure', 'reviews', 'evaluators', 'payments', 'stating', 'crc', 'new', 'complete', 'following', 'value', 'collateral', 'secures', 'property', 'obtains', 'charges', 'agricultural', 'disclosures', 'costs', 'provides', 'proceedings', 'effect', 'principal', 'public', 'apply', 'operation', 'proposing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                       |

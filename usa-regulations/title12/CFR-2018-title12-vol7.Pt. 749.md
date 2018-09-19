@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 749
 
 
+# Summary
+
+(a) This part describes the obligations of all federally-insured credit unions to maintain a records preservation program to identify, store and reconstruct vital records in the event that the credit union's records are destroyed and provides recommendations for restoring vital member services.
+Appendix B to this part also provides guidance for developing a program for responding to a catastrophic act to ensure duplicate vital records can be used for restoration of vital member services.
+It is recommended credit unions include in these procedures a method for using duplicate records to restore vital member services in the event of catastrophic act.
+A vital records center is defined as a storage facility, which may include another federally-insured credit union, at any location far enough from the credit union's offices to avoid the simultaneous loss of both sets of records in the event of a catastrophic act.
+Where NCUA regulations require credit unions to retain certain writings, records or information, credit unions may use any format that accurately reflects the information in the record, is accessible to all persons entitled to access by statute, regulation or rule of law, and is capable of being reproduced by transmission, printing, or otherwise.
+
+
+# Tags
+
+['records', 'information', 'credit', 'vital', 'insurance', 'regulations', 'accounts', 'storage', 'services', 'share', 'require', 'loans']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                   |

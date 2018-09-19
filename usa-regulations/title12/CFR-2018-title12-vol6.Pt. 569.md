@@ -8,6 +8,21 @@
  CFR-2018-title12-vol6.Pt. 569
 
 
+# Summary
+
+The term security holder means any person having the right to vote in the affairs of a savings association by virtue of:
+The term proxy includes every form of authorization by which a person is, or may be deemed to be, designated to act for the security holder in the exercise of his or her voting rights in the affairs of a savings association.
+(3) The furnishing of a form of proxy or other communication to security holders under circumstances reasonably calculated to result in the procurement, withholding, or revocation of a proxy.
+No solicitation of a proxy shall be made by means of any statement, form of proxy, notice of meeting, or other communication, written or oral, which:
+(b) Solicits any proxy that provides that it shall be deemed to be dated as of any date subsequent to the date on which it is signed by the security holder; or
+(ii) Necessary to correct any statement in any earlier communication with respect to the solicitation of a proxy for the same meeting or subject matter that has subsequently become false or misleading.
+
+
+# Tags
+
+['proxies', 'persons', 'terms', 'funds', 'holders', 'soliciting']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                    |

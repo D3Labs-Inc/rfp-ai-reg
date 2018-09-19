@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 300
 
 
+# Summary
+
+The rules of conduct set forth in this part except as otherwise provided in this or any other DOT regulation shall govern the conduct of the parties and their representatives, and the relationships between the Office of the Secretary of Transportation, the Office of the Assistant Secretary for Aviation and International Affairs, and the Office of the General Counsel, including regular personnel, and officials, special Government employees, consultants, or experts under contract to the Department of Transportation (DOT) and administrative law judges (hereinafter referred to as &#8220;DOT employee(s)&#8221;) and all other persons in all DOT matters involving aviation economic and enforcement proceedings.
+(10) Information given at the request of a DOT career employee in the course of investigating or clarifying information filed, or pursuant to a waiver granted to an applicant or other interested person, in docketed proceedings involving determinations of fitness and/or U.S. citizenship only, for that portion of the proceeding that precedes the issuance of a show-cause order or an order instituting a formal proceeding.
+In cases to be determined on an evidentiary record, a party desiring that a concerned DOT employee disqualify himself or herself from participating in a DOT decision shall file a motion supported by an affidavit setting forth the grounds for such disqualification in the form and within the periods prescribed in &#167;&#8201;302.11 of this chapter.
+
+
+# Tags
+
+['shall', 'dot', 'proceeding', 'employee', 'communications', 'personal', 'information', 'matter', 'ordered', 'involved', 'including', 'written', 'file', 'docketed', 'case', 'actions', 'government', 'applications', 'motions', 'disqualification', 'official', 'requests', 'general', 'issue', 'prior', 'aviation', 'following', 'employment', 'permanently', 'standards', 'relation', 'relationship', 'state']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                             |

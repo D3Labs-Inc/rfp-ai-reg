@@ -8,6 +8,17 @@
  CFR-2018-title12-vol4.Pt. 262
 
 
+# Summary
+
+(iii) Each order or each letter of notification approving an application also includes, as a condition of approval, a requirement that the transaction approved shall be consummated within 3 months and, in the case of acquisition by a holding company of stock of a newly organized bank, a requirement that such bank shall be opened for business within 6 months, but such periods may be extended for good cause by the Board (or by the appropriate Federal Reserve Bank where authority to grant such extensions is delegated to the Reserve Bank).
+(i) Each order or each letter of notification approving an application also includes, as a condition of approval, a requirement that the transaction approved shall be consummated within 3 months and, in the case of acquisition by a holding company of stock of a newly organized savings association, a requirement that such savings association shall be opened for business within 6 months, but such periods may be extended for good cause by the Board (or by the appropriate Federal Reserve Bank where authority to grant such extensions is delegated to the Reserve Bank).
+
+
+# Tags
+
+['applications', 'bank', 'notices', 'shall', 'general', 'board', 'includes', 'procedural', 'public', 'authority', 'commenter', 'acting', 'appropriate', 'meeting', 'request', 'action', 'dates', 'rules', 'day', 'approval', 'forms', 'follows', 'periods', 'information', 'pursuant', 'branches', 'issues', 'presented', 'list', 'statements', 'acquire', 'written', 'necessary', 'offices', 'publishes', 'merger']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                   |

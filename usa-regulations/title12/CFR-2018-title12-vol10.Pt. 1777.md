@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1777
 
 
+# Summary
+
+Notwithstanding the existence of procedures in &#167;&#8201;1777.10 for the Director of OFHEO to designate certain developments for supervisory response under subpart A of this part, nothing in this part in any way limits the authority of OFHEO otherwise to take such actions with respect to any issue as is deemed appropriate by the Director of OFHEO to ensure that the Enterprises maintain adequate capital, operate in a safe and sound manner, and comply with the 1992 Act and regulations, orders, and agreements thereunder.
+If OFHEO determines in writing that an Enterprise is engaging in action or inaction (including a failure to respond appropriately to changes in circumstances or unforeseen events) that could result a rapid depletion of core capital, or that the value of the property subject to mortgages held or securitized by the Enterprise has decreased significantly or that reclassification is deemed necessary to ensure that the Enterprise holds adequate capital and operates safely, OFHEO may reclassify the Enterprise as:
+Not later than thirty days after issuing a final notice of capital classification pursuant to &#167;&#8201;1777.21(a)(3) classifying an Enterprise as significantly undercapitalized, OFHEO shall issue an order appointing a conservator for the Enterprise.
+
+
+# Tags
+
+['capitalized', 'enterprises', 'ofheo pursuant', 'shall', 'actions', 'order', 'supervisory', 'classification', 'notices', 'plan', 'include', 'issuing', 'section', 'development', 'act', 'responsive', 'authorizing', 'iii', 'written', 'information', 'level', 'determines', 'approval', 'usc', 'review', 'mortgage', 'financial', 'thereof', 'additional', 'period', 'appointed', 'discretion', 'set', 'specified', 'appropriately', 'circumstances']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                              |

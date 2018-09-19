@@ -8,6 +8,20 @@
  CFR-2018-title14-vol5.Pt. 1266
 
 
+# Summary
+
+The purpose of this Part is to ensure that consistent cross-waivers of liability are included in NASA agreements for activities related to the ISS and for NASA's science or space exploration activities unrelated to the ISS that involve a launch.
+(a) The objective of this section is to implement NASA's responsibility to flow down the cross-waiver of liability in Article 16 of the IGA to its related entities in the interest of encouraging participation in the exploration, exploitation, and use of outer space through the International Space Station (ISS).
+(a) The purpose of this section is to implement a cross-waiver of liability between the parties to agreements for NASA's science or space exploration activities that are not related to the International Space Station (ISS) but involve a launch.
+(v) Claims for damages resulting from a failure of a Party to extend the cross-waiver of liability to its related entities, pursuant to paragraph (c)(2) of this section; or
+(v) Claims for damages resulting from a failure of a Party to extend the cross-waiver of liability to its related entities, pursuant to paragraph (c)(2) of this section; or
+
+
+# Tags
+
+['space', 'terms', 'states', 'waiver', 'iga', 'activities', 'included', 'iii', 'entity', 'party', 'damaged', 'shall', 'agreements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                            |

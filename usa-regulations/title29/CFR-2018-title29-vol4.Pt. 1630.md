@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1630
 
 
+# Summary
+
+(ii) An impairment is a disability within the meaning of this section if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population.
+(b) It is unlawful for a covered entity to deny employment opportunities to an otherwise qualified job applicant or employee with a disability based on the need of such covered entity to make reasonable accommodation to such individual's physical or mental impairments.
+(iii) Except as permitted under paragraph (d)(4)(i) of this section and as is necessary to administer the health plan, information obtained under this paragraph (d) regarding the medical information or history of any individual may only be provided to an ADA covered entity in aggregate terms that do not disclose, or are not reasonably likely to disclose, the identity of any employee.
+It may be a defense to a charge of discrimination, as described in &#167;&#8201;1630.10, that an alleged application of qualification standards, tests, or selection criteria that screens out or tends to screen out or otherwise denies a job or benefit to an individual with a disability has been shown to be job-related and consistent with business necessity, and such performance cannot be accomplished with reasonable accommodation, as required in this part.
+
+
+# Tags
+
+['included', 'employee', 'functional', 'disabled', 'limit', 'medication', 'substantial', 'individual', 'iii', 'activity', 'reasonably', 'health', 'impaired', 'program', 'applicable', 'entity', 'standard', 'job requirements', 'disorders', 'equal employment', 'information', 'positive', 'test', 'means', 'acts', 'working', 'shall', 'organic', 'termed', 'performance', 'cost', 'disease', 'providing', 'benefits', 'sections', 'apply', 'drugs', 'law', 'ada', 'result', 'general', 'related', 'hearing', 'regulations', 'coverage', 'prohibits', 'discrimination', 'major', 'established', 'lists', 'neurological', 'learned', 'examination', 'rights', 'accommodation', 'treatment', 'useful', 'vision', 'islands', 'visual', 'non', 'agency labor', 'demotion', 'criteria', 'plans', 'availability', 'behavior']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                              |

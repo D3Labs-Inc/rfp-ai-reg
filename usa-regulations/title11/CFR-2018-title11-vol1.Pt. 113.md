@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 113
 
 
+# Summary
+
+If a family member provides bona fide services to the campaign, any salary payment in excess of the fair market value of the services provided is personal use.
+A Federal officeholder, as defined in paragraph (c) of this section, must not receive salary payments as a candidate from campaign funds.
+(ii) The Commission will determine, on a case-by-case basis, whether other uses of funds in a campaign account fulfill a commitment, obligation or expense that would exist irrespective of the candidate's campaign or duties as a Federal officeholder, and therefore are personal use.
+The use of campaign funds for an expense that would be a political expense under the rules of the United States House of Representatives or an officially connected expense under the rules of the United States Senate is not personal use to the extent that the expense is an expenditure under subpart D of part 100 or an ordinary and necessary expense incurred in connection with the duties of a holder of Federal office.
+Any use of funds that would be personal use under paragraph (g)(1) of this section will not be considered an expenditure under subpart D of part 100 or an ordinary and necessary expense incurred in connection with the duties of a holder of Federal office.
+
+
+# Tags
+
+['expense', 'candidate', 'campaign', 'funds', 'election', 'payment', 'accounts', 'states', 'person', 'includes', 'committee', 'shall', 'useful', 'officeholders', 'office', 'value', 'salary', 'providing', 'federal', 'club', 'limited', 'usc', 'activity', 'officially', 'rata', 'family']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                |

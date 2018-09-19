@@ -8,6 +8,20 @@
  CFR-2018-title34-vol2.Pt. 386
 
 
+# Summary
+
+(b) The Rehabilitation Long-Term Training program is designed to provide academic training that leads to an academic degree or academic certificate in areas of personnel shortages identified by the Secretary and published in a notice in the Federal Register.
+(1) The Secretary reviews each application for information that shows that the proposed project appropriately relates to the mission of the State-Federal vocational rehabilitation service program.
+An agreement must be executed between the grantee and scholar for each subsequent year that scholarship funds are disbursed and must contain the terms and conditions required by this section.
+Prior to granting each year of a scholarship, the grantee will require each scholar to enter into a signed written agreement in which the scholar agrees to the terms and conditions set forth in &#167;&#8201;386.40.
+(d) If a scholar fails to provide the information in paragraph (a)(10) of this section or otherwise maintain contact with the grantee pursuant to the terms of the signed payback agreement and enters into repayment status pursuant to &#167;&#8201;386.43, the scholar will be held responsible for any costs assessed in the collection process under that section even if that information is subsequently provided.
+
+
+# Tags
+
+['rehabilitation', 'employers', 'provide', 'training', 'program', 'scholars', 'educational', 'students', 'services', 'documentation', 'disabled', 'include', 'followed', 'require', 'granted', 'scholarship', 'secretary', 'assisting', 'work', 'time', 'cost', 'states', 'vocational', 'projects', 'federal', 'academic', 'administrative', 'years', 'certificates', 'professionals', 'agreement', 'agency', 'support', 'fields', 'received']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                  |

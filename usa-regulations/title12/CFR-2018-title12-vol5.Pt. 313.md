@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 313
 
 
+# Summary
+
+(c) In the case of non-centralized administrative offsets, the FDIC first learns of the existence of a debt due when there would be insufficient time to afford the debtor due process under these procedures before the paying agency makes payment to the debtor; in such cases, the Director shall give the debtor notice and an opportunity for review as soon as practical and shall refund any money ultimately found not to be due to the U.S. Government.
+These salary offset regulations are issued in compliance with 5 U.S.C. 5514 and 5 CFR part 550, subpart K, and apply to the collection of debts owed by employees of the FDIC or other federal agencies.
+If the FDIC is aware that the employee is entitled to payments from the Civil Service Retirement and Disability Fund, or other similar payments, it must provide written notification to the agency responsible for making such payments that the debtor owes a debt (including the amount) and that the requirements set forth herein and in the OPM's regulation (5 CFR part 550, subpart K) have been fully met.
+(a) If a hearing official determines that a debt is not legally due and owing to the United States, the FDIC shall promptly refund any amount collected by means of administrative wage garnishment.
+
+
+# Tags
+
+['shall', 'offset', 'agency', 'collected', 'paying', 'debt', 'hearings', 'means', 'fdic procedures', 'administration', 'employee', 'include', 'ordered', 'written', 'debtor', 'certification', 'federal', 'claiming', 'salary', 'informs', 'timely', 'person', 'pursuant', 'notice', 'amounts', 'regulations', 'act', 'payment', 'requested', 'lawful', 'statements', 'service', 'action', 'cfr', 'withhold', 'garnished', 'follow', 'provides', 'overpayment', 'state', 'standards', 'deducted', 'expenses', 'applicable', 'wages', 'schedule', 'financial', 'government', 'usc', 'day', 'review', 'periods', 'reasonably']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                   |

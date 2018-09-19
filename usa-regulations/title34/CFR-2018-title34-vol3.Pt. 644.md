@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 644
 
 
+# Summary
+
+(b) To provide assistance to individuals in applying to admission to institutions that offer programs of postsecondary education, including assistance in preparing necessary applications for use by admissions and financial aid officers; and
+Different population means a group of individuals that an eligible entity desires to serve through an application for a grant under the Educational Opportunity Centers program and that&#8212;
+(c) If the total scores of two or more applications are the same and there are insufficient funds for these applications after the approval of higher-ranked applications, the Secretary uses the remaining funds to serve geographic areas and eligible populations that have been underserved by the Educational Opportunity Centers program.
+The Secretary evaluates the need for an Educational Opportunity Centers project in the proposed target area on the basis of the extent to which the application contains clear evidence of&#8212;
+(1) (4 points) The plan to inform the residents, schools, and community organizations in the target area of the goals, objectives, and services of the project and the eligibility requirements for participation in the project;
+Whether the applicant met or exceeded its approved objective with regard to the secondary school graduates served during the project year who enroll in programs of postsecondary education within the time period specified in the approved objective.
+
+
+# Tags
+
+['applications', 'projects', 'secretary', 'educational', 'points', 'program', 'services', 'scoring', 'funding', 'participated', 'included', 'means', 'schools', 'costs', 'personal', 'provide information', 'following', 'required', 'serves', 'report', 'reviewers', 'evaluates', 'years', 'islands', 'financial', 'college', 'states', 'individuals', 'described', 'grants', 'plans', 'resident', 'assistance', 'administrative', 'designed', 'income', 'awarded', 'receiving', 'target', 'errors']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                        |

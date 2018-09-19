@@ -8,6 +8,21 @@
  CFR-2018-title34-vol1.Pt. 84
 
 
+# Summary
+
+(2) Take actions concerning employees who are convicted of violating drug statutes in the workplace (see &#167;&#8201;84.225).
+What actions must I take concerning employees who are convicted of drug violations in the workplace?
+(a) First, you must notify Federal agencies if an employee who is engaged in the performance of an award informs you about a conviction, as required by &#167;&#8201;84.205(c)(2), or you otherwise learn of the conviction.
+Cooperative agreement means an award of financial assistance that, consistent with 31 U.S.C. 6305, is used to enter into the same kind of relationship as a grant (see definition of grant in &#167;&#8201;84.650), except that substantial involvement is expected between the Federal agency and the recipient when carrying out the activity contemplated by the award.
+Drug-free workplace means a site for the performance of work done in connection with a specific award at which employees of the recipient are prohibited from engaging in the unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance.
+Suspension means an action taken by a Federal agency that immediately prohibits a recipient from participating in Federal Government procurement contracts and covered nonprocurement transactions for a temporary period, pending completion of an investigation and any judicial or administrative proceedings that may ensue.
+
+
+# Tags
+
+['award', 'workplaces', 'federal', 'includes', 'means', 'drug', 'states', 'government', 'employee', 'require', 'actions', 'assistance', 'executive', 'authorized', 'agencies', 'dispensing', 'programs', 'statutes', 'recipients', 'direct', 'faith']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                 |

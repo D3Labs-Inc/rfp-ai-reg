@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1291
 
 
+# Summary
+
+Pursuant to written policies established by a Bank's board of directors after consultation with its Advisory Council, a Bank, in its discretion, may provide AHP direct subsidy under its competitive application program for eligible projects and households involving both the lending of the subsidy and subsequent lending of subsidy principal and interest repayments by a revolving loan fund, provided the following requirements are met:
+In cases where a Bank does not rely on monitoring by a federal, state, or local government entity pursuant to paragraphs (a)(2) or (a)(3) of this section, pursuant to written policies established by the Bank, the Bank shall monitor completed AHP rental projects under its competitive application program, commencing in the second year after project completion to determine, at a minimum, whether during the full 15-year retention period, the household incomes and rents comply with the income targeting and rent commitments, respectively, made in the approved AHP applications.
+AHP direct subsidy, including any interest, repaid to a member or project sponsor under a homeownership set-aside program or the competitive application program, respectively, may be repaid by such parties to the Bank for subsequent disbursement to and re-use by such parties, or retained by such parties for subsequent re-use, as authorized by the Bank, in its discretion, after consultation with its Advisory Council, in its AHP Implementation Plan, provided all of the following requirements are satisfied:
+
+
+# Tags
+
+['shall', 'projected', 'ahp', 'bank', 'housing', 'subsidy', 'require', 'programs', 'funds', 'united', 'applications', 'household', 'includes', 'provide', 'members', 'loan', 'pursuant', 'iii', 'eligible', 'income', 'score', 'commit', 'annual', 'owners', 'marketed', 'monitor', 'years', 'criteria', 'prior', 'sponsors', 'means', 'financial', 'meets', 'counseling', 'approvals', 'costs', 'area', 'policies', 'financing', 'points', 'developer', 'term', 'mortgage', 'section', 'cash', 'organizations', 'purchased', 'fees', 'initiatives', 'follows', 'retention', 'plan', 'property', 'rate', 'assistance', 'involvement', 'lends', 'council', 'credit', 'federally', 'act', 'received', 'native', 'state']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                  |

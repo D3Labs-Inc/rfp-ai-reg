@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 201
 
 
+# Summary
+
+(a) All scales used by stockyard owners, swine contractors, market agencies, dealers, packers, and live poultry dealers to weigh livestock, livestock carcasses, live poultry, or feed for the purposes of purchase, sale, acquisition, payment, or settlement shall be installed, maintained, and operated to ensure accurate weights.
+(d) No scales shall be operated or used by any stockyard owners, swine contractors, market agencies, dealers, packers, or live poultry dealers to weigh livestock, livestock carcasses, live poultry, or feed for the purposes of purchase, sale, acquisition, payment, or settlement of livestock, livestock carcasses or live poultry unless it has been found upon test and inspection, as specified in &#167;&#8201;201.72, to be in a condition to give accurate weight.
+Every packer, live poultry dealer, stockyard owner, market agency, and dealer (except a packer buyer registered to purchase livestock for slaughter only) shall file annually with the Administration a report on prescribed forms not later than April 15 following the calendar year end or, if the records are kept on a fiscal year basis, not later than 90 days after the close of his fiscal year.
+
+
+# Tags
+
+['shall', 'livestock', 'weight', 'scales', 'agency', 'recorded', 'poultry', 'dealers', 'person', 'weighs', 'packer', 'indicate', 'feed', 'provide', 'purchasers', 'require', 'bonds', 'informed', 'zero balance', 'growers', 'includes', 'reasonable', 'operating', 'applicant', 'accurate', 'times', 'load', 'business', 'means', 'registrant', 'notice', 'accounting', 'written', 'carcasses', 'marketed', 'conditions', 'payments', 'services', 'number', 'live', 'inspections', 'follows', 'charges', 'furnish', 'contracts', 'sufficiently', 'stockyard', 'weighbeam', 'printed', 'authorization', 'copies', 'agreement', 'response', 'equipped', 'acting', 'buyers', 'legal', 'execute', 'files', 'proceeds', 'basis', 'period', 'administration', 'grades', 'terms', 'arrangements', 'devices', 'contain', 'terminated', 'lawful', 'maintained', 'prices', 'office', 'loop', 'day', 'limits', 'properly', 'funds', 'affecting', 'sales', 'thereof', 'prevent']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

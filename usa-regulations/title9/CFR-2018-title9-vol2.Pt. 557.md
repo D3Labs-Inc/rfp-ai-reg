@@ -8,6 +8,20 @@
  CFR-2018-title9-vol2.Pt. 557
 
 
+# Summary
+
+No fish or fish product offered for importation from any foreign country shall be admitted into the United States if it is adulterated or misbranded or does not comply with all the requirements of this subchapter that would apply to it if it were a domestic product.
+(b) Import inspection applications for each consignment must be submitted, electronically or on paper, to FSIS in advance of the shipment's arrival at the official import establishment where the product will be reinspected, but no later than when the entry is filed with U.S. Customs and Border Protection.
+Foreign canned or packaged fish and fish products bearing on their immediate containers trade labels that have or have not been approved in accordance with the regulations in &#167;&#8201;541.7 of this subchapter are to be sampled and inspected in the same manner as provided by &#167;&#8201;327.12 of this chapter for foreign canned meat food products.
+The regulations in 9 CFR 327.14 governing the marking of meat and meat food products and the labeling of immediate containers of those products for importation apply with respect to fish and fish products.
+The regulations in 9 CFR 327.18 governing the offer for entry into the United States of meat and meat food products apply with respect to fish and fish products.
+
+
+# Tags
+
+['products', 'inspection', 'import', 'shall', 'applicants', 'foreign', 'sample', 'establishment', 'official', 'fish', 'entry', 'food', 'program', 'contain', 'country', 'labeling', 'reinspection', 'meat', 'including', 'states', 'condition', 'laboratory', 'marking']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                       |

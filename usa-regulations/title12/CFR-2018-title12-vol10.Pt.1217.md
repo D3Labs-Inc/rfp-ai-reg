@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt.1217
 
 
+# Summary
+
+(1) Establishes administrative procedures for imposing civil penalties and assessments against persons who make, submit, or present, or cause to be made, submitted, or presented, false, fictitious, or fraudulent claims or written statements to FHFA or to its agents; and
+A civil penalty other than an assessment may be imposed whether or not FHFA has made a payment, transferred property, or provided services in response to the false claim or statement.
+Reasonable prospect of collecting an appropriate amount of penalties and assessments is determined based on a generalized analysis made by the reviewing official, based on the limited information available in the report of investigation for purposes of determining whether the allocation of FHFA's resources to any particular action is appropriate.
+(6) If the FHFA has made any payment, transferred property, or provided services for a claim, then FHFA may make an assessment against a person found liable in an amount of up to twice the amount of the claim or portion of the claim that is determined to be in violation of paragraph (a)(1) of this section.
+(1) A civil penalty of up to $10,781 may be imposed upon a person who makes a written statement to FHFA with respect to a claim, contract, bid or proposal for a contract, or benefit from FHFA that:
+
+
+# Tags
+
+['shall', 'including', 'claimed', 'generalized', 'fhfa', 'actions', 'means', 'documents', 'civil', 'investigating official', 'respond', 'money', 'submitting', 'notice', 'person', 'assessments', 'request', 'statement', 'administrative', 'act', 'usc', 'benefit', 'written', 'actually']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                          |

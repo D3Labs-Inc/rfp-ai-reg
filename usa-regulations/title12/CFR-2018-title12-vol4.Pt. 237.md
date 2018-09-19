@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 237
 
 
+# Summary
+
+A covered swap entity shall comply with the variation margin requirements described in paragraph (a) of this section on each business day, for a period beginning on or before the business day following the day of execution and ending on the date the non-cleared swap or non-cleared security based swap terminates or expires.
+For a non-cleared swap or non-cleared security-based swap with a financial end user, a covered swap entity shall collect and post initial margin and variation margin required pursuant to this subpart solely in the form of the following types of collateral:
+A covered swap entity satisfies its requirement to post initial margin under &#167;&#8201;237.3(b) by posting to its counterparty initial margin in the form and amount, and at such times, that its counterparty is required to collect pursuant to a foreign regulatory framework, provided that the counterparty is subject to the foreign regulatory framework and the prudential regulators have made a determination under paragraph (d)(1) of this section, unless otherwise stated in that determination, and the counterparty's obligations under the non-cleared swap or non-cleared security-based swap do not have a guarantee from:
+
+
+# Tags
+
+['swap', 'risks', 'entity', 'model', 'margin requirements', 'include', 'securities', 'pursuant', 'companies', 'means', 'shall', 'financial', 'banking', 'agreements', 'act', 'developed', 'collateral', 'state', 'foreign', 'counterparties', 'periods', 'provides', 'credit', 'insured', 'initial', 'sections', 'applicable', 'netting', 'dollars', 'lender', 'appropriate', 'non', 'compliance', 'eligibility', 'clearing', 'investing', 'institution', 'money', 'trading', 'regulator', 'internal', 'federal', 'business', 'prices', 'following', 'collection', 'written legally', 'funds', 'agency', 'asset', 'currency', 'days', 'material', 'markets', 'posted', 'request', 'determination', 'similar']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

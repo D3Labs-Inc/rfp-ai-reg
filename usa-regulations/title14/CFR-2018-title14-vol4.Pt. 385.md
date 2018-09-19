@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 385
 
 
+# Summary
+
+In such proceedings, each staff member may determine any procedural matters which may arise, including, inter alia, service of documents on additional persons; filing of otherwise unauthorized documents; waivers of procedural requirements; requests for hearing; requests for additional information; dismissal of applications upon the applicant's request, moot applications, or incomplete or otherwise defective applications; and extensions of time.
+(e) Approve or disapprove requests by foreign air carriers for authorizations provided for, or waivers of restrictions contained, in any agreement or in any permit or order of the Department, when no person disclosing a substantial interest objects or where the course of action is clear under current policy or precedent.
+(j) Approve or disapprove requests by foreign air carriers for waivers of the 30-day advance filing requirement for proposed schedules whose filing the Department has ordered under part 213 of this chapter.
+(k) Approve, when no person disclosing a substantial interest objects, or disapprove requests by foreign air carriers for special authorizations provided for in part 216 of this chapter.
+(o) Grant or deny applications by air carriers and foreign air carriers under part 389 of this chapter for waivers of the Department's filing fee requirements, in accordance with current policy or precedent.
+
+
+# Tags
+
+['files', 'shall', 'ordered', 'actions', 'authorized', 'carrier', 'services', 'applications', 'air', 'procedures', 'requests', 'issuing', 'requirements', 'review', 'information', 'department means', 'proceeding', 'provided', 'effectively', 'reports', 'documented', 'notices', 'periods', 'petitions', 'special', 'time', 'matter', 'operations', 'rate', 'substantial', 'charters', 'officers', 'official', 'deny', 'aviation', 'proposed', 'international', 'persons', 'accounts', 'disapproved', 'pursuant', 'granted', 'financial', 'days', 'decisions', 'included', 'final']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                    |

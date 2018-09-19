@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 103
 
 
+# Summary
+
+The lender is responsible for determining whether it will require a BIA guaranty or insurance coverage, based upon the loan application it receives from an eligible borrower.
+If the lender fails to make the premium payment within 30 calendar days of the date of BIA's notice, BIA's guaranty certificate or insurance coverage with respect to that particular loan is void, without further action.
+If at any time a business entity or tribal enterprise becomes less than 51 percent Indian owned, the lender either may declare a default as of the date the borrower stopped being at least 51 percent Indian owned and exercise its remedies under this part, or else continue to extend the loan to the borrower and allow BIA's guaranty or insurance coverage to become invalid.
+(c) Subject to any applicable BIA loan guaranty or insurance coverage conditions, a lender may extend additional loans to a borrower without BIA approval, if the additional loans are not to be guaranteed or insured under the Program.
+(e) Failure by the lender to provide BIA with notice of the lender's election of remedy within 90 calendar days of the default, as indicated in &#167;&#8201;103.36(d), will invalidate BIA's loan guaranty certificate or insurance coverage for that particular loan, absent an express waiver of this provision by BIA.
+
+
+# Tags
+
+['loans', 'bia', 'lenders', 'included', 'reasonably', 'requirements', 'insured', 'security', 'borrows', 'business', 'approved', 'program', 'applications', 'indian', 'information', 'defaults', 'notices', 'written', 'rate', 'subsidy payments', 'mean', 'specifications', 'law', 'guaranty', 'collateral', 'document', 'term', 'agreement', 'government', 'services', 'principal', 'claims', 'collect', 'entity', 'detailed', 'dates', 'materially', 'repayment', 'addition', 'office', 'hazard', 'proceeding', 'marketing', 'orders', 'years', 'followed', 'liquidates', 'changed', 'loss', 'similar', 'indicates', 'states', 'fee', 'tax', 'mortgage', 'time', 'limit', 'title', 'property', 'credit', 'records']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                         |

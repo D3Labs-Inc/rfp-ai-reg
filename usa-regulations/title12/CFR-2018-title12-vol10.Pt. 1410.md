@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1410
 
 
+# Summary
+
+(i) The average outstanding insured obligations issued by the bank for the period, after deducting from the obligations the percentages of the guaranteed portions of loans and investments described in section 5.55(a)(2), multiplied by 0.0020; and
+In addition to the Corporation's authority to reduce premiums under section 5.55(a)(3) of the Act, upon reaching the secure base amount determined by the Corporation in accordance with section 5.55 of the Act, the annual premium to be paid by each insured bank, computed in accordance with paragraphs (b) and (c) of this section, shall be reduced by a percentage determined by the Corporation so that the aggregate of the premiums payable by all of the Farm Credit banks for the following calendar year is sufficient to ensure that the Insurance Fund balance is maintained at not less than the secure base amount.
+Each insured bank shall pay to the Corporation the amount of the premium due to the Corporation computed in accordance with sections 5.55 and 5.56 of the Act, and &#167;&#8201;1410.3 of this part, and shown on its certified statement, at the time the statement is filed.
+(a) Prepare and maintain accurate and complete records as necessary to prepare certified statements, including, but not limited to, records relating to the loans of each direct lending association and other financing institution that are able to make such loans because they are receiving, or have received, funding from the insured bank.
+
+
+# Tags
+
+['loans', 'shall', 'bank', 'credited', 'years', 'premium required', 'quarter', 'corporation', 'certified', 'payment', 'acting', 'documentation', 'statement', 'means', 'funds', 'insurance', 'days']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                     |

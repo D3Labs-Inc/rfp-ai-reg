@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 1125
 
 
+# Summary
+
+This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Defense (DoD) policies and procedures for nonprocurement debarment and suspension.
+You must follow the policies and procedures specified in applicable sections of the OMB guidance in subparts A through I of 2 CFR part 180, as implemented by this part.
+Although the OMB guidance at 2 CFR 180.220(c) allows a Federal agency to do so (also see optional lower tier coverage in the figure in the appendix to 2 CFR part 180), the Department of Defense does not extend coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction.
+In addition to the four instances identified in the OMB guidance at 2 CFR 180.425, you as a DoD Component official must check to see if a person is excluded or disqualified before you obligate additional funding (e.g., through an incremental funding action) for a pre-existing grant or cooperative agreement with an institution of higher education, as provided in 32 CFR 22.520(e)(5).
+You as a DoD Component official must include a term or condition in each covered transaction into which you enter, to communicate to the participant the requirements to&#8212;
+
+
+# Tags
+
+['dod', 'section', 'official', 'defense', 'nonprocurement debarment', 'omb', 'grants', 'components', 'transaction']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                      |

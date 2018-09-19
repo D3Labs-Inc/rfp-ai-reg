@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 708a
 
 
+# Summary
+
+(a) After the board of directors has complied with &#167;&#8201;708a.3 and approves a conversion proposal, the credit union must provide written notice of its intent to convert to each member who is eligible to vote on the conversion.
+(iv) An acknowledgement that federal law (18 U.S.C. 1001) prohibits any misrepresentations or omissions of material facts, or false, fictitious or fraudulent statements or representations made with respect to the certification or the materials provided to the Regional Director or any other documents or information provided to the members of the credit union or NCUA in connection with the conversion.
+If a credit union's board of directors adopts a proposal to merge, it must, within 30 days of the adoption, provide the Regional Director with a Notice of its Intent to Merge and Request for NCUA Authorization (NIMRA) to conduct a member vote.
+(a) After the board of directors approves a merger proposal and receives NCUA's authorization as described in &#167;&#167;&#8201;708a.303 and 708a.304, the credit union must provide written notice of its intent to merge to each member who is eligible to vote on the merger.
+(h) If it chooses, a credit union may seek a preliminary determination from the Regional Director regarding any of the notices required under this subchapter and its proposed methods and procedures applicable to the membership merger vote.
+
+
+# Tags
+
+['members', 'voting', 'mergers', 'unions', 'include', 'ncua', 'conversion', 'ballot', 'materials', 'requiring', 'banks', 'notice', 'relate', 'directors', 'federal', 'written', 'person credit', 'means', 'act', 'completed', 'institution', 'law', 'financial', 'proposal', 'mailed', 'membership', 'board', 'approve', 'state', 'authorized', 'statements', 'stock', 'information', 'fees', 'insured', 'time', 'region', 'sentences', 'number', 'officer', 'mutual', 'currently', 'account', 'business', 'availability', 'convert', 'conducting', 'request', 'duties', 'provides']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                         |

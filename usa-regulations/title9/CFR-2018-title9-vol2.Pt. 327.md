@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 327
 
 
+# Summary
+
+(a)(1) Whenever it shall be determined by the Administrator that the system of meat inspection maintained by any foreign country, with respect to establishments preparing products in such country for export to the United States, insures compliance of such establishments and their products with requirements equivalent to all the inspection, building construction standards, and all other provisions of the Act and the regulations in this subchapter which are applied to official establishments in the United States, and their products, and that reliance can be placed upon certificates required under this part from authorities of such foreign country, notice of that fact will be given by including the name of such foreign country in paragraph (b) of this section.
+(1) Shall bear a label showing in accordance with &#167;&#8201;317.2 of this subchapter all information required by that section (except that the establishment number assigned by the foreign meat inspection system and certified to the Program and the official inspection mark of the foreign meat inspection system shall be shown instead of the official inspection legend of the United States) and in addition the name of the country of origin preceded by the words &#8220;product of,&#8221; immediately under the name or descriptive designation of the product as required by &#167;&#8201;317.2: Provided, That such establishment number may be omitted from a label lithographed directly on a can if said number is lithographed or embossed elsewhere on the can; and
+
+
+# Tags
+
+['shall', 'production', 'inspections', 'sample', 'importation', 'establish', 'lot', 'officials', 'meat', 'require', 'foreign', 'standards', 'contain', 'food', 'includes', 'applications', 'entry', 'programs', 'country', 'labels', 'procedure', 'fat', 'state', 'information', 'original', 'forms', 'markings', 'administrative', 'agents', 'control', 'iii', 'parts', 'refuse', 'provided', 'times', 'pff', 'united', 'compliance', 'denatured', 'percent', 'following', 'conditions', 'laboratory', 'specified', 'certificate', 'pursuant', 'vessel', 'carcasses', 'present', 'stamping', 'number', 'prior', 'inspector', 'thereof', 'exporter', 'boxes', 'oil', 'frozen', 'boneless', 'determines', 'swine']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

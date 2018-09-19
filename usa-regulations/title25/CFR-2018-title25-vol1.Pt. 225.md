@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 225
 
 
+# Summary
+
+(ii) The letter of credit shall be payable to the Bureau of Indian Affairs on demand, in part or in full, upon receipt from the Secretary of a notice of attachment stating the basis thereof (e.g., default in compliance with the minerals agreement provisions and conditions or failure to file a replacement in accordance with subparagraph (d)(5)(v) of this section).
+(a) If the Secretary determines that an operator has failed to comply with the regulations in this part; other applicable laws or regulations; the terms of the minerals agreement; the requirements of an approved exploration, drilling or mining plan; Secretarial orders; or the orders of the Authorized Officer, the Director's Representative, or the MMS Official, the Secretary may:
+(a) In addition to or in lieu of cancellation under &#167;&#8201;225.36, violations of the terms and conditions of any minerals agreement, the regulations in this part, other applicable laws or regulations, or failure to comply with a notice of noncompliance or a cessation order issued by the Secretary may subject an operator to a penalty of not more than $1,650 per day for each day that such a violation or noncompliance continues beyond the time limits prescribed for corrective action.
+
+
+# Tags
+
+['shall', 'mineral', 'agreement', 'provisions', 'operations', 'indian', 'requirements', 'secretary', 'authorized', 'included', 'bond', 'states', 'regulation', 'approved', 'product', 'director means', 'applicable', 'pursuant', 'resources', 'environmental', 'owners', 'oil', 'action', 'geothermal', 'days', 'information', 'provided', 'statement', 'executive', 'governed', 'penalty', 'gas', 'service', 'mining', 'written', 'reporter', 'land', 'cfr', 'issued', 'act', 'officers', 'nature', 'party', 'areas', 'thereof', 'business', 'payments', 'set', 'amendments', 'audits']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

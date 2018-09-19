@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1401
 
 
+# Summary
+
+(a) Freedom of Information Act and the provisions of this part apply only to existing records that are reasonably described in a request filed with the Federal Mediation and Conciliation Service pursuant to the procedures established in &#167;&#167;&#8201;1401.31-1401.36.
+Requests for inspection or copying of information from records in the custody of the FMCS which are reasonably identifiable and available under the provisions of this part shall be made and acted upon as provided in the following sections of this subpart.
+(i) In providing the foregoing schedules pursuant to the provisions of 5 U.S.C. 552(a)(4)(A), it is the intent of FMCS to apply 29 CFR part 70 and the user charge statute, 31, U.S.C. 9701, to cover those situations in which the Agency is performing for a requester services other than those related to arbitration which are not required under the Freedom of Information Act.
+(iv) All other requesters will be assessed charges to recover the full reasonable direct costs of searching for and reproducing records that are responsive to the request, including costs of computer production programming, searching and production, except that the first 100 pages of reproduction, and the first 2 hours of search time shall be furnished without charge.
+
+
+# Tags
+
+['requests', 'record', 'shall', 'information', 'time', 'fmcs', 'fee', 'included', 'publication', 'reasonably', 'new', 'processed', 'cost', 'procedures', 'schedules', 'matters', 'pursuant', 'services', 'documentation', 'searches', 'charged', 'acted', 'commercial', 'followed', 'available', 'federal', 'disclosure', 'day', 'official', 'payments', 'order', 'general', 'institution', 'director', 'appeal', 'expedited', 'operations', 'persons', 'responsive']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                        |

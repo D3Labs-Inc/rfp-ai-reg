@@ -8,6 +8,20 @@
  CFR-2018-title12-vol8.Pt. 1016
 
 
+# Summary
+
+(iii) An individual who provides nonpublic personal information to you in connection with obtaining or seeking to obtain financial, investment, or economic advisory services is a consumer regardless of whether you establish a continuing advisory relationship.
+If a financial institution other than a credit union does not have a customer relationship with a consumer under the special rule for loans in &#167;&#8201;1016.4(c)(2) of this part, then it need not provide an annual notice to that consumer under this section.
+If you disclose nonpublic personal information under the exception in &#167;&#8201;1016.13 of this part to a nonaffiliated third party to market products or services that you offer alone or jointly with another financial institution, you satisfy the disclosure requirement of paragraph (a)(5) of this section if you:
+(i) A credit union is required to provide an initial opt out notice to a borrower or guarantor on a loan if it shares his or her nonpublic personal information with nonaffiliated third parties other than for purposes under &#167;&#167;&#8201;1016.13, 1016.14, and 1016.15.
+The requirements for initial notice in &#167;&#8201;1016.4(a)(2), for the opt out in &#167;&#167;&#8201;1016.7 and 1016.10, and for service providers and joint marketing in &#167;&#8201;1016.13 do not apply when you disclose nonpublic personal information:
+
+
+# Tags
+
+['service', 'notice', 'consumers', 'informed', 'financial', 'provides', 'insures', 'accountant', 'credit', 'iii', 'person', 'examples', 'acting', 'customers', 'include', 'means', 'transactions', 'privacy', 'institution', 'opting', 'active', 'unions', 'authorizes', 'relationship', 'business', 'form', 'individual', 'requiring', 'payment', 'companies', 'reasonable', 'card', 'describing', 'processing', 'federal', 'joint', 'regulations', 'organize', 'obtaining', 'marketers', 'jointly', 'general', 'uses', 'initiate', 'electronic', 'disclosed', 'lawful', 'loans', 'specific', 'investment', 'transferring', 'checks', 'advisory', 'recorded', 'purposes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                          |

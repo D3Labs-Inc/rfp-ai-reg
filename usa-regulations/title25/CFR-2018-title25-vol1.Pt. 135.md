@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 135
 
 
+# Summary
+
+333-338), contracts were executed June 28, 1951, by the United States with the Lower Little Horn and Lodge Grass Irrigation District and the Upper Little Horn Irrigation District providing for the payment, over a period of 40 years, by each of the Districts of its respective share of the sum of $210,726 expended for the construction of the Willow Creek storage works on account of non-Indian lands within the Districts entitled to share in the storage water, directly or by substitution.
+Within the Lower Little Horn and Lodge Grass Irrigation District there are 3,196.8 acres for which the District is obligated by contract to pay its proper share of the total construction costs.
+The right is reserved to the United States to refuse the delivery of water to each of the said Irrigation Districts in the event of default in the payment of assessments, including penalties on account of delinquencies.
+The amount of each annual installment chargeable against the lands covered by each of the several contracts with individual landowners whose lands are served under private ditches, shall be determined by multiplying the total acreage, under each contract entitled to Willow Creek storage rights, either directly or by substitution, by the per acre annual rate.
+
+
+# Tags
+
+['contracts', 'annually', 'land', 'storage', 'irrigation', 'year', 'district', 'landowners']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                  |

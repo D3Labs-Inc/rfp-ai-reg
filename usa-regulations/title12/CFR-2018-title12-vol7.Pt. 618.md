@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 618
 
 
+# Summary
+
+(3) At least 10 business days prior to implementing a related service program already on the list, the System bank or association must notify the FCA Office of Examination field office responsible for examining that institution in writing and provide it with a description of the proposed related service program.
+The policy shall include clearly stated purposes, objectives, and operating parameters for offering related services and a requirement that each service offered be consistent with the institution's business plan and long-term strategic goals.
+Except as necessary in performing official duties or as authorized by Farm Credit Administration regulations (&#167;&#167;&#8201;618.8300 through 618.8330), no director or employee of a bank, association, or agency thereof shall disclose information of a type not ordinarily contained in published reports or press releases regarding any such banks or associations or their borrowers or members.
+(c) In connection with preparing and submitting an electronic report of all System accounts and exposures to the Farm Credit Administration in accordance with the requirements of &#167;&#8201;621.15 of this chapter, each bank and association may provide information from its lists of borrowers and stockholders to the Reporting Entity as defined in &#167;&#8201;621.2 of this chapter.
+
+
+# Tags
+
+['insurance', 'shall', 'credit', 'includes', 'services', 'provides', 'programs', 'information', 'financial', 'related', 'loaned', 'institutions', 'bank', 'reports', 'borrow', 'associations', 'documents', 'terms', 'requested', 'follows', 'plan', 'authorize', 'reasons', 'act', 'means', 'applications', 'agency', 'state', 'requires', 'offer', 'operation', 'iii', 'lenders', 'office', 'policy', 'eligibility', 'purpose', 'review', 'general', 'analysis', 'persons', 'control', 'based']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                  |

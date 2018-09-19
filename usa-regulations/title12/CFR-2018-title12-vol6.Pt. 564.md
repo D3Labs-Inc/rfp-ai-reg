@@ -8,6 +8,21 @@
  CFR-2018-title12-vol6.Pt. 564
 
 
+# Summary
+
+(1) Title XI provides protection for federal financial and public policy interests in real estate related transactions by requiring real estate appraisals used in connection with federally related transactions to be performed in writing, in accordance with uniform standards, by appraisers whose competency has been demonstrated and whose professional conduct will be subject to effective supervision.
+An appraisal performed by a State certified or licensed appraiser is required for all real estate-related financial transactions except those in which:
+(12) The OTS determines that the services of an appraiser are not necessary in order to protect Federal financial and public policy interests in real estate-related financial transactions or to protect the safety and soundness of the institution.
+For a transaction that does not require the services of a State certified or licensed appraiser under paragraph (a)(1), (a)(5) or (a)(7) of this section, the institution shall obtain an appropriate evaluation of real property collateral that is consistent with safe and sound banking practices.
+All federally related transactions having a transaction value of $250,000 or more, other than those involving appraisals of 1-to-4 family residential properties, shall require an appraisal prepared by a State certified appraiser.
+All complex 1-to-4 family residential property appraisals rendered in connection with federally related transactions shall require a State certified appraiser if the transaction value is $250,000 or more.
+
+
+# Tags
+
+['appraiser', 'shall', 'institutions', 'property', 'transactions', 'include', 'market', 'ots', 'requiring', 'professional', 'means', 'states', 'loans', 'leased', 'examination', 'policies', 'interests', 'rights', 'standard', 'acting', 'develop', 'associated', 'orders', 'mortgaged', 'minimum', 'reports', 'appropriate', 'investment', 'federally', 'financial', 'sales']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                          |

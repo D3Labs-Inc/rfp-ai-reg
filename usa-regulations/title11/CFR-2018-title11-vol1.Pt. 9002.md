@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 9002
 
 
+# Summary
+
+(3) Neither the incurrence nor the payment of such expenditure constitutes a violation of any law of the United States, any law of the State in which such expense is incurred or paid, or any regulation prescribed under such Federal or State law, except that any State law which has been pre-empted by the Federal Election Campaign Act of 1971, as amended, shall not be considered a State law for purposes of this subchapter.
+(3) Expenditures that further the election of other candidates for any public office shall be allocated in accordance with 11 CFR 106.1(a) and will be considered qualified campaign expenses only to the extent that they specifically further the election of the candidate for President or Vice President.
+(4) Expenditures by a candidate's authorized committee(s) pursuant to 11 CFR 9004.6 for the travel and related ground service costs of media shall be qualified campaign expenses.
+Political party means an association, committee, or organization which nominates or selects an individual for election to any Federal office, including the office of President or Vice President of the United States, whose name appears on the general election ballot as the candidate of such association, committee, or organization.
+
+
+# Tags
+
+['expenditures', 'shall', 'committees', 'election', 'candidate', 'means', 'campaigns', 'presidential', 'party', 'services', 'state', 'period']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                |

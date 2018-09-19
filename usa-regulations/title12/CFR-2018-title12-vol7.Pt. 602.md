@@ -8,6 +8,21 @@
  CFR-2018-title12-vol7.Pt. 602
 
 
+# Summary
+
+When we receive a request for confidential business information, the FOIA Officer will promptly tell the requester and the business submitter in writing that the responsive records may be free from disclosure under the FOIA.
+We will give the business submitter a reasonable time to object to the proposed disclosure of the responsive records and tell the requester whenever:
+Direct costs means the costs FCA incurs in searching for and reproducing documents to respond to a FOIA request.
+(a) The rules in this subpart preserve the confidentiality of FCA's documents and information, conserve employees' time for official duties, uphold fairness in litigation, and help the Chairman decide when to allow testimony and to produce documents.
+Your request for an employee's testimony about official matters or the production of documents must be in writing and addressed to the General Counsel, 1501 Farm Credit Drive, McLean, Virginia 22102-5090.
+If you are not an employee and are served with a demand or a subpoena in a legal proceeding directing you to produce or testify about an FCA report of examination, other document created or adopted by FCA, or any related document, you must object and immediately tell the General Counsel of such service, the testimony or documents described in the demand, and all relevant facts.
+
+
+# Tags
+
+['fca', 'requested', 'mean', 'fees', 'documents', 'information', 'time', 'foia', 'public', 'records', 'including', 'responses', 'services', 'employees', 'institutions', 'proceeding', 'farm', 'receive', 'office', 'new', 'searching', 'circumstance', 'educational', 'testimony', 'business', 'bank', 'faith', 'copy', 'order', 'reasonable', 'pay', 'direct costs', 'reproduction', 'court', 'federal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                     |

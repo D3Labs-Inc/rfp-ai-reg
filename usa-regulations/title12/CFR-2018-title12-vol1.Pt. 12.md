@@ -8,6 +8,17 @@
  CFR-2018-title12-vol1.Pt. 12
 
 
+# Summary
+
+(2) Does not mean currency; any note, draft, bill of exchange, or banker's acceptance which has a maturity at the time of issuance not exceeding nine months, exclusive of days of grace, or any renewal thereof, the maturity of which is likewise limited; a deposit or share account in a Federal or State chartered depository institution; a loan participation; a letter of credit or other form of bank indebtedness incurred in the ordinary course of business; units of a collective investment fund; interests in a variable amount note in accordance with 12 CFR 9.18; U.S. Savings Bonds; or any other instrument the OCC determines does not constitute a security for purposes of this part.
+(2) A national bank effecting a securities transaction for a cash management sweep service or other periodic plan as defined in &#167;&#8201;12.2(j)(2) shall give or send its customer a written statement, in the same form as under paragraph (e)(1) of this section, for each month in which a purchase or sale of a security takes place in a deposit account and not less than once every three months if there are no securities transactions in the account, subject to any other applicable laws and regulations.
+
+
+# Tags
+
+['secured', 'bank', 'transaction', 'includes', 'investment', 'orders', 'records', 'timely', 'dealer', 'require', 'accounts', 'yield', 'information', 'customers', 'effective', 'funds', 'meaning', 'purchased', 'shall', 'pursuant', 'provided', 'iii', 'plan', 'notification', 'person', 'servicing', 'trust', 'reports', 'specifically', 'registered', 'written', 'priced', 'following']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                               |

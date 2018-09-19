@@ -8,6 +8,21 @@
  CFR-2018-title29-vol7.Pt. 1922
 
 
+# Summary
+
+Whenever any serious injury results from the employments covered by the Act or whenever it is otherwise appropriate, the Assistant Secretary may appoint a Board of Investigation to hold an investigational hearing during the course of any investigation made under section 41 of the Act. This part prescribes the manner in which any investigational hearings shall be conducted.
+To the extent possible, the Board shall determine the facts, conditions, and circumstances relating to any injury or condition which is the subject of investigation, the probable cause thereof, and shall recommend measures which will provide the best means of preventing future injuries or conditions of similar character.
+The determinations and recommendations shall be made after hearing such witnesses and receiving such documents and other data relating to the subject or subjects of investigation as may be found available as a result of preliminary investigation.
+Upon completion of the investigational hearing, the Board shall file a report of its investigation with the Assistant Secretary.
+The report shall contain the determinations and recommendations required under paragraph (a) of this section.
+Actions of the Board, including the determinations and recommendations required under paragraph (a) of this section, shall require a vote of a majority of its members.
+
+
+# Tags
+
+['shall', 'means', 'injuries', 'investigation', 'report', 'relating', 'safety', 'state']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                     |

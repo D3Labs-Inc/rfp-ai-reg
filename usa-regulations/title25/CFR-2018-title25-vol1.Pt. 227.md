@@ -8,6 +8,17 @@
  CFR-2018-title25-vol1.Pt. 227
 
 
+# Summary
+
+(b) The term &#8220;supervisor&#8221; in this part refers to a representative of the Secretary of the Interior, under direction of the Director of the U.S. Geological Survey, authorized and empowered to supervise and direct operations under oil and gas mining leases, to furnish scientific and technical information and advice, to ascertain and record the amount and value of production, and to determine and record rentals and royalties due and paid.
+(a) The lessee shall pay, beginning with the date of execution of leases by the Secretary of the Interior, a rental of $1.25 per acre per annum in advance during the continuance thereof, together with a royalty of 121/2 percent of the value or amount of all oil, gas, and/or natural gasoline, and/or all other hydrocarbon substances produced and saved from the land leased, save and except oil and/or gas used by the lessee for development and operation purposes on the lease, which oil or gas shall be royalty free.
+
+
+# Tags
+
+['shall', 'lease', 'gas', 'thereof', 'operating', 'land', 'law', 'showing', 'order', 'applications', 'oil', 'productive', 'lessees', 'regulator', 'reasonably', 'said', 'provided', 'interior', 'execute', 'wells', 'indians', 'royalty', 'bidders', 'reserved', 'premises', 'evidence', 'assignments', 'authorized', 'superintendent', 'government', 'division', 'stipulation', 'corporation', 'term', 'produced', 'officers', 'advance']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                               |

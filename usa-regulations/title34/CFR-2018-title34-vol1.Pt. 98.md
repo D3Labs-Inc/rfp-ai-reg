@@ -8,6 +8,21 @@
  CFR-2018-title34-vol1.Pt. 98
 
 
+# Summary
+
+(a) The Secretary has designated an office to provide information about the requirements of section 439 of the Act, and to investigate, process, and review complaints that may be filed concerning alleged violations of the provisions of the section.
+The Secretary may require the recipient to submit reports containing information necessary to resolve complaints under section 439 of the Act and the regulations in this part.
+(c) The Office investigates each complaint which the Office receives that meets the requirements of this section to determine whether the recipient or contractor failed to comply with the provisions of section 439 of the Act.
+(b) Following its investigations, the Office provides to the complainant and recipient or contractor written notice of its findings and the basis for its findings.
+(c) If the Office finds that the recipient or contractor has not complied with section 439 of the Act, the Office includes in its notice under paragraph (b) of this section:
+(b) If, after an investigation under &#167;&#8201;98.9, the Secretary finds that a recipient or contractor has complied voluntarily with section 439 of the Act, the Secretary provides the complainant and the recipient or contractor written notice of the decision and the basis for the decision.
+
+
+# Tags
+
+['educational', 'information', 'office', 'means', 'act', 'includes', 'programs', 'written', 'complaints', 'behavior', 'following', 'family', 'section', 'reasonable', 'state', 'secretary', 'definitions', 'instructional']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                            |

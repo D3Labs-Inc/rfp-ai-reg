@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1250
 
 
+# Summary
+
+The purpose of this part is to set forth the responsibilities of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation (collectively, Enterprises) under the Flood Disaster Protection Act of 1973 (FDPA), as amended (42 U.S.C. 4002 et seq.) and the procedures to be used by the Federal Housing Finance Agency (FHFA) in any proceeding to assess civil money penalties against an Enterprise.
+If an Enterprise is determined by the Director of FHFA, or his or her designee, to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to &#167;&#8201;1250.2, the Director of FHFA, or his or her designee, may assess civil money penalties against such Enterprise in such amount or amounts as deemed to be appropriate under paragraph (c) of this section.
+A civil money penalty under this section may be assessed only after notice and an opportunity for a hearing on the record has been provided to the Enterprise.
+For violations that occur on or after August 1, 2016, the civil money penalty under this section may not exceed $534 for each violation, with total penalties assessed under this section against an Enterprise during any calendar year not to exceed $154,028.
+
+
+# Tags
+
+['flood', 'penalties', 'procedural', 'civil', 'shall', 'home', 'loans']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                  |

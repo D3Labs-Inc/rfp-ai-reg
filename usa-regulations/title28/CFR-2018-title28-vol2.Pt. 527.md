@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 527
 
 
+# Summary
+
+The Bureau of Prisons will consider a request made on behalf of a state or local court that an inmate be transferred to the physical custody of state or local agents pursuant to state writ of habeas corpus ad prosequendum or ad testificandum.
+(e) Institution staff shall maintain contact with the state or local law enforcement agency with responsibility for transfer of the inmate to determine the exact date and time for transfer of custody.
+The Bureau of Prisons institution where a United States citizen or national-inmate is first received from a treaty nation.
+The following is the process by which determinations are made on an inmate's request to be transferred to the country of which the inmate is a citizen or national to serve a sentence imposed in a United States Court.
+If the treaty nation consents to the transfer, the United States will arrange a consent verification hearing for the prisoner as required by 18 U.S.C. 4107, 4108.
+(a) Sending escorts to foreign countries to retrieve American national prisoners who have been approved for transfer to the United States and who have had their consent verified at the consent verification hearing specified in 18 U.S.C. 4108; and
+
+
+# Tags
+
+['transferred', 'shall', 'national', 'state', 'federal inmates', 'prisoners', 'custody', 'local', 'institution', 'cases', 'authorization', 'date', 'bureau', 'programs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                        |

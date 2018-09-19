@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 345
 
 
+# Summary
+
+(b) The SOI or a designee may promote an inmate to a higher grade level if an opening exists when the inmate's skills, abilities, qualifications, and work performance are sufficiently developed to enable the inmate to carry out a more complex FPI factory assignment successfully, when the inmate has met the institution's time-in-grade (unless waived by the SOI), and when the inmate has abided by the inmate worker standards.
+An inmate worker in FPI work status shall receive pay at the standard hourly rate, plus longevity where applicable, for all Federal holidays provided the inmate is in work status on the day before and the day after the holiday occurs.
+If the medical idle lasts longer than 30 days, was not caused by a violation of safety standards, and the unit team approves the inmate's return to FPI, the SOI shall place that inmate within the top ten percent of the FPI waiting list.
+An inmate worker may receive an official written commendation for any suggestion or invention adopted by FPI, or for any special achievement, as determined by the SOI, related to the inmate's industrial work assignment.
+
+
+# Tags
+
+['inmate', 'fpi', 'work', 'pay', 'industries', 'assignments', 'shall receive', 'training', 'institution', 'programs', 'worker', 'timely', 'scholarship', 'provides', 'management', 'status', 'award', 'selection', 'ordinarily hired', 'rate', 'grades', 'united', 'longevity', 'vacations', 'general', 'related', 'factories', 'levels', 'performance', 'safety', 'soi', 'reason', 'requirements', 'jobs', 'locations', 'productive', 'local administration', 'medical', 'transfer', 'individual', 'committee', 'appropriate', 'corrections', 'releasable', 'documented', 'education', 'teams', 'standard', 'prior']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                 |

@@ -8,6 +8,23 @@
  CFR-2018-title14-vol3.Pt. 170
 
 
+# Summary
+
+Airport traffic control tower means a terminal facility, which through the use of air/ground communications, visual signaling, and other devices, provides ATC services to airborne aircraft operating in the vicinity of an airport and to aircraft operating on the airport area.
+Benefit-cost ratio means the quotient of the discounted life cycle benefits of an air traffic control service or navigation aid facility (i.e., ATCT) divided by the discounted life cycle costs.
+Criteria means the standards used by the FAA for the determination of establishment or discontinuance of a service or facility at an airport.
+Instrument operation means an aircraft operation in accordance with an IFT flight plan or an operation where IFR separation between aircraft is provided by a terminal control facility or air route traffic control center (ARTCC).
+Takeoff clearance means authorization by an airport traffic control tower for an aircraft to take off.
+Traffic pattern means the flow of aircraft operating on and in the vicinity of an airport during specified wind conditions as established by appropriate authority.
+VFR traffic means aircraft operated solely in accordance with Visual Flight Rules.
+(5) The airport must meet the benefit-cost ratio criteria specified herein utilizing three consecutive FAA annual counts and projections of future traffic during the expected life of the tower facility.
+
+
+# Tags
+
+['mean', 'airports', 'traffic', 'controllers', 'flights', 'approach', 'cost', 'instrument', 'facilities', 'air', 'aircraft', 'operating', 'services', 'vfr', 'life', 'visual', 'conditions', 'areas', 'land', 'benefit', 'faa', 'criteria', 'authorized', 'established']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                       |

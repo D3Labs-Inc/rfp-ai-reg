@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 204
 
 
+# Summary
+
+These offices are responsible for supervision of operations of stockyard companies, market agencies, dealers, packers and live poultry dealers and handlers to assure compliance with the Act. They formulate recommendations relating to the enforcement of the Act; receive and investigate complaints, including reparation complaints; audit books, records, and reports of persons subject to the Act; conduct investigations to determine the existence of and develop evidence of unfair, deceptive, and discriminatory trade practices; prepare investigative reports and recommend corrective action; assist in the prosecution of cases; review applications for registration and rate changes for accuracy and compliance; and maintain relationships with producers, the trade, States and other groups interested in the welfare of the livestock, meat packing, and poultry industries concerning enforcement of the Act.
+Authority to make determinations regarding initial requests in accordance with 7 CFR 1.4(c) is delegated to the Freedom of Information Act Officer of the Grain Inspection, Packers and Stockyards Administration (Packers and Stockyards Programs).
+
+
+# Tags
+
+['administrative', 'programs', 'request', 'acts', 'shall', 'market', 'office', 'including', 'branch', 'activity', 'directed', 'directors', 'practices', 'operation', 'poultry', 'usc', 'delegated', 'information', 'industries', 'investigative', 'authorized', 'economic', 'trade', 'related', 'functions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                |

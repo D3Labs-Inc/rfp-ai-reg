@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 740
 
 
+# Summary
+
+(a) Each insured credit union must continuously display the official sign described in paragraph (b) of this section at each station or window where insured account funds or deposits are normally received in its principal place of business and in all its branches, 30 days after its first day of operation as an insured credit union.
+Each insured credit union must also display the official sign on its Internet page, if any, where it accepts deposits or open accounts, but it may vary the font sizes from that depicted in paragraph (b) of this section to ensure its legibility.
+A credit union may alter the font size of the official sign to make it legible on its Internet page and on documents it provides to its members including advertisements, but it may not do so on signs to be placed at each station or window where the credit union normally receives insured funds or deposits in its principal place of business and all of its branches.
+(2) A teller in a facility operated by a non-credit union entity may accept account funds for both federally insured credit unions and nonfederally insured credit unions, but only if the teller displays a conspicuous sign next to the official sign stating &#8220;This facility accepts share deposits for multiple credit unions.
+
+
+# Tags
+
+['union', 'advertisements', 'signs', 'accounts', 'federally insured credit', 'shared', 'statement', 'includes', 'branches', 'requirements', 'public', 'supply', 'displays', 'deposit', 'teller', 'letters', 'matter']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                           |

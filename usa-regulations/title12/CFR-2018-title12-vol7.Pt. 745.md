@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 745
 
 
+# Summary
+
+Except as provided in paragraph (e) of this section, the funds owned by an individual and deposited into one or more accounts with respect to which the owner evidences an intention that upon his or her death the funds shall belong to one or more beneficiaries shall be separately insured (from other types of accounts the owner has at the same insured credit union) in an amount equal to the total number of different beneficiaries named in the account(s) multiplied by the SMSIA.
+This is because all funds that an owner holds in both living trust accounts and payable-on-death accounts, at the same NCUA-insured credit union and naming the same beneficiaries, are aggregated for insurance purposes and insured to the applicable coverage limits.)
+(g) For deposit accounts held in connection with a living trust that provides for a life estate interest for designated beneficiaries, NCUA shall value each such life estate interest as the SMSIA for purposes of determining the insurance coverage available to the account owner under paragraph (e) of this section.
+(b) Each official custodian referred to in paragraphs (a)(2), (3), and (4) of this section lawfully investing such funds in share accounts in a federally-insured credit union outside of their respective jurisdictions shall be separately insured up to the SMSIA in the aggregate for all such accounts regardless of whether they are share draft, share certificate or regular share accounts.
+
+
+# Tags
+
+['accounting', 'shall', 'insured', 'trusts', 'funds', 'unions', 'share', 'coverage', 'owners', 'beneficiary', 'state', 'dividend', 'examples', 'times', 'includes', 'negotiation', 'agents', 'members', 'set', 'interests', 'federally', 'terms', 'joint', 'total', 'determines', 'plan', 'means', 'districts', 'pursuant', 'acting', 'revocable', 'owning', 'persons', 'estate', 'servicing', 'provides', 'credit', 'require', 'ownership', 'ncua', 'law', 'judicial', 'custodian', 'aggregate', 'authorize']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

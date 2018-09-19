@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 1
 
 
+# Summary
+
+Class &#8220;A&#8221; licensee (breeder) means a person subject to the licensing requirements under part 2 and meeting the definition of a &#8220;dealer&#8221; (&#167;&#8201;1.1), and whose business involving animals consists only of animals that are bred and raised on the premises in a closed or stable colony and those animals acquired for the sole purpose of maintaining or enhancing the breeding colony.
+Class &#8220;B&#8221; licensee means a person subject to the licensing requirements under part 2 and meeting the definition of a &#8220;dealer&#8221; (&#167;&#8201;1.1), and whose business includes the purchase and/or resale of any animal.
+Dealer means any person who, in commerce, for compensation or profit, delivers for transportation, or transports, except as a carrier, buys, or sells, or negotiates the purchase or sale of: Any dog or other animal whether alive or dead (including unborn animals, organs, limbs, blood, serum, or other parts) for research, teaching, testing, experimentation, exhibition, or for use as a pet; or any dog at the wholesale level for hunting, security, or breeding purposes.
+Standards means the requirements with respect to the humane housing, exhibition, handling, care, treatment, temperature, and transportation of animals by dealers, exhibitors research facilities, carriers, intermediate handlers, and operators of auction sales as set forth in part 3 of this subchapter.
+
+
+# Tags
+
+['means', 'animal', 'includes', 'facilities', 'persons', 'exhibitions', 'acts', 'species', 'housed', 'research', 'dog', 'cat', 'area', 'building', 'pets', 'procedure', 'domesticated', 'physically', 'state', 'water', 'purpose', 'federal', 'carriers', 'excluded', 'veterinary school', 'interactive', 'natural', 'temperature', 'licensed', 'outside', 'program', 'body', 'pub', 'living', 'commerce', 'business', 'painful', 'educational', 'level', 'terms shall', 'year', 'premise', 'administrative', 'hamsters', 'establish', 'organization', 'produced', 'transporting', 'clean', 'public', 'retail', 'study']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 234
 
 
+# Summary
+
+(a) A designated financial market utility must implement rules, procedures, or operations designed to ensure that it meets or exceeds the following risk-management standards with respect to its payment, clearing, and settlement activities.
+(ii) If it operates as a central counterparty, may be directed by the Board to maintain additional prefunded financial resources that are sufficient to cover its credit exposure under a wide range of significantly different stress scenarios that includes the default of the two participants and their affiliates that would potentially cause the largest aggregate credit exposure to the designated financial market utility in extreme but plausible market conditions.
+(B) On at least a monthly basis, and more frequently when the products cleared or markets served experience high volatility or become less liquid, or when the size or concentration of positions held by the central counterparty's participants increases significantly, conducting a comprehensive and thorough analysis of the existing stress scenarios, models, and underlying parameters and assumptions such that the designated financial market utility meets its required level of default protection in light of current and evolving market conditions; and
+
+
+# Tags
+
+['risk', 'liquidity', 'include', 'utilities', 'operating', 'settlements', 'participation', 'manages', 'financial', 'credit', 'changes', 'markets', 'timely', 'iii', 'margin', 'secured', 'procedures', 'service', 'requiring', 'clear', 'banks', 'provides', 'standard', 'potentially', 'stressed', 'means', 'establish', 'rules', 'basis', 'board', 'sufficient', 'plan', 'models', 'defaults', 'arrangements', 'design', 'addition', 'generate', 'systems', 'identified', 'business', 'condition', 'materiality', 'act', 'exchange', 'monitors', 'funding', 'relevant', 'levels', 'sound', 'price', 'clearly', 'accountability']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                     |

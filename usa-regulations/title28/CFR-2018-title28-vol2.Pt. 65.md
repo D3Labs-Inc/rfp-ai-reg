@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 65
 
 
+# Summary
+
+However, such advance agreements shall not authorize State or local law enforcement officers to perform any functions of Service officers or employees under section 103(a)(8) of the INA, 8 U.S.C. 1103(a)(8), until the Attorney General has made the necessary determinations and authorizes such performance.
+(ii) A statement of the types of assistance by State or local law enforcement officers for which the Attorney General shall be responsible for reimbursing the relevant parties in accordance with the procedures set forth in paragraph (b) of this section;
+(vii) A requirement that any State or local law enforcement officer performing Service officer or employee functions pursuant to section 103(a)(8) of the INA, 8 U.S.C. 1103(a)(8), must adhere to the policies and standards set forth during the training, including applicable immigration law enforcement standards and procedures, civil rights law, and sensitivity and cultural awareness issues;
+(4) The Attorney General may abbreviate or waive any of the training required pursuant to a written agreement regarding assistance under &#167;&#8201;65.83(d) of this chapter, including contingency agreements, in the event that the number of State or local law enforcement officers available to respond in an expeditious manner to urgent and quickly developing events during a declared mass influx of aliens is insufficient to protect public safety, public health, or national security.
+
+
+# Tags
+
+['shall', 'assistant', 'including', 'required', 'service', 'state', 'federal law enforcement', 'general', 'applications', 'act', 'funding', 'officers', 'procedures', 'circumstances', 'justice', 'locality', 'agreements', 'provide', 'informal', 'criminal', 'appropriate', 'nationality', 'pursuant', 'authority', 'section', 'islands', 'activities', 'emergencies', 'event', 'set', 'public', 'immigration', 'determination', 'calendar', 'district', 'regulations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                         |

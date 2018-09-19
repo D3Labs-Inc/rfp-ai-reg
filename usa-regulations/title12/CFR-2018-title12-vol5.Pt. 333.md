@@ -8,6 +8,20 @@
  CFR-2018-title12-vol5.Pt. 333
 
 
+# Summary
+
+No State nonmember insured bank (except a District bank) or branch thereof shall hereafter cause or permit any change to be made in the general character or type of business exercised by it after the effective date of this part without the prior written consent of the Corporation.
+This section applies to the conversion of insured mutual state savings banks to the stock form of ownership.
+As determined by the Board of Directors of the FDIC on a case-by-case basis, the requirements of paragraphs (d), (e), and (f) of this section do not apply to mutual-to-stock conversions of insured mutual state savings banks whose capital category under &#167;&#8201;325.103 of this chapter or &#167;&#8201;324.403, as applicable, is &#8220;undercapitalized&#8221;, &#8220;significantly undercapitalized&#8221; or &#8220;critically undercapitalized&#8221;.
+In addition to other requirements that may be imposed by the applicable state statutes and regulations and other federal statutes and regulations, including subpart I of part 303 of this chapter, an insured mutual state savings bank shall not convert to the stock form of ownership unless the following requirements are satisfied:
+In addition, no converted insured mutual state savings bank shall, for one year from the date of the conversion, implement a stock option plan or management or employee stock benefit plan, other than a tax-qualified employee stock ownership plan, unless each of the following requirements is met:
+
+
+# Tags
+
+['stock', 'bank', 'plans', 'state', 'shall', 'savings', 'business', 'retirement', 'prior', 'act', 'insurance', 'requiring', 'conversion', 'including', 'proxy']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                      |

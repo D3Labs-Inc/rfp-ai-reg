@@ -8,6 +8,21 @@
  CFR-2018-title25-vol2.Pt. 518
 
 
+# Summary
+
+A tribe is eligible to petition the Commission for a certificate of self-regulation of Class II gaming if, for a three (3)-year period immediately preceding the date of its petition:
+(1) Within 30 days of receipt of a tribe's petition, the Office of Self-Regulation shall conduct a review of the tribe's petition to determine whether it is complete under &#167;&#8201;518.4.
+(b) Once a tribe's petition is complete, the Office of Self-Regulation shall conduct a review to determine whether the tribe meets the eligibility criteria in &#167;&#8201;518.3 and the approval criteria in &#167;&#8201;518.5.
+(c) Within 120 days of notice of a complete petition under &#167;&#8201;518.4, the Office of Self-Regulation shall provide a recommendation and written report to the full Commission and the petitioning tribe.
+(2) If the Office of Self-Regulation determines that the tribe has not met the criteria for a certificate of self-regulation, it shall recommend to the Commission that it not issue a certificate to the tribe.
+(d) After receiving the Office of Self-Regulation's recommendation and report, and a tribe's response to the report, the Commission shall issue preliminary findings as to whether the eligibility and approval criteria are met.
+
+
+# Tags
+
+['shall', 'tribes', 'regulator', 'gaming', 'tribal regulatory', 'information', 'petitioning', 'required', 'operational', 'hearing', 'commission', 'enforcing', 'activity conducted', 'official', 'adequately', 'include', 'prosecutions', 'iii', 'issued', 'years', 'criteria']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                 |

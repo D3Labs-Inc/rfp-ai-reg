@@ -8,6 +8,23 @@
  CFR-2018-title25-vol1.Pt. 136
 
 
+# Summary
+
+A rehabilitation program was established on the Fort Hall Unit of the Fort Hall Project in 1936.
+Based upon the estimated construction costs, contracts were signed by all non-Indian landowners within the project, including such landowners within the Little Indian Unit, now a part of the Fort Hall Unit.
+Under the terms of their contracts, the landowners agreed to repay to the Government their pro rata share, on an acreage basis, of all expenditures for construction and other necessary improvements for carrying out the approved program, payments not to exceed $7.50 per acre, based upon an estimated expenditure of $450,000.00 for a project then considered as covering approximately 60,000 acres.
+The program of rehabilitation has now been completed at a cost of $419,186.52.
+Repayment of construction costs.
+Under the terms of the contracts, the landowners agreed to repay the construction cost in forty (40) equal annual installments.
+Therefore, the annual per acre installment is hereby fixed at seventeen and one-half cents (171/2 cents) per acre, due and payable on December 1st of each year, the first payment being due on December 1, 1955.
+Under section 4 of the repayment contracts of the landowners and the act of March 10, 1928 (45 Stat.
+
+
+# Tags
+
+['acre', 'indian', 'program', 'hall']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                |

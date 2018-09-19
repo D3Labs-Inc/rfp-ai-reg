@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 190
 
 
+# Summary
+
+(a) The provisions of the constitution or law of any state expressly limiting the rate or amount of interest, discount points, finance charges, or other charges which may be charged, taken, received, or reserved shall not apply to any Federally-related loan:
+(1) The provisions of the constitution or the laws of any state expressly limiting the rate or amount of interest, discount points, finance charges, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, credit sale, or advance which is secured by a first lien on a residential mobile home if a creditor covered by this part complies with the consumer protection regulations of this section.
+All other creditors may enter into agreements with debtors which provide for non-amortized and partially-amortized loans on residential manufactured homes to the extent authorized by applicable Federal or state law or regulation.
+(a) Section 501 provides that &#8220;the provisions of the constitution or laws of any state expressly limiting the rate or amount of interest, discount points, finance charges, or other charges shall not apply to any&#8221; Federally-related loan secured by a first lien on residential real property, a residential manufactured home, or all the stock allocated to a dwelling unit in a residential housing cooperative.
+
+
+# Tags
+
+['shall', 'state', 'charge', 'creditor', 'payment', 'federally residential mortgage loans', 'law', 'means', 'precomputed', 'section', 'provides', 'homes', 'periods', 'regulating', 'housing', 'protection', 'act', 'secured', 'installments', 'dates', 'time', 'designated', 'islands', 'extending', 'prepayment', 'rate', 'credit', 'including']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

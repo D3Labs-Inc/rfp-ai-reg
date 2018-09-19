@@ -8,6 +8,20 @@
  CFR-2018-title14-vol2.Pt. 99
 
 
+# Summary
+
+Each person operating an aircraft in an ADIZ or Defense Area must, in addition to the applicable rules of this part, comply with special security instructions issued by the Administrator in the interest of national security, pursuant to agreement between the FAA and the Department of Defense, or between the FAA and a U.S. Federal security or intelligence agency.
+(a) A person who operates a civil aircraft into an ADIZ must have a functioning two-way radio, and the pilot must maintain a continuous listening watch on the appropriate aeronautical facility's frequency.
+(c) If the pilot operating an aircraft under DVFR in an ADIZ cannot maintain two-way radio communications, the pilot may proceed, in accordance with original DVFR flight plan, or land as soon as practicable.
+(a) No person may operate an aircraft into, within, or from a departure point within an ADIZ, unless the person files, activates, and closes a flight plan with the appropriate aeronautical facility, or is otherwise authorized by air traffic control.
+(b) No pilot may deviate from the filed IFR flight plan when operating an aircraft in uncontrolled airspace unless that pilot notifies an appropriate aeronautical facility before deviating.
+
+
+# Tags
+
+['adiz', 'operating', 'flight', 'aircraft', 'shall report', 'security', 'atc', 'filing', 'transponder', 'pilot', 'altitude', 'effective', 'radio', 'line', 'dvfr', 'defense']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                        |

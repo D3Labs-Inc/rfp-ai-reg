@@ -8,6 +8,21 @@
  CFR-2018-title34-vol1.Pt. 79
 
 
+# Summary
+
+(a) The Secretary publishes in the Federal Register a list of the Department's programs and activities that are subject to these regulations and identifies which of these are subject to the requirements of section 204 of the Demonstration Cities and Metropolitan Development Act.
+(b)(1) The single point of contact is not obligated to transmit comments from state, areawide, regional, or local officials and entities if there is no state process recommendation.
+(d) If a program or activity is not selected for a state process, state, areawide, regional, and local officials and entities may submit comments to the Department.
+In addition, if a state process recommendation for a nonselected program or activity is transmitted to the Department by the single point of contact, the Secretary follows the procedures of &#167;&#8201;79.10.
+(e) The Secretary considers comments which do not constitute a state process recommendation submitted under these regulations and for which the Secretary is not required to apply the procedures of &#167;&#8201;79.10 of this part, if those comments are provided by a single point of contact, or directly to the Department by a commenting party.
+(3) Making efforts to identify and notify the affected state, areawide, regional, and local officials and entities in those states that have not adopted a process under the Order or do not select the Department's program or activity;
+
+
+# Tags
+
+['state', 'federalism', 'secretary', 'plan', 'activity', 'programs', 'commenting', 'official', 'shall', 'intergovernmental', 'means', 'islands', 'acting', 'providing', 'specific', 'local', 'areawide', 'extent', 'assistance']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

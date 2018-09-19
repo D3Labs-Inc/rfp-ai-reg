@@ -8,6 +8,20 @@
  CFR-2018-title12-vol8.Pt. 1013
 
 
+# Summary
+
+(f) Gross capitalized cost means the amount agreed upon by the lessor and the lessee as the value of the leased property and any items that are capitalized or amortized during the lease term, including but not limited to taxes, insurance, service agreements, and any outstanding prior credit or lease balance.
+(n) Residual value means the value of the leased property at the end of the lease term, as estimated or assigned at consummation by the lessor, used in calculating the base periodic payment.
+Such charges include the amount of any liability the lease imposes upon the lessee at the end of the lease term; the potential difference between the residual and realized values referred to in paragraph (k) of this section is excluded.
+A statement that the lessee should refer to the lease documents for additional information on early termination, purchase options and maintenance responsibilities, warranties, late and default charges, insurance, and any security interests, if applicable.
+If the lessee's liability at early termination or at the end of the lease term is based on the realized value of the leased property, a statement that the lessee may obtain, at the lessee's expense, a professional appraisal by an independent third party (agreed to by the lessee and the lessor) of the value that could be realized at sale of the leased property.
+
+
+# Tags
+
+['leased', 'disclosures', 'payment', 'require', 'advertising', 'shall', 'state', 'mean', 'act', 'charged', 'values', 'information', 'consumers', 'terms', 'substantial', 'itemize', 'persons', 'lessors', 'following', 'property', 'statement', 'law', 'period', 'cost', 'amounts', 'numbers', 'provisions', 'section', 'schedule', 'liability', 'occurs', 'credits', 'reasonable', 'additional', 'total', 'prior']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                       |

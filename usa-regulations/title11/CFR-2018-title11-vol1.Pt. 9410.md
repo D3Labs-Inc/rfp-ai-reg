@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 9410
 
 
+# Summary
+
+Each request for the disclosure of a record or a copy of a record it shall be made in person or by written correspondence to the U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005 and to the person identified in the notice describing the systems of records.
+(b) Each individual requesting a correction or amendment shall send or provide in person the written request to the Commission through the person who furnished the record.
+(b) If no additional information is required, within 10 working days from receipt of the request, the Commission shall either make the requested correction or amendment or notify the individual of its refusal to do so, including in the notification the reasons for the refusal and the appeal procedures provided in &#167;&#8201;9410.8.
+(d) The Commission shall inform prior recipients of a record of any amendment or correction or notation of dispute of the individual's record if an accounting of the disclosure was made.
+The Commission shall make this statement available to any person to whom the record is later disclosed, together with a brief statement, if appropriate, of the Commission's reasons for denying the requested correction or amendment.
+
+
+# Tags
+
+['shall', 'commission', 'record', 'individual', 'statements', 'information', 'requesting', 'include', 'maintained', 'certificate', 'decision', 'describing', 'person', 'disclosed', 'commissioner', 'lawfully', 'days', 'penalties', 'cause', 'detailed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                |

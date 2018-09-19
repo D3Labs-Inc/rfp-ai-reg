@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 243
 
 
+# Summary
+
+With respect to the information specified in paragraph (g) of this section, the resolution plan of a foreign-based covered company shall also identify, describe in detail, and map to legal entity the interconnections and interdependencies among the U.S. subsidiaries, branches and agencies, and critical operations and core business lines of the foreign-based covered company and any foreign-based affiliate; and
+Within 90 of receiving such notice, the Board and Corporation may jointly determine that the covered company must submit a resolution plan that meets some or all of the requirements as set forth in paragraph (a)(1) or (2) of this section, as applicable.
+(ii) The covered company shall resubmit an informationally complete resolution plan or such additional information as jointly requested to facilitate review of the resolution plan no later than 30 days after receiving the notice described in paragraph (a)(2)(i) of this section, or such other time period as the Board and Corporation may jointly determine.
+Any requirements or restrictions imposed on a covered company or a subsidiary thereof pursuant to paragraph (a) of this section shall cease to apply to the covered company or subsidiary, respectively, on the date that the Board and the Corporation jointly determine the covered company has submitted a revised resolution plan that adequately remedies the deficiencies jointly identified by the Board and the Corporation under &#167;&#8201;243.5(b).
+
+
+# Tags
+
+['companies', 'shall', 'materials', 'plan', 'inform', 'includes', 'resolution', 'identifies', 'jointly', 'pursuant', 'financial', 'subsidiary', 'meaning', 'acting', 'section', 'risk', 'state', 'management', 'provided', 'requires', 'iii', 'action', 'liabilities', 'corporation', 'date', 'capital', 'entity', 'operations', 'foreign', 'asset', 'extent', 'related', 'funding', 'timely', 'systems', 'lines', 'notices', 'submitted', 'exposure', 'applications', 'associated', 'period', 'based', 'requested']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                           |

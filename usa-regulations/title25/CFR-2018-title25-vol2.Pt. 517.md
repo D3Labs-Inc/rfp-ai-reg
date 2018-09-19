@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 517
 
 
+# Summary
+
+(iii) After the FOIA Officer refers a record to another Federal Government agency, the agency receiving the referral shall make a disclosure determination and respond directly to the requester.
+The FOIA Officer shall charge commercial use requesters the full direct costs of searching for, reviewing, and duplicating requested records.
+(i) If the FOIA Officer determines that unusual circumstances, as defined by the FOIA, apply and provides timely written notice to the requester in accordance with the FOIA, then a failure to comply with the statutory time limit shall be excused for an additional 10 days.
+(ii) If the FOIA Officer determines that unusual circumstances, as defined by the FOIA, apply and more than 5,000 pages are necessary to respond to the request, then the Commission may charge search fees and duplication fees, where applicable, if the following steps are taken.
+Where it is anticipated that the cost of providing the requested record will exceed $25.00 after the free duplication and search time has been calculated, and the requester has not indicated in advance a willingness to pay a fee greater than $25.00, the FOIA Officer shall promptly notify the requester of the amount of the anticipated fee or a portion thereof, which can readily be estimated.
+
+
+# Tags
+
+['requesting', 'shall', 'records', 'including', 'time', 'information', 'fee', 'publication', 'reasonably', 'determined', 'providing', 'agency', 'office', 'appeal', 'foia', 'disclosure', 'commission', 'electronically', 'review', 'processing', 'costs mean', 'requirements', 'federal', 'mail', 'commercial use', 'charged', 'government', 'document', 'contained', 'act', 'new', 'seeks', 'administrative', 'material', 'follows', 'referral', 'education', 'written', 'indian', 'days', 'duplication', 'submitters', 'circumstances', 'exempted', 'searches', 'receive']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                 |

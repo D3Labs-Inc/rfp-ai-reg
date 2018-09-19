@@ -8,6 +8,17 @@
  CFR-2018-title28-vol2.Pt. 75
 
 
+# Summary
+
+If the producer subsequently produces an additional book, magazine, film, videotape, digitally- or computer-manipulated image, digital image, or picture, or other matter (including but not limited to an Internet computer site or service) that contains one or more visual depictions of an actual human being engaged in actual or simulated sexually explicit conduct made by a performer for whom he maintains records as required by this part, the producer may add the additional title or identifying number and the names of the performer to the existing records maintained pursuant to &#167;&#8201;75.2(a)(2).
+If the producer subsequently produces an additional book, magazine, film, videotape, digitally- or computer-manipulated image, digital image, or picture, or other matter (including but not limited to an Internet computer site or service) that contains one or more visual depictions of an actual human being engaged in actual or simulated sexually explicit conduct made by a performer for whom he maintains records as required by this part, the producer shall add the additional title or identifying number and the names of the performer to the existing records, and such records shall thereafter be maintained in accordance with this paragraph.
+
+
+# Tags
+
+['produces', 'shall', 'include', 'information', 'record', 'statement', 'depicting', 'card means', 'entity', 'conducted', 'distribute', 'performing', 'addressed', 'inspections', 'reasonable', 'contained', 'matters', 'timely', 'protocol', 'business', 'requirements', 'copies', 'digitally', 'location', 'communication', 'service', 'identifier', 'certifications', 'periodical', 'evidence', 'faith', 'state', 'image', 'number', 'individual', 'investigative', 'employee']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                      |

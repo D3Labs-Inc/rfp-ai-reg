@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 574
 
 
+# Summary
+
+(1) Except as provided in &#167;&#8201;574.8, an acquiror shall be determined, subject to rebuttal, to have acquired control of a savings association, if the acquiror directly or indirectly, or through one or more subsidiaries or transactions or acting in concert with one or more persons or companies:
+An acquiror attempting to rebut a determination of control that would arise under paragraph (b) of this section shall file a submission with the Office setting forth the facts and circumstances which support the acquiror's contention that no control relationship would exist if the acquiror acquires stock or obtains a control factor with respect to a savings association.
+(2) No later than thirty days from the date of consummation of the acquisition, the holding company shall file with the OTS a certification by legal counsel stating the effective date of the acquisition, the exact number of shares of stock of the savings association acquired by the holding company, and that the acquisition has been consummated in accordance with the provisions of all applicable laws and regulations and the application;
+
+
+# Tags
+
+['shall', 'control', 'associated', 'officers', 'applicants', 'stock form', 'companies', 'provides', 'state', 'means', 'information', 'materially', 'filed', 'personal', 'acquisition', 'addition', 'including', 'acquiror', 'act', 'notice', 'thereof', 'agreement', 'pursuant', 'acquires', 'similar transaction', 'confidentiality', 'voting', 'approve', 'requested', 'iii', 'savings', 'directors', 'business', 'require', 'financial', 'immediately prior', 'follows', 'federal', 'loan', 'issuing', 'specific', 'day', 'regulatory', 'set', 'capitalized', 'bank', 'period', 'adverse', 'ownership', 'rebuttal', 'reason', 'securities', 'deem', 'brother']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                  |

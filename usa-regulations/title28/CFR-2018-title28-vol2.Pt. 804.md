@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 804
 
 
+# Summary
+
+By statute, the Director of the Court Services and Offender Supervision Agency (CSOSA or Agency) is authorized to accept and use gifts in the form of in-kind contributions of space and hospitality to support offender and defendant programs, and of equipment and vocational training services to educate and train offenders and defendants.
+The Director of CSOSA hereby delegates to the Director of PSA the authority to accept and use gifts in the form of in-kind contributions of space and hospitality to support defendant programs, and of equipment and vocational training services to educate and train defendants in accordance with the requirements of this part.
+(1) Any person or organization wishing to donate as a gift in-kind contributions of space or hospitality to support offender programs, or equipment or vocational training services to educate and train offenders may submit the following information in writing to the Agency's Ethics Officer in the Office of the General Counsel:
+(1) Any person or organization wishing to donate as a gift in-kind contributions of space or hospitality to support defendant programs, or equipment or vocational training services to educate and train defendants may submit the following information in writing to the Agency's Ethics Officer in the Office of the General Counsel:
+
+
+# Tags
+
+['gift', 'shall', 'agency', 'services', 'training', 'offender', 'establish']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                  |

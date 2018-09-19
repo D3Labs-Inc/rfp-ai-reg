@@ -8,6 +8,18 @@
  CFR-2018-title14-vol5.Pt. 1261
 
 
+# Summary
+
+(a) The authority pursuant to &#167;&#8201;1261.402 to determine to forgo collection of interest, to accept payment of a claim in installments, or, as to claims which do not exceed $100,000, exclusive of interest and related charges, to compromise a claim or to refrain from doing so, or to refrain from, suspend, or terminate collection action, shall be exercised only after consultation with legal counsel for the particular installation and the following NASA officials or designees, who may also be requested to negotiate the appropriate agreements or arrangements with the debtor:
+NASA may suspend or terminate collection action under this part with respect to claims for money or property arising out of activities of the Agency, prior to the referral of such claims to the Government Accountability Office or to the Department of Justice for litigation.
+The procedures contained in this subpart do not apply to debts or claims arising under the Internal Revenue Code of 1954 as amended (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.), or the tariff laws of the United States; or to any case where collection of a debt by salary offset is explicitly provided for or prohibited by another statute (e.g., travel advances in 5 U.S.C. 5705, employee training expenses in 5 U.S.C. 4108, and debts determined by a court as provided in 5 U.S.C. 5514 note).
+
+
+# Tags
+
+['claim', 'nasa', 'shall', 'collections', 'including', 'agency', 'debts', 'debtors', 'administrative', 'employee', 'reasonably', 'requirements', 'written', 'paying', 'officially', 'payments', 'persons', 'financial', 'action', 'property', 'requests', 'procedures', 'prior', 'appropriate', 'service', 'acting', 'installation', 'authority', 'informal', 'evidence', 'cost', 'provide', 'law', 'followed', 'compromising', 'cfr', 'reports', 'states', 'governed', 'hearing', 'record', 'legally', 'regulation', 'usc', 'statements', 'offset', 'time', 'periods', 'office', 'federal', 'loss', 'judgment', 'determining', 'available', 'notices', 'agreements', 'application', 'establishes', 'proceeding', 'dated', 'current', 'pursuant', 'credit', 'involve', 'concerned', 'general', 'securing', 'party', 'waivers', 'causing', 'attorney', 'meaning', 'demand', 'reviewer', 'enforceable', 'documentation', 'justice', 'value', 'effected', 'litigative', 'amounts', 'relation', 'funds', 'copies', 'counsel', 'referral', 'promptly', 'force', 'data', 'days', 'executive', 'exceptional', 'private', 'arising']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

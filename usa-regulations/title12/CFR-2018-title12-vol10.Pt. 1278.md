@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1278
 
 
+# Summary
+
+Record Date means the date established by a Bank's board of directors for determining the members that are entitled to vote on the ratification of the merger agreement and the number of ballots that may be cast by each in the election.
+(e) The Director has determined that the Constituent Banks have satisfied all conditions imposed in connection with the approval of the merger application, and has accepted the properly executed organization certificate of the Continuing Bank, as provided under &#167;&#8201;1278.7.
+An approval of a merger application may include any conditions the Director determines to be appropriate, and shall in all cases be conditioned on each Constituent Bank demonstrating that it has obtained its members' ratification of the merger agreement in accordance with the requirements of &#167;&#8201;1278.6 by submitting to FHFA:
+If the Director approves the merger application, FHFA shall provide written notice of the approval and any conditions to each Constituent Bank, as well as to each other Bank and the Office of Finance.
+After accepting the organization certificate for the Continuing Bank, the Director shall provide to the Constituent Banks, and to each other Bank and the Office of Finance, prompt written notice of that fact, which shall include the date of acceptance and the Effective Date of the organization certificate.
+
+
+# Tags
+
+['shall', 'bank', 'materials', 'merger', 'dates', 'votes', 'information', 'proposes', 'statement', 'member', 'including', 'fhfa', 'require', 'approval', 'directors', 'written', 'applicable', 'act', 'corporate', 'provision', 'financial', 'executive']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                   |

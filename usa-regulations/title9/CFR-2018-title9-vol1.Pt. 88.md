@@ -8,6 +8,24 @@
  CFR-2018-title9-vol1.Pt. 88
 
 
+# Summary
+
+Any member of the Equidae family being transferred to a slaughter facility, including an assembly point, feedlot, or stockyard.
+(a) The animal cargo space of conveyances used for the commercial transportation of equines for slaughter must:
+(a) Prior to the commercial transportation of equines for slaughter, the owner/shipper must:
+The owner-shipper certificate for each equine must accompany the equine throughout transit to slaughter and must include the following information, which must be typed or legibly completed in ink:
+(b) During commercial transportation of equines for slaughter, the owner/shipper must:
+(d) At any point during the commercial transportation of equines for slaughter, a USDA representative may examine the equines, inspect the conveyance, or review the owner-shipper certificates required by paragraph (a)(3) of this section.
+(e) At any time during the commercial transportation of equines for slaughter, a USDA representative may direct the owner/shipper to take appropriate actions to alleviate the suffering of any equine.
+(b) If the owner/shipper arrives during normal business hours, the owner/shipper must not leave the premises of a slaughtering facility until the equines have been examined by a USDA representative.
+(c) Any owner/shipper transporting equines to slaughtering facilities outside of the United States must present the owner-shipper certificates to USDA representatives at the border.
+
+
+# Tags
+
+['equines', 'facility including', 'physical', 'conveyance', 'usda', 'markets', 'causes', 'completely', 'slaughters', 'number', 'information', 'provides', 'representatives', 'aphis', 'backtag', 'horses', 'transported', 'agriculture', 'veterinary', 'space', 'normal', 'stockyard']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                        |

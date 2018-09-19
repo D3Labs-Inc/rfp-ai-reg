@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1650
 
 
+# Summary
+
+(f) Salary Offset means the collection of a debt under 5 U.S.C. 5514 by deduction(s) at one or more officially established pay intervals from the current pay account of an employee without his or her consent.
+(2) The Commission's intention to collect the debt by means of deduction from the employee's current disposable pay account until the debt and all accumulated interest, penalties, and administrative costs are paid in full;
+An employee who wants a hearing on the existence of the debt, its amount, or on the proposed offset schedule must send a written request to the official designated in the Notice of Debt.
+(2) If the employee fails to submit a timely request for hearing or proposal for a voluntary repayment agreement, deductions will commence in the next bi-weekly salary payment after the expiration of 30 days following the employee's receipt of the Notice of Debt under 1650.105(c).
+(2) Notifying, or making a reasonable attempt to notify, the debtor that the debt is past-due, and unless repaid within 60 days after the date of the notice, will be referred to Treasury for tax refund offset;
+
+
+# Tags
+
+['shall', 'pay', 'employee', 'debts', 'eeoc', 'collected', 'administrative', 'periodic', 'offset', 'deducted', 'hearing', 'written', 'commission', 'agency', 'services', 'evidence', 'timely', 'notice', 'current', 'charges', 'records', 'include', 'procedures', 'federal', 'address', 'means', 'good', 'reasonable', 'debtor', 'refunds', 'subpart', 'established', 'amounts', 'claims']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                            |

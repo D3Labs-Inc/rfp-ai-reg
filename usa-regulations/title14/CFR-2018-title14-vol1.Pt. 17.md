@@ -8,6 +8,19 @@
  CFR-2018-title14-vol1.Pt. 17
 
 
+# Summary
+
+(b) The Director of the ODRA may redelegate to Special Masters and DROs such delegated authority in paragraph (a) of this section as deemed necessary by the Director for efficient resolution of an assigned protest or contract dispute, including the imposition of sanctions for the filing of frivolous pleadings, making false statements, or other disciplinary actions.
+(a) The ODRA process for contract disputes includes an informal resolution period of twenty (20) business days from the date of filing in order for the parties to attempt to informally resolve the contract dispute either through direct negotiation or with the assistance of the ODRA.
+(e) If the contract dispute is not completely resolved during the informal resolution period, the ODRA's Adjudicative Process will commence unless the parties have reached an agreement to attempt a formal ADR effort.
+(b) In cases initiated by a contractor against the FAA, within twenty (20) business days of the commencement of the Adjudicative Process or as scheduled by the ODRA, the Product Team shall prepare and submit to the ODRA, with a copy to the contractor, a chronologically arranged and indexed substantive response, containing a legal and factual position regarding the dispute and all documents relevant to the facts and issues in dispute.
+
+
+# Tags
+
+['shall', 'protester', 'odra', 'adr', 'party', 'disputed', 'contracts', 'faa', 'information', 'filing', 'time', 'ordered', 'issued', 'requests', 'administrator', 'legally', 'resolution', 'including', 'process', 'pursuant', 'procedures', 'appropriate', 'proposed', 'matters', 'written', 'decision', 'provides', 'protective', 'potentially', 'remedies', 'business', 'adjudicative', 'state', 'means', 'neutral', 'reasonably', 'authority', 'persons', 'discovery', 'periods', 'final', 'initiated', 'counsel', 'established', 'motions', 'team', 'designed', 'statements', 'conducted', 'requirements', 'non', 'applicability', 'seeking', 'delivery', 'evidence']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                       |

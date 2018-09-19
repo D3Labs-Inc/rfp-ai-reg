@@ -8,6 +8,19 @@
  CFR-2018-title25-vol2.Pt. 585
 
 
+# Summary
+
+(a) Appeals of notices of violation, proposed civil fine assessments, orders of temporary closure, proposals to remove certificates of self-regulation, and late fee notifications and assessments may only be brought by the tribe or the recipient that is the subject of the action.
+How do I appeal a notice of violation, proposed civil fine assessment, order of temporary closure, the Chair's decision to void or modify a management contract, the Commission's proposal to remove a certificate of self regulation, the Chair's decision to approve or object to a tribal gaming regulatory authority's adoption of alternate standards from those required by the Commission's minimum internal control standards and/or technical standards, and notices of late fees and late fee assessments?
+The notice of appeal must reference the action or decision from which the appeal is taken and shall include a written waiver of the right to an oral hearing before a presiding official and an election to have the matter determined by the Commission solely on the basis of written submissions.
+(g) The Commission shall give each movant and party written notice of the decision on the motion.
+
+
+# Tags
+
+['shall', 'parties', 'brief', 'commission', 'motion', 'gaming', 'standards', 'written', 'proposals', 'orders']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                          |

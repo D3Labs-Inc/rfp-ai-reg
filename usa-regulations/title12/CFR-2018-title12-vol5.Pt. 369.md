@@ -8,6 +8,20 @@
  CFR-2018-title12-vol5.Pt. 369
 
 
+# Summary
+
+(i) For purposes of determining whether a U.S. branch of a foreign bank is a covered interstate branch, the home State of the foreign bank as determined in accordance with 12 U.S.C. 3103(c) and 12 CFR 347.202(j); and
+(ii) For purposes of determining whether a branch of a U.S. bank controlled by a foreign bank is a covered interstate branch, the State in which the total deposits of all banking subsidiaries of such foreign bank are the largest on the later of:
+(h) Statewide loan-to-deposit ratio means, with respect to a bank, the ratio of the bank's loans to its deposits in a state in which the bank has one or more covered interstate branches, as determined by the FDIC.
+Beginning no earlier than one year after a covered interstate branch is acquired or established, the FDIC will consider whether the bank's statewide loan-to-deposit ratio is less than 50 percent of the relevant host State loan-to-deposit ratio.
+The FDIC will review the loan portfolio of the bank and determine whether the bank is reasonably helping to meet the credit needs of the communities in the host state that are served by the bank.
+
+
+# Tags
+
+['bank', 'branching', 'state', 'loans', 'means', 'reasonable', 'act', 'interstate', 'including institutions', 'deposit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                      |

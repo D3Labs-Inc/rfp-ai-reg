@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 296
 
 
+# Summary
+
+An indirect cargo air carrier may act as agent of a shipper, or of a direct air carrier that has authorized such agency, rather than as an air carrier, if it expressly reserves the option to do so when the shipment is accepted.
+Every indirect cargo air carrier shall give notice in writing to the shipper, when any shipment is accepted, of the existence or absence of cargo liability accident insurance, and of the limits on the extent of its liability, if any.
+(a) Indirect cargo air carriers are exempted from the provisions of the Statute only if and so long as they comply with the provisions of this part and its conditions, and to the extent necessary to permit them to organize and arrange their air freight shipments to provide indirect air transportation, except for the following sections:
+However, indirect cargo air carriers are exempt from section 41510(b) to the extent necessary to permit them to solicit, accept, or receive fees from direct air carriers.
+(d) Direct air carriers are exempted from Chapter 415 of the Statute to the extent necessary to permit them to pay, directly or indirectly, fees to indirect cargo air carriers.
+
+
+# Tags
+
+['sections', 'carrier', 'indirect air transportation', 'regulation', 'extent', 'exempted']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                               |

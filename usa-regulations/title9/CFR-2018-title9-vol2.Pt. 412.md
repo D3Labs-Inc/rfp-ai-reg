@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 412
 
 
+# Summary
+
+(f)(1) Temporary approval for the use of a final label that may be deemed deficient in some particular may be granted by the FSIS Labeling and Program Delivery Staff.
+(a)(1) An official establishment, or an establishment certified under a foreign inspection system in accordance with part 327, or part 381, subpart T of this chapter, is authorized to use generically approved labels, as defined in paragraph (b) of this section, and thus is free to use such labels without submitting them to the Food Safety and Inspection Service for approval, provided the label, in accordance with this section, displays all mandatory features in a prominent manner in compliance with part 317 or part 381, and is not otherwise false or misleading in any particular.
+(2) The Food Safety and Inspection Service will select samples of generically approved labels from the records maintained by official establishments and establishments certified under foreign inspection systems, in accordance with part 327 or part 381, subpart T, to determine compliance with label requirements.
+
+
+# Tags
+
+['labeling', 'claims', 'statement', 'approval', 'products', 'allergen', 'sketches', 'foreign inspection', 'staff', 'health', 'regulations', 'applicable', 'generic', 'temporary']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                               |

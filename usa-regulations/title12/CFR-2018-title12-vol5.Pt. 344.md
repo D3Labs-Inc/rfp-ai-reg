@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 344
 
 
+# Summary
+
+(i) This part does not apply to securities transactions effected for an FDIC-supervised institution's customer by a registered broker/dealer if:
+An FDIC-supervised institution effecting a securities transaction for a cash management sweep account shall give or send its customer a written statement, in the same form as required under paragraph (f) of this section, for each month in which a purchase or sale of a security takes place in the account and not less than once every three months if there are no securities transactions in the account.
+(a) An FDIC-supervised institution shall not effect or enter into a contract for the purchase or sale of a security (other than an exempted security as defined in 15 U.S.C. 78c(a)(12), government security, municipal security, commercial paper, bankers' acceptances, or commercial bills) that provides for payment of funds and delivery of securities later than the third business day after the date of the contract unless otherwise expressly agreed to by the parties at the time of the transaction.
+Every FDIC-supervised institution effecting securities transactions for customers shall establish written policies and procedures providing:
+
+
+# Tags
+
+['secured', 'institutions', 'accountants', 'transaction', 'investment', 'provided', 'shall', 'timely', 'order', 'customers', 'notification', 'yield', 'dealer', 'trusts', 'included', 'records', 'information', 'funds', 'written', 'meaning', 'effective', 'sharing stock', 'plan', 'agreement', 'purchased', 'report', 'pursuant', 'credits', 'period', 'prices', 'maintained', 'acting', 'bonds', 'agency', 'insurance', 'alternate', 'servicing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                               |

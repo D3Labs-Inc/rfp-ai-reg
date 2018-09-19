@@ -8,6 +8,17 @@
  CFR-2018-title12-vol6.Pt. 528
 
 
+# Summary
+
+(a) No savings association may discourage, or refuse to allow, receive, or consider, any application, request, or inquiry regarding a loan or other service, or discriminate in imposing conditions upon, or in processing, any such application, request, or inquiry on the basis of the age or location of the dwelling, or on the basis of the race, color, religion, sex, handicap, familial status (having one or more children under the age of 18), marital status, age (provided the person has the capacity to contract), national origin, or other characteristics prohibited from consideration in &#167;&#8201;528.2(c) of this part, of the prospective borrower or other person, who:
+Complaints regarding discrimination in lending by a savings association shall be referred to the Assistant Secretary for Fair Housing and Equal Opportunity, U.S. Department of Housing and Urban Development, Washington, DC 20410 for processing under the Fair Housing Act, and to the Director, Consumer Affairs, Office of Thrift Supervision, Washington, DC 20552 for processing under Office regulations.
+
+
+# Tags
+
+['loans', 'income', 'shall', 'acts', 'applications', 'homes', 'housing regulations', 'lending', 'discrimination', 'prohibit', 'credit', 'factor', 'equal', 'federal', 'opportunity', 'associated', 'discriminatory', 'employment', 'require', 'business practices', 'economic', 'status', 'areas', 'savings', 'policies', 'provide', 'nondiscriminatory', 'language', 'risk', 'property', 'conditions', 'constructing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                             |

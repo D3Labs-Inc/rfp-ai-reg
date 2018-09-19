@@ -8,6 +8,17 @@
  CFR-2018-title34-vol1.Pt. 7
 
 
+# Summary
+
+The determination of the ownership of the domestic right, title, and interest in and to an invention which is or may be patentable, made by a Government employee while under the administrative jurisdiction of the Department, will be made in writing by the Secretary in accordance with the provisions of Executive Order 10096 and Government-wide regulations issued thereunder by the Commissioner of Patents as follows:
+(a) The Government as represented by the Secretary shall obtain the entire domestic right, title and interest in and to all inventions made by any Government employee (1) during working hours, or (2) with a contribution by the Government of facilities, equipment, materials, funds, or information, or of time or services of other Government employees on official duty, or (3) which bear a direct relation to or are made in consequence of the official duties of the inventor.
+
+
+# Tags
+
+['shall', 'government', 'employees', 'foreign', 'pursuant', 'rights', 'work', 'direct', 'issued', 'duties', 'research', 'written']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                           |

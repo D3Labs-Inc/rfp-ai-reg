@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 297
 
 
+# Summary
+
+(a) Foreign indirect air carriers with an effective registration under this part are exempted from the following provisions of the Statute only if and so long as they comply with the provisions of this part and the conditions imposed herein, and to the extent necessary to permit them to arrange their air freight shipments:
+(b) Direct air carriers are exempted from Chapter 415 of the Statute to the extent necessary to permit them to pay, directly or indirectly, fees to foreign air freight forwarders and foreign cooperative shippers associations on consolidated shipments.
+(a) Not later than 60 days before the start of operations as a foreign indirect air carrier, every foreign air freight forwarder and foreign cooperative shippers association shall apply for registration with the Department, unless upon a showing of good cause, the Director, Office of Aviation Analysis, allows application at a later time.
+(c) A waiver of paragraph (a) of this section may be granted by the Department upon a written application by the foreign indirect air carrier not less than 30 days before the shipment to which it relates is transported, if the waiver is in the public interest, and is warranted by special or unusual circumstances.
+
+
+# Tags
+
+['shall', 'shipments', 'carrier', 'foreign air', 'registration', 'transportation', 'department', 'section', 'property', 'included', 'additional', 'applications', 'files', 'persons', 'indirectly', 'operating', 'states']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                            |

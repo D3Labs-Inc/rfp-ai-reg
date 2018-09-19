@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 81
 
 
+# Summary
+
+If the captive deer, elk, or moose was captured from a wild population for interstate movement and release, each animal must have two forms of animal identification, one of which is official animal identification, and the certificate issued in accordance with &#167;&#8201;81.4 that accompanies the animal must state that the source population has been documented to be low risk for CWD, based on a CWD surveillance program in wild cervid populations that is approved by the State Government of the receiving State and by APHIS.
+The farmed or captive deer, elk, or moose must be moved directly to a recognized slaughtering establishment for slaughter, must have two forms of animal identification, one of which is official animal identification, and must be accompanied by a certificate issued in accordance with &#167;&#8201;81.4.
+(1) Certificates issued for animals captured from a wild population for interstate movement and release do not need to state that the animals are from a herd that has achieved Certified status in the CWD Herd Certification Program but must include the statement required in &#167;&#8201;81.3(b); and
+Farmed or captive deer, elk, or moose may be moved through a State or locality whose laws or regulations on the movement of those animals are more restrictive than this part to another State under the following conditions:
+
+
+# Tags
+
+['animal', 'state', 'numbers', 'identification', 'cervid', 'official', 'cwd', 'programs', 'code', 'characters', 'unique', 'aphis', 'following', 'national', 'interstate movement', 'individual', 'disease', 'premises', 'requires', 'approved']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                              |

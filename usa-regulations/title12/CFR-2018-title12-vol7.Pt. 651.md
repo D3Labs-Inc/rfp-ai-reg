@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 651
 
 
+# Summary
+
+Material means conflicting interests of sufficient magnitude or significance that a reasonable person with knowledge of the relevant facts would question the ability of the person having such interest to discharge official duties in an objective and impartial manner in furtherance of the interests and statutory purposes of the Corporation.
+Resolved means an actual or potential material conflict-of-interest that has been altered so that a reasonable person with knowledge of the relevant facts would conclude that the conflicting interest would not adversely affect the person's performance of official duties in an objective and impartial manner and in furtherance of the interests and statutory purposes of the Corporation.
+The Corporation shall establish and administer a conflict-of-interest policy that will provide reasonable assurance that the directors, officers, employees, and agents of the Corporation discharge their official responsibilities in an objective and impartial manner in furtherance of the interests and statutory purposes of the Corporation.
+(b) Require each director, officer, and employee to report in writing, annually, and at such other times as conflicts may arise, sufficient information about financial interests, transactions, relationships, and activities to inform the Corporation of potential conflicts of interest;
+
+
+# Tags
+
+['mean', 'corporation', 'directors', 'person', 'materiality', 'sufficient', 'shall establish', 'companies', 'conflicting interests', 'general', 'business', 'individual', 'reasonable', 'impartiality', 'committees', 'entity', 'joint', 'purposes', 'federal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                         |

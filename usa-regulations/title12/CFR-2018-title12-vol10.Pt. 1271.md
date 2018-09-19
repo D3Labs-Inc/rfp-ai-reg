@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1271
 
 
+# Summary
+
+This subpart governs the procedure by which a Bank will request and receive confidential regulatory information pursuant to section 22 of the Bank Act (12 U.S.C. 1442).
+To provide sufficient funds to pay the non-administrative expenses of the Financing Corporation approved under &#167;&#8201;1271.35, the Financing Corporation shall, with the approval of the board of directors of the FDIC, assess against each insured depository institution an assessment in the same manner as assessments are made by the FDIC under section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817).
+The Financing Corporation at least semiannually shall establish an assessment rate formula, which may include rounding methodology, to determine the rate or rates of the assessment it will assess against insured depository institutions pursuant to section 21(f)(2) of the Bank Act (12 U.S.C. 1441(f)(2)) and paragraph (b)(1) of this section.
+To the extent the amounts collected under paragraph (b) of this section are insufficient to pay the non-administrative expenses of the Financing Corporation approved under &#167;&#8201;1271.35, the Financing Corporation shall have authority to require the FDIC to transfer receivership proceeds to the Financing Corporation in accordance with section 21(f)(3) of the Bank Act (12 U.S.C. 1441(f)(3)).
+
+
+# Tags
+
+['shall', 'banks', 'including', 'mean', 'service', 'accounting', 'information', 'charges', 'authority', 'corporation', 'confidential', 'subpart', 'establishment', 'agency', 'pursuant', 'collection', 'expense', 'institution', 'access', 'item', 'general', 'processing', 'offices', 'fhfa', 'funding', 'obligations', 'customers', 'deposit', 'storage', 'directors']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                            |

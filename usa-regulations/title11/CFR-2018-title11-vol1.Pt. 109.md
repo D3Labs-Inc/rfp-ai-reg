@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 109
 
 
+# Summary
+
+(b) Every person that is not a political committee and that makes independent expenditures aggregating in excess of $250 with respect to a given election in a calendar year shall file a verified statement or report on FEC Form 5 in accordance with 11 CFR 104.4(e) containing the information required by paragraph (e) of this section.
+A discussion is substantial within the meaning of this paragraph if information about the candidate's or political party committee's campaign plans, projects, activities, or needs is conveyed to a person paying for the communication, and that information is material to the creation, production, or distribution of the communication.
+This safe harbor provision does not apply if specific information indicates that, despite the firewall, information about the candidate's or political party committee's campaign plans, projects, activities, or needs that is material to the creation, production, or distribution of the communication was used or conveyed to the person paying for the communication.
+Notwithstanding paragraph (b)(1) of this section, the candidate with whom a party coordinated communication is coordinated does not receive or accept an in-kind contribution, and is not required to report an expenditure that results from conduct described in 11 CFR 109.21(d)(4) or (d)(5), unless the candidate, authorized committee, or an agent of any of the foregoing, engages in conduct described in 11 CFR 109.21(d)(1) through (d)(3).
+
+
+# Tags
+
+['committees', 'communication', 'report', 'candidate', 'elections', 'expenditures', 'shall file', 'parties', 'includes', 'following', 'stated', 'materially', 'information', 'person', 'federal', 'political', 'independence', 'days', 'authority', 'time', 'standard', 'statement', 'mean', 'office', 'campaign', 'disseminated']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                              |

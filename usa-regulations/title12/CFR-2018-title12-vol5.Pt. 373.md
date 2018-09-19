@@ -8,6 +8,17 @@
  CFR-2018-title12-vol5.Pt. 373
 
 
+# Summary
+
+Except as set forth in paragraph (b)(8)(ii) of this section, each third-party purchaser and its affiliates must comply with the hedging and other restrictions in &#167;&#8201;373.12 as if it were the retaining sponsor with respect to the securitization transaction and had acquired the eligible horizontal residual interest pursuant to &#167;&#8201;373.4; provided that, the hedging and other restrictions in &#167;&#8201;373.12 shall not apply on or after the date that each CRE loan (as defined in &#167;&#8201;373.14) that serves as collateral for outstanding ABS interests has been defeased.
+(4) The sponsor provides, or causes to be provided, to potential investors a reasonable period of time prior to the sale of asset-backed securities of the issuing entity, and, upon request, to the Commission, and to its appropriate Federal banking agency, if any, in written form under the caption &#8220;Credit Risk Retention&#8221;, a description of the manner in which the sponsor determined the aggregate risk retention requirement for the securitization transaction after including qualifying commercial loans, qualifying CRE loans, or qualifying automobile loans with 0 percent risk retention.
+
+
+# Tags
+
+['loans', 'means', 'includes', 'assets', 'secures', 'property', 'shall', 'interests', 'transaction', 'requires securitizers', 'pursuant', 'issue', 'credit', 'sponsored', 'payments', 'providing', 'qualify', 'iii', 'collateral', 'purchasers', 'agreements', 'risks', 'entity described', 'debt', 'income', 'application', 'mortgages', 'years', 'principally', 'follows', 'state', 'vehicle', 'originally', 'section', 'basis', 'rate', 'similar', 'abs', 'person', 'funding', 'cash', 'corporate service', 'commercially', 'specifies', 'date', 'values', 'determined', 'materially', 'documentation', 'prior', 'financial', 'periods', 'developer', 'retain', 'controlling', 'monthly', 'federal', 'insured', 'seller', 'account', 'thereof', 'standard', 'family', 'ratios', 'capitalization', 'timely', 'financed', 'clo', 'amounts', 'affiliates', 'utility', 'acting', 'generally', 'losses', 'banking', 'operating', 'hedging', 'base', 'obligation', 'tax']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

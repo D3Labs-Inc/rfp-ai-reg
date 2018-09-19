@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 249
 
 
+# Summary
+
+(3) To provide for determination of restrictions on the manner of exercising nonexclusive fishing privileges under rights secured to Indian tribes by such treaties of the United States necessary for conservation of the fisheries resources;
+Copies of the form of any identification card authorized pursuant to this section and a list of the authorized Bureau of Indian Affairs issuing or countersigning officials shall be furnished to the fisheries management and enforcement agencies of any State in which such fishing rights may be exercised.
+(f) All cards issued by the Commissioner of Indian Affairs pursuant to this part 249 shall be and remain the property of the United States and may be retaken by any Federal, State, or tribal enforcement officer from any unauthorized holder.
+No Indian shall, while exercising off-reservations treaty-secured fishing rights, permit any person 12 years of age or older other than the authorized holder of a currently valid identification card issued pursuant to this part 249 to fish for him, assist him in fishing, or use any gear of fishing location identified as his gear or location pursuant to this part 249.
+
+
+# Tags
+
+['shall', 'fishing rights', 'persons', 'regulation', 'indians', 'states', 'tribally', 'cards', 'issued', 'pursuant', 'identification', 'authorized', 'thereto', 'manner', 'treaty', 'tribe', 'management']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                   |

@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 9008
 
 
+# Summary
+
+The convention committee shall receive all public funds to which the national committee is entitled under 11 CFR 9008.4 and 9008.5 and all private contributions made for the purpose of defraying convention expenses.
+(i) The first quarterly report shall be filed on FEC Form 4 no later than 15 days following the end of the calendar quarter in which the committee either receives payment under 11 CFR 9008.6, or for parties which do not accept public funds, no later than 15 days after the calendar quarter in which the committee receives contributions or makes expenditures to defray convention expenses.
+Except as provided by paragraph (a)(3) of this section, the national committee of a major party may not incur convention expenses with respect to a Presidential nominating convention which, in the aggregate, exceed the amount to which such committee is entitled under 11 CFR 9008.4 and 9008.5.
+(1) A national committee that has received payments from the Fund under 11 CFR part 9008 shall pay the United States Treasury any amounts which the Commission determines to be repayable under this section.
+(1) Each host committee or municipal fund required to register with the Commission pursuant to paragraph (a) of this section shall file a post convention report on FEC Form 4.
+
+
+# Tags
+
+['committee', 'convention', 'shall establish', 'funds', 'include', 'provides', 'parties', 'reporting', 'documenting', 'expense', 'service', 'receivable', 'requirements', 'information', 'expenditures', 'officers', 'dates', 'section', 'pursuant', 'state', 'amounts', 'payment', 'limits', 'materials', 'iii', 'determines', 'timely', 'activity', 'banks', 'statements', 'record', 'follows', 'account', 'commission means', 'uses', 'disbursement', 'costs', 'organization', 'similar', 'file', 'related', 'generate', 'specified', 'repayments', 'elects', 'receipts', 'addition', 'political', 'written', 'federal', 'discounted', 'checks', 'candidates', 'reason', 'businesses']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                               |

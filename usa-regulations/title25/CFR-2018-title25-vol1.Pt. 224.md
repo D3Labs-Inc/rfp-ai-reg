@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 224
 
 
+# Summary
+
+(6) Develops adequate tribal oversight of energy resource development activities under any lease, business agreement or right-of-way under a TERA that any other party conducts to determine whether the activities comply with the TERA and applicable Federal and tribal environmental laws.
+(13) A statement that if the Secretary determines that any provision that violates an express term or requirement of the TERA is material, the Secretary may suspend or rescind the lease, business agreement, or right-of-way, or take any action the Secretary determines to be in the best interest of the tribe, including, with the consent of the parties, revising the nonconforming provisions so that they conform to the intent of the applicable portion of the TERA; and
+(b) Requires that the tribe respond to relevant and substantive comments about the environmental impacts of a proposed tribal action before the tribe approves a lease, business agreement, or right-of-way; and
+(d) Determine what action, if any, the Secretary must take to protect the physical trust asset, which could include temporary suspension of the activity that resulted in non-compliance with the TERA or other applicable Federal laws or rescinding approval of all or part of the TERA.
+
+
+# Tags
+
+['tribes', 'tribal', 'including', 'tera', 'secretary', 'applications', 'information', 'activity', 'means', 'resources', 'act', 'energy', 'environmental', 'appeal', 'director', 'reviews', 'federal', 'written', 'requirements', 'periodic', 'law', 'develops', 'publication', 'financial', 'processing', 'action', 'approved', 'provided', 'propose', 'lease', 'days', 'agreement', 'records', 'relating', 'specific', 'department', 'administration', 'time', 'assets', 'decisions', 'determining', 'departmental', 'governments', 'receive', 'procedures', 'request', 'indian', 'party', 'technical', 'petitioner', 'provisions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                  |

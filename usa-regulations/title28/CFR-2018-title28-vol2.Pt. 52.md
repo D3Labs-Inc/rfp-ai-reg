@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 52
 
 
+# Summary
+
+(a) Sections 636 (b) and (c) of title 28 of the United States Code govern pretrial and case-dispositive civil jurisdiction of magistrate judges, as well as service by magistrate judges as special masters.
+In conformity with this policy, the attorney for the government is encouraged to accede to a referral of an entire civil action for disposition by a magistrate judge, or to consent to designation of a magistrate judge as special master, if the attorney, with the concurrence of his or her supervisor, determines that such a referral or designation is in the interest of the United States.
+(2) In making a determination under paragraph (c)(1) of this section the attorney shall, except in those cases in which delegation authority has been exercised under 28 CFR 0.168, consult with the Assistant Attorney General having supervisory authority over the subject matter.
+(2) The attorney for the government shall consult with the Assistant Attorney General having supervisory authority over the subject matter in determining whether to petition for trial before a district judge in a case involving a violation of 2 U.S.C. 192, 441j(a); 18 U.S.C. 210, 211, 242, 245, 594, 597, 599, 600, 601, 1304, 1504, 1508, 1509, 2234, 2235, 2236; or 42 U.S.C. 3631.
+
+
+# Tags
+
+['shall', 'civil', 'pretrial', 'including', 'government', 'matters', 'criminal', 'factors', 'trial', 'involved']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                         |

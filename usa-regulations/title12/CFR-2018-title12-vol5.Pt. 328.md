@@ -8,6 +8,21 @@
  CFR-2018-title12-vol5.Pt. 328
 
 
+# Summary
+
+Each insured depository institution shall continuously display the official sign at each station or window where insured deposits are usually and normally received in the depository institution's principal place of business and in all its branches.
+The Corporation may require any insured depository institution, upon at least thirty (30) days' written notice, to change the wording of the official sign in a manner deemed necessary for the protection of depositors or others.
+The official advertising statement shall be in substance as follows: &#8220;Member of the Federal Deposit Insurance Corporation.&#8221;
+Except as provided in &#167;&#8201;328.3(d), each insured depository institution shall include the official advertising statement prescribed in &#167;&#8201;328.3(b) in all advertisements that either promote deposit products and services or promote non-specific banking products and services offered by the institution.
+Except as provided in &#167;&#8201;328.3(e)(4), an insured depository institution shall not include the official advertising statement, or any other statement or symbol which implies or suggests the existence of Federal deposit insurance, in any advertisement relating solely to non-deposit products.
+Except as provided in &#167;&#8201;328.3(e)(4), an insured depository institution shall not include the official advertising statement, or any other statement or symbol which implies or suggests the existence of federal deposit insurance, in any advertisement relating solely to hybrid products.
+
+
+# Tags
+
+['advertisements', 'institution', 'insurance', 'product', 'deposit', 'shall', 'statement', 'written', 'non', 'official sign', 'machine', 'displays', 'services', 'corporation', 'thirty']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                  |

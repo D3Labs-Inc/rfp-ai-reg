@@ -8,6 +8,16 @@
  CFR-2018-title12-vol5.Pt. 360
 
 
+# Summary
+
+If at any time after appointment, the FDIC as conservator or receiver is in a monetary default under a securitization due to its failure to pay or apply collections from the financial assets received by it in accordance with the securitization documents, whether as servicer or otherwise, and remains in monetary default for ten (10) business days after actual delivery of a written notice to the FDIC pursuant to paragraph (f) of this section requesting the exercise of contractual rights because of such monetary default, the FDIC hereby consents pursuant to 12 U.S.C. 1821(e)(13)(C) and 12 U.S.C. 1825(b)(2) to the exercise of any contractual rights in accordance with the documents governing such securitization, including but not limited to taking possession of the financial assets and exercising self-help remedies as a secured creditor under the transfer agreements, provided no involvement of the receiver or conservator is required other than such consents, waivers, or execution of transfer documents as may be reasonably requested in the ordinary course of business in order to facilitate the exercise of such contractual rights.
+
+
+# Tags
+
+['including', 'accountable', 'assets', 'providing', 'fdic shall', 'deposit', 'requires', 'service', 'material', 'financial', 'funding', 'planned', 'means', 'inform', 'institution', 'identify', 'cidis', 'receive', 'resolutions', 'reasonably', 'credits', 'rate', 'pursuant', 'agreements', 'data', 'follows', 'operating', 'secures', 'applicable', 'timely', 'holds', 'entity', 'sections', 'document', 'obligation', 'systems', 'transaction', 'periods', 'insured', 'sweeps', 'mortgages', 'federal', 'claims', 'liability', 'day', 'transferring', 'governance', 'filed', 'companies', 'date', 'loans', 'posting', 'payments', 'banking', 'base', 'sponsored', 'foreign', 'balances', 'actions', 'structured', 'reporting', 'determined', 'prior', 'acting', 'securitized', 'generally', 'notwithstanding', 'state', 'values', 'record', 'non', 'losses', 'marketability', 'term', 'distributions', 'set', 'affiliates', 'rules', 'party', 'extent', 'expenses', 'management', 'iii', 'establishes', 'effect', 'contracts', 'liquidated', 'actual', 'arrangements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                        |

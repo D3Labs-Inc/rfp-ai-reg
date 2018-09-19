@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 607
 
 
+# Summary
+
+(b) Each year, the Secretary notifies prospective applicants through a notice in the Federal Register of the average educational and general expenditures per full-time equivalent undergraduate student at comparable institutions that offer similar instruction.
+(5) For a grant under section 316 of the HEA to a tribal college or university, its five-year plan for improving its services to Indian students, increasing the rates at which Indian secondary school students enroll in higher education, and increasing overall postsecondary retention rates for Indian students.
+Under a development grant, except as provided in paragraph (c) of this section, a grantee shall carry out activities that implement its comprehensive development plan and hold promise for strengthening the institution.
+(3) An explanation from each eligible participating institution of why participation in a cooperative arrangement grant rather than performance under an individual grant will better enable it to meet the goals and objectives of its comprehensive development plan at a lower cost.
+(4) The plan clearly and comprehensively describes the methods and resources the institution will use to institutionalize practice and improvements developed under the proposed project, including, in particular, how operational costs for personnel, maintenance, and upgrades of equipment will be paid with institutional resources.
+
+
+# Tags
+
+['institutions', 'students', 'grant', 'programs', 'includes', 'funds', 'educational', 'means', 'develop', 'activities', 'costs', 'secretary', 'academic', 'plan', 'services', 'establish', 'applications', 'school', 'colleges', 'requiring', 'improvements', 'provided', 'federal', 'projects', 'degree', 'indians', 'times', 'shall', 'instruction', 'authority', 'publications', 'based', 'native', 'information', 'income', 'stated', 'manage', 'substantially', 'period', 'objectives', 'follows', 'award', 'administrative', 'years', 'americans', 'determines', 'family', 'personnel', 'library', 'new', 'support', 'statistics', 'enrolled']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1204
 
 
+# Summary
+
+(b) Establish rules that apply to all FHFA and FHFA Office of Inspector General (FHFA-OIG) maintained systems of records retrievable by an individual's name or other personal identifier;
+Record means any item, collection, or grouping of information about an individual that FHFA or FHFA-OIG maintains within a system of records, including, but not limited to, the individual's name, an identifying number, symbol, or other identifying particular assigned to the individual, such as a finger or voice print, or photograph.
+If you are requesting an accounting of disclosures by FHFA or FHFA-OIG of a record to another person, organization, or Federal agency, you must identify each particular record in question.
+(f) What is a Statement of Disagreement?&#8212;(1) A Statement of Disagreement is a concise written statement in which you clearly identify each part of any record that you dispute and explain your reason(s) for disagreeing with either the FHFA or FHFA-OIG Privacy Act Appeals Officer's denial, in whole or in part, of your appeal requesting amendment or correction.
+(g) When required by the Privacy Act, maintain an accounting in the specified form of all disclosures of records by FHFA or FHFA-OIG to persons, organizations, or Federal agencies;
+
+
+# Tags
+
+['fhfa', 'records', 'information', 'acting', 'includes', 'agencies', 'means', 'author', 'request access', 'evaluations', 'federal', 'written', 'determining', 'appeal', 'enforceable', 'person', 'generally', 'relevant', 'officer', 'responsibilities', 'collected', 'individuals', 'privacy', 'follow', 'cause', 'activities', 'investigation', 'law', 'official', 'maintains', 'mail', 'use', 'subject', 'number']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                |

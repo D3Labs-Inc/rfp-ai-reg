@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 613
 
 
+# Summary
+
+An individual or legal entity that furnishes farm-related services to farmers and ranchers that are directly related to their agricultural production is eligible to borrow from a Farm Credit bank or association that operates under titles I or II of the Act.
+(iv) Any cooperative that has received a loan from a bank for cooperatives or an agricultural credit bank shall, without regard to the requirements in paragraph (b)(1) of this section, continue to be eligible for as long as more than 50 percent (or such higher percentage as is established by the bank board) of the voting control of the cooperative is held by farmers, ranchers, producers or harvesters of aquatic products, or other eligible cooperatives.
+A cooperative or a public agency, quasi-public agency, body, or other public or private entity that, under the authority of state or local law, establishes and operates water and waste disposal facilities in a rural area, as that term is defined by paragraph (a)(4) of this section, is eligible to borrow from a bank for cooperatives or an agricultural credit bank.
+
+
+# Tags
+
+['agriculture', 'credit', 'business', 'farming', 'cooperative', 'loans', 'entity', 'rural', 'eligible', 'shall', 'operating', 'related', 'processing', 'bank', 'financing', 'services', 'means', 'capital', 'limits', 'states', 'associations', 'aquatic', 'borrow', 'products including', 'utility', 'restrictions', 'source', 'require', 'controlled', 'producing', 'vote', 'supply', 'agency']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                           |

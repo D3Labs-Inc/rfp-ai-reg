@@ -8,6 +8,23 @@
  CFR-2018-title14-vol3.Pt. 193
 
 
+# Summary
+
+This part describes when and how the FAA protects from disclosure safety and security information that you submit voluntarily to the FAA.
+When the FAA issues an order designating information as protected under this part, the FAA does not disclose the information except as provided in this part.
+(5) Withholding such information from disclosure, under the circumstances provided in this part, will be consistent with the FAA's safety and security responsibilities.
+The FAA may provide information that you have submitted under this part to other agencies with safety or security responsibilities.
+The FAA discloses information that is designated as protected under this part when withholding it would not be consistent with the FAA's safety and security responsibilities, as follows:
+(2) A description of the type of information that you and others, if applicable, may voluntarily provide under the program and a summary of why the FAA finds that the information is safety or security related.
+(3) A summary of why the FAA finds that the disclosure of the information would inhibit you and others, if applicable, from voluntarily providing of that type of information.
+The FAA issues a written order designating information provided under this section as protected under this part.
+
+
+# Tags
+
+['faa', 'security information', 'design', 'acting', 'action', 'docket', 'including', 'safety', 'propose', 'mean', 'protect', 'voluntary', 'general', 'limit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                             |

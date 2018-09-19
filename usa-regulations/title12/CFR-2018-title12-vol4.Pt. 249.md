@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 249
 
 
+# Summary
+
+A Board-regulated institution's adjusted public sector entity security liquid asset amount equals 50 percent of the fair value of all general obligation securities issued by, or guaranteed as to the timely payment of principal and interest by, a public sector entity that would be eligible HQLA and would be held by the Board-regulated institution upon the unwind of any secured funding transaction (other than a collateralized deposit), secured lending transaction, asset exchange, or collateralized derivatives transaction that matures within 30 calendar days of the calculation date where the Board-regulated institution will provide an asset that is eligible HQLA and the counterparty will provide an asset that will be eligible HQLA.
+(4) 40 percent of all brokered deposits at the Board-regulated institution provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which are held in a transactional account with no contractual maturity date, where less than the entire amount is covered by deposit insurance;
+(4) 40 percent of all brokered deposits at the Board-regulated institution provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which are held in a transactional account with no contractual maturity date, where less than the entire amount is covered by deposit insurance;
+
+
+# Tags
+
+['asset', 'including', 'securing', 'means', 'transaction', 'institutions', 'companies', 'liquidity', 'deposit', 'fund', 'provides', 'banking', 'amounts', 'contractually', 'entities', 'market', 'require', 'date', 'derived', 'collateral', 'financial', 'calculates', 'operational', 'development', 'account', 'counterparties', 'iii', 'percent', 'service', 'exchanged', 'legally', 'maturity', 'similar', 'act', 'public', 'investment', 'cash', 'foreign', 'custom', 'risks', 'hqla', 'calendar', 'day', 'credit', 'outflow', 'levels', 'timing', 'reserved', 'written', 'balance', 'agreement governing', 'state', 'law', 'set', 'netting', 'regulatory', 'loan', 'payments', 'disclosures', 'excess', 'generated', 'application', 'contracts', 'trade', 'facilities']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

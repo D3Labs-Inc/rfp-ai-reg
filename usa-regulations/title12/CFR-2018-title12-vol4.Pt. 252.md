@@ -8,6 +8,17 @@
  CFR-2018-title12-vol4.Pt. 252
 
 
+# Summary
+
+(i) A state member bank that is a covered company subsidiary and a savings and loan holding company with average total consolidated assets of $50 billion or more must conduct its stress test by April 5 of each calendar year based on data as of December 31 of the preceding calendar year, unless the time or the as-of date is extended by the Board in writing; and
+The Board may approve, subject to any conditions or commitments the Board may set, a proposal by a covered entity under paragraph (b) of this section if the proposal, as compared to a covered QFC that contains only the limited exemptions in paragraphs of (d), (f), and (h) of &#167;&#8201;252.84 or that is amended as provided under paragraph (a) of this section, would prevent or mitigate risks to the financial stability of the United States that could arise from the failure of a global systemically important BHC, a global systemically important foreign banking organization, or the subsidiaries of either and would protect the safety and soundness of bank holding companies and state member banks to at least the same extent.
+
+
+# Tags
+
+['includes', 'companies', 'liquidate', 'risk', 'means', 'iii', 'require', 'capital', 'asset', 'market', 'financial', 'organized', 'bank', 'credit', 'manage', 'board', 'provider', 'pursuant', 'operating', 'stressed', 'losses', 'state', 'reports', 'acting', 'applicable', 'debt', 'business', 'securing', 'sections', 'entities', 'covered', 'funding plan', 'established', 'netting', 'information', 'relation', 'basis', 'based', 'resolutions', 'tests', 'general', 'timing', 'total', 'follows', 'quarter', 'exposure', 'annual', 'ihc', 'periodically', 'minimum', 'regulatory', 'additional', 'trade', 'standards', 'condition', 'scenarios', 'right', 'setting', 'relevance', 'qfcs', 'value', 'payments', 'cfr', 'corporation', 'agency', 'loan', 'enhancements', 'foreign', 'terms', 'subsidiaries', 'internal', 'committee', 'provision', 'usc', 'regulators', 'counterparty', 'eligible', 'project', 'similar', 'year', 'transferring', 'ratios', 'day', 'subpart', 'associated', 'shall', 'describes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

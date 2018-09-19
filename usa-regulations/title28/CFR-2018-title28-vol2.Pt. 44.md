@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 44
 
 
+# Summary
+
+(3) An officer of the Department of Homeland Security who files a charge with the Special Counsel that alleges that an unfair immigration-related employment practice has occurred or is occurring.
+(d) Complaint means a written submission filed with the Office of the Chief Administrative Hearing Officer (OCAHO) under 28 CFR part 68 by the Special Counsel or by a charging party, other than an officer of the Department of Homeland Security, alleging one or more unfair immigration-related employment practices under 8 U.S.C. 1324b.
+It is an unfair immigration-related employment practice under 8 U.S.C. 1324b(a)(5) for a person or other entity to intimidate, threaten, coerce, or retaliate against any individual for the purpose of interfering with any right or privilege secured under 8 U.S.C. 1324b or because the individual intends to file or has filed a charge or a complaint, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under that section.
+(g) The Special Counsel shall dismiss a charge or inadequate submission that is filed more than 180 days after the alleged occurrence of an unfair immigration-related employment practice, unless the Special Counsel determines that the principles of waiver, estoppel, or equitable tolling apply.
+
+
+# Tags
+
+['shall', 'documentation', 'charge means', 'counsel', 'unfair', 'information', 'practices', 'discriminate', 'employer', 'parties', 'submission', 'government', 'period', 'lawful', 'reasonable', 'processing', 'recruitment', 'investigate', 'employees', 'individual', 'authorized', 'alleged', 'issued']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                       |

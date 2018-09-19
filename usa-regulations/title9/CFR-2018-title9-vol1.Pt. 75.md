@@ -8,6 +8,18 @@
  CFR-2018-title9-vol1.Pt. 75
 
 
+# Summary
+
+(2) The reactor is moved interstate to a diagnostic or research facility after the individual issuing the certificate has consulted with the State animal health official in the State of destination and has determined that the reactor to be moved interstate will be maintained in isolation sufficient to prevent the transmission of equine infectious anemia to other horses, asses, ponies, mules, or zebras, and will remain quarantined under State authority at the diagnostic or research facility until natural death, slaughter, or until disposed of by euthanasia; or
+(3) The reactor is moved interstate to its home farm after the individual issuing the certificate has consulted with the State animal health official in the State of destination and has determined that the reactor to be moved interstate will be maintained in isolation sufficient to prevent the transmission of equine infectious anemia to other horses, asses, ponies, mules, or zebras, and will remain quarantined under State authority on the reactor's home farm until natural death, slaughter, or until disposed of by euthanasia; and
+The appeal must include all of the facts and reasons upon which the person relies to show that the reasons for the proposed withdrawal are incorrect or do not support the withdrawal of the approval of the laboratory or facility to conduct the official test or receive reactors moved interstate.
+
+
+# Tags
+
+['states', 'approval', 'official', 'numbered', 'animal', 'tested', 'individual', 'reactor', 'tattoo', 'inspection', 'shall', 'health', 'notification', 'laboratories', 'breed', 'functions', 'veterinary', 'administrator', 'slaughtering', 'federally', 'receive', 'follows']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                             |

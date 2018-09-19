@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 292
 
 
+# Summary
+
+(b) If the tribe seeks to game on newly acquired lands that require a land-into-trust application or the request concerns whether a specific area of land is a &#8220;reservation,&#8221; the tribe must submit a request for an opinion to the Office of Indian Gaming.
+(c) The Secretary makes a determination that a gaming establishment on newly acquired lands would be in the best interest of the tribe and its members and would not be detrimental to the surrounding community; and
+A tribe must file its application for a Secretarial Determination with the Regional Director of the BIA Regional Office having responsibility over the land where the gaming establishment is to be located.
+(e) Information required by &#167;&#8201;292.17 to assist the Secretary in determining whether the proposed gaming establishment will be in the best interest of the tribe and its members;
+(f) Information required by &#167;&#8201;292.18 to assist the Secretary in determining whether the proposed gaming establishment will not be detrimental to the surrounding community;
+(g) Any other information that may provide a basis for a Secretarial Determination whether the proposed gaming establishment would or would not be detrimental to the surrounding community, including memoranda of understanding and inter-governmental agreements with affected local governments.
+
+
+# Tags
+
+['tribes', 'land', 'game', 'meanings', 'indian', 'federal', 'secretarial', 'include', 'agreement', 'application', 'tribal', 'act', 'government', 'following', 'impacted', 'written', 'required', 'governmental', 'community', 'connections', 'legislative', 'reservation', 'determined', 'actions', 'comment', 'contains', 'statements', 'information', 'treaty', 'agency', 'specific', 'location', 'consults']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                  |

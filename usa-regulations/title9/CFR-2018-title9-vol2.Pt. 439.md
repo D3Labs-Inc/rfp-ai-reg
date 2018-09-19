@@ -8,6 +8,20 @@
  CFR-2018-title9-vol2.Pt. 439
 
 
+# Summary
+
+(c) Accredited Laboratory Program (ALP)&#8212;The FSIS program in which non-Federal laboratories are accredited as eligible to perform analyses on official regulatory samples of raw or processed meat and poultry products, and through which a check sample program for quality assurance is conducted.
+(ii) If the results of the second set of check samples do not meet the criteria for obtaining accreditation, the laboratory may reapply after a 60-day waiting period, commencing from the date of refusal of accreditation by FSIS.
+(1) An accredited laboratory must demonstrate an ability to maintain quality assurance levels that are within acceptable limits for systematic laboratory difference, variability, and individual large deviations in the analysis of interlaboratory check samples for the analyte category for which accreditation was granted.
+(3) Systematic laboratory difference: The standardized difference between the accredited laboratory's result and the comparison mean for each interlaboratory accreditation maintenance check sample is used to determine two CUSUM values, designated as CUSUM-P and CUSUM-N.
+(4) Variability: The absolute value of the standardized difference between the accredited laboratory's result and the comparison mean for each interlaboratory accreditation maintenance check sample is used to determine a CUSUM value, designated as CUSUM-V.
+
+
+# Tags
+
+['accredited', 'laboratories', 'check sample', 'analytical', 'results', 'fsis', 'values', 'standards', 'level', 'difference', 'residues', 'numbered', 'criteria', 'follows', 'reporting', 'cusum', 'requirements', 'recorded', 'maintain', 'determines', 'variability', 'official', 'electronically', 'service', 'provide written', 'compute', 'gratuity', 'specify', 'systematic', 'average', 'quality', 'food', 'center']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                    |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 50
 
 
+# Summary
+
+The level 1 liquid asset amount equals the fair value of all level 1 liquid assets held by the national bank or Federal savings association as of the calculation date that are eligible HQLA, less the amount of the reserve balance requirement under section 204.5 of Regulation D (12 CFR 204.5).
+(1) 100 percent of all brokered deposits at the national bank or Federal savings association provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which mature 30 calendar days or less from the calculation date;
+(4) 40 percent of all brokered deposits at the national bank or Federal savings association provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which are held in a transactional account with no contractual maturity date, where less than the entire amount is covered by deposit insurance;
+(4) 40 percent of all brokered deposits at the national bank or Federal savings association provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which are held in a transactional account with no contractual maturity date, where less than the entire amount is covered by deposit insurance;
+
+
+# Tags
+
+['assets', 'transactional', 'include secured funding', 'means', 'deposit', 'company', 'liquidity', 'associated', 'contractually', 'banks', 'providing', 'entity', 'derived', 'operations', 'account', 'counterparty', 'percent', 'development', 'legally', 'exchanged', 'collateral', 'service', 'financial', 'maturing', 'require', 'investment', 'amounts', 'act', 'cash', 'foreign', 'calculation date', 'custom', 'similar', 'iii', 'risk', 'agreement', 'calendar', 'day', 'written', 'hqla', 'outflows', 'balances', 'law', 'net', 'credit facility', 'levels', 'payment', 'excess', 'loans', 'institution', 'government', 'reserves', 'state', 'contract', 'commitment', 'regulatory', 'purposes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

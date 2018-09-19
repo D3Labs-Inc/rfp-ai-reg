@@ -8,6 +8,23 @@
  CFR-2018-title34-vol3.Pt. 406
 
 
+# Summary
+
+(a) Planning and developing four-year or six-year programs designed to provide a tech-prep education program leading to a two-year associate degree or certificate; and
+(a) The Secretary makes allotments to State boards to provide funding for consortia described in &#167;&#8201;406.30 for tech-prep education projects.
+(2) Consist of the two years or four years of secondary school preceding graduation and two years of higher education, or an apprenticeship training program of at least two years following secondary instruction, with a common core of required proficiency in mathematics, science, communications, and technologies designed to lead to an associate degree or certificate in a specific career field;
+(3) Include the development of tech-prep education program curricula appropriate to the needs of the consortium participants;
+The following regulations apply to the State-Administered Tech-Prep Education Program:
+Articulation agreement means a commitment to a program designed to provide students with a non-duplicative sequence of progressive achievement leading to competencies in a tech-prep education program.
+(a) The requirements for State board approval of funding of a local tech-prep education project, including&#8212;
+(b) A State board may use funds reserved under 34 CFR 403.180(b)(3) to provide support for the State-administered Tech-Prep Education Program.
+
+
+# Tags
+
+['provide', 'program', 'educational', 'institutions', 'states', 'include', 'tech', 'students', 'secretary', 'funding', 'train', 'years', 'apply', 'applications', 'assists', 'schools', 'degree', 'plan', 'boards', 'designed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                        |

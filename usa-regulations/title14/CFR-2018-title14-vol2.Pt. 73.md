@@ -8,6 +8,22 @@
  CFR-2018-title14-vol2.Pt. 73
 
 
+# Summary
+
+(b) The vertical limits of special use airspace are measured by designated altitude floors and ceilings expressed as flight levels or as feet above mean sea level.
+This subpart designates restricted areas and prescribes limitations on the operation of aircraft within them.
+For the purposes of this part, the controlling agency is the FAA facility that may authorize transit through or flight within a restricted area in accordance with a joint-use letter issued under &#167;&#8201;73.15.
+(2) State the activities (including average daily number of operations if appropriate) conducted in the area, and any other pertinent information concerning current and future electronic monitoring devices.
+(4) For restricted areas having a joint-use designation, also state the number of hours daily, the days of the week, and the number of weeks during the year that the restricted area was released to the controlling agency for public use.
+(c) If it is determined that the information submitted under paragraph (b) of this section is not sufficient to evaluate the nature and extent of the use of a restricted area, the FAA may request the using agency to submit supplementary reports.
+This subpart designates prohibited areas and prescribes limitations on the operation of aircraft therein.
+
+
+# Tags
+
+['areas', 'designation', 'shall', 'use', 'activity', 'daily', 'level', 'airspace', 'appropriate', 'limitations', 'period', 'agency', 'information']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                   |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol9.Pt. 1073
 
 
+# Summary
+
+(c) In addition to the procedures set forth in this part, the Bureau shall also follow the procedures set forth in 5 CFR part 550, subpart K, for the collection by offset from indebted government employees, and in 31 CFR part 285 and the Federal Claims Collection Standards (FCCS) (31 CFR chapter IX and parts 900 through 904) for the collection of debts owed to the United States.
+The Director may request that a debt owed to the Bureau be administratively offset against funds due and payable to a debtor by another Federal agency.
+Deductions shall begin within three official pay periods following, as applicable, the initiation of salary offset without a hearing under &#167;&#8201;1073.304, the decision of the hearing official under &#167;&#8201;1073.305, or receipt of the creditor agency's request for offset where the Bureau is not the creditor agency.
+(a) Where the Bureau is the creditor agency, it shall promptly refund any amount deducted under the authority of 5 U.S.C. 5514 when the debt is waived or otherwise found not to be owing to the United States (unless expressly prohibited by statute or regulation), or when an administrative or judicial order directs the Bureau to refund amounts deducted from the employee's current pay.
+
+
+# Tags
+
+['shall', 'agency', 'paying', 'collection', 'debt', 'offsetting', 'means', 'administrative', 'payments', 'written statement', 'hearings', 'periodic', 'bureau procedures', 'salary', 'requests', 'official', 'law', 'federal employees', 'notice', 'financially', 'deducting', 'usc', 'governing', 'debtor', 'director', 'standards', 'records', 'cfr', 'including', 'claimed', 'days', 'authority', 'follow', 'applicability', 'propose']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                        |

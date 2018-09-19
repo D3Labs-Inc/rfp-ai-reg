@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1211
 
 
+# Summary
+
+Waiver means a written statement issued by the Director to a regulated entity or the Office of Finance that waives a provision, restriction, or requirement of an FHFA rule, regulation, policy, or order, or a required submission of information, not otherwise required by law, in connection with a particular transaction or activity.
+The Director reserves the right, in his or her discretion and in connection with a particular transaction or activity, to waive any provision, restriction, or requirement of this chapter (or of any Office of Federal Housing Enterprise Oversight or Federal Housing Finance Board regulation), or any required submission of information, not otherwise required by law, if such Waiver is not inconsistent with the law and does not adversely affect any substantial existing rights, upon a determination that application of the provision, restriction, or requirement would adversely affect achievement of the purposes of the Authorizing Statutes or the Safety and Soundness Act, or upon a requester's showing of good cause.
+The Deputy Directors for Enterprise Regulation and for Federal Home Loan Bank Regulation, or their designees, may, in their discretion, issue to an Enterprise or to a Bank or the Office of Finance, respectively, a Non-Objection Letter stating that FHFA does not object to a proposed transaction or activity for supervisory, regulatory, or policy reasons.
+
+
+# Tags
+
+['requester', 'interpretation', 'regulations', 'shall', 'fhfa', 'finance', 'issue', 'relevant', 'statement', 'non', 'applications', 'matters']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                             |

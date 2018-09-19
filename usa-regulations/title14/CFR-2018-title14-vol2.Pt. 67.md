@@ -8,6 +8,20 @@
  CFR-2018-title14-vol2.Pt. 67
 
 
+# Summary
+
+(b) At the discretion of the Federal Air Surgeon, a Statement of Demonstrated Ability (SODA) may be granted, instead of an Authorization, to a person whose disqualifying condition is static or nonprogressive and who has been found capable of performing airman duties without endangering public safety.
+(d) In granting an Authorization or SODA under this section, the Federal Air Surgeon specifies the class of medical certificate authorized to be issued and may do any or all of the following:
+(4) Condition the continued effect of an Authorization or SODA, and any second- or third-class medical certificate based upon it, on compliance with a statement of functional limitations issued to the person in coordination with the Director of Flight Standards or the Director's designee.
+(f) An Authorization or SODA granted under the provisions of this section to a person who does not meet the applicable provisions of subparts B, C, or D of this part may be withdrawn, at the discretion of the Federal Air Surgeon, at any time if&#8212;
+(d) If the issue of a medical certificate is wholly or partly reversed by the Federal Air Surgeon; the Manager, Aeromedical Certification Division; or a Regional Flight Surgeon, the person holding that certificate shall surrender it, upon request of the FAA.
+
+
+# Tags
+
+['medical standards', 'certificates', 'test', 'authorizing', 'accepted', 'personal', 'examiner', 'shall', 'airman', 'information', 'conditions', 'faa', 'act', 'surgeon', 'disorder', 'issued', 'identification', 'physically', 'applications', 'following', 'function', 'official', 'lenses', 'clinical', 'ears', 'includes', 'substance', 'drugs', 'limitation', 'cardiac', 'eye', 'requested', 'speech', 'driver', 'demonstrated', 'class', 'withdrawal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                              |

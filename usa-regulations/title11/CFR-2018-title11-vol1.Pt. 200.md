@@ -8,6 +8,22 @@
  CFR-2018-title11-vol1.Pt. 200
 
 
+# Summary
+
+This part prescribes the procedures for the submission, consideration, and disposition of petitions filed with the Federal Election Commission.
+It establishes the conditions under which the Commission may identify and respond to petitions for rulemaking, and informs the public of the procedures the agency follows in response to such petitions.
+(a) Any interested person may file with the Commission a written petition for the issuance, amendment, or repeal of a rule implementing any of the following statutes:
+(1) Publish a Notice of Availability in the Federal Register, stating that the petition is available for public inspection in the Commission's Public Records Office and that statements in support of or in opposition to the petition may be filed within a stated period after publication of the notice;
+(e) The Commission will consider all comments filed within the comment period prescribed in the relevant Federal Register notice.
+(b) If the Commission decides not to initiate a rulemaking, it will give notice of this action by publishing a Notice of Disposition in the Federal Register and sending a letter to the petitioner.
+The Commission's decision on the petition for rulemaking may include, but will not be limited to, the following considerations&#8212;
+
+
+# Tags
+
+['agencies', 'rulemaking', 'records', 'commission', 'comment', 'notice', 'petitions', 'included', 'consideration', 'act', 'addressing', 'identified', 'period']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                     |

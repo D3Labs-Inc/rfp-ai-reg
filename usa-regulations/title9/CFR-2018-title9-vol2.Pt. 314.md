@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 314
 
 
+# Summary
+
+(a) Carcasses, parts of carcasses, and other products condemned at official establishments having facilities for tanking shall, except as provided in paragraph (c) of this section or elsewhere in this part, be disposed of by tanking as follows:
+(a) Carcasses, parts of carcasses, and other products condemned at an official establishment which has no facilities for tanking shall, except as provided in paragraph (b) of this section or elsewhere in this part, be destroyed in the presence of an inspector by incineration, or denatured with crude carbolic acid, or cresylic disinfectant, or a formula consisting of one part FD&amp;C No. 3 green coloring, 40 parts water, 40 parts liquid detergent, and 40 parts oil of citronella or any other proprietary material approved by the Administrator in specific cases.
+(b) All carcasses and parts condemned on account of anthrax, as identified in &#167;&#8201;310.9(b) of this subchapter, at official establishments which are not equipped with tanking facilities shall be disposed of by (1) complete incineration, or (2) by thorough denaturing with crude carbolic acid, or cresylic disinfectant, and then disposed of in accordance with the requirements of the particular State or municipal authorities, who shall be notified immediately by the area supervisor.
+
+
+# Tags
+
+['condition', 'shall', 'material', 'inedible', 'tanks', 'condemned products', 'parts', 'animals', 'denaturing', 'specimens', 'fats', 'contain', 'permission', 'facilities', 'rendered', 'inspection', 'oil', 'supervisor', 'carcass']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                     |

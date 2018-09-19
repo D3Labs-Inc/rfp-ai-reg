@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 291
 
 
+# Summary
+
+(a) The Indian tribe submitted a written request to the State to enter into negotiations to establish a Tribal-State compact governing the conduct of Class III gaming activities;
+(c) The Secretary will also invite the State's Governor and Attorney General to submit an alternative proposal to the Indian tribe's proposed Class III gaming procedures.
+What must the Secretary do at the end of the 60-day comment period if the State offers an alternative proposal for Class III gaming procedures?
+(a) The mediator must ask the Indian tribe and the State to submit their last best proposal for Class III gaming procedures.
+(a) Notify the Indian tribe, the Governor and the Attorney General in writing of his/her decision to approve the proposal for Class III gaming procedures selected by the mediator; or
+(c) If the Secretary rejects the mediator's proposal under paragraph (b) of this section, he/she must prescribe appropriate procedures within 60 days under which Class III gaming may take place that comport with the mediator's selected proposal as much as possible, the provisions of IGRA, and the relevant provisions of the laws of the State.
+
+
+# Tags
+
+['game', 'procedures', 'proposals', 'tribal', 'required', 'includes', 'tribe', 'state', 'compact', 'class', 'information', 'indian', 'provisions', 'amend', 'approved', 'accountants', 'requesting', 'resolve', 'process', 'federal', 'following', 'laws']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                     |

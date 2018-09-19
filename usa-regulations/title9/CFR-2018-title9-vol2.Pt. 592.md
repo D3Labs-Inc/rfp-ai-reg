@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 592
 
 
+# Summary
+
+(a) Official certificate means any form of certification, either written or printed, used under this part to certify with respect to the sampling, inspection, class, quality, quantity, or condition of products (including the compliance of products with applicable specifications).
+(4) To deface or remove, or cause to be defaced or removed under their personal supervision, any official identification from any package containing products whenever the program employee determines that such products were not processed in accordance with the regulations in this part or are not fit for human food;
+Inspection program personnel shall authorize the use of official identification on any inspected product when they have evidence that such official identification or packaging material bearing such official identification has been approved in accordance with the provisions of &#167;&#8201;592.300.
+An appeal inspection may be requested by any interested party who is dissatisfied with the determination by an inspection program employee of the class, quality, quantity, or condition of any product, as evidenced by the USDA inspection mark and accompanying label, or as stated on a certificate and a review may be requested by the operator of an official plant with respect to an inspection program personnel decision or on any other matter related to inspection in the official plant.
+
+
+# Tags
+
+['inspections', 'shall', 'production', 'meanings', 'applicant', 'costs', 'operation', 'certification', 'services', 'persons', 'sample', 'rate', 'plant', 'officially', 'approved', 'identification pursuant', 'processing', 'labels', 'holiday', 'authorize', 'office', 'acts', 'including', 'plus', 'contain', 'state', 'design', 'condition', 'public', 'hours', 'appealed', 'require', 'thereof', 'terms', 'day', 'employee', 'program personnel', 'procedure', 'agency', 'administrative', 'equipment', 'issuing', 'specified', 'eggs', 'set', 'mark', 'debt', 'fsis']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                      |

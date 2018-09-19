@@ -8,6 +8,18 @@
  CFR-2018-title34-vol1.Pt. 99
 
 
+# Summary
+
+(d) In its public notice to parents and eligible students in attendance at the agency or institution that is described in paragraph (a) of this section, an educational agency or institution may specify that disclosure of directory information will be limited to specific parties, for specific purposes, or both.
+(b) The officials and authorities to whom the records are disclosed shall certify in writing to the educational agency or institution that the information will not be disclosed to any other party, except as provided under State law, without the prior written consent of the parent of the student.
+The Office also investigates a timely complaint filed by a parent or eligible student, or conducts its own investigation when no complaint has been filed or a complaint has been withdrawn, to determine whether a third party outside of the educational agency or institution has failed to comply with the provisions of &#167;&#8201;99.31(a)(6)(iii)(B) or has improperly redisclosed personally identifiable information from education records in violation of &#167;&#8201;99.33.
+
+
+# Tags
+
+['education', 'students', 'institutions', 'including', 'recorded', 'programs', 'mean', 'reasonably', 'electronic information', 'personal', 'acting', 'requirements', 'shall', 'state', 'disclosed', 'specifically', 'officers', 'party', 'concerning', 'enforcement', 'disclosure', 'provided', 'authority', 'receive', 'accessing', 'agency', 'law', 'written', 'disciplinary', 'security', 'secretary', 'time', 'identify', 'requests', 'iii', 'issued', 'level', 'violations', 'federal', 'allegation', 'purposes', 'parent', 'non', 'actions', 'use', 'officially', 'investigation', 'relates', 'individual']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                         |

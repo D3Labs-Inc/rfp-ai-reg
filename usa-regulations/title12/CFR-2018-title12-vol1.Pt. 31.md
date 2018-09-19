@@ -8,6 +8,23 @@
  CFR-2018-title12-vol1.Pt. 31
 
 
+# Summary
+
+National banks, Federal savings associations, and their insiders shall comply with the provisions contained in 12 CFR part 215 (Regulation O).
+The Comptroller of the Currency administers and enforces insider lending standards and reporting requirements as they apply to national banks, Federal savings associations, and their insiders.
+National banks and Federal savings associations shall comply with the provisions contained in 12 CFR part 223 (Regulation W).
+The Comptroller of the Currency administers and enforces affiliate transactions requirements as they apply to national banks and Federal savings associations.
+The OCC may, by order, exempt transactions or relationships of a national bank or Federal savings association from the requirements of section 23A and section 11 of the Home Owners' Loan Act (HOLA), as applicable, and 12 CFR part 223 if:
+(1) The OCC, jointly with the Federal Reserve Board, finds the exemption to be in the public interest and consistent with the purposes of section 23A or section 11 of the HOLA, as applicable; and
+(1) Describe in detail the transaction or relationship for which the national bank or Federal savings association seeks exemption;
+(3) Explain how the exemption would be in the public interest and consistent with the purposes of section 23A or section 11 of the HOLA, as applicable; and
+
+
+# Tags
+
+['exemption', 'insiders', 'federal', 'finding', 'lending']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                       |

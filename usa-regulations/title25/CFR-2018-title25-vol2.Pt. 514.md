@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 514
 
 
+# Summary
+
+(b) Each gaming operation shall calculate the amount of fees to be paid, if any, and remit them with the quarterly statement required in &#167;&#8201;514.6 within three (3) months, six (6) months, nine (9) months, and twelve (12) months of the end of the gaming operation's fiscal year.
+(a) Each gaming operation shall file with the Commission quarterly statements showing its assessable gross revenues for the assessed fiscal year.
+The Commission may request that the gaming operation, using the most recent rates of fees adopted by the Commission, prepare and submit to the Commission fees and statements for the period from the end of the most recent quarter for which fees have been paid to the date operations ceased.
+(c) When practicable, within thirty (30) days of issuing the notice described in paragraph (a) of this section to a recipient, the Chair of the Commission may assess a proposed late fee against a recipient for each failure to file a timely quarterly statement and/or fee payment:
+Statements and/or fee payments over ninety (90) calendar days late constitute a failure to pay the annual fee, as set forth in IGRA, 25 U.S.C. 2717(a)(4), and Commission regulations, 25 CFR 573.4(a)(2).
+
+
+# Tags
+
+['shall', 'fee', 'operating', 'commission including', 'statement', 'game', 'quarterly', 'late', 'tribe', 'regulation', 'amounts', 'cost', 'assess', 'submit', 'fiscal', 'remain']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                     |

@@ -8,6 +8,25 @@
  CFR-2018-title14-vol4.Pt. 400
 
 
+# Summary
+
+The basis for the regulations in this chapter is the Commercial Space Launch Act of 1984, and applicable treaties and international agreements to which the United States is party.
+The regulations in this chapter set forth the procedures and requirements applicable to the authorization and supervision under 51 U.S.C. subtitle V, chapter 509, of commercial space transportation activities conducted in the United States or by a U.S. citizen.
+(b) The launch of an amateur rocket as defined in &#167;&#8201;1.1 of chapter I of this title; or
+(c) A launch of a tethered launch vehicle that meets all the following criteria:
+The launch vehicle must&#8212;
+The launch vehicle must&#8212;
+(iii) Not use any of the toxic propellants of Table I417-2 and Table I417-3 in Appendix I of part 417 of this chapter; and
+(iii) Constrain the launch vehicle within 75 feet above ground level as measured from the ground to the attachment point of the vehicle to the tether.
+(v) Be insulated or located such that it will not experience thermal damage due to the launch vehicle's exhaust.
+The launch operator must separate its launch from the public and the property of the public by a distance no less than that provided for each quantity of propellant listed in Table A of this section.
+
+
+# Tags
+
+['launch', 'activities', 'space', 'rocket', 'stress', 'propellant']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                    |

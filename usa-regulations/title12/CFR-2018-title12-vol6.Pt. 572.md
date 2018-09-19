@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 572
 
 
+# Summary
+
+A savings association shall use the standard flood hazard determination form developed by the Director of FEMA when determining whether the building or mobile home offered as collateral security for a loan is or will be located in a special flood hazard area in which flood insurance is available under the Act. The standard flood hazard determination form may be used in a printed, computerized, or electronic manner.
+Notwithstanding any Federal or State law other than the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001-4129), any savings association, or a servicer acting on behalf of the savings association, may charge a reasonable fee for determining whether the building or mobile home securing the loan is located or will be located in a special flood hazard area.
+When a savings association makes, increases, extends, or renews a loan secured by a building or a mobile home located or to be located in a special flood hazard area, the savings association shall mail or deliver a written notice to the borrower and to the servicer in all cases whether or not flood insurance is available under the Act for the collateral securing the loan.
+
+
+# Tags
+
+['insurance', 'requires', 'means', 'shall', 'loans', 'homes', 'flood', 'notices', 'association', 'servicing', 'fee', 'acting', 'borrower', 'areas', 'permanent', 'principally', 'hazard', 'provides', 'form']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                         |

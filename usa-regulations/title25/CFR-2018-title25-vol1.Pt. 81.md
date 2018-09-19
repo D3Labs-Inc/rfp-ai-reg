@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 81
 
 
+# Summary
+
+Polling site ballot means the ballot the Secretarial Election Board provides to a registered voter, allowing him or her to vote when polling sites are required by the amendment and adoption article of the tribe's governing document.
+A tribe that plans to adopt or amend a governing document or a spokesperson for a petitioner may, but is not required to, submit the proposed document with a request for informal review to the Local Bureau Official.
+(1) Bureau personnel will help the tribal government or petitioner spokesperson in drafting governing documents, bylaws, charters, amendments and revocations, explain the Secretarial election process, and provide guidance on methods for voter education, such as informational meetings.
+If polling sites are required by the tribe's governing document's amendment or adoption articles, the Secretarial Election Board will establish procedures for how polling site ballots will be presented and collected, including, but not limited to, paper ballots, voting machines, or other methods supporting a secret ballot.
+The ballots will be counted under the supervision of the Secretarial Election Board, after the deadline established for receiving all ballots or closing of the polls, if polling sites are required by the tribe's governing document's amendment or adoption articles.
+
+
+# Tags
+
+['ballot means', 'document', 'election', 'tribal', 'federal', 'voting', 'follows', 'tribes', 'voters', 'petitions', 'requirements', 'government', 'board', 'bureau', 'official', 'amend', 'adopting', 'information', 'number', 'secretary', 'date', 'requests', 'challenge', 'included', 'provide', 'determined', 'member', 'authorized', 'established', 'addressed', 'spokesperson', 'cast', 'act', 'list', 'signature']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                     |

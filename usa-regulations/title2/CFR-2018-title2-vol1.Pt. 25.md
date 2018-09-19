@@ -8,6 +8,19 @@
  CFR-2018-title2-vol1.Pt. 25
 
 
+# Summary
+
+This part applies to an agency's grants, cooperative agreements, loans, and other types of Federal financial assistance included in the definition of &#8220;award&#8221; in &#167;&#8201;25.305.
+(ii) For a foreign entity applying for or receiving an award or subaward for a project or program performed outside the United States valued at less than $25,000, if the agency deems it to be impractical for the entity to comply with the requirement(s).
+(a) An agency may not make an award to an entity until the entity has complied with the requirements described in &#167;&#8201;25.200 to provide a valid unique entity identifier and maintain an active SAM registration with current information (other than any requirement that is not applicable because the entity is exempted under &#167;&#8201;25.110).
+Indian Tribe (or &#8220;Federally recognized Indian Tribe&#8221;) means any Indian Tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act (43 U.S.C. 1601, et seq.)) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+
+# Tags
+
+['agency', 'federal', 'entity identifier', 'organizations', 'awards', 'information', 'states', 'act', 'announcement', 'educational', 'means', 'sam', 'agreement', 'corporation', 'use', 'application', 'require', 'cooperative', 'public', 'funding']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                               |

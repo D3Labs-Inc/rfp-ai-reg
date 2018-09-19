@@ -8,6 +8,20 @@
  CFR-2018-title12-vol1.Pt. 23
 
 
+# Summary
+
+During the holding period allowed by paragraph (c) of this section, a national bank may enter into a short-term bridge or interim lease pending the liquidation of off-lease property or the re-lease of the property under a conforming lease.
+Pursuant to 12 U.S.C. 24(Tenth) a national bank may invest in tangible personal property, including vehicles, manufactured homes, machinery, equipment, or furniture, for the purpose of, or in connection with leasing that property, if the aggregate book value of the property does not exceed 10 percent of the bank's consolidated assets and the related lease is a conforming lease.
+For the purpose of measuring compliance with the 10 percent limit prescribed by this section, a national bank records the investment in a lease entered into pursuant to this subpart net of any nonrecourse debt the bank has incurred to finance the acquisition of the leased asset.
+For purposes of applying the lending limits and the restrictions on transactions with affiliates described in &#167;&#8201;23.6, however, a national bank that enters into a new extension of credit to a customer, including a lease, on or after July 22, 1991, shall include all outstanding leases regardless of the date on which they were made.
+A national bank's estimate of the residual value of the property that the bank relies upon to satisfy the requirements of a full-payout lease, for purposes of this subpart:
+
+
+# Tags
+
+['leased', 'bank', 'personal property', 'value', 'terms', 'agreement', 'included', 'capital', 'estimate', 'services', 'limits', 'requiring', 'reasonable', 'shall', 'affiliates', 'transaction', 'means', 'incidental']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                          |

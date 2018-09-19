@@ -8,6 +8,22 @@
  CFR-2018-title34-vol1.Pt. 8
 
 
+# Summary
+
+Demand includes a subpoena, subpoena duces tecum, request, order, or other notice for testimony or records arising in a legal proceeding.
+Testimony means statements made in connection with a legal proceeding, including but not limited to statements in court or other forums, depositions, declarations, affidavits, or responses to interrogatories.
+(a) A demand for testimony of an employee or a demand for records issued pursuant to the rules governing the legal proceeding in which the demand arises&#8212;
+(d) If a response to a demand for testimony is required before the Secretary determines whether to allow an employee to testify, the employee or counsel for the employee shall&#8212;
+(a)(1) After an employee receives a demand for records issued pursuant to the rules governing the legal proceeding in which the demand arises, the employee shall immediately notify the Secretary and request instructions.
+(b) An employee may not produce records in response to a demand as described in paragraph (a)(1) of this section without the prior written authorization of the Secretary.
+(d) If a response to a demand for records as described in paragraph (a)(1) of this section is required before the Secretary determines whether to allow an employee to produce those records, the employee or counsel for the employee shall&#8212;
+
+
+# Tags
+
+['records', 'inform', 'demand', 'governing', 'proceeding', 'means', 'employee', 'authority', 'including', 'department', 'requested']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                              |

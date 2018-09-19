@@ -8,6 +8,19 @@
  CFR-2018-title14-vol1.Pt. 15
 
 
+# Summary
+
+(a) These regulations apply to claims asserted under the Federal Tort Claims Act, as amended, for money damages against the United States for injury to, or loss of property, or for personal injury or death, caused by the negligent or wrongful act or omission of an employee of the FAA acting within the scope of office or employment.
+In support of a claim for injury to or loss of property, real or personal, the claimant may be required to submit the following evidence or information:
+(a) The publisher must notify the Chief Counsel of the FAA, within the time limits prescribed in paragraph (b) or (c) of this section, of the publisher's first receipt of a demand for payment, or service of a complaint in any proceeding, federal or state, in which it appears that indemnification under this part may be required.
+(2) Reasonable costs and fees, including reasonable attorney fees at a rate not to exceed that permitted under the Equal Access to Justice Act (5 U.S.C. 504), and any postjudgment interest, if the publisher conducts a good faith defense, or pursues a good faith appeal, at the request, or with the concurrence, of the FAA.
+
+
+# Tags
+
+['claim', 'death', 'faa', 'including', 'publishing', 'administrative', 'damages', 'federal', 'states', 'act', 'expenses', 'information', 'timely', 'written', 'evidence', 'requested', 'appropriate', 'shall', 'statement', 'item', 'actually', 'file', 'counsel', 'presents', 'faith', 'accurately']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                      |

@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 162
 
 
+# Summary
+
+(3) Prospective lessees or Indian landowners must submit the lease, and required information and analyses, to the BIA office with jurisdiction over the lands covered by the lease, for our review and approval.
+Except insofar as these regulations provide for the granting, approval, or enforcement of agricultural leases and permits, the provisions in these regulations that authorize or require us to take certain actions will extend to any tribe or tribal organization that is administering specific programs or providing specific services under a contract or self-governance compact entered into under the Indian Self-Determination and Education Assistance Act (25 U.S.C.
+(a) If the lessee does not cure a violation of a residential lease within the required time period, or provide adequate proof of payment as required in the notice of violation, we will consult with the tribe for tribal land or, where feasible, with Indian landowners for individually owned Indian land, and determine whether:
+(b) If the generation of electricity is solely to support a use approved under subpart B, Agricultural Leases; subpart C, Residential Leases; or subpart D Business Leases (including religious, educational, recreational, cultural, or other public purposes), for the same parcel of land, then the installation, operation, and maintenance of instrumentation, facilities, and associated infrastructure are governed by subpart B, C, or D, as appropriate.
+
+
+# Tags
+
+['lease', 'means', 'include', 'land', 'tribal', 'requirements', 'indians', 'bia', 'provide', 'documentation', 'landowners', 'payments', 'approvals', 'law', 'use', 'lessees', 'authority', 'tribes', 'information', 'tenants', 'resource', 'shall', 'purposes', 'appropriate', 'action', 'immediately', 'plans', 'recorder', 'agricultural', 'followed', 'developed', 'rent', 'activity', 'periods', 'terms', 'generate', 'acts', 'entity', 'specifically', 'federal', 'non', 'weel', 'notice', 'consented', 'owns', 'reasonably', 'states', 'reservations', 'specify', 'negotiate', 'assign', 'compensation', 'insurance', 'applicable', 'party', 'fee', 'stat', 'grants', 'rentals', 'environmental', 'bonds', 'permit', 'trust', 'written', 'properties', 'right', 'management', 'subpart', 'addition', 'issuing', 'cancellation', 'community', 'interests', 'date', 'office', 'operation', 'described', 'certain', 'business', 'based', 'governs', 'residential', 'legally', 'mortgages', 'installing', 'lineal', 'owners', 'time', 'proposed', 'determination', 'policies', 'applies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

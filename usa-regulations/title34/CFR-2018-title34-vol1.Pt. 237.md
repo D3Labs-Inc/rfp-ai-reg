@@ -8,6 +8,23 @@
  CFR-2018-title34-vol1.Pt. 237
 
 
+# Summary
+
+(4) Is a permanent resident of the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or the Northern Mariana Islands;
+(a) Except as provided in section 563(a)(3) of the Act, the Secretary awards one national teacher fellowship under this part to an eligible teacher in each of the following:
+(c)(1) If a State fails to meet the applicable filing deadlines for fellowship recommendations established under this program, the Secretary does not make awards in that State.
+A fellowship awarded under this part may not exceed the national average salary of public school teachers in the most recent year for which satisfactory data are available, as determined by the Secretary.
+The Secretary urges statewide panels to award fellowships in the maximum amount.
+Except as provided in paragraph (c) of this section, a fellowship awarded under this part may not be less than half the national average salary of public school teachers in the most recent year for which satisfactory data are available, as determined by the Secretary.
+Christa McAuliffe fellows may use fellowships awarded under this part for projects to improve education including:
+The following regulations apply to the Christa McAuliffe Fellowship Program:
+
+
+# Tags
+
+['fellowship', 'teacher', 'state', 'educational', 'secretary', 'awarded', 'panel', 'establishing', 'islands', 'applications', 'funds', 'teaching', 'schools', 'fellow', 'administrators', 'year', 'following', 'shall']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                |

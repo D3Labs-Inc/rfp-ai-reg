@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 543
 
 
+# Summary
+
+(iii) At least once a day, the locked container must be removed by two agents, one of whom is independent of the card games department, and transported directly to the cage or other secure room to be counted, recorded, and verified, prior to accepting the funds into cage accountability.
+(4) The financial instrument storage components must be removed by an agent independent of the player interface department, then transported directly to the count room or other equivalently secure area with comparable controls and locked in a secure manner until the count takes place.
+(3) The cage and vault inventories (including coin rooms) must be counted independently by at least two agents, attested to by signature, and recorded in ink or other permanent form at the end of each shift during which the activity took place.
+(i) Bingo, including supervision, bingo cards, bingo card sales, draw, prize payout; cash and equivalent controls, technologic aids to the play of bingo, operations, vouchers, and revenue audit procedures;
+(iii) Twice annually, a count must be performed of all funds in all gaming areas (i.e. cages, vaults, and booths (including reserve areas), kiosks, cash-out ticket redemption machines, and change machines.
+
+
+# Tags
+
+['accountability', 'including', 'recorder', 'gaming', 'iii', 'accessing', 'document', 'controlling', 'operation', 'counts', 'agent', 'standards', 'card', 'procedures', 'authority', 'requirements', 'credit', 'payout', 'transactions', 'secure', 'surveillance', 'drop', 'audits', 'cash', 'promotional', 'vouchers', 'numbers', 'followed', 'reports', 'activity', 'patron', 'inventoried', 'approval', 'reviewed', 'verified', 'systems', 'funds', 'areas', 'independently', 'date', 'payments', 'governments', 'checks', 'player', 'tgras', 'information', 'total', 'establishes', 'program', 'generation', 'collections', 'management', 'software', 'currency', 'appropriately', 'kiosks', 'maintained', 'provided', 'data', 'individual', 'verifications', 'room', 'identifier', 'performance', 'bingo', 'interface', 'financial', 'keys', 'functions', 'values', 'reconciled', 'cage', 'remove', 'storage', 'tab', 'items', 'physical', 'prepare', 'instrument']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

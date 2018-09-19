@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 64
 
 
+# Summary
+
+(h) Attorneys and employees assigned to perform or to assist in performing investigative, inspection or audit functions of the Office of Inspector General of an &#8220;establishment&#8221; or a &#8220;designated Federal entity&#8221; as those terms are defined by section 11 and 8E, respectively, of the Inspector General Act of 1978, as amended, 5 U.S.C. app.
+(j) Officers and employees of the Bureau of Alcohol, Tobacco and Firearms assigned to perform or to assist in performing investigative, inspection or law enforcement functions;
+(o) Officers and employees of the Department of Energy authorized to carry firearms in the performance of investigative, inspection, protective or law enforcement functions;
+(p) Officers and employees of the U.S. Environmental Protection Agency assigned to perform or to assist in performing investigative, inspection or law enforcement functions;
+(w) Attorneys, accountants, investigators and other employees of the U.S. Securities and Exchange Commission assigned to perform or to assist in performing investigative, inspection or other law enforcement functions;
+(z) Officers and employees of the Federal Aviation Administration, the Federal Highway Administration, the National Highway Traffic Safety Administration, the Research and Special Programs Administration and the Saint Lawrence Seaway Development Corporation of the U.S. Department of Transportation who are assigned to perform or assist in performing investigative, inspection or law enforcement functions;
+
+
+# Tags
+
+['office', 'administration', 'assigned', 'federal', 'protected', 'services', 'investigative', 'usc', 'control', 'reduction', 'state', 'special', 'law', 'perform', 'relations', 'designates']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                |

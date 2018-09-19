@@ -8,6 +8,21 @@
  CFR-2018-title34-vol1.Pt. 21
 
 
+# Summary
+
+(2) In applications subject to &#167;&#8201;21.40(b)(1), the CRRA shall direct the adjudicative officer to issue an initial decision within 30 days of the completion of the proceedings on the application.
+(f) If an applicant is entitled to an award because the applicant prevailed over another agency of the United States that participated in a proceeding before the Department and that agency's position was not substantially justified, the adjudicative officer shall determine whether to make the award, or an appropriate portion of the award, against that agency.
+(a) In applications not subject to the jurisdiction of the CRRA, the adjudicative officer shall issue an initial decision on an application within 30 days after completion of proceedings on the application.
+(a) If the application is subject to the jurisdiction of the CRRA, the adjudicative officer shall issue the initial decision within 30 days after completion of the proceedings.
+(d) If the applicant or the Department's counsel does not appeal the adjudicative officer's initial decision to the CRRA and the Secretary does not decide to review the initial decision under &#167;&#8201;21.54(a), the initial decision becomes the Department's final decision 60 days after it is issued by the officer.
+(1) The Secretary reviews the adjudicative officer's initial decision or the CRRA's final decision on the basis of the written record of the proceedings on the application.
+
+
+# Tags
+
+['applications', 'acting', 'shall', 'information', 'include', 'issuing', 'proceeding', 'reviews', 'means', 'written', 'fee', 'final', 'adjudicative', 'usc', 'services', 'expense', 'award', 'administrative', 'educational', 'time', 'crra', 'officer', 'financial', 'counsel', 'decision', 'secretary', 'authority', 'states']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                      |

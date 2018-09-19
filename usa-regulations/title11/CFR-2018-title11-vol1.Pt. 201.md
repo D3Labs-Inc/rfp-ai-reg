@@ -8,6 +8,17 @@
  CFR-2018-title11-vol1.Pt. 201
 
 
+# Summary
+
+If unsuccessful in preventing the communication, the Commissioner or staff member shall advise the person making the communication that he or she will not consider the communication and shall, as soon after the communication as is reasonably possible but no later than three business days after the communication, unless special circumstances make this impracticable; or prior to the next Commission discussion of the matter, whichever is earlier, prepare a statement setting forth the substance and circumstances of the communication, and deliver the statement to the Designated Agency Ethics Official for placement in the file of the matching fund request, audit or litigation case.
+(2) A Commissioner or member of a Commissioner's staff who receives a written ex parte communication concerning any Commission action or potential action concerning any candidate or committee's eligibility for or entitlement to public funding, or any audit, or any prospective Commission decision or action concerning any pending litigation case, during the period described in paragraph (b) of this section shall, as soon after the communication as is reasonably possible but no later than three business days after the communication, unless special circumstances make this impracticable; or prior to the next Commission discussion of the matter, whichever is earlier, deliver a copy of the communication to the Designated Agency Ethics Official for placement in the file of the audit or litigation case.
+
+
+# Tags
+
+['commission', 'shall', 'audits', 'communications', 'funding', 'public', 'person', 'committee', 'litigation rulemaking', 'earlier', 'action', 'staff', 'election']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                             |

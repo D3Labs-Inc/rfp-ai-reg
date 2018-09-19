@@ -8,6 +8,19 @@
  CFR-2018-title14-vol2.Pt. 63
 
 
+# Summary
+
+The holder of a current foreign flight engineer or flight navigator certificate, license, or authorization issued by a foreign contracting State to the Convention on International Civil Aviation, who meets the requirements of this section, may hold a special purpose flight engineer or flight navigator certificate, as appropriate, authorizing the holder to perform flight engineer or flight navigator duties on a civil airplane of U.S. registry, leased to a person not a citizen of the United States, carrying persons or property for compensation or hire.
+(2) When the foreign flight engineer or flight navigator certificate, license, or authorization, or the medical documentation required by paragraph (b) of this section is suspended, revoked, or no longer valid; or
+(b) To be eligible for an additional aircraft class rating after his flight engineer certificate with a class rating is issued to him, an applicant must pass the written test that is appropriate to the class of airplane for which an additional rating is sought, and&#8212;
+(c) Before taking the written tests prescribed in paragraphs (a) and (b) of this section, an applicant for a flight engineer certificate must present satisfactory evidence of having completed one of the experience requirements of &#167;&#8201;63.37.
+
+
+# Tags
+
+['certificated', 'flights', 'navigator', 'engineering', 'airplanes', 'required', 'applications', 'training', 'administrator', 'rating', 'test', 'personal', 'states', 'aircraft', 'operating', 'transportation', 'issuing', 'addition', 'medical', 'air', 'current', 'security', 'limitation', 'practice', 'including', 'appropriate', 'civil', 'procedures', 'section', 'satisfactory', 'class', 'approved', 'drugs', 'document', 'authorizing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                             |

@@ -8,6 +8,20 @@
  CFR-2018-title9-vol1.Pt. 56
 
 
+# Summary
+
+Any disposal of poultry infected with or exposed to H5/H7 LPAI for which indemnity is requested must be performed under a compliance agreement between the claimant, the Cooperating State Agency, and APHIS.
+The compliance agreement is a comprehensive document that describes the depopulation, disposal, and cleaning and disinfection plans for poultry that were infected with or exposed to H5/H7 LPAI, or a premises that contained such poultry.
+Poultry that are infected with or exposed to H5/H7 LPAI may be required to be destroyed at the discretion of the Cooperating State Agency and APHIS and in accordance with the initial State response and containment plan described in &#167;&#8201;56.10.
+(1) At the discretion of the Cooperating State Agency and APHIS, poultry that has been infected with or exposed to H5/H7 LPAI may be allowed to move for controlled marketing in accordance with the initial State response and containment plan described in &#167;&#8201;56.10 and in accordance with the following requirements:
+(i) Poultry infected with or exposed to H5/H7 LPAI must not be transported to a market for controlled marketing until approved by the Cooperating State Agency in accordance with the initial State response and containment plan described in &#167;&#8201;56.10.
+
+
+# Tags
+
+['poultry', 'state', 'including', 'disinfected', 'plan', 'flock', 'indemnity', 'cleaned', 'eggs', 'aphis', 'lpai', 'activities', 'material', 'equipment', 'agency', 'premises', 'appraise', 'agreements', 'disposal', 'detailed', 'manure', 'follows', 'services', 'authorities', 'controlled', 'section', 'infection', 'specialized', 'claims', 'person', 'approval', 'iii', 'monitored', 'production', 'chicken', 'programs', 'virus', 'provisions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                    |

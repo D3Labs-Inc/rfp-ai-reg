@@ -8,6 +8,23 @@
  CFR-2018-title25-vol1.Pt. 37
 
 
+# Summary
+
+Geographic attendance boundary means a line of demarcation that clearly delineates and describes the limits of the physical land area that is served by a Bureau-funded school.
+(b) Authorize ISEP-eligible students, residing within the tribe's jurisdiction, to receive transportation funding to attend schools outside the geographic attendance area in which the student lives; and
+The currently established geographic attendance boundaries of day schools, on-reservation boarding schools, and peripheral dorms remain in place unless the tribal governing body revises them.
+(a) If there is only one day school, on-reservation boarding school, or peripheral dorm within a reservation's boundaries, the Secretary will establish the reservation boundary as the geographic attendance boundary;
+(a) The Secretary can change the geographic attendance boundaries of a day school, on-reservation boarding school, or peripheral dorm only after:
+Geographic attendance boundaries for a new day school, on-reservation boarding school, or peripheral dorm must be established by either:
+Yes. An eligible student living off a reservation can attend a day school, on-reservation boarding school, or peripheral dorm.
+The Secretary or the Secretary's designee, in consultation with the affected Tribes, establishes the boundaries for off-reservation boarding schools (ORBS).
+
+
+# Tags
+
+['schools', 'geographic', 'students', 'boundary', 'act', 'education', 'established', 'information', 'secretary', 'currently', 'attend']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                        |

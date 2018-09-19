@@ -8,6 +8,18 @@
  CFR-2018-title12-vol8.Pt. 1012
 
 
+# Summary
+
+(c) A request for hearing filed pursuant to paragraph (a) of this section shall not interrupt or annul the effectiveness of the suspension notice, and suspension of the effective date of the Statement or amendment shall continue until vacated by order of the Director or administrative law judge.
+Except in cases in which the developer shall waive or withdraw the request for such hearing, or shall fail to pursue the same by appropriate appearance at a hearing duly scheduled, noticed and convened, the suspended filing shall be reinstated in the event of failure of the Director to schedule, give notice of or hold a duly-requested hearing within the time specified in paragraph (b) of this section, or in the event of a finding that the Director has failed to support at such hearing the propriety of the suspension with respect to the material issues of law and fact raised by the answer.
+(c) Failure to answer within the time allowed by paragraph (a) of this section or failure of a developer to appear at a hearing duly scheduled shall result in an appropriate order under &#167;&#8201;1010.45(b)(1) of this chapter suspending the statement of record.
+
+
+# Tags
+
+['shall', 'hearings', 'filed', 'ordered', 'notices', 'suspension', 'statement', 'thereof', 'procedure', 'chapter', 'pursuant', 'law', 'protection', 'requested']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                      |

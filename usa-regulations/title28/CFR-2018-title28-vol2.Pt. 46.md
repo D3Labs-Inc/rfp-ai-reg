@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 46
 
 
+# Summary
+
+(j) Certification means the official notification by the institution to the supporting department or agency, in accordance with the requirements of this policy, that a research project or activity involving human subjects has been reviewed and approved by an IRB in accordance with an approved assurance.
+However, except for research exempted or waived under &#167;&#8201;46.101 (b) or (i), no human subjects may be involved in any project supported by these awards until the project has been reviewed and approved by the IRB, as provided in this policy, and certification submitted, by the institution, to the department or agency.
+(b) In making decisions about supporting or approving applications or proposals covered by this policy the department or agency head may take into account, in addition to all other eligibility requirements and program criteria, factors such as whether the applicant has been subject to a termination or suspension under paragraph (a) of this section and whether the applicant or the person or persons who would direct or has have directed the scientific and technical aspects of an activity has have, in the judgment of the department or agency head, materially failed to discharge responsibility for the protection of the rights and welfare of human subjects (whether or not the research was subject to federal regulation).
+
+
+# Tags
+
+['research', 'shall', 'required', 'irb', 'subjects', 'reviewer', 'approve', 'procedural', 'information', 'federal', 'institution', 'include', 'risks', 'assuring', 'addition', 'consent', 'document', 'anticipated', 'heads', 'persons', 'appropriately', 'involve', 'activity', 'proposal', 'written', 'record', 'conducting', 'member', 'applicable', 'means', 'agency', 'adequate', 'responsibility', 'education', 'provide', 'policy', 'representative', 'protections', 'changes', 'projects', 'investigational', 'public', 'supporting', 'foods', 'evaluate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                             |

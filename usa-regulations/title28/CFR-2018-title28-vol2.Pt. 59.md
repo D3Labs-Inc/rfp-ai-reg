@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 59
 
 
+# Summary
+
+The purpose of the guidelines set forth in this part is to assure that federal officers and employees do not use search and seizure to obtain documentary materials in the possession of disinterested third parties unless reliance on alternative means would substantially jeopardize their availability (e.g., by creating a risk of destruction, etc.) or usefulness (e.g., by detrimentally delaying the investigation, destroying a chain of custody, etc.).
+(1) A search warrant should not be used to obtain documentary materials believed to be in the private possession of a disinterested third party unless it appears that the use of a subpoena, summons, request, or other less intrusive alternative means of obtaining the materials would substantially jeopardize the availability or usefulness of the materials sought, and the application for the warrant has been authorized as provided in paragraph (a)(2) of this section.
+(2) No federal officer or employee shall apply for a warrant to search for and seize documentary materials believed to be in the private possession of a disinterested third party physician, lawyer, or clergyman under the circumstances described in paragraph (b)(1) of this section, unless, upon the recommendation of the U.S. Attorney (or where a case is not being handled by a U.S. Attorney's Office, upon the recommendation of the appropriate supervisory official of the Department of Justice), an appropriate Deputy Assistant Attorney General has authorized the application for the warrant.
+
+
+# Tags
+
+['materials', 'privacy', 'acted', 'attorneys', 'confidential', 'shall', 'law', 'term', 'federal officers', 'warrant', 'information', 'means', 'general', 'criminal', 'intrusive', 'set', 'pursuant', 'advance', 'circumstances', 'request']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                   |

@@ -8,6 +8,17 @@
  CFR-2018-title12-vol2.Pt. 208
 
 
+# Summary
+
+(ii) But does not include a deposit or share account in a federally or state insured depository institution, a loan participation, a letter of credit or other form of bank indebtedness incurred in the ordinary course of business, currency, any note, draft, bill of exchange, or bankers acceptance which has a maturity at the time of issuance of not exceeding nine months, exclusive of days of grace, or any renewal thereof the maturity of which is likewise limited, units of a collective investment fund, interests in a variable amount (master) note of a borrower of prime credit, or U.S. Savings Bonds.
+(4) Transactions aggregating $5,000 or more that involve potential money laundering or violations of the Bank Secrecy Act. Any transaction (which for purposes of this paragraph (c)(4) means a deposit, withdrawal, transfer between accounts, exchange of currency, loan, extension of credit, purchase or sale of any stock, bond, certificate of deposit, or other monetary instrument or investment security, or any other payment, transfer, or delivery by, through, or to a financial institution, by whatever means effected) conducted or attempted by, at or through the member bank and involving or aggregating $5,000 or more in funds or other assets, if the bank knows, suspects, or has reason to suspect that:
+
+
+# Tags
+
+['bank', 'shall', 'secure', 'requiring', 'acting', 'meanings', 'capitalized', 'investment', 'section', 'provider', 'members including', 'insured', 'branching', 'iii', 'authorization', 'pursuant', 'informing', 'activities', 'notices', 'loan', 'financial', 'transaction', 'institutional', 'customer', 'applicant', 'persons', 'board', 'accounting', 'filings', 'periodic', 'services', 'stated', 'federally', 'appropriate', 'reasonable', 'rate', 'credit', 'limits', 'report', 'employee', 'followed', 'administrative action', 'approved', 'terms', 'relates', 'plan', 'written', 'determines', 'general', 'times conduct', 'management', 'certain', 'forms', 'accepts', 'order', 'issued', 'fees', 'procedure', 'usc', 'standards', 'stocks', 'conditional', 'lawful', 'basis', 'agency additional', 'receivables', 'office', 'funded', 'asset', 'compliance', 'specifically', 'number', 'electronically', 'involve', 'corporations', 'established', 'developed', 'purchase', 'deposit', 'regulation', 'public', 'business', 'describes', 'prior', 'lends', 'policy', 'supervisory', 'sales', 'trust', 'income', 'mortgage', 'examination', 'rule', 'control', 'maintained', 'companies', 'making', 'risk', 'transferable', 'market', 'communication', 'home', 'subsidiaries', 'statements', 'identifiers', 'associated', 'registrant', 'day', 'flood', 'materials', 'effectiveness', 'year', 'enforcement', 'available', 'permanent']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

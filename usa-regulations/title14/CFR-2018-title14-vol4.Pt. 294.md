@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 294
 
 
+# Summary
+
+This part does not provide exemption from the safety regulatory provisions of the Statute that are administered by the U.S. Department of Transportation through the Federal Aviation Administration (FAA), and Canadian charter air taxi operators in the conduct of their operations must observe all applicable safety standards and requirements.
+Canadian charter air taxi operators registered under this part are exempt from the following provisions of the Statute to the extent necessary to perform charter air service between the United States and Canada, and as long as they comply with the terms, conditions, and limitations of this part:
+To apply for registration under this part, a Canadian charter air taxi operator shall file with the Department's Office of International Aviation, Special Authorities Division, the following:
+(b) Any person objecting to the registration of a Canadian charter air taxi operator shall file an objection with the Office of International Aviation, Special Authorities Division, and serve a copy on the applicant within 28 days after the Department receives the properly completed registration application.
+(a) Where the terms, conditions, or limitations of this part, particularly &#167;&#8201;294.81, require prior approval of individual flights or charter programs, the registrant shall apply for such approval by filing three copies of OST Form 4540 with the Office of International Aviation, Foreign Air Carrier Licensing Division.
+
+
+# Tags
+
+['operating', 'shall', 'require', 'registration', 'authorizing', 'carrier', 'aircraft', 'charters', 'air', 'applications', 'canadian', 'aviation', 'maximum', 'means', 'faa', 'international', 'flights', 'actions', 'insurance', 'officer', 'states', 'effect', 'follows', 'fuel', 'passengers', 'certificate', 'control', 'including', 'crew', 'department', 'canceled']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                        |

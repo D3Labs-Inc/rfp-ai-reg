@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 350
 
 
+# Summary
+
+(b) Service under the regulations in this part may also be denied to any person by the Secretary for such period as he may deem proper, if it is determined, after opportunity for hearing before a proper official in the Department, that such person has been responsible for any willful misrepresentation to the Department concerning any meat or other product for which service has been requested under the regulations, in this part, or that such person has been responsible for the use without authority, or the imitation, of any marks or certificates of Federal meat inspection on or with respect to any meat or other product, or has otherwise been responsible for any fraudulent or deceptive practice with respect to such service, or that such person has interfered with or obstructed any inspector in the performance of his duties under the regulations in this part, or attempted to do so.
+The applicant or recipient of service involved shall be notified of the Administrator's decision to deny or suspend service and the reasons therefor, in writing, in the manner prescribed in &#167;&#8201;1.147(b) of the rules of practice (7 CFR 1.147(b)), or orally.
+
+
+# Tags
+
+['shall', 'services', 'cost', 'applicant', 'inspection', 'food', 'administrator', 'exporter', 'product', 'fees', 'involved', 'department', 'operations', 'including', 'meat', 'company', 'time', 'case']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                     |

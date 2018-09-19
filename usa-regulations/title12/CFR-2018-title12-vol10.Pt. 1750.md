@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1750
 
 
+# Summary
+
+Multifamily credit enhancement means any guarantee, pledge, purchase arrangement, or other obligation or commitment provided or entered into by an Enterprise with respect to multifamily mortgages to provide credit enhancement, liquidity, interest rate support, and other guarantees and enhancements for revenue bonds issued by a state or local governmental unit (including a housing finance agency) or other bond issuer.
+(a) Each Enterprise shall file with the Director a Risk-Based Capital Report each quarter, and at such other times as the Director may require, in his or her discretion.
+If the 10-year constant maturity Treasury yield is assumed to increase by more than 50 percent over the average yield during the 9 months immediately preceding the stress period, the Director shall adjust the losses resulting from the conditions specified in paragraph (a)(2)(iii) of this section to reflect a correspondingly higher rate of general price inflation.
+Losses or gains on other activities, including interest rate and foreign exchange hedging activities, shall be determined by the Director, in accordance with appendix A to this subpart and on the basis of available information, to be consistent with the stress period.
+
+
+# Tags
+
+['meanings', 'mortgage', 'rates', 'capital', 'shall', 'enterprises', 'including', 'loss', 'credit', 'period', 'secure', 'require', 'financial', 'foreclosure', 'purchased', 'instrument', 'risk', 'yields', 'property', 'commitment', 'ofheo', 'reports', 'determine', 'specify', 'units', 'governments', 'contracts', 'terms', 'dividend', 'collateral', 'development', 'year', 'stock', 'loan', 'immediately']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                           |

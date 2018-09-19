@@ -8,6 +8,21 @@
  CFR-2018-title9-vol2.Pt. 416
 
 
+# Summary
+
+Each official establishment must be operated and maintained in a manner sufficient to prevent the creation of insanitary conditions and to ensure that product is not adulterated.
+Lighting of good quality and sufficient intensity to ensure that sanitary conditions are maintained and that product is not adulterated must be provided in areas where food is processed, handled, stored, or examined; where equipment and utensils are cleaned; and in hand-washing areas, dressing and locker rooms, and toilets.
+(a) All food-contact surfaces, including food-contact surfaces of utensils and equipment, must be cleaned and sanitized as frequently as necessary to prevent the creation of insanitary conditions and the adulteration of product.
+(b) Non-food-contact surfaces of facilities, equipment, and utensils used in the operation of the establishment must be cleaned and sanitized as frequently as necessary to prevent the creation of insanitary conditions and the adulteration of product.
+When an FSIS program employee finds that any equipment, utensil, room, or compartment at an official establishment is insanitary or that its use could cause the adulteration of product, he will attach to it a &#8220;U.S. Rejected&#8221; tag.
+(a) The Sanitation SOP's shall describe all procedures an official establishment will conduct daily, before and during operations, sufficient to prevent direct contamination or adulteration of product(s).
+
+
+# Tags
+
+['water', 'products', 'shall', 'establishment', 'rooms', 'operation', 'sufficient', 'appropriate', 'prevents', 'including', 'conditions', 'fsis', 'areas', 'processing', 'equipment', 'handling', 'cleaned', 'provide', 'floor', 'control', 'waste', 'facility', 'sanitary', 'contamination', 'tag', 'aprons', 'openings', 'documentation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                    |

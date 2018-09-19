@@ -8,6 +8,23 @@
  CFR-2018-title14-vol3.Pt. 187
 
 
+# Summary
+
+Appendix C to this part prescribes the methodology for computation of fees for production certification-related services performed outside the United States.
+Overflight means a flight through U.S.-controlled airspace that does not include a landing in or takeoff from the United States.
+Overflight through Enroute airspace means an overflight through U.S.-controlled airspace where primarily radar-based air traffic services are provided.
+Overflight through Oceanic airspace means an overflight through U.S.-controlled airspace where primarily procedural air traffic services are provided.
+(b) Applicants for the FAA services provided under this part shall pay any bank processing charges on fees collected under this part, when such charges are assessed on U.S. Government.
+(c) Applicants for the FAA services described in Appendix A of this part shall pay bank processing charges, when such charges are assessed by banks on U.S. Government deposits.
+(a) Except as provided in paragraphs (c) or (d) of this section, any person who conducts an overflight through either Enroute or Oceanic airspace must pay a fee as calculated in &#167;&#8201;187.53.
+Persons covered by paragraph (a) of this section must pay a fee for the FAA's rendering or providing of certain services, including but not limited to the following:
+
+
+# Tags
+
+['fee', 'faa services', 'airspace', 'overflight', 'states', 'air', 'transfers', 'distance', 'flight', 'oceanic', 'procedures', 'pay']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                    |

@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 9405
 
 
+# Summary
+
+Direct costs means those expenditures which the Commission actually incurs in searching for, duplicating, and, in the case of commercial use requesters, reviewing documents to respond to a FOIA request.
+Search means all time spent reviewing, manually or by automated means, Commission records for the purpose of locating those records that are responsive to a FOIA request, including, but not limited to, page-by-page or line-by-line identification of material within documents and also includes reasonable efforts to locate and retrieve information from records maintained in electronic form or format.
+Only requesters who are seeking documents for commercial use may be charged for time spent reviewing records to determine whether they are exempt from mandatory disclosure.
+When the Commission receives a request for documents for commercial use, it will assess charges that recover the full direct costs of searching for, reviewing for release, and duplicating the record sought.
+Records responsive to a request will be furnished without charge when the Chief FOIA Officer determines, based on all available information, that disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
+
+
+# Tags
+
+['requests', 'shall', 'record', 'inform', 'means', 'commission', 'include', 'publication', 'foia', 'reviewing', 'charge', 'timely', 'actual', 'searching', 'processed', 'reasons', 'agency', 'fee', 'commercial', 'person', 'copying', 'act', 'news', 'availability', 'document', 'appropriate', 'state', 'institute', 'exempted', 'released', 'descriptions', 'payment', 'determination', 'generally', 'direct costs', 'operating', 'profits', 'education', 'specificity', 'disclosure', 'clearly', 'enforcement', 'provides', 'period', 'plus', 'confidential', 'salary', 'national', 'officers', 'technical']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                             |

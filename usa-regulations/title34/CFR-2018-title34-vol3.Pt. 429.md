@@ -8,6 +8,24 @@
  CFR-2018-title34-vol3.Pt. 429
 
 
+# Summary
+
+The following regulations apply to the Bilingual Vocational Materials, Methods, and Techniques Program:
+(20 points) (1) The Secretary reviews each application for information that shows the need for the proposed services and activities for individuals with limited English proficiency.
+(1) The Secretary reviews each application for information that shows the quality of the plan of operation for the project.
+(1) The Secretary reviews each application for information that shows the qualifications of the key personnel the applicant plans to use on the project.
+(3) To determine personnel qualifications, the Secretary considers experience and training, in fields related to the objectives of the project, as well as other information that the applicant provides.
+(1) The Secretary reviews each application for information that shows that the project has an adequate budget and is cost effective.
+(1) The Secretary reviews each application for information that shows the quality of the evaluation plan for the project.
+(2) The Secretary looks for information that shows methods of evaluation that are appropriate for the project and, to the extent possible, are objective and produce data that are quantifiable.
+(1) The Secretary reviews each application for information that shows that the applicant plans to devote adequate resources to the project.
+
+
+# Tags
+
+['projects', 'points', 'secretary', 'provide', 'personnel', 'program', 'vocational', 'apply', 'organizations', 'adequate', 'applications', 'plan']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                            |

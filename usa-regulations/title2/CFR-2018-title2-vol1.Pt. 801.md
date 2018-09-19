@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 801
 
 
+# Summary
+
+This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Veterans Affairs (VA) policies and procedures for nonprocurement debarment and suspension.
+For any such section where there is a corresponding section in this part, the Department of Veterans Affairs policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, and as supplemented by the section in this part with the same section number.
+(1) A limited denial of participation extends only to participation in the VA Loan Guaranty Program and shall be effective only within the geographic jurisdiction of the office or offices imposing it.
+If the decision is made to affirm all or a portion of the remaining period of exclusion, the participant shall be advised of the right to request a formal hearing in writing within 30 days of receipt of the notice of decision.
+Where the decision is made to affirm all or a portion of the remaining period of exclusion, any participant desiring an appeal shall file a written request for a hearing with the Under Secretary for Benefits, Department of Veterans Affairs, 810 Vermont Avenue, NW., Washington, DC 20420.
+
+
+# Tags
+
+['shall', 'affairs', 'participate', 'officer', 'loan', 'section', 'official', 'construction', 'program', 'conference', 'causes', 'tiers', 'debarring', 'principal', 'effective', 'agents', 'period', 'requirements', 'involved', 'sanction', 'false']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                        |

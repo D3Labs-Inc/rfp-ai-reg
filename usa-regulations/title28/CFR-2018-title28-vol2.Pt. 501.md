@@ -8,6 +8,17 @@
  CFR-2018-title28-vol2.Pt. 501
 
 
+# Summary
+
+(a) Upon direction of the Attorney General, the Director, Bureau of Prisons, may authorize the Warden to implement special administrative measures that are reasonably necessary to prevent disclosure of classified information upon written certification to the Attorney General by the head of a member agency of the United States intelligence community that the unauthorized disclosure of such information would pose a threat to the national security and that there is a danger that the inmate will disclose such information.
+(d) In any case where the Attorney General specifically so orders, based on information from the head of a federal law enforcement or intelligence agency that reasonable suspicion exists to believe that a particular inmate may use communications with attorneys or their agents to further or facilitate acts of terrorism, the Director, Bureau of Prisons, shall, in addition to the special administrative measures imposed under paragraph (a) of this section, provide appropriate procedures for the monitoring or review of communications between that inmate and attorneys or attorneys' agents who are traditionally covered by the attorney-client privilege, for the purpose of deterring future acts that could result in death or serious bodily injury to persons, or substantial damage to property that would entail the risk of death or serious bodily injury to persons.
+
+
+# Tags
+
+['written', 'privileges', 'emergencies', 'shall provide', 'attorney', 'warden', 'special administrative', 'reasonable', 'communications', 'appropriate', 'criminal', 'acts', 'prisons']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                       |

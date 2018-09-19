@@ -8,6 +8,17 @@
  CFR-2018-title12-vol7.Pt. 760
 
 
+# Summary
+
+Except as provided in paragraphs (a)(2) or (c) of this section, a credit union, or a servicer acting on behalf of the credit union, shall require the escrow of all premiums and fees for any flood insurance required under &#167;&#8201;760.3(a) for any designated loan secured by residential improved real estate or a mobile home that is made, increased, extended, or renewed on or after January 1, 2016, payable with the same frequency as payments on the designated loan are required to be made for the duration of the loan.
+A credit union, or a servicer acting on behalf of the credit union, shall offer and make available to the borrower the option to escrow all premiums and fees for any flood insurance required under &#167;&#8201;760.3 for any loan secured by residential improved real estate or a mobile home that is outstanding on January 1, 2016, or July 1 of the first calendar year in which the credit union has had a change in status pursuant to paragraph (c)(2) of this section, unless:
+
+
+# Tags
+
+['insurance', 'shall', 'require', 'flooding', 'loan', 'homes', 'means', 'notices', 'fees', 'union', 'includes', 'acting', 'coverage', 'servicer', 'escrowing', 'borrower', 'permanent', 'principally', 'electronic', 'residential', 'areas determined', 'hazards', 'funded', 'form', 'premiums', 'person', 'structure']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                      |

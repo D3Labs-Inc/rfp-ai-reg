@@ -8,6 +8,24 @@
  CFR-2018-title25-vol1.Pt. 42
 
 
+# Summary
+
+The regulations in this part govern student rights and due process procedures in disciplinary proceedings in all Bureau-funded schools.
+(b) The school may address a student violation using alternative dispute resolution (ADR) processes or the formal disciplinary process.
+(1) When appropriate, the school should first attempt to use the ADR processes described in &#167;&#8201;42.4 that may allow resolution of the alleged violation without recourse to punitive action.
+(2) Where ADR processes do not resolve matters or cannot be used, the school must address the alleged violation through a formal disciplinary proceeding under &#167;&#8201;42.7 consistent with the due process rights described in &#167;&#8201;42.7.
+(a) The school may address an alleged violation through the ADR processes described in &#167;&#8201;42.4, unless one of the conditions in paragraph (b) of this section applies.
+(c) If ADR processes do not resolve matters or cannot be used, the school must address alleged violations through the formal disciplinary proceeding described in &#167;&#8201;42.8.
+What are a student's due process rights in a formal disciplinary proceeding?
+A student has the following due process rights in a formal disciplinary proceeding:
+In formal disciplinary proceedings, each school must consider victims' rights when appropriate.
+
+
+# Tags
+
+['students', 'schools', 'information', 'native', 'process', 'disciplinary', 'right', 'including', 'immediately', 'statutory', 'educational', 'resolution', 'appropriate', 'required', 'act', 'action']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                        |

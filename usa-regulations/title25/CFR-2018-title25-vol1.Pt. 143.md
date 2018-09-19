@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 143
 
 
+# Summary
+
+(a) The purpose of the regulations in this part is to establish procedures for the assessment, billing, and collection of charges for goods/services provided to non-Federal users.
+(b) The Assistant Secretary may sell or contract to sell to non-Federal users within, or in the immediate vicinity of an Indian Reservation (or former Reservation), any of the following goods/services if it is determined that the goods/services are not available from another local source or providing that goods/services is in the best interest of the Indian tribes or individual Indians.
+(a) Charges shall be established by the Assistant Secretary and shall be based upon the total costs (including both direct and indirect) of goods/services to the Government at that locale.
+(a) The Assistant Secretary&#8212;Indian Affairs will establish a billing cycle that is appropriate to the goods/services being provided.
+(c) Upon non-payment by the non-Federal user, the Assistant Secretary may discontinue service.
+(2) Following the expiration of the 14 day deadline for response, and after consideration of any such response, the Assistant Secretary&#8212;Indian Affairs may notify the user by letter that if payment is not received within 10 days of the date on the letter, the service will be discontinued.
+However, the non-Federal user is still responsible for payment for goods/services provided.
+
+
+# Tags
+
+['indians', 'shall', 'services', 'payment', 'billing', 'agreement', 'goods', 'federal', 'operations', 'affairs', 'area']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                          |

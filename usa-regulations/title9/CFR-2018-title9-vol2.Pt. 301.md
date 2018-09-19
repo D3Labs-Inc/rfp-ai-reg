@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 301
 
 
+# Summary
+
+(iv) If it bears or contains any color additive which is unsafe within the meaning of section 706 of the Federal Food, Drug, and Cosmetic Act: Provided, That an article which is not deemed adulterated under paragraphs (aa)(2) (ii), (iii), or (iv) of this section shall nevertheless be deemed adulterated if use of the pesticide chemical food additive, or color additive in or on such article is prohibited by the regulations in this subchapter in official establishments;
+Any substance proposed for use in official establishments, the intended use of which will not result, directly or indirectly, in the substance becoming a component or otherwise affecting the characteristics of meat food and meat products, excluding labeling and packaging materials as covered in part 317 of the subchapter.
+The official inspection legend or any other symbol prescribed by the regulations in this subchapter to identify the status of any article or animal under the Act.
+This term means that the carcass, viscera, other part of carcass, or other product so identified has been inspected, found to be adulterated, and condemned under the regulations in this subchapter.
+
+
+# Tags
+
+['food', 'contain', 'meat', 'products', 'animal', 'including', 'official', 'acts', 'process', 'inspection', 'adulterated', 'labeling', 'rendered', 'substance', 'state', 'livestock', 'carcass', 'condition', 'abnormal', 'slaughtering', 'articles', 'formed', 'terms', 'naturally', 'thereof', 'ganglia', 'bone', 'require', 'salted', 'chemical', 'biological', 'directly', 'activated', 'establishment', 'subchapter', 'thereto', 'stat', 'smoke', 'surgical', 'statement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

@@ -8,6 +8,17 @@
  CFR-2018-title14-vol2.Pt. 60
 
 
+# Summary
+
+(a) Except as provided in paragraph (b) and (c) of this section, for the purposes of validating FSTD performance and handling qualities during evaluation for qualification, the data made available to the NSPM (the validation data package) must include the aircraft manufacturer's flight test data and all relevant data developed after the type certificate was issued (e.g., data developed in response to an airworthiness directive) if such data results from a change in performance, handling qualities, functions, or other characteristics of the aircraft that must be considered for flight crewmember training, evaluation, or for meeting experience requirements of this chapter.
+(6) No sponsor may use or allow the use of or offer the use of an FSTD for flight crewmember training or evaluation or for obtaining flight experience for the flight crewmember to meet any requirement of this chapter unless the FSTD has passed an NSPM-conducted continuing qualification evaluation within the time frame specified in the Statement of Qualification or within the grace period as described in paragraph (b)(5) of this section.
+
+
+# Tags
+
+['fstd', 'qualification', 'requirements', 'nspm', 'tested', 'sponsors', 'aircraft flight', 'data', 'evaluated', 'statements', 'simulate', 'follows', 'described', 'applications', 'approved', 'training', 'included', 'operations specifications', 'iii', 'period', 'persons', 'conducting', 'standard', 'procedures', 'provided', 'faa', 'qualify', 'electronic', 'qps', 'recorded', 'aviation', 'current', 'continues', 'inspections', 'represented', 'systems']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                              |

@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 9033
 
 
+# Summary
+
+(1) A candidate seeking to become eligible to receive Presidential primary matching fund payments shall agree in a letter signed by the candidate to the Commission that the candidate and the candidate's authorized committee(s) will comply with the conditions set forth in 11 CFR 9033.1(b).
+(1) A candidate seeking to become eligible to receive Presidential primary matching fund payments shall make the certifications set forth in 11 CFR 9033.2(b) to the Commission in a written statement signed by the candidate.
+(a) If the Commission makes an initial determination that a candidate or the candidate's authorized committee(s) have knowingly and substantially exceeded the expenditure limitations at 11 CFR part 9035 prior to that candidate's application for certification, the Commission may make an initial determination that the candidate is ineligible to receive matching funds.
+The Commission will notify the candidate of its initial determination in accordance with the procedures outlined in 11 CFR 9033.10(b) and will advise the candidate of the date on which active campaigning in more than one State ceased.
+
+
+# Tags
+
+['campaign', 'payments shall', 'candidate', 'documenting', 'required', 'received', 'committee', 'record', 'primary', 'contribution', 'determination', 'expenditures', 'commission', 'penalties included', 'follow', 'materials', 'days', 'disbursements', 'asset', 'elections', 'media', 'information', 'cfr', 'threshold', 'bank', 'active', 'submit', 'section']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                         |

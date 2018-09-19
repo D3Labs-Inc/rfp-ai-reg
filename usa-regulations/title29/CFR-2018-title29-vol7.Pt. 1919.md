@@ -8,6 +8,19 @@
  CFR-2018-title29-vol7.Pt. 1919
 
 
+# Summary
+
+(b) A person applying for accreditation to carry out tests of loose gear or wire rope, or both, or to carry out heat treatments, and to issue the related certificates, shall be engaged in one or both of the following activities:
+(a)(1) Before being taken into use, hoisting machines, fixed gear aboard vessels accessory thereto, and loose gear and wire rope used in connection therewith shall be tested and examined and the safe working load thereof certified in the manner set forth in subpart E of this part.
+(c) All hoisting machines (e.g., cranes, winches, blocks, shackles, and all other accessory gear) not included in paragraph (b) of this section shall be thoroughly examined every 12 months by means of a visual examination, supplemented as necessary by other means, such as a hammer test or with electronic, ultrasonic, or other nondestructive methods, carried out as carefully as conditions permit in order to arrive at a reliable conclusion as to the safety of the parts examined.
+(c) Unit proof load tests shall be based on the manufacturer's load ratings for the conditions of use and shall, except in the case of bridge type cranes utilizing a trolley, consist of application of a proof load of 10 percent in excess of the load ratings at maximum and minimum radii, and at such intermediate radii as the certificating authority may deem necessary in the circumstances.&#8201;1
+
+
+# Tags
+
+['shall', 'tested', 'load', 'certificate', 'examined', 'equipped', 'applications', 'persons', 'requirements', 'operating', 'including', 'vessels cargo gear', 'design', 'rope', 'means', 'crane', 'derrick', 'components', 'wiring', 'accredited', 'units', 'condition', 'parts', 'functional', 'ratings', 'safely', 'followed', 'necessary', 'sections', 'boom', 'permanently', 'provided', 'working', 'bolting', 'appropriate', 'information', 'lifts', 'indicates', 'representing', 'specifically', 'thereof', 'manufacturer', 'device', 'records', 'original', 'loose', 'winch', 'officers', 'qualified', 'structures', 'limitation', 'chains', 'handling', 'proof', 'number', 'use', 'line', 'attached', 'deformed', 'technically', 'determination', 'defects']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                   |

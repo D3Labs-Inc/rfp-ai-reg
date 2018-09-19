@@ -8,6 +8,22 @@
  CFR-2018-title12-vol10.Pt. 1292
 
 
+# Summary
+
+For purposes of owner-occupied housing projects and economic development projects, median income for the area means one or more of the following, as determined by the Bank:
+RDF or Rural Development Funding program means an advance or grant program offered by a Bank for targeted community lending in rural areas.
+(4) For advances or grants provided under any other CICA program offered by a Bank, a targeted income level established by the Bank with the prior approval of FHFA.
+UDF program or Urban Development Funding program means an advance or grant program offered by a Bank for targeted community lending in urban areas.
+(2) Each Bank shall offer a CIP to provide financing for housing projects and for eligible targeted community lending at the appropriate targeted income levels.
+(4) Each Bank may offer CICA programs for targeted community lending using targeted beneficiaries and targeted income levels other than those specified in &#167;&#8201;1292.1 of this part, established by the Bank with the prior approval of FHFA.
+(4) Each Bank may offer CICA programs for targeted community lending using targeted beneficiaries and targeted income levels other than those specified in &#167;&#8201;1292.1 of this part, established by the Bank with the prior approval of FHFA.
+
+
+# Tags
+
+['areas', 'project', 'programs', 'housing', 'shall', 'community means', 'advances', 'targeted beneficiaries', 'fund', 'loan', 'cica', 'incomes', 'provided', 'development', 'plans', 'level', 'geographic', 'rural', 'state', 'pricing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                      |

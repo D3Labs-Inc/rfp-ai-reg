@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 303
 
 
+# Summary
+
+This subpart sets forth the application requirements and procedures for insured state nonmember banks to establish a branch, relocate a branch or main office, and retain existing branches after the interstate relocation of the main office subject to the approval by the FDIC pursuant to sections 13(f), 13(k), 18(d) and 44 of the FDI Act.
+In the case of the election of a new director not proposed by management at a meeting of the shareholders of an insured state nonmember bank, the prior 30-day notice is automatically waived and the individual immediately may begin serving, provided that a complete notice is filed with the appropriate FDIC office within two business days after the individual's election.
+An application by an insured branch of a foreign bank seeking the FDIC's consent to move from one location to another, as required by section 18(d)(1) of the FDI Act (12 U.S.C. 1828(d)(1)), shall be submitted in writing to the appropriate FDIC office on the date the notice required by paragraph (c) of this section is published, or within 5 days after the date of the last required publication.
+
+
+# Tags
+
+['shall', 'institution', 'applicant', 'bank', 'fdic', 'includes', 'filings', 'meanings', 'notices', 'capitalized', 'requiring', 'stated', 'periodically', 'proposing', 'branching', 'acts', 'public', 'informational', 'transaction', 'stock', 'officer', 'approved', 'authorizing', 'insured', 'pursuant', 'control', 'additions', 'relates', 'followed', 'directors', 'requests', 'procedural', 'section', 'general', 'provides', 'deposit', 'action', 'financial', 'persons', 'securing', 'activities', 'written', 'management', 'prior', 'concerning', 'plan', 'federally', 'subparts', 'statements', 'agreement', 'issuing', 'times', 'process', 'limits', 'regulations', 'voting', 'policy', 'law', 'formed', 'involve', 'usc', 'merger', 'day', 'submitting', 'materiality', 'exists', 'rate', 'acquires', 'certain', 'iii', 'immediate', 'operating', 'received', 'trust', 'cra', 'depository', 'locations', 'waiver', 'conditional', 'appropriate', 'commenter', 'business', 'assets', 'order', 'similar', 'affecting', 'circumstance']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

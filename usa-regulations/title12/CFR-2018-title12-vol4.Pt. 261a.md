@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 261a
 
 
+# Summary
+
+The Inspector General is authorized to respond to requests for access to, accounting of, or amendment of records contained in a system of records maintained by the OIG.
+(2) If you request information contained in a system of records maintained by the Board's OIG, you may submit the request in writing to the Inspector General, Board of Governors of the Federal Reserve System, 20th Street and Constitution Avenue, NW., Washington, DC 20551.
+Pursuant to 5 U.S.C. 552a(k)(5), we have determined that it is necessary to exempt the systems of records listed below from the requirements of the Privacy Act concerning access to records, accounting of disclosures of records, maintenance of only relevant and necessary information in files, and certain publication provisions, respectively, 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (H) and (I), and (f), and &#167;&#167;&#8201;261a.5, 261a.7, and 261a.8 of this part.
+Pursuant to 5 U.S.C. 552a(k)(5), we have determined that it is necessary to exempt the systems of records listed below from the requirements of the Privacy Act concerning access to records, accounting of disclosures of records, maintenance of only relevant and necessary information in files, and certain publication provisions, respectively, 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (H) and (I), and (f), and &#167;&#167;&#8201;261a.5, 261a.7, and 261a.8 of this part.
+
+
+# Tags
+
+['records', 'bgfrs', 'information', 'requested', 'board', 'act', 'provided', 'require', 'general', 'privacy', 'pursuant', 'statement', 'oig', 'determines', 'written', 'means', 'enforcement', 'maintained', 'notified', 'business', 'identification']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                |

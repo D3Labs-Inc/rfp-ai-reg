@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 508
 
 
+# Summary
+
+(a) The Office may issue and serve a Notice upon an officer, director, or other person participating in the conduct of the affairs of an association, where the individual is charged in any information, indictment, or complaint with the commission of or participation in a crime involving dishonesty or breach of trust that is punishable by imprisonment for a term exceeding one year under State or Federal law, if the Office, upon due deliberation, determines that continued service or participation by the individual may pose a threat to the interests of the association's depositors or may threaten to impair public confidence in the association.
+(c) The petition shall state whether the petitioner is requesting termination or modification of the Notice or Order, and shall state with particularity how the petitioner intends to show that his continued service to or participation in the conduct of the affairs of the association would not, or is not likely to, pose a threat to the interests of the association's depositors or to impair public confidence in the association.
+If the subject individual fails to file a petition for a hearing, or fails to appear at a hearing, either in person or by attorney, or fails to submit a written argument where oral argument has been waived pursuant to &#167;&#8201;508.7(d) or (f) of this part, the Notice shall remain in effect until the information, indictment, or complaint is finally disposed of and the Order shall remain in effect until terminated by the Office.
+
+
+# Tags
+
+['shall', 'office', 'association', 'term', 'acting', 'decision', 'thereof', 'meaning', 'recorded', 'witnesses', 'public', 'set', 'hearing', 'issued', 'parties', 'days', 'usc', 'review', 'involving']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                          |

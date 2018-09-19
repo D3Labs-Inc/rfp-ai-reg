@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 85
 
 
+# Summary
+
+(a) For violations occurring on or before November 2, 2015, and for civil penalties assessed before August 1, 2016, whose associated violations occurred after November 2, 2015, the civil monetary penalties provided by law within the jurisdiction of the Department of Justice and listed in section 85.3 are adjusted as set forth in that section, in accordance with the requirements of the Federal Civil Penalties Inflation Adjustment Act of 1990, Public Law 104-410, 104 Stat.
+(b) For civil penalties assessed after August 1, 2016, whose associated violations occurred after November 2, 2015, the civil monetary penalties provided by law within the jurisdiction of the Department of Justice are adjusted as set forth in section 85.5, in accordance with the requirements of the Bipartisan Budget Act of 2015, Public Law 114-74, section 701 (Nov. 2, 2015), 28 U.S.C. 2461 note.
+(ii) The civil monetary penalty amount for a subsequent order other than for nonviolent physical obstruction, initially set at $25,000, is adjusted to $27,500 for a violation occurring on or after September 29, 1999, and before April 28, 2014, and is adjusted to $37,500 for a violation occurring on or after April 28, 2014.
+
+
+# Tags
+
+['act', 'violation', 'penalty', 'civil', 'usc', 'column', 'disclosure', 'adjusted', 'reform', 'set']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

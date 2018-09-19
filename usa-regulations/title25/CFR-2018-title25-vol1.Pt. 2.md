@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 2
 
 
+# Summary
+
+(c) If the appellant is an Indian or Indian tribe not represented by counsel, the official with whom the appeal is filed (i.e., official making the decision being appealed) shall, in the manner prescribed in this section, personally or by mail serve a copy of all appeal documents on the official who will decide the appeal and on each interested party known to the official making such service.
+Computation shall not include the day on which a decision being appealed was made, service or notice was received, a document was filed, or other event occurred causing time to begin to run.
+(a) Area Directors, Area Education Programs Administrators, Agency Superintendents for Education, Presidents of Post-Secondary Schools and the Deputy to the Assistant Secretary&#8212;Indian Affairs/Director (Indian Education Programs) shall render written decisions in all cases appealed to them within 60 days after all time for pleadings (including all extensions granted) has expired.
+(c) In accordance with the provisions of &#167;&#8201;4.332(b) of title 43 of the Code of Federal Regulations, a notice of appeal to the Board of Indian Appeals shall not be effective until 20 days after receipt by the Board, during which time the Assistant Secretary&#8212;Indian Affairs shall have authority to decide to:
+
+
+# Tags
+
+['shall', 'appealed', 'officially', 'documents', 'party', 'address', 'decision', 'action', 'personal', 'timely', 'file', 'indian', 'office', 'written request', 'appellant', 'causes', 'administrative', 'statement', 'included', 'affairs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                           |

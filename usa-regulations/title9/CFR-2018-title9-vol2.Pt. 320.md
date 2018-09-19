@@ -8,6 +8,16 @@
  CFR-2018-title9-vol2.Pt. 320
 
 
+# Summary
+
+(a) Except as provided in paragraph (c) of this section, every person that engages in business in or for commerce, as a meat broker, renderer, or animal food manufacturer, or engages in business in commerce as a wholesaler of any carcasses, or parts or products of the carcasses, or any livestock, whether intended for human food or other purposes, or engages in business as a public warehouseman storing any such articles in or for commerce, or engages in the business of buying, selling, or transporting in commerce, or importing, any dead, dying, disabled, or diseased livestock, or parts of the carcasses of any such livestock that died otherwise than by slaughter, shall register with the Administrator, giving such information as is required, including his name, and the address of each place of business at which, and all trade names under which he conducts such business, by filing with the Administrator, Food Safety and Inspection Service, U.S. Department of Agriculture, Washington, DC 20250, a form containing such information within 90 days after the effective date hereof or after such later date as he begins to engage in such business if not engaged therein upon said effective date.
+
+
+# Tags
+
+['products', 'food', 'shall', 'meat', 'records required', 'inspection', 'reports', 'numbers', 'persons', 'establishment', 'dates', 'beef', 'materials', 'testing', 'swine', 'including', 'office', 'iii', 'program', 'business', 'form']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                               |

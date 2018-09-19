@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 213
 
 
+# Summary
+
+(a) In the absence of provisions to the contrary in the permit and of Department action pursuant to this section, a foreign air carrier may determine the schedules (including type of equipment used) pursuant to which it engages in transportation between points in the United States and points outside thereof.
+(c) In the case of any foreign air carrier permit for scheduled air transportation which is the subject of an air transport agreement between the United States and the government of the holder, the Department may with or without hearing issue an order, similar to that provided for in paragraph (b) of this section, if it makes the findings provided for in that subsection and, in addition, finds that the government or aeronautical authorities of the government of the holder, over the objections of the U.S. Government, have: (1) Taken action which impairs, limits, terminates, or denies operating rights, or (2) otherwise denied or failed to prevent the denial of, in whole or in part, the fair and equal opportunity to exercise the operating rights, provided for in such air transport agreement, of any U.S. air carrier designated thereunder with respect to flight operations to, from, through, or over the territory of such foreign government.
+Interested persons seeking reconsideration of the Department's determination on an application approval of schedules may file a petition pursuant to Rule 14 of part 302 of this chapter within 10 days of Department action.
+
+
+# Tags
+
+['shall', 'schedules', 'department', 'filing', 'ordered', 'transportation', 'pursuant', 'operating', 'issue', 'applicability', 'air', 'data', 'date', 'requires']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                            |

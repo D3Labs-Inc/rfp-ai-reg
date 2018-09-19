@@ -8,6 +8,22 @@
  CFR-2018-title25-vol2.Pt. 1001
 
 
+# Summary
+
+If appropriated funds are available but insufficient to meet the total requests from tribes/consortia, we will give first priority to those that have been selected from the applicant pool to negotiate an annual funding agreement.
+Each year, we will publish a notice in the Federal Register which provides relevant details about the application process, including: The funds available, timeframes, and requirements for negotiation and advance planning specified in this part.
+Any tribe/consortium that has been accepted into the applicant pool in accordance with &#167;&#8201;1001.5 and has been selected to negotiate a self-governance annual funding agreement is eligible to apply for a negotiation grant.
+Any tribe/consortium that is not a self-governance tribe and needs advance funding in order to complete the planning phase requirement may apply.
+(b) Are there other funds that may be available to self-governance tribes/consortia for planning and negotiating with DOI non-BIA bureaus?
+Yes. Tribes/consortia may contact the Director, Office of Self-Governance to determine if funds are available for the purpose of planning and negotiating with DOI non-BIA bureaus under this section.
+(g) What criteria will we use to award grants to those tribes/consortia requesting financial assistance to plan and negotiate for a DOI non-BIA program?
+
+
+# Tags
+
+['plan', 'tribes', 'government', 'applications', 'negotiation', 'tribal', 'grants', 'financial', 'funding', 'include', 'request', 'advance', 'audit', 'identify', 'consortiums', 'seek', 'priority', 'agreement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                             |

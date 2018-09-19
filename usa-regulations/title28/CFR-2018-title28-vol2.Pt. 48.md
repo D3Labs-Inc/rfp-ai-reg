@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 48
 
 
+# Summary
+
+These regulations set forth the procedure by which application may be made to the Attorney General for his approval of joint newspaper operating arrangements entered into after July 24, 1970, and for the filing with the Department of Justice of the terms of a renewal or amendment of existing joint newspaper operating arrangements, as required by the Newspaper Preservation Act, Pub. L.
+(a) Persons desiring to obtain the approval of the Attorney General of a joint newspaper operating arrangement after July 24, 1970, shall file an application in writing setting forth a short, plain statement of the reasons why the applicants believe that approval should be granted.
+(a) Any person who believes that the Attorney General should or should not approve a proposed arrangement, may at any time after filing of the application until 30 days after publication in the Federal Register of the notice required in &#167;&#8201;48.6,
+(a) The Attorney General shall decide, on the basis of the record as constituted in accordance with &#167;&#8201;48.13, whether approval is warranted under the Act. In rendering his decision, the Attorney General shall file therewith a statement of his findings and conclusions and the reasons therefor, or where a hearing has been held, he may adopt the findings and conclusions of the administrative law judge.
+
+
+# Tags
+
+['shall', 'filings', 'joint newspaper', 'publication', 'timely', 'general', 'notice', 'arrangements', 'periods', 'regulations set', 'reporter', 'applications', 'means', 'statements', 'hearings', 'term', 'approved', 'parties', 'written', 'operation', 'order', 'document', 'lawful', 'procedures', 'advertising']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                              |

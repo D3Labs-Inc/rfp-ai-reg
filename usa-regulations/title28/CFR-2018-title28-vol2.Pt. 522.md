@@ -8,6 +8,22 @@
  CFR-2018-title28-vol2.Pt. 522
 
 
+# Summary
+
+(a) This subpart describes the procedures for federal civil contempt of court commitments (civil contempt commitments) referred to the Bureau of Prisons (Bureau).
+We treat inmates serving civil contempt commitments in Bureau institutions the same as pretrial inmates.
+While serving only the civil contempt commitment, an inmate is not entitled to good time sentence credit.
+(a) Except for such camps and other satellite facilities where segregating a newly arrived inmate in detention is not feasible, the Warden shall ensure that a newly arrived inmate is cleared by the Medical Department and provided a social interview by staff before assignment to the general population.
+(1) Immediately upon an inmate's arrival, staff shall interview the inmate to determine if there are non-medical reasons for housing the inmate away from the general population.
+(2) Within 24 hours after an inmate's arrival, medical staff shall medically screen the inmate in compliance with Bureau of Prisons' medical procedures to determine if there are medical reasons for housing the inmate away from the general population or for restricting temporary work assignments.
+When the court orders or recommends an unescorted commitment to a Bureau of Prisons institution, the Bureau of Prisons authorizes the commitment and designates the institution for service of sentence.
+
+
+# Tags
+
+['medically', 'committing', 'shall', 'inmate', 'criminal', 'staff', 'civil', 'prisons', 'sentence', 'bureau']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                 |

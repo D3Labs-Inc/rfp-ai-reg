@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 571
 
 
+# Summary
+
+(c) When a petition for commutation of sentence is granted by the President of the United States, the U.S. Pardon Attorney will forward the original of the signed and sealed warrant of clemency evidencing the President's action to the Warden at the detaining institution, with a copy to the Director, Bureau of Prisons.
+Where the U.S. Magistrate Judge makes a finding of non-indigency based on the inmate's application for a determination of his ability to pay the committed fine, or fine and costs, staff shall refer the application to the appropriate United States Attorney for the purpose of making a final decision on the inmate's discharge under 18 U.S.C. 3569.
+(d) If the U.S. Magistrate Judge finds that the inmate is not indigent, Bureau staff shall forward a referral package to the appropriate United States Attorney for a final determination as to the inmate's ability to pay the committed fine, or fine and costs.
+(d) Upon receipt of a finding by the U.S. Magistrate Judge that the inmate is not indigent, Bureau staff shall forward a referral package to the appropriate United States Attorney for a final determination as to the inmate's ability to pay the committed fine, or fine and costs.
+
+
+# Tags
+
+['shall', 'released', 'inmate', 'prisons', 'staff', 'sentence', 'requesting', 'person', 'procedures', 'information', 'medical', 'programs', 'parole', 'institution', 'facilities', 'non', 'legal', 'committed', 'prior', 'federal', 'warrant', 'clothing', 'costs', 'state', 'employment', 'bureau', 'grants', 'general', 'community', 'director']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                          |

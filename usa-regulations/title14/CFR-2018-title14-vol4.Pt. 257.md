@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 257
 
 
+# Summary
+
+Each air carrier, foreign air carrier, or ticket agent providing flight itineraries and/or schedules for scheduled passenger air transportation to the public in the United States and to the Official Airline Guides and comparable publications, and, where applicable, computer reservation systems, shall ensure that each flight on which the designator code is not that of the operating carrier is clearly and prominently identified and contains the following disclosures.
+(2) In flight schedule information provided by an air carrier, foreign air carrier, or ticket agent to U.S. consumers on mobile browser-based Web sites or applications in response to any requested itinerary search, for each flight in scheduled passenger air transportation that is operated by a carrier other than the one listed for that flight, the corporate name of the transporting carrier must appear prominently in text format, with font size not smaller than the font size of the flight itinerary itself, on the first display following the input of a search query, immediately adjacent to each code-share flight in that search-results list.
+At the time of purchase, each selling carrier or ticket agent shall provide written disclosure of the actual operator of the flight to each consumer of scheduled passenger air transportation sold in the United States that involves a code-sharing arrangement or long-term wet lease.
+
+
+# Tags
+
+['shall', 'carrier', 'flight', 'disclosure', 'consumer', 'involve', 'written', 'transportation', 'airline', 'schedule', 'air', 'means', 'advertisement', 'follow', 'leases']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                  |

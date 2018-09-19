@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 115
 
 
+# Summary
+
+(a) To change an address of record for a minor's supervised IIM account, a custodial parent(s), legal guardian, or emancipated minor must provide BIA with the following information:
+A custodial parent, a legal guardian, a person who has been recognized by the BIA as having control and custody of the minor, or an emancipated minor may be eligible to withdraw funds from a minor's supervised account if there is an authorized disbursement request that is based upon the terms of a BIA-approved distribution plan.
+As a custodial parent, the legal guardian, the person who BIA has recognized as having control and custody of the minor, or an emancipated minor, what are your responsibilities if you receive trust funds from a minor's supervised account?
+(a) Make a written request to the BIA or the OTFM that is signed by the proper authorizing official(s), list the amount of trust funds to be withdrawn, provide any additional documentation or information required by law to withdraw certain trust funds, and must include a tribal resolution approving the withdrawal of the specified amount of trust funds; or
+
+
+# Tags
+
+['accounts', 'funds', 'trust', 'mean', 'bia', 'included', 'otfm', 'tribes', 'recorded', 'approved', 'federal', 'indian', 'moneys', 'information', 'tribal', 'receive', 'disbursements', 'pursuant', 'providers', 'document', 'requirements', 'directly', 'legally', 'payments', 'investment decisions', 'iim', 'restriction', 'address', 'acted', 'follows', 'direct', 'deposit', 'procedures', 'property', 'authority', 'states', 'day', 'bond', 'requests', 'represented', 'security', 'actions', 'specifically', 'administratively', 'years', 'electronically', 'specifies', 'adults', 'laws']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                             |

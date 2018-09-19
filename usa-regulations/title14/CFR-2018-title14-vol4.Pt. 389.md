@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 389
 
 
+# Summary
+
+Upon request and payment of fees as provided in subsequent sections, there are available, with respect to documents subject to inspection, services as follows:
+Public records and documents on file with the Civil Aeronautics Board will be located and copied upon request and payment of fees as set forth below:
+(a) Any document or record for which a filing fee is requried by &#167;&#8201;389.25 shall be accompanied by either (1) a check, draft, or postal money order, payable to the Civil Aeronautics Board, in the amount prescribed herein, or (2) a request for waiver or modification of the filing fee.
+(b) Applications asking for a waiver or modification of fees shall be sent to the Managing Director of the Board, and shall accompany the document filed.
+When no petition for review is filed with the Board, or when the Board reviews the Managing Director's decision, if the amount found due is not paid within 10 days after receipt of notification of the final determination, the document shall be returned to the filing party.
+The request should include applicable official government rules, decisions, statements of policy, or comparable evidence concerning filing fees for U.S. air carriers, or for all carriers serving that country.
+
+
+# Tags
+
+['fee', 'shall', 'applications', 'board', 'special services', 'file', 'requester', 'records', 'publications', 'copies', 'decision', 'tariffs', 'government', 'documents', 'charges', 'pursuant', 'act', 'postage', 'officer', 'division', 'foreign']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                             |

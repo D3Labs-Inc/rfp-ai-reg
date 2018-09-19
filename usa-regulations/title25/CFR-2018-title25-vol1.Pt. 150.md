@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 150
 
 
+# Summary
+
+The Land Titles and Records Offices within the Bureau are hereby designated as the offices of record for land records and title documents and are hereby charged with the Federal responsibility to record, provide custody, and maintain records that affect titles to Indian land, to examine titles, and to provide title status reports.
+In accordance with 43 CFR part 4, subpart D, Administrative Law Judges shall forward the original record of Indian probate decisions and copies of petitions for rehearing, reopening, and other appeals to the Land Titles and Records Office which provides service to the originating Agency.
+If trust land or Indian heirs involved in the probate are located within the jurisdictional area of another Land Titles and Records Office, the Administrative Law Judge shall also send a duplicate copy to that office.
+Land Titles and Records Offices may conduct a title examination of a tract of Indian land provide a title status report upon request to those persons authorized by law to receive such information.
+The Land Titles and Records Offices shall prepare and maintain maps of all reservations and similar entities within their jurisdictions to assist Bureau personnel in the execution of their title service responsibilities.
+
+
+# Tags
+
+['land', 'officers', 'recordation', 'shall', 'title', 'indians', 'areas', 'bureau', 'authority', 'tribes', 'restricted', 'probate', 'maps', 'agency', 'provide', 'information', 'united', 'report', 'acts', 'status', 'corrective', 'administrative', 'official']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                       |

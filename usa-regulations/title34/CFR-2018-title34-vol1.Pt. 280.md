@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 280
 
 
+# Summary
+
+The Magnet Schools Assistance Program provides grants to eligible local educational agencies (LEAs) or consortia of LEAs for use in magnet schools that are part of an approved desegregation plan and that are designed to bring students from different social, economic, ethnic and racial backgrounds together.
+(a) The Secretary funds applications proposing projects in magnet schools that are part of an approved desegregation plan and that are designed to bring students from different social, economic, ethnic, and racial backgrounds together.
+(h) After reviewing the information provided in response to paragraph (f)(4) or (5) of this section, or as provided under paragraph (g) of this section, the Secretary may request other information, if necessary (e.g., demographic data concerning the attendance areas in which the magnet schools are or will be located), to determine whether to approve an LEA's or consortium of LEAs' plan.
+(1) How the applicant will use assistance made available under this part to promote desegregation, including how the proposed magnet school programs will increase interaction among students of different social, economic, ethnic, and racial backgrounds;
+
+
+# Tags
+
+['students', 'school', 'educational', 'including', 'secretary', 'programs', 'academic', 'projected', 'applicant', 'plans', 'activities', 'lea', 'original', 'assisting', 'funding', 'magnet', 'requires', 'grant', 'desegregating', 'following', 'administrative', 'minority group', 'provides', 'select', 'racial', 'achieving', 'data', 'employment', 'culture', 'regulations', 'years', 'english', 'enrolled', 'costs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                           |

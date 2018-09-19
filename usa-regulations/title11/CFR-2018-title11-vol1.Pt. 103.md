@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 103
 
 
+# Summary
+
+(a) All receipts by a political committee shall be deposited in account(s) established pursuant to 11 CFR 103.2, except that any contribution may be, within 10 days of the treasurer's receipt, returned to the contributor without being deposited.
+(1) Contributions that present genuine questions as to whether they were made by corporations, labor organizations, foreign nationals, or Federal contractors may be, within ten days of the treasurer's receipt, either deposited into a campaign depository under 11 CFR 103.3(a) or returned to the contributor.
+(2) If the treasurer in exercising his or her responsibilities under 11 CFR 103.3(b) determined that at the time a contribution was received and deposited, it did not appear to be made by a corporation, labor organization, foreign national or Federal contractor, or made in the name of another, but later discovers that it is illegal based on new evidence not available to the political committee at the time of receipt and deposit, the treasurer shall refund the contribution to the contributor within thirty days of the date on which the illegality is discovered.
+(4) Any contribution which appears to be illegal under 11 CFR 103.3(b) (1) or (3), and which is deposited into a campaign depository shall not be used for any disbursements by the political committee until the contribution has been determined to be legal.
+
+
+# Tags
+
+['shall', 'depository', 'accounts', 'federal', 'campaign', 'funds', 'noting', 'maintain', 'drafts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                     |

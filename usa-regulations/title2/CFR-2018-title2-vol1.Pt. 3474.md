@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 3474
 
 
+# Summary
+
+Every contract between a grantee or subgrantee and a faith-based organization under a program of direct Federal financial assistance must include conditions to implement the requirements in paragraphs (c)(1), (d)(1), and (f) of this section.
+(2) The requirements referenced under paragraph (c)(1) of this section do not apply to a faith-based organization that provides goods or services to a beneficiary under a program supported only by indirect Federal financial assistance, as defined in 34 CFR 75.52(c)(3) and 76.52(c)(3).
+(2) The limitations on explicitly religious activities under paragraph (d)(1) of this section do not apply to a faith-based organization that provides services to a beneficiary under a program supported only by indirect Federal financial assistance, as defined in 34 CFR 75.52(c)(3) and 76.52(c)(3).
+(e)(1) A faith-based organization that contracts with a grantee or subgrantee, including a State, may retain its independence, autonomy, right of expression, religious character, and authority over its governance.
+(c) A grantee or subgrantee that is awarded competitive grant funds must have a plan to disseminate the openly licensed copyrightable works identified in paragraph (a) of this section.
+
+
+# Tags
+
+['religious', 'granted', 'work', 'federal', 'include', 'require', 'licenses', 'rights', 'omb', 'iii', 'provide', 'program', 'disseminate', 'circumstances', 'copyright', 'usc', 'funding', 'organization', 'act', 'deliverable']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                           |

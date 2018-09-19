@@ -8,6 +8,17 @@
  CFR-2018-title12-vol5.Pt. 309
 
 
+# Summary
+
+(B) The board of directors of the depository institution or subsidiary depository institution at least annually by resolution authorizes the reproduction and furnishing of reports of examination (the resolution shall specifically name the shareholder or parent holding company, state the address to which the reports are to be sent, and indicate that all reports furnished pursuant to the resolution remain the property of the Federal Deposit Insurance Corporation and are not to be disclosed or made public in any manner without the prior written approval of the Director of the Corporation's Division having primary authority over the exempt records as provided in paragraph (b) of this section;
+Absent the written authorization of the Corporation's General Counsel, or designee, to disclose the requested information, any current or former officer, director, employee, or agent of the Corporation, and any other person having custody of records of the Corporation, who is required to respond to a subpoena or other legal process, shall attend at the time and place therein specified and respectfully decline to produce any such record or give any testimony with respect thereto, basing such refusal on this section.
+
+
+# Tags
+
+['records', 'information', 'requested', 'fdic', 'shall', 'includes', 'authorize', 'institutions', 'fees', 'public', 'processes', 'agency', 'disclosure', 'federally', 'financial', 'pursuant', 'state', 'iii', 'section', 'costs', 'general', 'corporation', 'disclosing', 'services', 'provides', 'exempted', 'search', 'reports', 'follows', 'bank', 'persons', 'seek', 'examining', 'copy', 'documentation', 'means', 'day', 'foia', 'responsibilities', 'procedure', 'times', 'determines', 'act', 'employee', 'depository', 'office', 'rules', 'customer', 'expedited', 'educational', 'order', 'available', 'having', 'commercial', 'clearly', 'requiring', 'parties', 'terms', 'administrative']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                        |

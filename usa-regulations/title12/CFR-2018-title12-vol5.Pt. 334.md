@@ -8,6 +8,20 @@
  CFR-2018-title12-vol5.Pt. 334
 
 
+# Summary
+
+(a) Scope This section applies to a financial institution or creditor that is an insured state nonmember bank, State savings association whose deposits are insured by the Federal Deposit Insurance Corporation, insured state licensed branch of a foreign bank, or a subsidiary of such entities (except brokers, dealers, persons providing insurance, investment companies, and investment advisers).
+(1) Account means a continuing relationship established by a person with a financial institution or creditor to obtain a product or service for personal, family, household or business purposes.
+(6) Customer means a person that has a covered account with a financial institution or creditor.
+(i) Identify relevant Red Flags for the covered accounts that the financial institution or creditor offers or maintains, and incorporate those Red Flags into its Program;
+(a) Scope This section applies to an issuer of a debit or credit card (card issuer) that is an insured state nonmember bank, state savings association whose deposits are insured by the Federal Deposit Insurance Corporation, insured state licensed branch of a foreign bank, or a subsidiary of such entities (except brokers, dealers, persons providing insurance, investment companies, or investment advisers).
+
+
+# Tags
+
+['account', 'means', 'state', 'provides', 'address', 'information', 'insurance', 'includes', 'credit', 'acting', 'card', 'reasonably', 'periodically', 'corporation', 'compliance', 'covered', 'section', 'program', 'appropriately', 'risk', 'companies', 'establishing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 349
 
 
+# Summary
+
+A covered swap entity satisfies its requirement to post initial margin under &#167;&#8201;349.3(b) by posting to its counterparty initial margin in the form and amount, and at such times, that its counterparty is required to collect pursuant to a foreign regulatory framework, provided that the counterparty is subject to the foreign regulatory framework and the prudential regulators have made a determination under paragraph (d)(1) of this section, unless otherwise stated in that determination, and the counterparty's obligations under the non-cleared swap or non-cleared security-based swap do not have a guarantee from:
+(e) Compliance with the Commodities Exchange Act. Any FDIC-supervised insured depository institution that is engaged in retail forex business on July 15, 2011 shall be deemed, during the six-month period (including any extension) provided in paragraph (e) of this section, to be acting pursuant to a rule or regulation described in &#167;&#8201;2(c)(2)(E)(ii)(I) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)(E)(ii)(I)).
+With respect to any account controlled by any person other than the retail forex customer for whom such account is carried, each FDIC-supervised insured depository institution shall promptly furnish in writing to such other person the information required by paragraphs (a) and (b) of this section.
+
+
+# Tags
+
+['shall', 'included', 'requirements', 'margined', 'transactions', 'account', 'risks', 'customers', 'trading', 'securities', 'price', 'orders', 'modeling', 'entities', 'institutions', 'financial', 'pursuant', 'agreements', 'retail', 'record', 'company', 'written', 'date', 'day means', 'banking', 'non swaps', 'providing', 'foreign', 'currency', 'counterparties', 'development', 'periodic', 'credit', 'iii', 'act', 'investments', 'persons', 'sections', 'marketable', 'net basis', 'states', 'business', 'collateral', 'optionality', 'appropriate', 'applicable', 'initial', 'compliance', 'fdic', 'follows', 'international', 'eligibility', 'similar', 'executable', 'statements', 'authorities', 'money', 'thereof', 'dollar', 'positions', 'establishment', 'clear', 'post', 'sufficient', 'data', 'receive', 'describes', 'lender', 'determination', 'federal', 'commissions', 'future', 'government', 'regulator', 'funds', 'exchange', 'general']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

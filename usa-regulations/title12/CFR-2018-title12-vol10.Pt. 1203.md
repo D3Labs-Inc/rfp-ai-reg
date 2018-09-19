@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1203
 
 
+# Summary
+
+(a) This part implements the Equal Access to Justice Act, 5 U.S.C. 504, by establishing procedures for the filing and consideration of applications for awards of fees and other expenses to eligible individuals and entities who are parties to adversary adjudications before FHFA.
+(a) Agency counsel must file a response within 30 days after service of an application for award of fees and other expenses except as provided in paragraphs (b) and (c) of this section.
+(a) On request of either the applicant or agency counsel, on the adjudicative officer's own initiative, or as requested by the Director under &#167;&#8201;1203.27, the adjudicative officer may order further proceedings, such as an informal conference, oral argument, additional written submissions, or, as to issues other than substantial justification (such as the applicant's eligibility or substantiation of fees and expenses), pertinent discovery or an evidential hearing.
+(e) In decisions on applications filed pursuant to &#167;&#8201;1203.4(b), the adjudicative officer must include written findings and conclusions as to whether the applicant is a prevailing party and whether the position of FHFA was substantially justified; and, if at issue, whether the applicant unduly protracted or delayed the underlying adversary adjudication or whether special circumstance make the award unjust.
+
+
+# Tags
+
+['adjudication', 'application', 'officer means', 'agency', 'rates', 'expenses', 'state', 'reasons', 'fhfa', 'written', 'time', 'provides', 'party', 'administrative', 'act', 'file', 'service', 'information', 'awards', 'eligible', 'counsel', 'exhibit', 'fees']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                            |

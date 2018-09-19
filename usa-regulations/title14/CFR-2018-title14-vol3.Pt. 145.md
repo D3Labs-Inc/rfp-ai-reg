@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 145
 
 
+# Summary
+
+(a) Except as provided in &#167;&#8201;145.51(e) or paragraph (b), (c), or (d) of this section, a person who meets the requirements of subparts A through E of this part is entitled to a repair station certificate with appropriate ratings prescribing such operations specifications and limitations as are necessary in the interest of safety.
+(a) Except as otherwise prescribed by the FAA, a certificated repair station must have the equipment, tools, and materials necessary to perform the maintenance, preventive maintenance, or alterations under its repair station certificate and operations specifications in accordance with part 43.
+(b) Provide qualified personnel to plan, supervise, perform, and approve for return to service the maintenance, preventive maintenance, or alterations performed under the repair station certificate and operations specifications;
+(b) A repair station employee may not perform or directly supervise a job function listed in &#167;&#8201;121.1001 or &#167;&#8201;135.501 for, or on behalf of the part 121 or 135 operator including loading of items for transport on an aircraft operated by a part 121 or part 135 certificate holder unless that person has received training in accordance with the part 121 or part 135 operator's FAA approved hazardous materials training program.
+
+
+# Tags
+
+['including', 'certificate', 'aircraft', 'maintenance', 'equipment', 'requirements', 'class', 'inspect', 'station', 'performs', 'ratings', 'personnel', 'faa', 'application', 'manual', 'materials', 'work', 'electrically', 'approved', 'control', 'authorized', 'specifications', 'article', 'operations', 'persons', 'followed', 'aviation', 'functions', 'radio', 'services', 'training', 'electronic', 'employee', 'instrument', 'mechanical', 'technical', 'facilities', 'standard', 'indicates', 'accepts', 'records', 'types', 'provided', 'model', 'changing', 'means', 'individual', 'propeller']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                              |

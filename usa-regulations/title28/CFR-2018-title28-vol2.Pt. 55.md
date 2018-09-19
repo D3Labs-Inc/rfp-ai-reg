@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 55
 
 
+# Summary
+
+(a) The purpose of this part is to set forth the Attorney General's interpretation of the provisions of the Voting Rights Act which require certain States and political subdivisions to conduct elections in the language of certain &#8220;language minority groups&#8221; in addition to English.
+These sections state that whenever a jurisdiction subject to their terms &#8220;provides any registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, it shall provide them in the language of the applicable language minority group as well as in * * * English.
+In enforcing the Act, the Attorney General will consider whether the languages, forms of languages, or dialects chosen by covered jurisdictions for use in the electoral process enable members of applicable language minority groups to participate effectively in the electoral process.
+The requirements of sections 4(f)(4) and 203(c) apply with regard to the provision of &#8220;any registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots.&#8221; The basic purpose of these requirements is to allow members of applicable language minority groups to be effectively informed of and participate effectively in voting-connected activities.
+
+
+# Tags
+
+['languages', 'effective', 'state', 'sections', 'voting', 'groups', 'general', 'elections', 'materials', 'act means', 'jurisdiction', 'required', 'provide', 'ballot', 'activities', 'districts', 'coverage', 'minorities', 'included', 'assistance', 'english', 'members', 'process', 'covered', 'county', 'publication', 'concerning', 'example', 'offices']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                             |

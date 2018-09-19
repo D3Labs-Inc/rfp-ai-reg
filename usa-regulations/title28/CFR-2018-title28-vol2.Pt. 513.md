@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 513
 
 
+# Summary
+
+(i) If the requested FBI identification record is in the inmate's institution file, staff shall provide the inmate with a copy.
+(ii) If the requested FBI identification record is not in the inmate's institution file, staff shall direct the inmate to the procedure referenced in paragraph (a)(1) of this section.
+Disclosable records in the Inmate Central File include, but are not limited to, documents relating to the inmate's sentence, detainer, participation in Bureau programs such as the Inmate Financial Responsibility Program, classification data, parole information, mail, visits, property, conduct, work, release processing, and general correspondence.
+(b) For a current Bureau Program Statement not containing rules (regulations published in the Federal Register and codified in 28 CFR), inmates may request that it be placed in the institution law library.
+Within a reasonable time after a request, Bureau staff are to provide an inmate personal copies of requested disclosable documents maintained in the Inmate Central File and Medical Record.
+Requests for any Bureau record (including Program Statements and Operations Memoranda) ordinarily shall be processed pursuant to the Freedom of Information Act, 5 U.S.C. 552.
+
+
+# Tags
+
+['inmate', 'requesting', 'staff shall', 'bureau', 'identification record', 'information', 'regulations', 'procedures', 'disclosable', 'file', 'document', 'report', 'required', 'general', 'include', 'reviewed', 'institution', 'programs', 'administrator', 'court', 'released', 'date', 'contained', 'agency']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                               |

@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1607
 
 
+# Summary
+
+For example, the use of recruiting procedures designed to attract members of a particular race, sex, or ethnic group, which were previously denied employment opportunities or which are currently underutilized, may be necessary to bring an employer into compliance with Federal law, and is frequently an essential element of any effective affirmative action program; but recruitment practices are not considered by these guidelines to be selection procedures.
+The determination of the number of persons necessary to permit the conduct of a meaningful criterion-related study should be made by the user on the basis of all relevant information concerning the selection procedure, the potential sample and the employment situation.
+In the case of individual sample members these data should include scores on the selection procedure(s), scores on criterion measures, age, sex, race, or ethnic group status, and experience on the specific job on which the validation study was conducted, and may also include such things as education, training, and prior job experience, but should not include names and social security numbers.
+
+
+# Tags
+
+['job', 'validating', 'including', 'selections', 'procedures', 'studied', 'essential', 'employer', 'evidence', 'user', 'standardization', 'work', 'information', 'measured', 'personality', 'use', 'guidelines', 'requirements', 'grouping', 'performing', 'applications', 'tested', 'samples', 'generally', 'reports', 'appropriate', 'data', 'opportunities', 'equally', 'rates', 'statistically', 'employee', 'relation', 'developed', 'follows', 'criterion', 'affirmative action', 'recorded', 'agencies', 'adverse impact', 'provided', 'evaluated', 'substantial', 'specification', 'result', 'techniques', 'correlated', 'federal', 'availability', 'behaviors', 'scores', 'observed', 'discriminated', 'showing', 'acted', 'set', 'level', 'subjects', 'constructed', 'concern', 'alternative', 'factors', 'described', 'circumstances', 'training', 'form', 'closely', 'recordkeeping']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

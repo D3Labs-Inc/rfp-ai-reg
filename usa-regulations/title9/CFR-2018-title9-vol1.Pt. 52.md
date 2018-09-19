@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 52
 
 
+# Summary
+
+An official document for movement of swine under this part that is issued by an APHIS employee, State representative, or accredited veterinarian and that lists the disease status and individual identification of the animal, where consigned, cleaning and disinfection requirements, and proof of slaughter certification by a recognized slaughtering establishment.
+(b) If swine from herds that are destroyed because the herds are known to be infected with pseudorabies are not accepted at a recognized slaughtering establishment, or the owner and an APHIS employee or State representative agree they will not be accepted by a recognized slaughtering establishment, the Administrator is authorized to pay 100 percent of the expenses of the purchase, destruction, and disposition of such swine.
+(a) Herds of swine and individual breeding sows to be destroyed because they are known to be infected with pseudorabies will be appraised by an APHIS employee and a representative of the State jointly, a representative of the State alone, or, if the State authorities approve, by an APHIS employee alone.
+(a) When swine have been destroyed under &#167;&#8201;52.2(a), any claim for indemnity must be presented, along with the report of net salvage proceeds required under &#167;&#8201;52.5, to the veterinarian in charge on a form furnished by APHIS.
+
+
+# Tags
+
+['test', 'state', 'pseudorabies', 'swine', 'official', 'animal', 'slaughtered', 'approved', 'disease', 'claims', 'islands', 'veterinarian', 'number', 'indemnity', 'person', 'individual', 'health', 'forms', 'administrator', 'services', 'act', 'salvage']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                               |

@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 553
 
 
+# Summary
+
+It is the policy of the Bureau of Prisons that an inmate may possess ordinarily only that property which the inmate is authorized to retain upon admission to the institution, which is issued while the inmate is in custody, which the inmate purchases in the institution commissary, or which is approved by staff to be mailed to, or otherwise received by an inmate, that does not threaten the safety, security, or good order of the facility or protection of the public.
+(1) Staff shall consider as hard contraband any item which threatens the safety, security, or good order of the facility or protection of the public and which ordinarily is not approved for possession by an inmate or for admission into the institution.
+(1) Staff shall return to the institution's issuing authority any item of government property seized as contraband, except where the item is needed as evidence for disciplinary action or criminal prosecution.
+Where the inmate has established ownership of a contraband item, but is unwilling, although financially able to pay postage as required, or refuses to provide a mailing address for return of the property, the property is to be disposed of through approved methods, including destruction of the property.
+
+
+# Tags
+
+['shall', 'staff', 'item', 'property', 'institution', 'personal', 'inmate', 'including', 'area', 'contraband', 'approved', 'limit', 'materials', 'securable', 'authority', 'ordinarily', 'possessed', 'funds', 'commissary', 'legal', 'written', 'following']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                              |

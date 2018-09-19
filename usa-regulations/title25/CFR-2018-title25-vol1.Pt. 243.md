@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 243
 
 
+# Summary
+
+Transfer means the conveyance of ownership of reindeer or reindeer products, or any interest in them or interest in an Alaska Native reindeer organization, by any method.
+(a) Anyone, including non-Natives, may own imported reindeer in Alaska for any legitimate purpose, subject to State and Federal animal health laws and regulations.
+(b) Sale of transfer of live reindeer between Alaska Natives or Native reindeer organizations.
+If you are a non-Native who wants to acquire live Alaskan reindeer, you must apply to us in writing.
+Only the titles to Alaskan reindeer retained for research projects, or possessed by non-Natives under Special Use Permits for Public Display, or the titles to any Alaskan reindeer which may be acquired by the Government in the future for purposes of reestablishing a reindeer loan program, are held by the United States in trust for Alaska Natives.
+However, a trust responsibility continues to exist with respect to all Alaskan reindeer, insofar as the Government remains responsible for carrying out the provisions of the Reindeer Act and these regulations, including the provisions requiring approval of transfers to non-Natives, and providing for the determination of inheritance.
+
+
+# Tags
+
+['reindeer', 'native', 'act means', 'permit', 'alaska', 'transferring', 'government', 'alaskan', 'states', 'federal', 'live', 'required', 'region', 'animal', 'apply', 'research']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                           |

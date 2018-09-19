@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 256
 
 
+# Summary
+
+(a) The purpose of this part is to set forth requirements for the display of flight options by electronic airline information systems that provide air carrier or foreign air carrier schedule, fare, or availability information, including, but not limited to, global distribution systems (GDSs), corporate booking tools, and internet flight search tools, for use by consumers, carriers, ticket agents, and other business entities so as to prevent unfair or deceptive practices in the distribution and sale of air transportation.
+(a) This part applies to any air carrier, foreign air carrier, or ticket agent that operates an electronic airline information system, e.g., GDS, corporate booking tool, or internet flight search tool, that combines the schedules, fares or availability information of more than one air carrier or foreign air carrier for the distribution or sale in the United States of interstate or foreign air transportation.
+Electronic airline information system or EAIS means a system that combines air carrier or foreign air carrier schedule, fare, or availability information for transmission or display to air carriers or foreign air carriers, ticket agents, other business entities, or consumers.
+
+
+# Tags
+
+['display', 'air carrier', 'font', 'travel', 'airline information systems', 'flight', 'total', 'search', 'corporate', 'companies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                               |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol2.Pt. 206
 
 
+# Summary
+
+(1) The policies and procedures on exposure established by a bank under &#167;&#8201;206.3(c) of this part shall limit a bank's interday credit exposure to an individual correspondent to not more than 25 percent of the bank's total capital, unless the bank can demonstrate that its correspondent is at least adequately capitalized, as defined in &#167;&#8201;206.5(a) of this part.
+Information obtained directly from a correspondent for the purpose of this section should be based on the most recently available Report of Condition and Income, Thrift Financial Report, or financial statement of the correspondent.
+(1) For a correspondent that is a U.S. depository institution, the ratios shall be calculated in accordance with the capital adequacy guidelines of the correspondent's primary federal supervisor.
+(2) For a correspondent that is a foreign bank organized in a country that has adopted the risk-based framework of the Basel Capital Accord, the ratios shall be calculated in accordance with the capital adequacy guidelines of the appropriate supervisory authority of the country in which the correspondent is chartered.
+(3) For a correspondent that is a foreign bank organized in a country that has not adopted the risk-based framework of the Basel Capital Accord, the ratios shall be calculated in accordance with the provisions of the Basel Capital Accord.
+
+
+# Tags
+
+['exposure', 'correspondents', 'banking', 'capitalized', 'shall', 'meaning', 'market', 'including', 'risks', 'financial', 'transactions', 'credit', 'total', 'insurance', 'limit', 'reports', 'require', 'excess', 'federal', 'state', 'base', 'different', 'obtain']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                              |

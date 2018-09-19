@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 165
 
 
+# Summary
+
+(iii) The date by which the savings association subject to the notice of reclassification may file with the OCC a written appeal of the proposed reclassification and a request for a hearing, which shall be at least 14 calendar days from the date of service of the notice unless the OCC determines that a shorter period is appropriate in light of the financial condition of the savings association or other relevant circumstances.
+Upon receipt of a timely written request that includes a request for a hearing, the OCC shall issue an order directing an informal hearing to commence no later than 30 days after receipt of the request, unless the OCC allows further time at the request of the Federal savings association.
+Upon receipt of a timely written request from a Respondent for an informal hearing on the portion of a directive requiring a Federal savings association to dismiss from office any director or senior executive officer, the OCC shall issue an order directing an informal hearing to commence no later than 30 days after receipt of the request, unless the Respondent requests a later date.
+Within 20 calendar days following the date the hearing and the record on the proceeding are closed, the presiding officer(s) shall make a recommendation to the OCC concerning the Respondent's request for reinstatement with the Federal savings association.
+
+
+# Tags
+
+['shall', 'capitalized', 'occ', 'written', 'association', 'witness', 'requests', 'reclassification', 'period', 'action', 'days', 'relevant']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                               |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 723
 
 
+# Summary
+
+A federally insured credit union that, between May 13, 2016 and January 1, 2017, makes a member business loan and does not require the full and unconditional personal guarantee from the principal(s) of the borrower who has a controlling interest in the borrower is not required to seek a waiver from the requirement for personal guarantee, but it must determine and document in the loan file that mitigating factors sufficiently offset the relevant risk.
+(b) A federally insured credit union that elects to make a construction or development loan must ensure that its commercial loan policy includes adequate provisions by which the collateral value associated with the project is properly determined and established.
+Any third party used by a federally insured credit union to meet the requirements of this part must be independent from the commercial loan transaction and may not have a participation interest in a loan or an interest in any collateral securing a loan that the third party is responsible for reviewing, or an expectation of receiving compensation of any sort that is contingent on the closing of the loan, with the following exceptions:
+
+
+# Tags
+
+['loan', 'including', 'risk', 'unions', 'approves', 'commercial lending', 'borrowers', 'financial', 'means', 'qualifying costs', 'marketability', 'collateral', 'requirements', 'controlled', 'properties', 'state', 'members', 'general', 'construct', 'limits', 'factors', 'projection', 'insured credit', 'debt', 'development', 'securing', 'value', 'persons', 'follows', 'processing', 'business', 'servicing', 'condition', 'makes', 'income', 'relationship', 'standards', 'section', 'similar', 'management', 'expense', 'fully', 'available', 'senior', 'agreements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                         |

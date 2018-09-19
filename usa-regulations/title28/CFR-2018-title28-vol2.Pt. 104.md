@@ -8,6 +8,17 @@
  CFR-2018-title28-vol2.Pt. 104
 
 
+# Summary
+
+(2) The Special Master may require as part of the notice requirement pursuant to &#167;&#8201;104.4(b) that the Personal Representative of the deceased individual provide copies of a designated portion of the Eligibility Form to the immediate family of the decedent (including, but not limited to, the spouse, former spouses, children, other dependents, and parents), to the executor, administrator, and beneficiaries of the decedent's will, and to any other persons who may reasonably be expected to assert an interest in an award or to have a cause of action to recover damages relating to the wrongful death of the decedent.
+As provided in section 405(b)(6) of the Act, the Special Master shall reduce the amount of compensation by the amount of collateral source compensation the claimant (or, in the case of a Personal Representative, the victim's beneficiaries) has received or is entitled to receive as a result of the terrorist- related aircraft crashes of September 11, 2001.
+
+
+# Tags
+
+['shall', 'claim', 'claimant', 'compensate', 'include', 'determines', 'information', 'medical', 'provides', 'eligibility', 'award', 'losses', 'documented', 'related', 'act', 'site', 'funds', 'appropriate', 'service', 'individualized', 'persons', 'payment', 'income', 'tax', 'master', 'deem', 'condition', 'health', 'pay', 'pursuant', 'physical', 'term', 'means', 'benefit', 'limits', 'filed', 'government', 'presumed', 'victim', 'collateral', 'required', 'action', 'state', 'parties', 'statements', 'fee', 'spouses', 'future', 'law', 'experts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                               |

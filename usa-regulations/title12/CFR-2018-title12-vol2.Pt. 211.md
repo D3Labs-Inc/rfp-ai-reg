@@ -8,6 +8,18 @@
  CFR-2018-title12-vol2.Pt. 211
 
 
+# Summary
+
+Except as the Board may otherwise determine, in order for an investor to make investments pursuant to the procedures set out in this section, the investor, the bank holding company, and the member bank shall be in compliance with applicable minimum standards for capital adequacy set out in the Capital Adequacy Guidelines; provided that, if the investor is an Edge or agreement corporation, the minimum capital required is total and tier 1 capital ratios of 8 percent and 4 percent, respectively.
+(B) The foreign company may engage in activities in the United States that consist of banking, securities, insurance, or other financial operations, or types of activities permitted by regulation or order under section 4(c)(8) of the BHC Act (12 U.S.C. 1843(c)(8)), only under regulations of the Board or with the prior approval of the Board, subject to the following;
+In approving an application under this paragraph (c)(1)(iii), the Board, after requesting and taking into consideration the views of the licensing authority, may impose any conditions or restrictions relating to the activities or business operations of the proposed branch, agency, or commercial lending company subsidiary, including restrictions on sources of funding.
+
+
+# Tags
+
+['banks', 'shall', 'activity', 'investing', 'includes', 'foreign', 'state', 'board', 'providing', 'authorities', 'iii', 'requires', 'information', 'corporations', 'acting', 'companies', 'officers', 'credit', 'service', 'operating', 'means', 'assets', 'generally', 'limitations', 'organize', 'branches', 'underwrite', 'applications', 'section', 'business', 'securities', 'capitalized', 'financial', 'establishments', 'prior', 'agencies', 'managed', 'loans', 'deposit', 'internal', 'pursuant', 'insured', 'determined', 'risks', 'addition', 'report', 'controlled', 'approved', 'sharing', 'notice', 'procedure', 'relating', 'standards set', 'acquire', 'periods', 'engaging', 'permissible', 'institution', 'receive', 'subsidiaries', 'transaction', 'proposal', 'laws', 'equity', 'examine', 'federal', 'written', 'follows', 'considered', 'outside', 'debt', 'subject', 'exist', 'total', 'usc', 'abroad', 'customers', 'countries', 'obligated', 'holds', 'basis', 'specific', 'reasons', 'compliance', 'governments', 'accounts', 'regulate', 'rate', 'sic', 'positions', 'investor']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

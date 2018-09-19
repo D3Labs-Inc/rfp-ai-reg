@@ -8,6 +8,16 @@
  CFR-2018-title25-vol1.Pt. 215
 
 
+# Summary
+
+If, however, in any case where lands have heretofore been leased and lead and zinc ores have been discovered thereon, it shall appear to the Secretary of the Interior that the extension of the existing lease or leases or the granting of new leases to the present lessees, or to the persons or parties holding under said lessees by assignment, sublease, or mining contract, would not be to the best interests of the Indian owners of the land, the Secretary of the Interior may, at the expiration, cancellation, or forfeiture of the existing lease, cause the mining lease rights on said land to be offered for sale at public auction to the highest bidder.
+
+
+# Tags
+
+['shall', 'leases', 'said', 'indian', 'land', 'royalty', 'mines', 'term', 'bidders', 'price', 'personal', 'applications', 'notices', 'mineral', 'bond', 'concentrates', 'incompetent', 'survey showing', 'representative', 'execute', 'county', 'officers', 'assignments', 'drill', 'interior', 'publication', 'operators', 'thereto', 'set', 'time', 'designate', 'contracts', 'actually', 'party', 'zinc', 'bids', 'corporation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                   |

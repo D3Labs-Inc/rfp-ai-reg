@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 707
 
 
+# Summary
+
+In an oral response to a member or potential member's inquiry about dividend rates payable on its accounts, the credit union shall state the annual percentage yield.
+(2) For interest-bearing accounts and for dividend-bearing term share accounts, specify an interest (dividend) rate and annual percentage yield that were offered within the most recent seven calendar days; state that the rate and yield are accurate as of an identified date; and provide a telephone number members may call to obtain current rate information.
+(2) For interest bearing accounts and for dividend-bearing term share accounts, specify an interest rate and annual percentage yield that were offered within the most recent seven calendar days; state that the rate and yield are accurate as of an identified date; and provide a telephone number members may call to obtain current rate information; and
+(B) For dividend-bearing accounts other than term share accounts, a credit union shall specify a dividend rate and annual percentage yield (using those terms) as of the last dividend declaration date.
+For term share accounts with a maturity longer than one year that do not renew automatically at maturity, credit unions shall disclose to members the maturity date and whether dividends will be paid after maturity.
+
+
+# Tags
+
+['dividend', 'accounts', 'credited', 'disclosures', 'rate', 'union', 'shall', 'member', 'period', 'fees', 'balances', 'requires', 'terms', 'means', 'advertisements', 'deposit', 'informational', 'days', 'dates', 'statement', 'funds', 'provided', 'iii', 'states', 'earning', 'overdrafts', 'maturity', 'yields', 'notice', 'applicable', 'act', 'times', 'purpose']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                    |

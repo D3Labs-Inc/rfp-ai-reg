@@ -8,6 +8,19 @@
  CFR-2018-title12-vol2.Pt. 213
 
 
+# Summary
+
+(n) Residual value means the value of the leased property at the end of the lease term, as estimated or assigned at consummation by the lessor, used in calculating the base periodic payment.
+The total amount to be paid prior to or at consummation or by delivery, if delivery occurs after consummation, using the term &#8220;amount due at lease signing or delivery.&#8221; The lessor shall itemize each component by type and amount, including any refundable security deposit, advance monthly or other periodic payment, and capitalized cost reduction; and in motor-vehicle leases, shall itemize how the amount due will be paid, by type and amount, including any net trade-in allowance, rebates, noncash credits, and cash payments in a format substantially similar to the model forms in appendix A of this part.
+Such charges include the amount of any liability the lease imposes upon the lessee at the end of the lease term; the potential difference between the residual and realized values referred to in paragraph (k) of this section is excluded.
+A statement that the lessee should refer to the lease documents for additional information on early termination, purchase options and maintenance responsibilities, warranties, late and default charges, insurance, and any security interests, if applicable.
+
+
+# Tags
+
+['lease', 'disclosures', 'payment', 'require', 'advertisement', 'shall', 'states', 'meaning', 'charge', 'values', 'information', 'act', 'terms', 'substantially', 'itemized', 'consumer', 'lessors', 'following', 'property', 'statement', 'period', 'cost', 'amounts', 'numbers', 'provisions', 'section', 'person', 'scheduled', 'liability', 'credit', 'occurs', 'reasonable', 'additional', 'total', 'prior']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                             |

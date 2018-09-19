@@ -8,6 +8,18 @@
  CFR-2018-title12-vol2.Pt. 218
 
 
+# Summary
+
+For purposes of calculating the yearly compensation percentage for a trust or fiduciary account, a bank may at its election exclude the compensation associated with any securities transaction conducted in accordance with the exceptions in section 3(a)(4)(B)(i) or sections 3(a)(4)(B)(iii)-(xi) of the Act (15 U.S.C. 78c(a)(4)(B)(i) or 78c(a)(4)(B)(iii)-(xi)) and the rules issued thereunder, including any exemption related to such exceptions jointly adopted by the Commission and the Board, provided that if the bank elects to exclude such compensation, the bank must exclude the compensation from both the relationship compensation (if applicable) and total compensation for the account.
+(a) A bank is exempt from the definition of the term &#8220;broker&#8221; under section 3(a)(4) of the Act (15 U.S.C. 78c(a)(4)) to the extent that it effects transactions on behalf of a customer in securities issued by a money market fund, provided that:
+A bank is exempt from the definition of the term &#8220;broker&#8221; under section 3(a)(4) of the Act (15 U.S.C. 78c(a)(4)) to the extent that, as part of its customary banking activities, the bank accepts orders to effect transactions in securities for an employee benefit plan account or an individual retirement account or similar account for which the bank acts as a custodian if:
+
+
+# Tags
+
+['bank', 'security', 'investment', 'compensated', 'provides', 'services', 'means', 'customer', 'year', 'shall', 'includes', 'similar plan', 'employee', 'companies', 'sections', 'based', 'fee', 'transaction', 'acting', 'reason', 'received', 'iii', 'terms', 'shares', 'referral', 'advertisements', 'records', 'asset', 'fiduciary', 'order', 'sales', 'trust', 'dealer', 'exemptions', 'pursuant', 'held', 'savings', 'funds', 'basis', 'branch', 'index', 'requiring', 'tax', 'applicable', 'activities', 'information', 'person']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                         |

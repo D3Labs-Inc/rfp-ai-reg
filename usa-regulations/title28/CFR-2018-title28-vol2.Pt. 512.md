@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 512
 
 
+# Summary
+
+(b) Requests from Federal agencies, the Congress, the Federal judiciary, or State or local governments to collect information about areas for which they are responsible and requests by private organizations for organizational rather than personal information from Bureau staff shall be reviewed by ORE to determine which provisions of this subpart may be waived without jeopardizing the safety of human subjects.
+(c) If the study is to be conducted at more than one institution or at any other Bureau location, the applicant shall submit the research proposal to the Chief, Office of Research and Evaluation, Federal Bureau of Prisons, 320 First Street, NW., Washington, DC 20534.
+(a) Employees, including consultants, of the Bureau who are conducting authorized research projects shall have access to those records relating to the subject which are necessary to the purpose of the research project without having to obtain the subject's consent.
+(b) A researcher who is an employee of the Bureau shall include in the informed consent statement a declaration of the authority under which the research is conducted.
+(b) Prior to submitting for publication the results of a research project conducted under this subpart, the researcher shall provide two copies of the material, for informational purposes only, to the Chief, Office of Research and Evaluation, Central Office, Bureau of Prisons.
+
+
+# Tags
+
+['research', 'shall', 'information', 'projects', 'requiring', 'bureau', 'subject', 'reviewed', 'data', 'anticipated', 'record', 'proposal', 'statement', 'inmate', 'risk', 'prisons', 'involves', 'ore', 'including', 'staff', 'official', 'description', 'institution', 'director', 'consent', 'written', 'conduct', 'test', 'individual', 'approving']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                     |

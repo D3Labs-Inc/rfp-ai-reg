@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 175
 
 
+# Summary
+
+Customer service means the assistance or service provided to customers, other than the actual delivery of electric power or energy, including but not limited to such items as: Line extension, system upgrade, meter testing, connections or disconnection, special meter-reading, or other assistance or service as provided in the operations manual.
+Notices of the proposed action shall be published in local newspaper(s) of general circulation, posted at the utility office(s), and provided by such other means, if any, as determined by the Area Director.
+The Area Director shall set service fees and electric power rates in accordance with the procedures in &#167;&#167;&#8201;175.11 and 175.12 to generate power revenue.
+(1) Notices of public meetings shall be published in local newspapers of general circulation, posted at the utility office(s), and provided by such other means, if any, as determined by the Area Director.
+(2) The customer has not paid the bill and the final decision rendered in the appeal requires payment of the bill, the bill shall be handled as a delinquent account and the amount of the bill shall be subject to interest, penalties, and administrative costs pursuant to section 3 of the Federal Claims Collection Act of 1966, As amended, 31 U.S.C. 3717.
+
+
+# Tags
+
+['shall', 'utilize', 'services', 'customer', 'electrical', 'rate', 'requires', 'collected', 'metered', 'billing', 'appeal', 'actions', 'power', 'appellant means', 'affairs', 'officer', 'personal', 'providing', 'obligations', 'written', 'manual', 'special', 'public', 'applicable', 'director', 'notices', 'rendered']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                  |

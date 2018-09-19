@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1234
 
 
+# Summary
+
+A sponsor may satisfy some or all of its risk retention requirements under &#167;&#8201;1234.3 with respect to a securitization transaction if a third party (or any majority-owned affiliate thereof) purchases and holds for its own account an eligible horizontal residual interest in the issuing entity in the same form, amount, and manner as would be held by the sponsor under &#167;&#8201;1234.4 and all of the following conditions are met:
+The sponsor provides, or causes to be provided, to potential investors a reasonable period of time prior to the sale of the asset-backed securities as part of the securitization transaction and, upon request, to the Commission and its appropriate Federal banking agency, if any, the following disclosure in written form under the caption &#8220;Credit Risk Retention&#8221;:
+Except as set forth in paragraph (b)(8)(ii) of this section, each third-party purchaser and its affiliates must comply with the hedging and other restrictions in &#167;&#8201;1234.12 as if it were the retaining sponsor with respect to the securitization transaction and had acquired the eligible horizontal residual interest pursuant to &#167;&#8201;1234.4; provided that, the hedging and other restrictions in &#167;&#8201;1234.12 shall not apply on or after the date that each CRE loan (as defined in &#167;&#8201;1234.14) that serves as collateral for outstanding ABS interests has been defeased.
+
+
+# Tags
+
+['loan', 'included', 'means', 'assets', 'shall', 'securing', 'interests', 'requirements', 'transactions', 'property', 'pursuant', 'issue', 'securitizers', 'sponsored', 'entity', 'credit', 'provides', 'qualifying', 'risks', 'collateralize', 'agreements', 'servicer', 'mortgages', 'payment', 'applicable', 'principally', 'followed', 'section', 'abs', 'specifying', 'purchases', 'values', 'periodic', 'funding', 'rates', 'material', 'describes', 'similar', 'financial', 'iii', 'income', 'development', 'original', 'commercially', 'retained', 'documented', 'controlled', 'federal', 'thereof', 'personal', 'account', 'sellers', 'dates', 'basis', 'prior', 'capitalization', 'clo', 'amounts', 'affiliation', 'generally', 'obligation', 'cash', 'determination', 'act', 'standards', 'hedging', 'base', 'timely', 'market', 'residential', 'operation', 'definition', 'states', 'appraisal', 'percent', 'financing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

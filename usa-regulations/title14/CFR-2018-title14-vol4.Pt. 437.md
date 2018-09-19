@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 437
 
 
+# Summary
+
+An applicant must provide enough information for the FAA to analyze the environmental impacts associated with proposed reusable suborbital rocket launches or reentries.
+(b) An applicant must identify, describe, and provide verification evidence of the methods and systems used to meet the requirements of &#167;&#8201;437.59 to conduct any key flight-safety event so that the reusable suborbital rocket's instantaneous impact point, including its expected dispersions, is over unpopulated or sparsely populated areas, and to conduct each reusable suborbital rocket flight so that the reentry impact point does not loiter over a populated area.
+(a) During each permitted flight, a permittee must contain its reusable suborbital rocket's instantaneous impact point within an operating area determined in accordance with paragraph (b) and outside any exclusion area defined by the FAA in accordance with paragraph (c) of this section.
+(a) A permittee must conduct any key flight-safety event so that the reusable suborbital rocket's instantaneous impact point, including its expected dispersion, is over an unpopulated or sparsely populated area.
+(2) A written agreement between the applicant and responsible Air Traffic Control authority having jurisdiction over the airspace through which a permitted launch or reentry is to take place, for measures necessary to ensure the safety of aircraft.
+
+
+# Tags
+
+['flights', 'permit', 'safety', 'operation', 'including', 'rocket', 'required', 'areas', 'report', 'launches', 'provide', 'impacts', 'additional', 'environmental', 'responsibility', 'measures', 'procedural', 'faa', 'plan', 'events', 'investigating', 'hazard', 'analysis', 'public', 'designing', 'iii', 'contained', 'systems', 'reentry', 'traffic', 'states', 'control', 'identify', 'authorizing', 'process', 'vehicle', 'means', 'records']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                               |

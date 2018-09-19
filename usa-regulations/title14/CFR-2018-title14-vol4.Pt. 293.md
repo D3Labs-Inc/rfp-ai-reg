@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 293
 
 
+# Summary
+
+(i) In Category A markets, carriers are exempted from the duty to file all passenger tariffs unless they are nationals of countries listed in Category C, or are subject to the provisions of paragraph (c) of this section.
+(ii) In Category B markets, carriers are exempted from the duty to file all passenger tariffs except those setting forth one-way economy-class fares and governing provisions thereto, unless they are nationals of countries listed in Category C, or are subject to the provisions of paragraph (c) of this section.
+(d) Air carriers and foreign air carriers are exempted from the duty to file governing rules tariffs containing general conditions of carriage with the Department of Transportation, as required by 49 U.S.C. 41504 and 14 CFR part 221.
+To the extent that a carrier holds an effective exemption from the duty to file tariffs under this part, it shall not, unless otherwise directed by order of the Department, be subject to tariff posting, notification or subscription requirements set forth in 49 U.S.C. 41504 or 14 CFR part 221, except as provided in &#167;&#8201;293.21.
+
+
+# Tags
+
+['tariff', 'carrier', 'requires', 'filing', 'country', 'passengers', 'shall', 'transportation', 'notice', 'provided', 'aviation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                       |

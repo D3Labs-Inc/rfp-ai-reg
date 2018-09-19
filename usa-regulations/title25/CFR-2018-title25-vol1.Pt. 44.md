@@ -8,6 +8,26 @@
  CFR-2018-title25-vol1.Pt. 44
 
 
+# Summary
+
+The Secretary can make grants to Indian tribes and tribal organizations that operate:
+(c) A Bureau-funded school approved by tribal governing body.
+How does a tribal governing body retrocede a program to the Secretary?
+If no date is agreed upon, the retrocession is effective 120 days after the tribal governing body notifies the Bureau.
+(1) The tribal governing body decides whether the school becomes Bureau-operated or contracted under 25 U.S.C. 450 et seq.; and
+(b) The Secretary cannot revoke an eligibility determination if the tribe or tribal organization is in compliance with 25 U.S.C. 2505(c).
+(d) In order to revoke eligibility for a grant, the Secretary must send the tribe or tribal organization a written notice that:
+(e) The tribe or tribal organization may appeal a notice of revocation or reassumption by requesting a hearing under 25 CFR part 900, subpart L or P.
+The tribe or school board shall have a right to appeal the reassumption pursuant to 25 CFR part 900, subpart L.
+What Indian Self-Determination Act provisions apply to grants under the Tribally Controlled Schools Act?
+(a) The following provisions of 25 CFR part 900 apply to grants under the Tribally Controlled Schools Act.
+
+
+# Tags
+
+['school', 'act', 'tribal', 'grants', 'payment', 'information', 'body', 'subpart', 'indian', 'dispute', 'effective', 'secretary', 'control', 'determination']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                     |

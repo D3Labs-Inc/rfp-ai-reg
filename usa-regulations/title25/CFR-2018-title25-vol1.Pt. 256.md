@@ -8,6 +8,23 @@
  CFR-2018-title25-vol1.Pt. 256
 
 
+# Summary
+
+The HIP is a safety-net program that provides grants for the cost of services to repair, renovate, or replace existing housing and/or provide housing.
+(b) The servicing housing office will use your completed application to determine if you are eligible for the HIP.
+(2) If you are found eligible for the program, the servicing housing office will assess your application for need, according to the factors and numeric values shown in the following table.
+(c) The servicing housing office will develop a list of the applications received and considered for the HIP for the current program year.
+Your servicing housing office will inform you whether you will receive funds in writing within 45 days after it completes the list required by &#167;&#8201;256.14(c).
+If you don't receive funding, your servicing housing office will retain and consider your application for 3 more years.
+(c) Third, your servicing housing office will determine which HIP category the improvements to your house meet, based on the estimated cost of renovation or replacement.
+You will be requested to verify that you received the notice of completion of the work by signing a copy of the notice and returning it to your servicing housing office.
+
+
+# Tags
+
+['house', 'means', 'tribal', 'provided', 'cost', 'indian', 'applications', 'officer', 'services', 'constructed', 'bia', 'program', 'hip', 'requirements', 'condition', 'work', 'years', 'including', 'income', 'written', 'availability', 'document', 'funds', 'tribes', 'live', 'annually', 'government', 'act', 'federal', 'property', 'flood', 'home', 'following', 'building', 'completion', 'need', 'executed', 'inspection', 'ownership', 'nation', 'meets']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                            |

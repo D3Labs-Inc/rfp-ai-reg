@@ -8,6 +8,17 @@
  CFR-2018-title12-vol7.Pt. 709
 
 
+# Summary
+
+The rules and procedures in this part apply to charter revocations of federal credit unions under 12 U.S.C. 1787(a)(1)(A), (B), the involuntary liquidation and adjudication of creditor claims in all cases involving federally-insured credit unions, the treatment by the Board as conservator or liquidating agent of financial assets transferred in connection with a securitization or participation or of public funds held by a federally-insured credit union, and the allowance of prepayment fees to Federal Home Loan Banks under specified conditions.
+With respect to any securitization for which transfers of financial assets were made after adoption of this rule, or from a master trust or revolving trust established after adoption of this rule, and which complies with the requirements applicable to that securitization as set forth in paragraphs (b) and (c) of this section, the NCUA Board as conservator or liquidating agent will not, in the exercise of its statutory authority to disaffirm or repudiate contracts, reclaim, recover, or recharacterize as property of the credit union or the liquidation estate such transferred financial assets, provided that such transfer satisfies the conditions for sale accounting treatment under generally accepted accounting principles in effect for reporting periods after November 15, 2009, except for the &#8220;legal isolation&#8221; condition that is addressed by this paragraph (d)(2).
+
+
+# Tags
+
+['shall', 'included', 'asset', 'servicing', 'agents', 'credit unions', 'creditor claims', 'means', 'documentation', 'require', 'pursuant', 'provided', 'obligations', 'securities', 'securitized', 'loan', 'liquidated', 'sponsor', 'agreements', 'financial', 'periodic', 'accounting', 'contracts', 'funds', 'payments', 'entity', 'requested', 'capital', 'mortgage', 'receives', 'actions', 'issuing', 'federally', 'acting', 'insurance', 'paying', 'rate', 'set', 'records', 'transfer', 'trusts', 'legal', 'priority', 'performs', 'applies', 'parties', 'administrative', 'follows', 'applicable', 'times', 'describing', 'notice', 'respects', 'sections', 'compensate', 'state', 'outstanding', 'reason', 'value', 'street', 'thereof', 'authorize']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                           |

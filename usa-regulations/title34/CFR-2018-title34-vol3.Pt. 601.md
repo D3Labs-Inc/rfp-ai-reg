@@ -8,6 +8,18 @@
  CFR-2018-title34-vol3.Pt. 601
 
 
+# Summary
+
+(ii) The information identified on a model disclosure form developed by the Secretary pursuant to section 153(a)(2)(B) of the HEA, for each type of education loan that is offered pursuant to a preferred lender arrangement of the institution or institution-affiliated organization to students of the institution or the families of such students; and
+(ii) In the case of an institution-affiliated organization of a covered institution, the information the Board of Governors of the Federal Reserve System requires to be disclosed under section 128(e)(1) of the Truth in Lending Act (15 U.S.C. 1638(e)(1)), for each type of private education loan offered pursuant to a preferred lender arrangement of the organization to students of such institution or the families of such students.
+An agent who is employed in the financial aid office of the institution or who otherwise has responsibilities with respect to FFEL Program loans or private education loans must not accept from any lender or affiliate of any lender any fee, payment, or other financial benefit (including the opportunity to purchase stock) as compensation for any type of consulting arrangement or other contract to provide services to a lender or on behalf of a lender relating to FFEL Program loans or private education loans.
+
+
+# Tags
+
+['loan', 'lender', 'educational', 'provide', 'institutions', 'terms', 'services', 'material', 'organization', 'include', 'students', 'borrow', 'relation', 'required', 'federal', 'financial aid', 'private', 'information', 'iii', 'annual', 'direct', 'form', 'payment', 'mortgage', 'benefit', 'disclosure', 'arrangement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                            |

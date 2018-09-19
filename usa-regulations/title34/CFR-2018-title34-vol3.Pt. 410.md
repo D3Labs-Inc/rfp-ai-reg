@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 410
 
 
+# Summary
+
+(4) Indian students earning credits in any continuing education program of a tribally controlled vocational institution must be included in determining the sum of all credit or clock hours.
+(a) An application for a grant under the Tribally Controlled Postsecondary Vocational Institutions Program must include the following:
+(11) A detailed budget identifying the costs to be paid with a grant under this program and resources available from other Federal, State, and local sources that will be used to achieve the institution's goals and objectives.
+(25 points) The Secretary reviews each application to determine the extent to which the plan is effectively designed to meet the applicant's current and future institutional goals and objectives, including instructional and student support needs, and equipment and capital requirements.
+(10 points) The Secretary reviews each application to determine the quality of the evaluation plan the institution plans to use to determine its progress towards, and success in, achieving its goals and objectives, including the extent to which&#8212;
+(a) The Secretary allocates funds to institutions receiving their first grant under this part in an amount equal to the training equipment costs necessary to implement training programs.
+
+
+# Tags
+
+['included', 'institutions', 'secretary', 'cost', 'program', 'applications', 'students', 'educational', 'support', 'years', 'providing', 'federal', 'indian', 'plan', 'act', 'funding', 'objective', 'expenses', 'granting', 'number', 'control', 'effectively', 'apply', 'activity', 'points', 'enrolls', 'possible', 'follows']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                    |

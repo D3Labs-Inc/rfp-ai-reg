@@ -8,6 +8,19 @@
  CFR-2018-title34-vol3.Pt. 461
 
 
+# Summary
+
+(7) By July 25, 1993, development and implementation, in consultation with a widely representative group of appropriate experts, educators, and administrators, of indicators of program quality to be used to evaluate programs assisted under this part, as required by section 352 of the Act and &#167;&#8201;461.46, to determine whether those programs are effective, including whether those programs are successfully recruiting, retaining, and improving the literacy skills of the individuals served under those programs.
+(a) The extent to which the State will have effective procedures for using the findings of program reviews and evaluations to identify, on a timely basis, those programs, services, and activities under the Act that are not meeting the educational goals set forth in the State plan and approved applications of eligible recipients.
+(b) The adequacy of the State's procedures for effecting timely changes that will enable programs, services, and activities identified under paragraph (a) of this section to meet the educational goals in the State plan and approved applications of eligible recipients.
+(3) If the administrative cost limits under paragraph (b)(2) of this section are insufficient for adequate planning, administration, evaluation, personnel development, and coordination of programs supported under the Act, the SEA shall negotiate with local grant recipients in order to determine an adequate level of funds to be used for noninstructional purposes.
+
+
+# Tags
+
+['state', 'educations', 'local programs', 'shall', 'adult', 'includes', 'agency', 'services', 'funds', 'plan', 'provided', 'public', 'require', 'act', 'secretary', 'training', 'iii', 'literacy skills', 'develop', 'federal', 'applications', 'volunteers', 'specializing', 'effectiveness', 'years', 'organizations', 'granting', 'instruction', 'islands', 'describes', 'evaluations', 'level', 'appropriation', 'times', 'activities', 'proposes', 'following', 'assistance', 'projected', 'costs', 'information', 'serves', 'goal', 'private', 'authority']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                          |

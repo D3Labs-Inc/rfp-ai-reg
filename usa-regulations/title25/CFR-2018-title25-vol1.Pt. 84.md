@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 84
 
 
+# Summary
+
+The purpose of this part is to implement the provisions of the Indian Tribal Economic Development and Contract Encouragement Act of 2000, Public Law 106-179, which amends section 2103 of the Revised Statutes, found at 25 U.S.C. 81.
+The Act means the Indian Tribal Economic Development and Contract Encouragement Act of 2000, Public Law 106-179, which amends section 2103 of the Revised Statutes, found at 25 U.S.C. 81.
+Encumbrances covered by this part may include leasehold mortgages, easements, and other contracts or agreements that by their terms could give to a third party exclusive or nearly exclusive proprietary control over tribal land.
+Unless otherwise provided in this part, contracts and agreements entered into by an Indian tribe that encumber trial lands for a period of seven or more years require Secretarial approval under this part.
+(a) Contracts or agreements otherwise reviewed and approved by the Secretary under this title or other federal law or regulation.
+(d) Contracts or agreements that convey to tribal members any rights for temporary use of tribal lands, assigned by Indian tribes in accordance with tribal laws or custom;
+No, the Secretary will not approve contracts or agreements that do not encumber tribal lands for a period of seven or more years.
+
+
+# Tags
+
+['tribal', 'land', 'act', 'exclusive', 'including', 'indians', 'contracts', 'agreements', 'secretarial', 'federal', 'tribe', 'leases', 'use']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                           |

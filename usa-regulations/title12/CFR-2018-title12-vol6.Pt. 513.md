@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 513
 
 
+# Summary
+
+This subpart, which implements section 36(g)(4) of the Federal Deposit Insurance Act (FDIA) (12 U.S.C. 1831m(g)(4)), provides rules and procedures for the removal, suspension, or debarment of independent public accountants and their accounting firms from performing independent audit and attestation services required by section 36 of the FDIA (12 U.S.C. 1831m) for insured savings associations and savings and loan holding companies.
+(1) The Office may initiate a proceeding to remove, suspend, or debar an independent public accountant or accounting firm from performing audit services by issuing a written notice of intention to take such action that names the individual or firm as a respondent and describes the nature of the conduct that constitutes good cause for such action.
+(1) Any independent public accountant or accounting firm immediately suspended from performing audit services in accordance with paragraph (g) of this section may, within 10 calendar days after service of the notice of immediate suspension, file a petition with the Office for a stay of such suspension.
+(1) Except as provided in paragraph (i)(2), any independent public accountant or accounting firm that has been removed, suspended (including an immediate suspension), or debarred from performing audit services by the Office may not, while such order is in effect, perform audit services for any savings association.
+
+
+# Tags
+
+['shall', 'suspension', 'offices', 'ordered', 'firm', 'proceeding', 'suspending', 'hearing', 'accountant', 'include', 'written', 'act', 'professional', 'person', 'terms', 'means', 'require', 'immediate', 'action', 'insurance', 'filing', 'conducted', 'notice', 'involved', 'procedure', 'services', 'business', 'law', 'practices', 'oral', 'rules', 'issuing', 'information', 'remove', 'related']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                     |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 268
 
 
+# Summary
+
+The final order shall notify the complainant whether or not the Board will fully implement the decision of the administrative judge and shall contain notice of the complainant's right to appeal to the Equal Employment Opportunity Commission, the right to file a civil action in federal district court, the name of the proper defendant in any such lawsuit and the applicable time limits for appeals and lawsuits.
+(iv) Attorney's fees shall be paid for services performed by an attorney after the filing of a written complaint, provided that the attorney provides reasonable notice of representation to the Board, administrative judge or Commission, except that fees are allowable for a reasonable period of time prior to the notification of representation for any services performed in reaching a determination to represent the complainant.
+(2) If the complainant does not file a notice of appeal or does not request a hearing within the times prescribed in paragraph (h)(1) and (j)(1) of this section, the EEO Programs Director shall certify that the letter of findings under this paragraph (g) is the final decision of the Board at the expiration of those times.
+
+
+# Tags
+
+['section shall', 'board', 'complaints', 'informs', 'provide', 'decisions', 'includes', 'appropriate', 'action', 'programs', 'accessibility', 'discriminates', 'individually', 'person', 'filings', 'times', 'hearings', 'employers', 'requiring', 'reasonable', 'commission', 'alleging', 'acts', 'evidence', 'process', 'investigation', 'contain', 'class', 'employee', 'periodically', 'iii', 'requests', 'order', 'administration', 'notice', 'pursuant', 'federally', 'parties', 'day', 'equally', 'recorded', 'services', 'issuing', 'complainant', 'procedural', 'disabilities', 'policy', 'specificity', 'counseling', 'meanings', 'appealed', 'country', 'impaired', 'written materials', 'relief', 'judges', 'opportunity', 'fact', 'security', 'limits', 'finding', 'final', 'necessary', 'organizations', 'national', 'reports', 'fomc', 'applicant', 'operating', 'designed', 'agency', 'setting', 'eeo', 'activities', 'stated', 'delayed', 'receiving', 'lawful', 'conduct', 'represent', 'duties', 'dismissing', 'works', 'followed', 'telephone', 'circumstances', 'acceptance', 'director']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                       |

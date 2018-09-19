@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 258
 
 
+# Summary
+
+(b) Ticket agents doing business in the United States that sell or issue tickets for scheduled passenger air transportation on change-of-gauge services.
+The holding out or sale of scheduled passenger air transportation that involves change-of-gauge service is prohibited as an unfair or deceptive practice or an unfair method of competition within the meaning of 49 U.S.C. 41712 unless, in conjunction with such holding out or sale, carriers and ticket agents follow the requirements of this part.
+In any direct oral communication with a consumer in the United States concerning a change-of-gauge service, any carrier or ticket agent doing business in the United States shall tell the consumer before booking scheduled passenger air transportation to, from, or within the United States that the service requires a change of aircraft en route.
+At the time of sale in the United States of transportation that includes a change-of-gauge service to, from, or within the United States, or, if no ticket is issued, no later than the time when the passenger checks in at the airport for the first flight in an itinerary that includes such a service, the selling carrier or ticket agent shall provide the following written notice:
+
+
+# Tags
+
+['carrier', 'air', 'shall', 'schedule', 'service', 'notice']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                               |

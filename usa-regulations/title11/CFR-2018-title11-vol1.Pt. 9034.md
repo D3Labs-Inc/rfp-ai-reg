@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 9034
 
 
+# Summary
+
+(4) The written instrument used in making the contribution must be dated, physically received and deposited by the candidate or authorized committee on or after January l of the year immediately preceding the calendar year of the Presidential election, but no later than December 31 following the matching payment period as defined under 11 CFR 9032.6.
+(1) Such contributions shall be deemed monies available to pay outstanding campaign obligations as of the date these funds are received by the fundraising representative committee and shall be included in the candidate's statement of net outstanding campaign obligations.
+(a) Notwithstanding the provisions of 11 CFR 106.3, expenditures for travel relating to the campaign of a candidate seeking nomination for election to the office of President by any individual, including a candidate, shall, pursuant to the provisions of paragraph (b) of this section, be qualified campaign expenses and be reported by the candidate's authorized committee(s) as expenditures.
+(7) If any individual, including a candidate, incurs expenses for campaign-related travel, other than by use of government conveyance or accommodations, an amount equal to that portion of the actual cost of the conveyance or accommodations which is allocable to all passengers, including the candidate, who are traveling for campaign purposes will be a qualified campaign expense and shall be reported by the committee as an expenditure.
+
+
+# Tags
+
+['section shall', 'contributions', 'campaigns', 'expense', 'including', 'committees', 'cost', 'received', 'funding', 'candidates', 'election', 'fundraising', 'payment', 'participation', 'traveling', 'limitations', 'representative', 'written', 'political', 'expenditure', 'allocated', 'account', 'office', 'iii', 'assets', 'activities', 'service', 'cfr', 'report', 'requirements', 'government', 'commercially', 'paid', 'statements', 'reimbursements', 'total', 'winding', 'state', 'record', 'set', 'non', 'providing', 'matched', 'relating', 'materially', 'follow', 'checks', 'transaction', 'amounts', 'nomination']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                         |

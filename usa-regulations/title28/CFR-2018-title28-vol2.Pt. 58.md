@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 58
 
 
+# Summary
+
+(o) Whenever the United States Trustee provides under paragraph (i) of this section that a decision to remove an agency from the approved list is effective immediately, the Director shall issue a written decision no later than 15 calendar days from the receipt of the agency's request for review, unless the agency agrees to a longer period of time.
+(28) The term &#8220;request for review&#8221; means the written communication from a provider to the Director seeking review of the United States Trustee's decision either to deny the provider's application or to remove the provider from the approved list;
+(2) The United States Trustee shall review the basis for the mandatory fee waiver policy set forth in paragraph (b)(1) of this section one year after the effective date of this part and then periodically, but not less frequently than every four years, to determine the impact of that fee waiver policy on debtors and providers.
+(n) Whenever the United States Trustee provides under paragraph (h) of this section that a decision to remove a provider from the approved list is effective immediately, the Director shall issue a written decision no later than 15 calendar days from the receipt of the provider's request for review, unless the provider agrees to a longer period of time.
+
+
+# Tags
+
+['shall', 'providing', 'agency', 'trustees', 'term', 'means', 'included', 'fee', 'financial', 'service', 'clients', 'debtors', 'approval', 'accounted', 'counsel', 'law', 'information', 'courses', 'iii', 'requirements', 'written', 'instruction', 'periodic', 'forms', 'expense', 'certifications', 'states', 'cases', 'follows', 'applicable', 'authority', 'addition', 'personal', 'related', 'receivables', 'current', 'timely', 'completely', 'prior', 'adequate', 'bankruptcy', 'request', 'record', 'document', 'appropriate', 'identifying', 'funding', 'materials', 'federally', 'entities', 'procedure', 'telephonically', 'government', 'setting', 'report', 'management', 'annually', 'decisions', 'claim', 'reviewing', 'courts', 'year', 'immediately', 'generally', 'concerns', 'obtained', 'directors', 'final', 'credit', 'based', 'budget', 'seek', 'limit', 'counselors', 'qualification', 'administration', 'monthly', 'section', 'involving']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                            |

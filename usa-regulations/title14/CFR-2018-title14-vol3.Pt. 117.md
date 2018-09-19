@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 117
 
 
+# Summary
+
+Long-call reserve means that, prior to beginning the rest period required by &#167;&#8201;117.25, the flightcrew member is notified by the certificate holder to report for a flight duty period following the completion of the rest period.
+(b) If unforeseen operational circumstances arise after takeoff that are beyond the certificate holder's control, a flightcrew member may exceed the maximum flight time specified in paragraph (a) of this section and the cumulative flight time limits in 117.23(b) to the extent necessary to safely land the aircraft at the next destination airport or alternate, as appropriate.
+(a) Except as provided for in &#167;&#8201;117.15, no certificate holder may assign and no flightcrew member may accept an assignment for an unaugmented flight operation if the scheduled flight duty period will exceed the limits in Table B of this part.
+(d) For long call reserve, if a certificate holder contacts a flightcrew member to assign him or her to a flight duty period that will begin before and operate into the flightcrew member's window of circadian low, the flightcrew member must receive a 12 hour notice of report time from the certificate holder.
+
+
+# Tags
+
+['flights', 'period', 'means', 'operating', 'member', 'duty', 'hours', 'provides', 'times', 'flightcrew', 'rest requirements', 'fatigued', 'performing', 'include', 'assign', 'consecutive', 'aircraft', 'certificate holders', 'passengers', 'control', 'reserve', 'report', 'management', 'training', 'transportation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                   |

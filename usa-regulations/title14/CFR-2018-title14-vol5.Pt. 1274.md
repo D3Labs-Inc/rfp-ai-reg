@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1274
 
 
+# Summary
+
+While the principal purpose of NASA's involvement and commitment of resources is to stimulate or support research activity, a major incentive for involvement by commercial firms (particularly where costs are shared) is the profit potential from marketable products expected to result from the cooperative agreement project.
+(1) At a minimum, the selection process for the competitive award of cooperative agreements to commercial entities shall include evaluation of potential recipients' proposals for merit and relevance to NASA's mission requirements through their responses to the publication of NASA evaluation factors.
+(2) During evaluation of the cost proposal, the agreement officer, along with other NASA evaluation team members and/or pricing support personnel, shall determine the reasonableness of the overall proposed project costs, including verifying the value of the recipient's proposed non-cash and in-kind contributions.
+(i) If the total value of your currently active grants, cooperative agreements, and procurement contracts from all Federal awarding agencies exceeds $10,000,000 for any period during the period of performance of this Federal award, then you as the recipient during that period of time must maintain the currency of information reported in FAPIIS about civil, criminal, or administrative proceedings described in paragraph (a)(2) of this section.
+
+
+# Tags
+
+['shall', 'requirements', 'nasa cooperative agreements awarded', 'recipients', 'cost', 'proposing', 'information', 'governing', 'business', 'firm including', 'program', 'funded', 'federal', 'office', 'contracts', 'procured', 'technical performance', 'non', 'evaluator', 'reports', 'administrator', 'research', 'record', 'generating', 'data', 'appropriately', 'projections', 'rights', 'competitiveness', 'time prior', 'specifically', 'equipment', 'contractors', 'management', 'resource', 'milestone payments', 'publicizing', 'shared', 'provided', 'priced', 'documentation', 'select', 'potentially', 'contribute', 'agency', 'responsive', 'procedures', 'invention', 'provisions', 'purposes', 'requests', 'relation', 'applications', 'service', 'entity', 'addition', 'sources', 'employee', 'involve', 'objections', 'joint', 'working', 'process', 'follow', 'financial', 'commercially', 'states', 'standards', 'terminate', 'enter', 'patents', 'effort', 'acting', 'proceeding', 'regulation', 'authority', 'use', 'supporting', 'code', 'schedule', 'usc', 'period', 'organization', 'terms', 'grants', 'trade', 'technologies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

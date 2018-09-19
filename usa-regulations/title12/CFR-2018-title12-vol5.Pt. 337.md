@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 337
 
 
+# Summary
+
+(2) An insured nonmember bank is authorized to extend credit to any executive officer of the bank for any other purpose not specified in &#167;&#8201;215.5(c)(1) and (2) of Federal Reserve Board Regulation O (12 CFR 215.5(c)(1) and (2)) if the aggregate amount of such other extensions of credit does not exceed at any one time the higher of 2.5 percent of the bank's capital and unimpaired surplus or $25,000 but in no event more than $100,000, provided, however, that no such extension of credit shall be subject to this limit if the extension of credit is secured by:
+(2)(i) An adequately capitalized insured depository institution may not accept, renew or roll over any brokered deposit unless it has applied for and been granted a waiver of this prohibition by the FDIC in accordance with the provisions of this section.
+No insured depository institution for which the FDIC has been appointed conservator shall be subject to the prohibition on the acceptance, renewal or rollover of brokered deposits contained in this &#167;&#8201;337.6 or section 29 of the Federal Deposit Insurance Act for 90 days after the date on which the institution was placed in conservatorship.
+
+
+# Tags
+
+['deposit', 'bank shall', 'institutions', 'fdic', 'market', 'credit', 'insurance', 'loans', 'rating', 'plan', 'limits', 'capitalized', 'acting', 'maturity', 'state', 'accounts', 'agency', 'evidence', 'liability', 'federal', 'including', 'directly', 'meaning', 'board', 'directors', 'area', 'examines', 'adequately', 'period']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                          |

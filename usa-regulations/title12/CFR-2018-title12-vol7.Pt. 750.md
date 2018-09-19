@@ -8,6 +8,17 @@
  CFR-2018-title12-vol7.Pt. 750
 
 
+# Summary
+
+(1) Prohibited indemnification payment means any payment or any agreement or arrangement to make any payment by any Federally insured credit union for the benefit of any person who is or was an IAP of the Federally insured credit union, to pay or reimburse such person for any civil money penalty, judgment, or other liability or legal expense resulting from any administrative or civil action instituted by NCUA or any appropriate state regulatory authority, in the case of a credit union or corporate credit union chartered by a state, that results in a final order or settlement pursuant to which such person:
+(2) An agreement is made in order to hire a person to become an IAP at a time when the Federally insured credit union satisfies or in an effort to prevent it from imminently satisfying any of the criteria in &#167;&#8201;750.1(d)(1)(ii), and NCUA, with written concurrence of the appropriate state supervisory authority in the case of a state chartered credit union or corporate credit union, consents in writing to the amount and terms of the golden parachute payment.
+
+
+# Tags
+
+['payment', 'union', 'benefit plan means', 'iaps', 'compensated', 'states', 'reason', 'prohibited', 'indemnification', 'certain', 'penalty', 'provides', 'severance', 'action', 'financial', 'expenses', 'crediting', 'written', 'federally', 'applicable', 'insurance', 'sets', 'legal', 'including', 'employees', 'pursuant', 'ncua', 'retirement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                            |

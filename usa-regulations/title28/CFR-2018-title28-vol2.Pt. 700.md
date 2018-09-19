@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 700
 
 
+# Summary
+
+These regulations set forth the procedures by which an individual may seek access under the Privacy Act to records pertaining to him, may request correction of such records, or may seek an accounting of disclosures of such records by the office.
+Whenever a request for access is made for a record containing information that relates to an investigation of a possible violation of criminal law or to a criminal law-enforcement proceeding and that was generated or originated by another agency, the Office shall consult with that other agency, as appropriate.
+Both the requester and the accompanying person shall be required to sign a form stating that the Office of Independent Counsel is authorized to disclose the record in the presence of both individuals.
+A requester whose appeal under this section is denied shall have the right to file a Statement of Disagreement with the Office of Independent Counsel, Suite 701 West, 555 Thirteenth Street, NW., Washington, DC 20004, within 30 days of receiving notice of denial of his appeal.
+In the event, however, that this subsection should be interpreted to require more detail as to the identity of sources of the records in these systems, exemption from this provision is necessary in order to protect the confidentiality of the sources of criminal and other law-enforcement information.
+
+
+# Tags
+
+['shall', 'record', 'information', 'request', 'investigative', 'fee', 'officer', 'access', 'act', 'persons', 'notice', 'disclosure', 'criminal', 'appeal', 'individual', 'enforcement', 'authority', 'pursuant', 'exempted', 'judicially', 'circumstances', 'relevance', 'counsel', 'means', 'active', 'new', 'correctional', 'included', 'agency', 'statements', 'determination', 'regulations', 'form', 'order', 'provisions', 'accounting', 'maintains']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                      |

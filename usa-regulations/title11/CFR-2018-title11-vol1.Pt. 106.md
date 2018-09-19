@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 106
 
 
+# Summary
+
+Each national party committee other than a Senate or House campaign committee shall allocate a fixed percentage of its administrative expenses and costs of generic voter drives, as described in paragraph (a)(2) of this section, to its Federal and non-Federal account(s) each year.
+Regardless of the allocation ratio calculated under paragraph (c)(1) of this section, each Senate or House campaign committee of a national party shall allocate to its Federal account at least 65% each of its administrative expenses and costs of generic voter drives each year.
+State, district, and local party committees that are political committees that have established separate Federal and non-Federal accounts under 11 CFR 102.5(a)(1)(i) shall allocate expenses between those accounts according to paragraphs (c) and (d) of this section.
+State, district, and local party committees must either pay salaries, wages, and fringe benefits for employees who spend 25% or less of their time in a given month on Federal election activity or activity in connection with a Federal election with funds from their Federal account, or with a combination of funds from their Federal and non-Federal accounts, in accordance with paragraph (d)(2) of this section.
+
+
+# Tags
+
+['allocations', 'expenditures', 'federal candidate shall', 'state', 'included', 'costs', 'committees', 'campaigns', 'account', 'expense', 'activities', 'funds', 'methods', 'offices', 'section', 'record', 'iii', 'national', 'follows', 'polling', 'percentages', 'payments', 'fundraising', 'party', 'telephone', 'media', 'reasonable', 'estimated', 'generic', 'mailing', 'elections', 'charged', 'pursuant', 'disbursement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                            |

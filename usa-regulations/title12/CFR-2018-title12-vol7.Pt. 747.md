@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 747
 
 
+# Summary
+
+(3) The terms of any final or temporary order issued under section 206 of the Act or any written agreement executed by the National Credit Union Administration (&#8220;NCUA&#8221;), any condition imposed in writing by the NCUA in connection with any action on any application, notice, or other request by the credit union or institution-affiliated party, certain unsafe or unsound practices or breaches of fiduciary duty, or any law or regulation not otherwise provided herein, pursuant to 12 U.S.C. 1786(k); and
+(a) After the expiration of the time allowed for the filing of all documents necessary for the determination of a recommended fee award, the NCUA Board shall transmit the entire record to the administrative law judge who presided at the underlying proceeding.
+Promptly upon such filing, the NCUA Board shall serve upon each party to the proceeding a copy of the administrative law judge's recommended decision, findings, conclusions and proposed order.
+A credit union which fails to file a written response to a notice of the NCUA Board's intention to issue a directive imposing a discretionary supervisory action, within the specified time period, shall be deemed to have waived the opportunity to respond, and to have consented to the issuance of the directive.
+
+
+# Tags
+
+['shall', 'party', 'includes', 'proceeding', 'ordered', 'witness', 'hearings', 'board', 'issues', 'document', 'filings', 'services', 'requests', 'notices', 'materials', 'information', 'persons', 'pursuant', 'require', 'authorizing', 'unions', 'written', 'subpoenas', 'stated', 'times', 'applicant', 'reasonableness', 'followed', 'counsels', 'action', 'appropriate', 'period', 'directives', 'statements', 'rulings', 'law', 'relevance', 'recorded', 'limits', 'judge', 'reviewed', 'office', 'proposals', 'acts', 'motions', 'enforcing', 'caused', 'placed', 'provide', 'federal', 'means', 'matters', 'responding', 'setting', 'evidence', 'decisions', 'insured', 'thereof', 'specifically', 'ncua', 'deposit', 'institution', 'effectiveness', 'copied', 'agents', 'exhibits', 'section', 'capitalized', 'corporation', 'served', 'investigation', 'fees', 'immediate', 'general', 'individuals', 'procedural', 'attorney', 'condition', 'case', 'supervisory', 'adjudications', 'courts', 'constituting', 'discovery', 'final', 'examination']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

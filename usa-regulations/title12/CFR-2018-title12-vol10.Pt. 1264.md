@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1264
 
 
+# Summary
+
+In addition to meeting the requirements in paragraph (a) of this section, any applicant seeking access to advances as a SHFA pursuant to &#167;&#8201;1266.17(b)(2) of this chapter shall provide evidence satisfactory to the Bank, such as a copy of, or a citation to, the statutes and/or regulations describing the applicant's structure and responsibilities, that the applicant is a state housing finance agency as defined in &#167;&#8201;1264.1.
+An applicant shall be deemed to meet the requirement in section 10b(a) of the Bank Actand &#167;&#8201;1264.3(a)(2) that it be a chartered institution having succession if it provides evidence satisfactory to the Bank, such as a copy of, or a citation to, the statutes and/or regulations under which the applicant was created, that:
+(1) An applicant shall be deemed to meet the inspection and supervision requirement in section 10b(a) of the Bank Act (12 U.S.C. 1430b(a)) and &#167;&#8201;1264.3(a)(3) if it provides evidence satisfactory to the Bank, such as a copy of, or a citation to, relevant statutes and/or regulations, that, pursuant to statute or regulation, the applicant is subject to the inspection and supervision of a federal, state, local, tribal, or Alaskan native village governmental agency.
+
+
+# Tags
+
+['shall', 'banks', 'requirements', 'applications', 'agencies', 'appeal', 'housing', 'mortgage', 'state', 'village', 'information', 'loans', 'report', 'decision', 'funding', 'providing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                           |

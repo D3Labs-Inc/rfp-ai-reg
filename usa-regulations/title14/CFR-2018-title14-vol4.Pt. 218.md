@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 218
 
 
+# Summary
+
+This part applies to foreign air carriers and other persons not citizens of the United States which, as lessors or lessees, enter into agreements providing for the lease of aircraft with crew to a foreign air carrier for use in foreign air transportation.
+If the Board finds that true operational control and safety responsibility will be vested in the lessee and not in the lessor (i.e., that the lease transaction is in substance a true lease of aircraft rather than a charter or series of charters), and that the performance of the operations provided for in such lease will not result in the lessor's being engaged in foreign air transportation, it will issue an order disclaiming jurisdiction over the matter.
+However, in circumstances where the lessor furnishes both the aircraft and the crew, there is a presumption that true operational control and safety responsibility are exercised by the lessor, and that the agreement constitutes a charter arrangement under which the lessor is engaged in foreign air transportation.
+The burden shall rest upon the applicants for disclaimer of jurisdiction in each instance to demonstrate by an appropriate factual showing that the operation contemplated will not constitute foreign air transportation by the lessor.
+
+
+# Tags
+
+['shall', 'operating', 'leased', 'lessors', 'provided', 'specifically authorizing', 'agreements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                 |

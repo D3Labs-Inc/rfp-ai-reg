@@ -8,6 +8,20 @@
  CFR-2018-title29-vol4.Pt. 1410
 
 
+# Summary
+
+(a) Individuals who desire to know whether the agency maintains a system of records containing records pertaining to him may submit a written request to the Director of Administration, Federal Mediation and Conciliation Service, Washington, DC 20427.
+(b) Any individual who desires to inspect or receive copies of any record maintained within the system concerning him shall submit a written request to the Director of Administration, Federal Mediation and Conciliation Service, Washington, DC 20427, reasonably identifying the records sought to be inspected or copied.
+The Director of Administration will verify the signature of the individual requesting or consenting to the disclosure of a record prior to the disclosure thereof to any other person by a comparison of signatures, if the request or consent is not executed within the presence of a designated Service representative.
+(a) The requestor may appeal any determination of the Director of Administration not to amend a record by submitting a written request for review of refusal to amend a record to the Deputy National Director, Washington, DC 20427.
+(b) If the Deputy National Director makes a final determination not to amend the record, the individual may provide to the Service a concise written statement explaining the reasons for disagreement with the refusal.
+
+
+# Tags
+
+['record', 'written request', 'shall', 'services', 'individuals', 'maintain', 'number', 'agency', 'amendment', 'medical', 'national', 'personal', 'access', 'specific']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                               |

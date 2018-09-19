@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 725
 
 
+# Summary
+
+(2) Subscribing to the capital stock of the Facility in an amount equal to one-half of 1 percent of the paid-in and unimpaired capital and surplus (as determined in accordance with &#167;&#8201;725.5(b) of this part) of all the central credit union's or central credit union group's member natural person credit unions, except those which are Regular members of the Facility or which have access to the Facility through, and are included in the stock subscription of, another Agent.&#8201;2
+This subsection shall not apply if the natural person credit union is a Regular member of the Facility or has access to the Facility through, and is included in the stock subscription of, another Agent.
+(3) An Agent shall not submit an application to the Facility based on the liquidity needs of any member natural person credit union which has not agreed to the repayment, security and credit reporting terms prescribed by the Facility for Agent loans;
+The repayment, security, and credit reporting terms under which Facility advances and Agent loans will be made, as provided in &#167;&#8201;725.20 of this part, shall be subject to modification from time to time as the NCUA Board may determine.
+
+
+# Tags
+
+['facility', 'credit', 'shall', 'union', 'mean', 'share', 'members', 'application', 'require', 'funds', 'insurance', 'financial', 'reserves', 'asset', 'loans', 'terms', 'provides', 'security', 'approval', 'liquidity', 'subscription', 'federally', 'reporting', 'investing', 'act', 'characteristics', 'agent', 'period', 'calendar']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                               |

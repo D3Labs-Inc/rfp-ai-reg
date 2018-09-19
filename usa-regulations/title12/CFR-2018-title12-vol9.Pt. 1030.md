@@ -8,6 +8,20 @@
  CFR-2018-title12-vol9.Pt. 1030
 
 
+# Summary
+
+For accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, that require interest payouts at least annually, and that disclose an APY determined in accordance with section E of appendix A of this part, a statement that interest cannot remain on deposit and that payout of interest is mandatory.
+The notice shall state that consumers may request account disclosures containing terms, fees, and rate information for their account.
+For tiered-rate accounts, the minimum balance required for each tier shall be stated in close proximity and with equal prominence to the applicable annual percentage yield.
+For noncompounding time accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, that require interest payouts at least annually, and that disclose an APY determined in accordance with section E of appendix A of this part, a statement that interest cannot remain on deposit and that payout of interest is mandatory.
+Providing information about the payment of overdrafts in response to a balance inquiry made through an automated system, such as a telephone response machine, ATM, or an institution's Internet site, is not a response to a consumer-initiated inquiry for purposes of this paragraph;
+
+
+# Tags
+
+['accounts', 'shall', 'disclosures', 'rate', 'institutions', 'fees', 'consumers', 'period', 'act', 'means', 'require', 'balances', 'advertisements', 'deposit', 'informational', 'states', 'times', 'statement', 'terms', 'provided', 'days', 'additional', 'overdrafts', 'iii', 'yields', 'funds', 'maturity', 'notice', 'dates', 'applicable', 'sign']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                  |

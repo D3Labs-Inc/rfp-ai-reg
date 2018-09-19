@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 48
 
 
+# Summary
+
+Immediately following the language set forth in paragraph (d) of this section, the statement required by paragraph (a) of this section must include, for each of the most recent four calendar quarters during which the national bank maintained retail forex customer accounts:
+(2) If, pursuant to paragraph (d)(1)(iii) of this section, the national bank determines that it has not collected margin from the retail forex customer sufficient to satisfy the requirements of this section then, within a reasonable period of time, the national bank must either:
+No national bank engaged in retail foreign exchange transactions or its IAPs may imply or represent that it will, with respect to any retail customer forex account, for or on behalf of any person:
+A national bank to which retail forex accounts or positions are assigned or transferred under paragraph (a) of this section must provide to the affected retail forex customers the risk disclosure statements and forms of acknowledgment required by this part and receive the required signed acknowledgments within 60 days of such assignments or transfers.
+
+
+# Tags
+
+['transaction', 'account', 'customers', 'bank', 'orders', 'recordings', 'require', 'including', 'trade', 'person', 'written', 'prices', 'option', 'means', 'iii', 'retail foreign exchange', 'dated', 'period', 'thereof', 'act', 'positions', 'forex', 'follows', 'executable', 'statements', 'currency', 'margined', 'agreement', 'received', 'generally', 'nation', 'basis', 'futures', 'disclosures', 'specific', 'fees', 'immediately', 'data', 'delivery', 'obligation', 'charges', 'limited', 'described']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                  |

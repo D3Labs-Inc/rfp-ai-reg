@@ -8,6 +8,19 @@
  CFR-2018-title12-vol3.Pt. 228
 
 
+# Summary
+
+(1) The lending test evaluates a bank's record of helping to meet the credit needs of its assessment area(s) through its lending activities by considering a bank's home mortgage, small business, small farm, and community development lending.
+A bank that elects to have the Board consider loans by an affiliate, for purposes of the lending or community development test or an approved strategic plan, shall collect, maintain, and report for those loans the data that the bank would have collected, maintained, and reported pursuant to paragraphs (a), (b), and (c) of this section had the loans been originated or purchased by the bank.
+A bank that elects to have the Board consider community development loans by a consortium or third party, for purposes of the lending or community development tests or an approved strategic plan, shall report for those loans the data that the bank would have reported under paragraph (b)(2) of this section had the loans been originated or purchased by the bank.
+A bank that qualifies for evaluation under the small bank performance standards but elects evaluation under the lending, investment, and service tests shall collect, maintain, and report the data required for other banks pursuant to paragraphs (a) and (b) of this section.
+
+
+# Tags
+
+['bank', 'loans', 'including', 'board', 'shall', 'plans', 'performance', 'communities', 'lending', 'areas', 'income', 'data', 'act', 'information', 'credit', 'publication', 'geography', 'means', 'state', 'branches', 'service', 'activities', 'provides', 'business', 'development', 'investment', 'assesses', 'low', 'institution', 'generally', 'deposit', 'small', 'year', 'report', 'approve', 'considered', 'section', 'annually', 'iii', 'require', 'examination', 'test', 'housing', 'consumer', 'financial', 'applicable', 'follows', 'satisfactory', 'company', 'based', 'substantial', 'controlled']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                 |

@@ -8,6 +8,17 @@
  CFR-2018-title12-vol10.Pt. 1270
 
 
+# Summary
+
+(c)(1) The Banks, FHFA, the Director, the Office of Finance, the United States and the Federal Reserve Banks have no obligation to agree to act on behalf of any Person or to recognize the interest of any transferee of a security interest or other limited interest in a Security Entitlement in favor of any Person except to the extent of any specific requirement of Federal law or regulation or to the extent set forth in any specific agreement with the Federal Reserve Bank on whose books the interest of the Participant is recorded.
+(a) Except in the case of a security interest in favor of the United States or a Federal Reserve Bank or otherwise as provided in &#167;&#8201;1270.14(c)(1), for the purposes of this part 1270, the Banks, the Office of Finance and the Federal Reserve Banks shall treat the Participant to whose Securities Account an interest in a Book-entry consolidated obligations has been credited as the person exclusively entitled to issue a Transfer Message, to receive interest and other payments with respect thereof and otherwise to exercise all the rights and powers with respect to the Security, notwithstanding any information or notice to the contrary.
+
+
+# Tags
+
+['banks', 'shall', 'obligations', 'secure', 'including', 'mean', 'require', 'law', 'office', 'governs', 'deposit', 'accounts', 'regulation', 'federal', 'state', 'provides', 'transaction', 'operated', 'thereof', 'issued', 'acting', 'fhfa', 'entitlement', 'book consolidated', 'payment', 'street', 'maintaining', 'specify', 'rata', 'authorized', 'treasury', 'investment', 'set', 'person', 'application']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                         |

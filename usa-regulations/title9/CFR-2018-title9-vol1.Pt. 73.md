@@ -8,6 +8,17 @@
  CFR-2018-title9-vol1.Pt. 73
 
 
+# Summary
+
+Cattle of herds of the quarantined area which are not diseased with scabies may be shipped, transported, or otherwise moved interstate for immediate slaughter, upon inspection by an APHIS or State inspector within 10 days prior to the date of shipment and when accompanied by a certificate from such inspector showing the cattle to be free from disease.
+When it is determined by the Administrator that all cattle of all herds in any quarantined area have been inspected for scabies by an APHIS or State inspector, that all the infected or exposed herds have been identified, and that all the infected herds have been dipped twice, and all the exposed herds have been dipped in a permitted dip as prescribed in &#167;&#8201;73.10, under supervision of an APHIS or APHIS-approved inspector, cattle of herds in such area which are not diseased with or exposed to scabies may be moved interstate in accordance with this section, without further APHIS inspection or certification, directly to a slaughtering plant where Federal Meat Inspection is maintained: Provided further, that treatment with ivermectin may be used in lieu of dipping for a herd of cattle treated together if the herd is physically separated for 14 days following treatment from all cattle not a part of the herd treated together with ivermectin.
+
+
+# Tags
+
+['cattle', 'shall', 'dipping', 'states', 'inspector', 'animal', 'treated', 'interstate', 'area', 'approved', 'lime', 'slaughtered', 'provided', 'follows', 'transported', 'insecticide', 'scabies', 'movements', 'placarded', 'ivermectin', 'permitted', 'aphis', 'treatment', 'health']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                      |

@@ -8,6 +8,22 @@
  CFR-2018-title9-vol1.Pt. 80
 
 
+# Summary
+
+A numbering system for the official identification of individual animals in the United States providing a nationally unique identification number for each animal.
+A statement signed by the owner or shipper of animals, which states: The number of animals to be moved, the official eartag number of each animal, the species of the animals, points of origin and destination, the consignor and consignee, a statement that the animals are positive to an official Johne's disease test, and any additional information required by this part.
+Domestic animals that are positive to an official Johne's disease test may not be moved interstate except in compliance with this part.
+Movement of domestic animals that are positive to an official Johne's disease test.
+Domestic animals that are positive to an official Johne's disease test may be moved interstate for slaughter if:
+The Administrator may, upon request in specific cases, allow domestic animals that are positive to an official Johne's disease test to be moved interstate other than as provided in paragraph (a) of this section, under such conditions as the Administrator may prescribe in each case to prevent the spread of Johne's disease.
+Segregation of animals positive to an official Johne's disease test during interstate movement.
+
+
+# Tags
+
+['animals', 'states', 'numbering', 'officials', 'identification', 'inspection', 'health', 'livestock', 'characters', 'disease', 'unique', 'moved', 'domestic', 'test', 'slaughter', 'code', 'approval']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                                                                                                                                                |

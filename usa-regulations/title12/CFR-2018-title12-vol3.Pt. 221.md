@@ -8,6 +8,19 @@
  CFR-2018-title12-vol3.Pt. 221
 
 
+# Summary
+
+No lender, except a plan-lender, as defined in &#167;&#8201;221.4(a), shall extend any purpose credit, secured directly or indirectly by margin stock, in an amount that exceeds the maximum loan value of the collateral securing the credit.
+Except for credit extended under paragraph (c)(2) of this section, whenever a bank extends credit secured directly or indirectly by any margin stock, in an amount exceeding $100,000, the bank shall require its customer to execute Form FR U-1 (OMB No. 7100-0115), which shall be signed and accepted by a duly authorized officer of the bank acting in good faith.
+Section 221.3(c) states that in connection with any credit secured by collateral which includes any margin stock, a nonbank lender must obtain a purpose statement executed by the borrower and accepted by the lender in good faith.
+(f) For the reasons indicated, the Board concluded that under the circumstances described a guaranty by the corporation constitutes credit extended in the ordinary course of business under this part, that the corporation is required to register pursuant to &#167;&#8201;221.3(b), and that such guaranties may not be given in excess of the maximum loan value of the collateral pledged to secure the guaranty.
+
+
+# Tags
+
+['credits', 'secure', 'stocks', 'purposes', 'loan value', 'board', 'lender', 'bank', 'plans', 'corporation business', 'companies', 'funding', 'reason', 'collateral', 'shall', 'questioning', 'describing', 'includes', 'extending', 'purchased', 'customer', 'circumstances', 'meaning', 'involved', 'share', 'statement', 'dealers', 'borrowings', 'original', 'agreements', 'transactions', 'special', 'arrangements', 'authorizing', 'certain', 'additional', 'faith', 'follows', 'acting', 'futures', 'current market', 'applications', 'registered', 'forms', 'capital', 'exchange', 'person', 'investment', 'assets', 'employee', 'lending', 'insurance', 'controlling', 'subject', 'requires', 'exempted', 'trade', 'issued', 'offer', 'equals', 'receivable', 'provided']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                |

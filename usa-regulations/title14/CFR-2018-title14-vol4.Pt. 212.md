@@ -8,6 +8,17 @@
  CFR-2018-title14-vol4.Pt. 212
 
 
+# Summary
+
+(a) Except as provided in paragraph (c) of this section, no certificated air carrier or foreign air carrier shall perform any charter trip (other than a cargo charter trip) originating in the United States or any Overseas Military Personnel Charter trip, as defined in part 372 of this chapter, nor shall such carrier accept any advance payment in connection with any such charter trip, unless there is on file with the Department a copy of a currently effective agreement made between said carrier and a designated bank, by the terms of which all sums payable in advance to the carrier by charterers, in connection with any such trip to be performed by said carrier, shall be deposited with and maintained by the bank, as escrow holder, the agreement to be subject to the following conditions:
+(b) A copy of each application for a long-term wet lease shall also be served on the Director of Flight Standards Service (AFS-1), Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591, and on each certificated air carrier that is authorized to serve the general area in which the proposed transportation is to be performed.
+
+
+# Tags
+
+['charterers', 'agreement shall', 'application', 'flights', 'authorizing', 'providing', 'carriers', 'required', 'operating', 'transport', 'file', 'includes', 'prior', 'country', 'passengers', 'department', 'payment', 'notice', 'aviation', 'specific', 'foreign air', 'states', 'forms', 'escrow', 'bonding', 'days', 'conducting services', 'scheduled', 'arranged', 'bank', 'federal', 'following', 'memorandums', 'certificates', 'leases', 'public']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                             |

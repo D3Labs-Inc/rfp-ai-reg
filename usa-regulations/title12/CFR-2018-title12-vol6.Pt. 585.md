@@ -8,6 +8,20 @@
  CFR-2018-title12-vol6.Pt. 585
 
 
+# Summary
+
+This part implements section 19(e)(1) of the Federal Deposit Insurance Act (FDIA), which prohibits persons who have been convicted of certain criminal offenses or who have agreed to enter into a pre-trial diversion or similar program in connection with a prosecution for such criminal offenses from occupying various positions with a savings and loan holding company.
+(2) Any agreement to enter into a pretrial diversion or similar program in connection with a prosecution for a criminal offense involving dishonesty, breach of trust or money laundering.
+(6) The person must be covered by a fidelity bond to the same extent as others in similar positions with the savings and loan holding company.
+If the savings and loan holding company or the person files such an application, the temporary exemption expires on:
+(1) A savings and loan holding company or a person who was convicted of a criminal offense described in &#167;&#8201;585.40 or who has agreed to enter into a pre-trial diversion or similar program in connection with a prosecution for such a criminal offense (&#8220;you&#8221;) may file an application seeking an OTS order granting an exemption from the prohibitions in this part.
+
+
+# Tags
+
+['ots', 'convicted', 'acts', 'positions', 'described', 'person', 'criminal', 'applicant', 'hearing', 'dishonesty', 'exemption', 'law', 'holding', 'insured', 'following', 'request', 'savings']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                   |

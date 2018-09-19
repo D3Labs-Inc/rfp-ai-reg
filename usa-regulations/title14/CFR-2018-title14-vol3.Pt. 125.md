@@ -8,6 +8,18 @@
  CFR-2018-title14-vol3.Pt. 125
 
 
+# Summary
+
+(a) Each certificate holder must show, by actual demonstration conducted in accordance with paragraph (a) of appendix B of this part, that the emergency evacuation procedures for each type and model of airplane with a seating of more than 44 passengers, that is used in its passenger-carrying operations, allow the evacuation of the full seating capacity, including crewmembers, in 90 seconds or less, in each of the following circumstances:
+(4) After April 21, 2014, no aircraft flight data recording system may filter any parameter listed in paragraph (c) of this section that does not meet the requirements of Appendix D or E of this part, unless the certificate holder possesses test and analysis procedures and the test results that have been approved by the FAA.
+(a) If the weather conditions at the airport of takeoff are below the landing minimums in the certificate holder's operations specifications for that airport, no person may release an airplane from that airport unless the flight release specifies an alternate airport located within the following distances from the airport of takeoff:
+
+
+# Tags
+
+['required', 'airplane', 'operable', 'flights', 'shall', 'include', 'approved', 'equipped', 'engines', 'certification', 'installation', 'procedure', 'positive', 'instrument', 'controlled', 'emergency', 'air', 'appropriately', 'data recorder', 'persons', 'fuel weight', 'specify', 'applicable', 'followed', 'condition', 'time', 'approach', 'section', 'means', 'aircraft', 'authority', 'types', 'systems', 'pressure', 'powered', 'maintenance', 'limitations', 'located', 'passenger', 'information', 'lined', 'pilots', 'load', 'carry', 'minimum', 'seated', 'weather', 'altitude', 'device', 'specification', 'navigating', 'inspected', 'oil', 'models', 'ice', 'holders', 'land', 'containers', 'oxygen', 'provided', 'compartments', 'performance', 'materially', 'grounds', 'program', 'administrator', 'route', 'selectable', 'reports', 'indication', 'crewmember', 'need', 'airworthiness', 'iii', 'surface', 'safety', 'communication', 'testing', 'faa', 'manual', 'completion', 'radio', 'office', 'current', 'useful', 'suitably', 'cargo', 'signal', 'periods', 'references', 'conducts', 'days', 'airports', 'checks', 'necessary', 'provisions', 'safely', 'aviation', 'takeoff', 'protection', 'cockpit', 'demonstration', 'acceptance', 'training', 'areas', 'hazard', 'command', 'airman', 'service', 'standards', 'prevent', 'duty', 'units', 'particular', 'access', 'chapter', 'extinguish', 'lists', 'primary', 'functional', 'lateral', 'continuation', 'crew', 'sign', 'electrically', 'facility', 'having']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

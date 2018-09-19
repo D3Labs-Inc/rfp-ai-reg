@@ -8,6 +8,21 @@
  CFR-2018-title9-vol2.Pt. 560
 
 
+# Summary
+
+The provisions in &#167;&#8201;321.1 of this chapter authorizing the Administrator to cooperate with any State (including Puerto Rico) or any organized Territory in developing and administering a meat inspection program for the State or Territory apply with respect to fish and fish products inspection.
+The provisions in &#167;&#8201;321.3 authorizing the Administrator to coordinate with States that have meat inspection programs as provided in &#167;&#8201;321.1 of this chapter to select certain establishments operating under these programs to participate in a cooperative program to ship products in interstate commerce apply with respect to fish and fish products inspection.
+Designation of States under the Federal Meat Inspection Act. The requirements in part 331 of this chapter apply with respect to fish and fish products inspection, including:
+(a) The requirements in 9 CFR 331.3 governing the designation of States for Federal inspection under section 301(c) of the Act (21 U.S.C. 661(c));
+(b) The requirements in 9 CFR 331.5 governing the designation under section 301(c) of the Act of establishments whose operations would clearly endanger the public health; and
+(c) The requirements in 9 CFR 331.6 governing the designation of States under section 205 of the Act.
+
+
+# Tags
+
+['inspection', 'including', 'federal', 'apply']
+
+
 # Structured Analysis Summary
 
 | Type     | Values              |

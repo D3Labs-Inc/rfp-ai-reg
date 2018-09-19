@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 410
 
 
+# Summary
+
+(a) No qualified handicapped person shall, on the basis of handicap, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity conducted by the agency.
+The agency may comply with the requirements of this section through such means as redesign of equipment, reassignment of services to accessible buildings, assignment of aides to beneficiaries, home visits, delivery of services at alternate accessible sites, alteration of existing facilities and construction of new facilities, use of accessible rolling stock, or any other methods that result in making its programs or activities readily accessible to and usable by handicapped persons.
+(1) The agency shall furnish appropriate auxiliary aids where necessary to afford a handicapped person an equal opportunity to participate in, and enjoy the benefits of, a program or activity conducted by the agency.
+(f) The agency shall notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151 through 4157), or section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 792), is not readily accessible to and usable by handicapped persons.
+
+
+# Tags
+
+['shall', 'accessible', 'agencies', 'impairments', 'handicapped person', 'programs', 'includes', 'complaints', 'facilities', 'service', 'organic', 'activities', 'aides', 'general means', 'require', 'providing', 'building', 'identified', 'section', 'telecommunication', 'states', 'allegations', 'compliance', 'auxiliary', 'act', 'extent', 'limitation', 'appropriate', 'telephone', 'effect']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                            |

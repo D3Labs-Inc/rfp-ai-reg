@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 30
 
 
+# Summary
+
+The OCC shall provide a national bank or Federal savings association prior written notice of the OCC's intention to issue an order requiring the bank or savings association to correct a safety and soundness deficiency or to take or refrain from taking other actions pursuant to section 39 of the FDI Act. The national bank or Federal savings association shall have such time to respond to a proposed order as provided by the OCC under paragraph (c) of this section.
+If the OCC finds it necessary in order to carry out the purposes of section 39 of the FDI Act, the OCC may, without providing the notice prescribed in paragraph (a)(1) of this section, issue an order requiring a national bank or Federal savings association immediately to take actions to correct a safety and soundness deficiency or take or refrain from taking other actions pursuant to section 39.
+A national bank or Federal savings association may file a written response to a notice of intent to issue an order within the time period set by the OCC.
+
+
+# Tags
+
+['occ', 'shall', 'ordered', 'actions', 'plan', 'set', 'period', 'informal', 'associations', 'insurance', 'standard', 'circumstance', 'pursuant', 'written', 'establish', 'providing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                           |

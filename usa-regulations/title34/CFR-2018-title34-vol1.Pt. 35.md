@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 35
 
 
+# Summary
+
+The regulations in this part shall apply only to claims asserted under the Federal Tort Claims Act, as amended, 28 U.S.C. 2671-2680, for money damages against the United States for damage to or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Department of Education while acting within the scope of his office or employment.
+(a) For purposes of the regulations in this part, a claim shall be deemed to have been presented when the Department of Education receives, at a place designated in paragraph (b) of this section, an executed Standard Form 95 or other written notification of an incident accompanied by a claim for money damages in a sum certain for damage to or loss of property, for personal injury, or for death, alleged to have occurred by reason of the incident.
+(c) A claim based on death may be presented by the executor or administrator of the decedent's estate or by any other person legally entitled to assert such a claim under applicable state law.
+In support of a claim for damage to or loss of property, real or personal, the claimant may be required to submit the following evidence or information:
+
+
+# Tags
+
+['claim', 'shall', 'evidence', 'death', 'written', 'timely', 'including', 'final', 'statement', 'addresses', 'states', 'matter', 'expenses', 'release', 'item', 'actually', 'administrator', 'damages', 'request', 'physician', 'date']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                      |

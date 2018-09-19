@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 560
 
 
+# Summary
+
+(3) A Federal savings association's total investment in the commercial paper and corporate debt securities of any one issuer, or issued by any one person or entity affiliated with such issuer, together with other loans, shall not exceed the general lending limitations contained in &#167;&#8201;560.93(c) of this part.
+For example, a financing lease of tangible personal property made to a natural person for personal, family or household purposes is subject to all limitations applicable to the amount of a Federal savings association's investment in consumer loans.
+A financing lease of residential or nonresidential real property is subject to all limitations applicable to the amount of a Federal savings association's investment in these types of real estate loans.
+(2) The total loans and extensions of credit by a savings association to one borrower outstanding at one time and fully secured by readily marketable collateral having a market value, as determined by reliable and continuously available price quotations, at least equal to the amount of the funds outstanding shall not exceed 10 per centum of the unimpaired capital and unimpaired surplus of the association.
+
+
+# Tags
+
+['loan', 'investment', 'included', 'credit', 'shall', 'limits', 'rate', 'security', 'fee', 'law', 'associated', 'lending', 'state', 'property', 'requiring', 'ots', 'pursuant', 'obligated', 'sections', 'leased', 'payments', 'market', 'terms', 'provided', 'capitalized', 'mortgages', 'regulations', 'estate', 'outstanding', 'documentation', 'activities', 'corporations', 'iii', 'funds', 'specifying', 'periodic', 'accounts', 'business', 'federal savings', 'real', 'values', 'authorizing', 'appropriate', 'bank', 'reason', 'adequately', 'end', 'charges', 'undertake', 'applications', 'subject', 'commercial', 'transaction', 'purchasing', 'standards', 'housing', 'borrowers', 'person', 'act', 'following', 'general']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                        |

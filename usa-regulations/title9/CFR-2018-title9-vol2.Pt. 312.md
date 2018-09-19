@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 312
 
 
+# Summary
+
+(a) The official inspection legend required by part 316 of this subchapter to be applied to inspected and passed carcasses and parts of carcasses of cattle, sheep, swine and goats, meat food products in animal casings, and other products as approved by the Administrator, shall be in the appropriate form as hereinafter specified:&#8201;1
+(a) The official inspection legend required by &#167;&#8201;316.12 or &#167;&#8201;317.2 of this subchapter to identify inspected and passed horse carcasses and parts of carcasses, or horse meat food products shall be in the appropriate form as hereinafter specified:&#8201;1
+(b) The official inspection legend required by &#167;&#8201;316.12 or &#167;&#8201;317.2 of this subchapter to identify inspected and passed mule and other (nonhorse) equine carcasses and parts of carcasses, or equine meat food products shall be in whichever of the following form, is appropriate:&#8201;1
+(b) The &#8220;U.S. Retained&#8221; and &#8220;U.S. Rejected&#8221; tags, and all other brands, stamps, labels, and other devices approved by the Administrator and bearing any official mark prescribed in paragraph (a) of this section, shall be official devices for purposes of the Act.
+
+
+# Tags
+
+['official', 'mark', 'beef', 'shall', 'carcasses', 'inspection', 'sealing', 'tags', 'meats', 'products', 'form', 'size']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                           |

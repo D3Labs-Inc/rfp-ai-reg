@@ -8,6 +8,19 @@
  CFR-2018-title14-vol2.Pt. 105
 
 
+# Summary
+
+(1) No person may conduct a parachute operation, and no pilot in command of an aircraft may allow a parachute operation to be conducted from that aircraft, in or into controlled airspace unless, during that flight&#8212;
+(b) Each request for a parachute operation authorization or notification required under this section must be submitted to the air traffic control facility having jurisdiction over the airspace at the first intended exit altitude and must include the information prescribed by &#167;&#8201;105.15(a) of this part.
+(a) Except as provided in paragraph (c) of this section, no person may conduct a parachute operation using a static line attached to the aircraft and the main parachute unless an assist device, described and attached as follows, is used to aid the pilot chute in performing its function, or, if no pilot chute is used, to aid in the direct deployment of the main parachute canopy.
+(ii) The reserve parachute must be packed in accordance with the foreign parachutist's civil aviation authority requirements, by a certificated parachute rigger, or any other person acceptable to the Administrator.
+
+
+# Tags
+
+['parachute', 'personally', 'air', 'operating', 'means', 'required', 'approved', 'area', 'object', 'device', 'airspace', 'radio', 'control', 'line', 'states', 'tandem', 'harness', 'number', 'altitude', 'use', 'prescribed', 'parachutist', 'freefall', 'aircraft', 'course', 'information', 'certificate', 'single']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                               |

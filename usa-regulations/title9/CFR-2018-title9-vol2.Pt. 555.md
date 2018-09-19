@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 555
 
 
+# Summary
+
+(b) No person, engaged in the business of buying, selling, freezing, storing, or transporting, in or for commerce, fish products capable of use as human food, or importing such articles, shall transport, offer for transportation, or receive for transportation, in commerce or in any State designated under &#167;&#8201;560.3 of this subchapter, any fish product which is capable of use as human food and is not wrapped, packaged, or otherwise enclosed to prevent adulteration by airborne contaminants, unless the railroad car, truck, or other means of conveyance in which the product is contained or transported is completely enclosed with tight fitting doors or other covers for all openings.
+(a) Sell, transport, offer for sale or transportation, or receive for transportation, in commerce, any dead, dying, or diseased fish or parts of fish that died otherwise than by slaughter, unless the fish and parts are consigned and delivered, without avoidable delay, to establishments of animal food manufacturers, renderers, or collection stations that are registered as required by part 550 of this subchapter, or to official establishments that operate under Federal inspection, or to establishments that operate under a State or Territorial inspection system approved by FSIS as one that imposes requirements at least equal to the Federal requirements for purposes of section 301(c) of the Act;
+
+
+# Tags
+
+['products', 'food', 'inspection', 'fish', 'shall', 'transporting', 'sealed', 'original', 'conditions', 'persons', 'officially', 'thorough', 'conveyance', 'cleaned', 'inedible', 'examination', 'certificates', 'requirements', 'emergency']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                          |

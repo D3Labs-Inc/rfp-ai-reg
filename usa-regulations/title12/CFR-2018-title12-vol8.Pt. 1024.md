@@ -8,6 +8,18 @@
  CFR-2018-title12-vol8.Pt. 1024
 
 
+# Summary
+
+(1) With respect to any written request from a person that indicates that the person may be a successor in interest and that includes the name of the transferor borrower from whom the person received an ownership interest and information that enables the servicer to identify the mortgage loan account, a servicer shall respond by providing the potential successor in interest with a written description of the documents the servicer reasonably requires to confirm the person's identity and ownership interest in the property and contact information, including a telephone number, for further assistance.
+The notice required pursuant to paragraph (b)(2)(i)(B) of this section must include a reasonable date by which the borrower should submit the documents and information necessary to make the loss mitigation application complete.
+(i) Except as provided in paragraph (c)(3)(ii) of this section, within 5 days (excluding legal public holidays, Saturdays, and Sundays) after receiving a borrower's complete loss mitigation application, a servicer shall provide the borrower a written notice that sets forth the following information:
+
+
+# Tags
+
+['service', 'shall', 'loan', 'informal', 'including', 'requires', 'means', 'borrower', 'providing', 'payments', 'accounts', 'applications', 'insures', 'documentation', 'notices', 'charged', 'section', 'settlements', 'iii', 'mortgaged', 'timing', 'pursuant', 'statement', 'addition', 'errors', 'receive', 'escrow', 'requesting', 'credits', 'reason', 'follow', 'persons', 'term', 'set', 'date', 'periods', 'relate', 'balances', 'disclosures', 'business day', 'property', 'title', 'addresses', 'state', 'transfer', 'federal', 'funding lender', 'fees', 'written', 'years', 'item', 'transaction', 'tax', 'actual', 'new', 'acting', 'origination', 'foreclosure', 'disbursement', 'separately', 'monthly', 'changed', 'hud', 'analysis', 'bureau', 'hazards', 'consumer', 'limitations', 'completed', 'establishes', 'form', 'prior', 'use', 'law', 'existence', 'specificity', 'interpretive', 'regulated', 'generally', 'estimated', 'applying', 'loss', 'identified', 'legally', 'text', 'involved', 'listed', 'gfe', 'annual', 'special']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

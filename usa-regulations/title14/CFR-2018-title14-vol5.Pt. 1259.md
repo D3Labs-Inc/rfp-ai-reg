@@ -8,6 +8,20 @@
  CFR-2018-title14-vol5.Pt. 1259
 
 
+# Summary
+
+(a) This part 1259 establishes the policies, responsibilities, and procedures relative to the National Space Grant College and Fellowship Program established by Title II of the National Aeronautics and Space Administration (NASA) Authorization Act of 1988 (Pub. L.
+(b) It shall be NASA's policy to designate Space Grant colleges, State Space Grant cooperating institutions, and Space Grant regional consortia and award fellowships, grants, contracts, and other transactions competitively in a merit-based review process.
+(a) Any institution of higher education may be designated a Space Grant college if the Administrator or designee, Director, NASA Space Grant Program, determines that it has a balanced program of research, education, training, and advisory services in fields related to space, as further defined in the program announcement.
+(d) Designation will be decided by a competitive merit review of the program proposal measured against the purposes of the Act and including, but not limited to, proposed linkages with other colleges and universities (particularly institutions with significant enrollments of under-represented minority groups), public service and collaboration with space-related industry.
+The other voting members shall be individuals who, by reason of their knowledge, experience, or training, are especially qualified in, or representative of, education, extension services, state government, industry, economics, planning, or any other activity related to the purposes of the Space Grant program.
+
+
+# Tags
+
+['space', 'program', 'shall', 'administrative', 'nasa', 'federal', 'grants', 'nation', 'means', 'provide educational', 'awards', 'panel', 'states', 'institutions', 'act', 'universities', 'industry', 'selected', 'authorized', 'research', 'fellowship', 'relating', 'colleges', 'review', 'claim', 'services', 'projects', 'cost', 'needs', 'advisory']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                            |

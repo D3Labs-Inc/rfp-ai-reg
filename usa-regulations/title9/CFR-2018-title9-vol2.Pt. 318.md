@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 318
 
 
+# Summary
+
+Such information should include, but not necessarily be limited to, questions of raw material control, the critical check or control points, the nature and frequency of tests to be made, the nature of charts and other records that will be used, the length of time such charts and records will be maintained in the custody of the official establishment, the nature of deficiencies the quality control system is designed to identify and control, the parameters or limits which will be used, and the points at which corrective action will occur and the nature of such corrective action&#8212;ranging from least to most severe: Provided, That, subsequent to approval of the total plant quality control system by the Administrator, the official establishment may produce a new product for test marketing provided labeling for the product has been approved by the Administrator, the inspector in charge has determined that the procedures for preparing the product will assure that all Federal requirements are met, and the production for test marketing does not exceed 6 months.
+(d) For crateless retort installations, the establishment shall have heat distribution data or other documentation from the equipment manufacturer or from a processing authority that demonstrates that the venting procedure used accomplishes the removal of air and condensate.
+
+
+# Tags
+
+['shall', 'production', 'contain', 'waters', 'process', 'temperature', 'retorts', 'recording', 'meats', 'including', 'times', 'sample', 'operator', 'require', 'control', 'pork', 'steam', 'establishment', 'heated', 'inspections', 'procedure', 'air', 'provide', 'iii', 'vented', 'preparations', 'remove', 'sectioning', 'followed', 'separable', 'additional', 'bones', 'periodic', 'materials', 'seams', 'equipped', 'groups', 'measurements', 'tests', 'cured', 'food', 'beef', 'approved', 'applicant', 'schedule', 'inform', 'continuing', 'prevented', 'bleeder', 'sausage', 'specifies', 'use', 'effectiveness', 'seals', 'condition', 'determines', 'incubated', 'levels', 'cooking', 'official', 'pressure', 'total', 'valves', 'maintained', 'protein', 'closures', 'defective', 'authorized', 'hams', 'casings', 'device', 'inches', 'dry', 'indicate', 'resulted', 'speed', 'examination', 'ingredient', 'designs', 'lots', 'prior', 'opening', 'systems', 'deviations', 'content', 'administrative', 'labeling', 'minimum', 'values', 'fat', 'necessary', 'closing', 'cans', 'plant', 'article', 'adequate', 'complete', 'specification', 'marked', 'alternative', 'visual', 'pff', 'maintenance', 'animals', 'program', 'identified', 'action', 'methods', 'quality', 'standards', 'accurate', 'support', 'charts', 'individually', 'cooling', 'ensure', 'statements', 'glass']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

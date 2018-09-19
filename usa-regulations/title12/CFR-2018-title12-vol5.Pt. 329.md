@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 329
 
 
+# Summary
+
+A FDIC-supervised institution's adjusted level 1 liquid asset amount equals the fair value of all level 1 liquid assets that would be eligible HQLA and would be held by the FDIC-supervised institution upon the unwind of any secured funding transaction (other than a collateralized deposit), secured lending transaction, asset exchange, or collateralized derivatives transaction that matures within 30 calendar days of the calculation date where the FDIC-supervised institution will provide an asset that is eligible HQLA and the counterparty will provide an asset that will be eligible HQLA; less the amount of the reserve balance requirement under section 204.5 of Regulation D (12 CFR 204.5).
+(4) 40 percent of all brokered deposits at the FDIC-supervised institution provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which are held in a transactional account with no contractual maturity date, where less than the entire amount is covered by deposit insurance;
+(4) 40 percent of all brokered deposits at the FDIC-supervised institution provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which are held in a transactional account with no contractual maturity date, where less than the entire amount is covered by deposit insurance;
+
+
+# Tags
+
+['asset', 'include', 'securities', 'institution', 'transactions', 'means', 'deposited', 'companies', 'funding', 'liquidate', 'banking', 'contractual', 'market', 'provides', 'entity', 'derivatives', 'operational', 'account', 'counterparties', 'percent', 'development', 'legally', 'exchanged', 'collateralized', 'service', 'date', 'mature', 'financial', 'requirements', 'investment', 'act', 'amounts', 'cash', 'foreign', 'customers', 'similar', 'iii', 'risks', 'agreements', 'credit', 'net', 'calculations', 'calendar', 'states', 'payment', 'days', 'written', 'outflows', 'hqla', 'balance', 'law', 'level', 'loan', 'excess', 'government', 'reserved', 'contracts', 'non', 'facilities', 'commitment', 'regulatory', 'purpose', 'trading']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

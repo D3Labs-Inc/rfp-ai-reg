@@ -8,6 +8,18 @@
  CFR-2018-title14-vol1.Pt. 49
 
 
+# Summary
+
+(3) An assignment of an interest in a security agreement must be signed by the assignor and, unless it is attached to and is a part of the original agreement, must describe the agreement in sufficient detail to identify it, including its date, the names of the parties, the date of FAA recording, and the recorded conveyance number.
+(a) Any lease, a notice of tax lien or other lien (except a notice of Federal tax lien referred to in &#167;&#8201;49.17 (a), and any mortgage, equipment trust, contract of conditional sale, or other instrument executed for security purposes, which affects title to, or any interest in, any aircraft engine, propeller, or appliance maintained by or on behalf of an air carrier certificated under 49 U.S.C. 44705 for installation or use in aircraft, aircraft engines, or propellers, or any spare parts, maintained at a designated location or locations by or on behalf of such an air carrier.
+The FAA Civil Aviation Registry is designated under Section 3 of the Cape Town Treaty Implementation Act of 2004, as the entry point for authorizing the transmission of information to the International Registry affecting United States civil aircraft, aircraft assigned a U.S. registration number and engines with a rated shaft horsepower of 550 or the equivalent thereof.
+
+
+# Tags
+
+['conveyances', 'aircraft', 'recordation', 'documents', 'affects', 'stating', 'number', 'requirements', 'registry', 'oklahoma', 'dates', 'original', 'file', 'applicant', 'following', 'instrument', 'propeller', 'corporation', 'fee']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                           |

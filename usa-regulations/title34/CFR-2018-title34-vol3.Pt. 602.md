@@ -8,6 +8,18 @@
  CFR-2018-title34-vol3.Pt. 602
 
 
+# Summary
+
+(d) For any decision listed in paragraph (b)(2) of this section, makes available to the Secretary, the appropriate State licensing or authorizing agency, and the public, no later than 60 days after the decision, a brief statement summarizing the reasons for the agency's decision and the official comments that the affected institution or program may wish to make with regard to that decision, or evidence that the affected institution has been offered the opportunity to provide official comment;
+(d) Department staff's evaluation of an agency may also include a review of information directly related to institutions or programs accredited or preaccredited by the agency relative to their compliance with the agency's standards, the effectiveness of the standards, and the agency's application of those standards.
+(b) In the event that statutory authority or appropriations for the Advisory Committee ends, or there are fewer duly appointed Advisory Committee members than needed to constitute a quorum, and under extraordinary circumstances when there are serious concerns about an agency's compliance with subpart B of this part that require prompt attention, the senior Department official may make a decision in a recognition proceeding based on the record compiled under &#167;&#8201;602.32 or &#167;&#8201;602.33 after providing the agency with an opportunity to respond to the final staff analysis.
+
+
+# Tags
+
+['agency', 'program', 'including', 'accredited', 'institutions', 'recognition', 'staff', 'educators', 'student', 'provided', 'reviews', 'information', 'written', 'department', 'decisions', 'standard', 'states', 'action', 'means', 'follows', 'addition', 'secretary', 'official', 'committee', 'submitting', 'federal', 'iii', 'procedures', 'compliance', 'publications', 'requirements', 'reports', 'preaccredits', 'records', 'sufficient', 'acting', 'identify', 'evaluated', 'reasonably', 'final', 'determining', 'specification', 'effective', 'location', 'specify', 'scope', 'granted', 'based', 'applications', 'describing', 'established', 'withdraw', 'policies', 'responses', 'status', 'evidence', 'academic', 'appropriately', 'hours', 'periodically', 'administrative']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                    |

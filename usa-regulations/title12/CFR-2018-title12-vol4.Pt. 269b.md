@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 269b
 
 
+# Summary
+
+The panel shall appoint, pursuant to &#167;&#8201;269b.420, a hearing officer to hold a hearing and issue a report to the panel containing findings of fact, conclusions of law, and recommendations including, where appropriate, remedial action to be taken and notices to be posted.
+(b) Any party may request the hearing officer, at any time following his designation and before the filing of his decision, to withdraw on grounds of previously demonstrated personal bias, conflict of interest, or prejudice by filing with him promptly upon the discovery of the alleged facts a timely affidavit setting forth in detail the matters alleged to constitute grounds for disqualification.
+After the close of the hearing, and the receipt of briefs, if any, the hearing officer shall prepare a report and recommendations, containing findings of fact, conclusions of law, including judgments as to the credibility of witnesses where appropriate, and the reasons or basis therefor, and recommendations as to the disposition of the case, and, where appropriate, including the remedial action and notices to be posted.
+Any party may file a brief in support of the hearing officer's report and recommendations subject to the same time limits and rules pertaining to filing exceptions and briefs in support thereof, as set forth in &#167;&#8201;269b.520.
+
+
+# Tags
+
+['shall', 'parties', 'hearing', 'file', 'panel', 'require', 'service', 'request', 'timely', 'include', 'setting', 'charges', 'persons', 'ordered', 'ruled', 'proceeding', 'circumstances', 'fact', 'procedural', 'exceptions', 'action', 'statement', 'caused', 'matters', 'thereof', 'conducted', 'undue', 'position', 'substantiated', 'alleged', 'prior', 'acting', 'applicable', 'documents', 'offices', 'motion']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                         |

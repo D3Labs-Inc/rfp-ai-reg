@@ -8,6 +8,17 @@
  CFR-2018-title25-vol1.Pt. 211
 
 
+# Summary
+
+(b) After a lease or permit is approved, written permission must be secured from the Secretary before any operations are started on the leased premises, in accordance with applicable rules and regulations in 25 CFR part 216; 30 CFR chapter II, subchapters A and C; 30 CFR part 750 (Requirements for Surface Coal Mining and Reclamation Operations on Indian Lands), 43 CFR parts 3160, 3260, 3480, 3590, and Orders or Notices to Lessees (NTLs) issued thereunder.
+(a) In addition to or in lieu of cancellation under &#167;&#8201;211.54, violations of the terms and conditions of any lease, or the regulations in this part, or failure to comply with a notice of noncompliance or a cessation order issued by the Secretary, or, in the case of solid minerals the authorized officer, may subject a lessee or permittee to a penalty of not more than $1,558 per day for each day that such a violation or noncompliance continues beyond the time limits prescribed for corrective action.
+
+
+# Tags
+
+['shall', 'lease', 'permits', 'including', 'land', 'indian', 'mineral resources', 'approved', 'means', 'operating', 'bond', 'secretary', 'agreement', 'regulator', 'owners', 'states', 'gas', 'productive', 'authority', 'mining', 'royalty', 'lessees', 'issued', 'thereof', 'requirements', 'applications', 'reasonably', 'provisions', 'oil', 'environmental', 'act', 'pursuant', 'information', 'areas', 'actions', 'specific', 'officers', 'assignments', 'drilling', 'written', 'negotiations', 'developed', 'provided', 'rate', 'bids', 'penalty', 'unitization', 'cfr', 'surveys', 'days', 'buildings', 'proposed', 'payments', 'bidder', 'director', 'persons', 'geothermal', 'time', 'mailing', 'effectively', 'cancel', 'tribes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

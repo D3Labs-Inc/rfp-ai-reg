@@ -8,6 +8,23 @@
  CFR-2018-title25-vol1.Pt. 18
 
 
+# Summary
+
+This part establishes the Department's policies and procedures for reviewing and approving or disapproving tribal probate codes, amendments, and single heir rules that contain provisions regarding the descent and distribution of trust and restricted lands.
+The tribe must submit its probate code to the Department for approval if the tribal probate code contains provisions regarding the descent and distribution of trust and restricted lands.
+Only those tribal probate code provisions regarding the descent and distribution of trust and restricted lands require the Department's approval.
+Our approval applies only to those sections of the tribal probate code that govern the descent and distribution of trust or restricted land.
+(a) A tribal probate code may not become effective sooner than 180 days after the date of approval by the Department.
+Only those tribal probate code amendments regarding the descent and distribution of trust and restricted lands require the Department's approval.
+No. There is no right of appeal within the Department from a decision to approve or disapprove a tribal probate code amendment.
+We have 90 days from receipt by the Assistant Secretary of a single heir rule submitted separate from a tribal probate code to approve or disapprove a single heir rule.
+
+
+# Tags
+
+['act means', 'tribal', 'indian', 'tribe', 'code', 'approves', 'days', 'personal', 'land', 'amendment', 'property']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                              |

@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 303
 
 
+# Summary
+
+(iv) If exempted custom slaughtering or other preparation of products is conducted in an official establishment, all facilities and equipment in the official establishment used for such custom operations shall be thoroughly cleaned and sanitized before they are used for preparing any products for sale.
+(c) It has been determined that it is impracticable to provide inspection of the preparation of products at establishments in any unorganized Territory at which livestock are slaughtered or their products are prepared for distribution solely within such jurisdiction and that exempting such establishments from requirements of the Act for such inspections under the conditions stated in this section will otherwise facilitate enforcement of the Act. Therefore, such inspection requirements of the Act and of the regulations in this subchapter shall not apply at such establishments if they are operated in accordance with the regulations in part 416, &#167;&#167;&#8201;416.1 through 416.5 of this chapter.
+(d)(1) The requirements of the Act and the regulations in this subchapter for inspection of the preparation of products do not apply to operations of types traditionally and usually conducted at retail stores and restaurants, when conducted at any retail store or restaurant or similar retail-type establishment for sale in normal retail quantities or service of such articles to consumers at such establishments.
+
+
+# Tags
+
+['shall', 'production', 'operating', 'food', 'inspections', 'sanitation', 'waters', 'cleans', 'machines', 'retail', 'required', 'necessary', 'rinsing', 'equipment', 'permitted', 'preparation', 'following', 'type', 'records', 'procedures', 'facilities', 'establishment', 'administration', 'public', 'effective', 'processing', 'provided', 'compartment', 'exemptions', 'condition', 'temperature', 'manufacturers', 'carcass', 'utensil', 'health', 'consumers', 'specifications', 'meat', 'experimentation', 'conduct', 'tanks', 'institutions', 'movable dish', 'dollar', 'custom']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                   |

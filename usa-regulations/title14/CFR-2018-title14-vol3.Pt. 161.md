@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 161
 
 
+# Summary
+
+(a) Each airport operator or aircraft operator (hereinafter referred to as applicant) proposing a Stage 3 restriction shall provide public notice and an opportunity for public comment, as prescribed in this subpart, before submitting the restriction to the FAA for review and approval.
+Each applicant proposing a noise or access restriction on Stage 3 operations shall prepare and make available for public comment an analysis that supports, by substantial evidence, that the six statutory conditions for approval have been met for each restriction and any alternatives submitted.
+(c) The following procedures shall apply if an airport operator does not agree in writing, within 20 days of receipt of the FAA's notice of apparent violation under &#167;&#8201;161.503, to defer implementation or enforcement of its noise or access restriction until completion of the process under this subpart to determine compliance.
+(c) The following procedures shall apply if an airport operator does not agree in writing, within 20 days of receipt of the FAA's notice of apparent violation under &#167;&#8201;161.503, to defer implementation or enforcement of its noise or access restriction until completion of the process under this subpart to determine compliance.
+
+
+# Tags
+
+['restrictions', 'airports', 'included', 'noise', 'shall', 'operating', 'aircraft', 'applications', 'information', 'proposed', 'analysis', 'commented', 'notice requirements', 'useful', 'faa', 'agreement', 'approved', 'procedure', 'reevaluated', 'provide', 'followed', 'evidence', 'staged', 'cost', 'locally', 'actions', 'areas', 'affected', 'implements', 'publication', 'services', 'submit', 'effects', 'federal', 'review', 'aviation', 'days', 'new', 'available', 'benefits', 'party', 'reasonably', 'completed', 'air', 'interested', 'requests', 'programs', 'measurement', 'periods']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                             |

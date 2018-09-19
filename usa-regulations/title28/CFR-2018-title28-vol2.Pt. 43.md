@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 43
 
 
+# Summary
+
+(a) The head of a Department or Agency of the United States responsible for the furnishing of hospital, medical, surgical or dental care and treatment (including prostheses and medical appliances), or his designee, shall determine whether such hospital, medical, surgical or dental care and treatment was or will be furnished for an injury or disease caused under circumstances entitling the United States to recovery under the Act of September 25, 1962 (Pub. L.
+(2) Compromise or settle and execute a release of any claim, not in excess of $300,000, which the United States has for the reasonable value of such care and treatment; or
+(3) Waive and in this connection release any claim, not in excess of $300,000, in whole or in part, either for the convenience of the Government, or if the head of the Department or Agency, or his or her designee, determines that collection would result in undue hardship upon the person who suffered the injury or disease resulting in the care and treatment described in &#167;&#8201;43.1.
+The head of each Department or Agency concerned, or his designee, shall report annually to the Attorney General, by March 1, commencing in 1964, the number and dollar amount of claims asserted against, and the number and dollar amount of recoveries from third persons.
+
+
+# Tags
+
+['shall', 'persons', 'furnishing', 'determination', 'connection', 'circumstances', 'medical', 'states']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                                  |

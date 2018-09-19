@@ -8,6 +8,20 @@
  CFR-2018-title14-vol1.Pt. 13
 
 
+# Summary
+
+(2) An order assessing civil penalty may be issued if a person charged with a violation does not request a hearing under paragraph (g)(2)(ii) of this section within 15 days after receipt of a final notice of proposed civil penalty.
+At the close of the hearing, the administrative law judge shall issue, either orally on the record or in writing, an initial decision, including the reasons for the decision, that contains findings or conclusions on the allegations contained, and the civil penalty sought, in the complaint.
+(b) An agency employee engaged in the performance of investigative or prosecutorial functions in a civil penalty action shall not, in that case or a factually-related case, participate or give advice in a decision by the administrative law judge or by the FAA decisionmaker on appeal, except as counsel or a witness in the public proceedings.
+The attorney of record, the party, or the party's representative shall sign each document tendered for filing with the hearing docket clerk, the administrative law judge, the FAA decisionmaker on appeal, or served on each party.
+The administrative law judge shall serve a copy of each document including, but not limited to, notices of prehearing conferences and hearings, rulings on motions, decisions, and orders, upon each party to the proceedings by personal delivery or by mail.
+
+
+# Tags
+
+['shall', 'orders', 'party', 'persons', 'violation', 'faa', 'evidence', 'administrative', 'including', 'issuing', 'proceeding', 'requests', 'document', 'hearing', 'office', 'files', 'written', 'information', 'penalties', 'federal', 'motions', 'discovery', 'enforcement action', 'certificate', 'recorded', 'procedures', 'investigating', 'notice', 'judge', 'reasonably', 'allegation', 'witnesses', 'acting', 'counsel', 'law', 'docketed', 'follow', 'materially', 'time', 'decision', 'service', 'matter', 'attorney', 'specifically', 'civil', 'states', 'case', 'findings', 'mail', 'means', 'pursuant', 'decisionmaking', 'ruling', 'date', 'submit', 'appeal', 'appropriate', 'aircraft', 'provided', 'orally', 'subpoenas', 'complaint', 'usc', 'data', 'authority', 'operation', 'flight', 'designation', 'regulate', 'additional', 'deposited', 'agency', 'facts', 'section']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

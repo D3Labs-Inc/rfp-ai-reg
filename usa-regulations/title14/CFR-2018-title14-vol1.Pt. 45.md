@@ -8,6 +8,21 @@
  CFR-2018-title14-vol1.Pt. 45
 
 
+# Summary
+
+The owner or operator of an aircraft manufactured before March 7, 1988 must mark the aircraft by attaching the identification plate required by paragraph (a) of this section.
+The plate must be secured at an accessible exterior or interior location near an entrance, if the model designation and builder's serial number are also displayed on the exterior of the aircraft fuselage.
+(f) For powered parachutes and weight-shift-control aircraft, the identification plate required by paragraph (a) of this section must be secured to the exterior of the aircraft fuselage so that it is legible to a person on the ground.
+(c) Except as provided in paragraph (d)(2) of this section, no person may remove or install any identification plate required by &#167;&#8201;45.11, without the approval of the FAA.
+(a) Except as provided in &#167;&#8201;45.22, no person may operate a U.S.-registered aircraft unless that aircraft displays nationality and registration marks in accordance with the requirements of this section and &#167;&#167;&#8201;45.23 through 45.33.
+(a) The operator of a fixed-wing aircraft must display the required marks on either the vertical tail surfaces or the sides of the fuselage, except as provided in &#167;&#8201;45.29(f).
+
+
+# Tags
+
+['markings', 'aircraft', 'surfaces', 'approved', 'design', 'limited', 'balloon', 'horizontally', 'operating', 'locations', 'required', 'identification', 'remove', 'certificate', 'fuselage', 'display', 'equivalent', 'applicability', 'state', 'standard', 'engines', 'faa', 'registration', 'exemption', 'exhibition', 'near', 'article', 'indicates']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                         |

@@ -8,6 +8,26 @@
  CFR-2018-title28-vol2.Pt. 60
 
 
+# Summary
+
+This regulation authorizes certain categories of federal law enforcement officers to request the issuance of search warrants under Rule 41, Fed. R.
+(b) Any person who has been authorized to execute search warrants by the head of a department, bureau, or agency (or his delegate, if applicable) pursuant to any statute of the United States.
+(g) Any civilian agent of the Department of Defense who is authorized to enforce the Uniform Code of Military Justice.
+(i) Any special agent of the Office of Inspector General, Department of Transportation.
+(j) Any special agent of the Investigations Division of the Office of Inspector General, Small Business Administration.
+(k) Any special agent of the Office of Investigations and the Office of Labor Racketeering of the Office of Inspector General, Department of Labor.
+(l) Any special agent of the Office of Investigations of the Office of Inspector General, General Services Administration.
+(m) Any special agent of the Office of Inspector General, Department of Housing and Urban Development.
+(n) Any special agent of the Office of Inspector General, Department of Interior.
+(p) Any special agent of the Office of Inspector General, Social Security Administration.
+(q) Any special agent of the Office of Inspector General, Department of Health and Human Services.
+
+
+# Tags
+
+['services', 'office', 'authorizes', 'investigative', 'department', 'general', 'administration', 'enforce', 'agencies', 'law', 'national']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                           |

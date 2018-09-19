@@ -8,6 +8,21 @@
  CFR-2018-title12-vol1.Pt. 37
 
 
+# Summary
+
+A national bank may not extend credit nor alter the terms or conditions of an extension of credit conditioned upon the customer entering into a debt cancellation contract or debt suspension agreement with the bank.
+If a debt cancellation contract or debt suspension agreement is terminated (including, for example, when the customer prepays the covered loan), the bank shall refund to the customer any unearned fees paid for the contract unless the contract provides otherwise.
+Before entering into a contract the bank must obtain a customer's written affirmative election to purchase a contract and written acknowledgment of receipt of the disclosures required by &#167;&#8201;37.6(b).
+(1) Maintains sufficient documentation to show that the customer received the short form disclosures and then affirmatively elected to purchase the contract;
+(2) Mails the affirmative written election and written acknowledgment, together with the long form disclosures required by &#167;&#8201;37.6 of this part, to the customer within 3 business days after the telephone solicitation, and maintains sufficient documentation to show it made reasonable efforts to obtain the documents from the customer; and
+(2) Maintains sufficient documentation to show that the bank made reasonable efforts to obtain from the customer a written acknowledgment of receipt of the long form disclosures; and
+
+
+# Tags
+
+['bank', 'loan', 'contracts', 'means', 'customer', 'provided', 'federal', 'payment', 'disclosures', 'reasonable', 'credit', 'solicited', 'fees', 'type', 'debt', 'risk', 'agreements', 'including', 'electronically', 'written']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                  |

@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt. 417
 
 
+# Summary
+
+A launch operator may initiate the flight of a launch vehicle only if flight safety analysis performed under paragraph (f) of this section demonstrates that any risk to the public satisfies the following public risk criteria:
+A launch operator must implement a plan that defines the process for ensuring that any unauthorized persons, ships, trains, aircraft or other vehicles are not within any hazard areas identified by the flight safety analysis or the ground safety analysis.
+A launch operator must only use a flight safety system and all flight safety system components, including any onboard launch vehicle flight termination system, command control system, and support system that satisfy the test requirements of subpart D of this part.
+A launch operator's wind weighting safety system must consist of equipment, procedures, analysis and personnel functions used to determine the launcher elevation and azimuth settings that correct for the windcocking and wind drift that an unguided suborbital launch vehicle will experience during flight due to wind effects.
+A launch operator must establish and maintain hazard controls for each system that presents a public hazard as identified by the ground safety analysis and satisfy the requirements of this section.
+
+
+# Tags
+
+['launched', 'include', 'flights', 'safety', 'hazard', 'operation', 'analysis', 'vehicles', 'performing', 'requirements', 'time', 'controlling', 'data', 'procedures', 'public', 'tested', 'mean', 'planned', 'impacting', 'explosions', 'systems', 'identify', 'areas', 'potentially', 'iii', 'commands', 'personnel', 'material', 'debris', 'condition', 'transmitter', 'provided', 'orbiting', 'communication', 'safely', 'satisfy', 'associate', 'processes', 'follow', 'equipment', 'trajectories', 'frequency', 'track', 'ranges', 'inform', 'responsibility', 'components', 'initiate', 'faa', 'failures', 'ensures', 'sited', 'powered', 'reports', 'pressure', 'effective', 'activation', 'states', 'radio', 'device', 'designed', 'functional', 'software', 'overpressure', 'direction', 'risk', 'relation', 'crew', 'container', 'energy sources', 'criteria', 'establishes', 'grounding', 'turn', 'points', 'supports', 'specification', 'reviews', 'inadvertently', 'destructive physical', 'approves', 'use', 'event', 'need', 'current', 'result', 'characteristics', 'output', 'critical', 'non', 'signal', 'line', 'record', 'dispersions', 'limits', 'antenna', 'measurements', 'ordnance', 'countdown', 'prevents', 'continue', 'hardware', 'occurring', 'remain', 'sections']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

@@ -8,6 +8,26 @@
  CFR-2018-title14-vol2.Pt. 95
 
 
+# Summary
+
+(a) This part prescribes altitudes governing the operation of aircraft under IFR on ATS routes, or other direct routes for which an MEA is designated in this part.
+In addition, it designates mountainous areas and changeover points.
+(b) The MAA is the highest altitude on an ATS route, or other direct route for which an MEA is designated, at which adequate reception of VOR signals is assured.
+Unless otherwise specified, an MEA prescribed for an off airway route or route segment applies to the airspace 4 nautical miles on each side of a direct course between the navigation fixes defining that route or route segment.
+(g) The changeover point (COP) applies to operation of an aircraft along a Federal airway, jet route, or other direct route; for which an MEA is designated in this part.
+Eastern United States Mountainous Area.
+Western United States Mountainous Area.
+All of the following area excluding those portions specified in the exceptions:
+All of the following area excluding those portions specified in the exceptions:
+All of the following area excluding those portions specified in the exceptions:
+This subpart prescribes COP's for Federal airways, jet routes, area navigation routes, or other direct routes for which an MEA is designated in this part.
+
+
+# Tags
+
+['route', 'navigation', 'mountainous areas', 'altitude', 'means', 'frequency', 'coastline', 'applies', 'prescribed', 'beginning', 'islands', 'hawaii']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                |

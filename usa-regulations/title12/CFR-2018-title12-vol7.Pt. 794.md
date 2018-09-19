@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 794
 
 
+# Summary
+
+Auxiliary aids means services or devices that enable persons with impaired sensory, manual, or speaking skills to have an equal opportunity to participate in, and enjoy the benefits of, programs or activities conducted by the agency.
+(a) No qualified handicapped person shall, on the basis of handicap, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity conducted by the agency.
+In meeting the requirements of &#167;&#8201;794.150(a) in historic preservation programs, the agency shall give priority to methods that provide physical access to handicapped persons.
+(1) The agency shall furnish appropriate auxiliary aids where necessary to afford a handicapped person an equal opportunity to participate in, and enjoy the benefits of, a program or activity conducted by the agency.
+(f) The agency shall notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157), or section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 792), is not readily accessible to and usable by handicapped persons.
+
+
+# Tags
+
+['shall', 'agency', 'accessible', 'person', 'programs', 'impaired', 'including', 'services', 'complaint', 'historic', 'require', 'provided', 'physical', 'handicap', 'facility', 'general means', 'organs', 'appropriate', 'alter', 'aid', 'materials', 'activity', 'section', 'buildings', 'identified', 'alleging', 'telecommunication', 'act', 'extent', 'compliance', 'auxiliary', 'effective', 'telephone']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                              |

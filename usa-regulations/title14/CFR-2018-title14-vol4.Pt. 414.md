@@ -8,6 +8,22 @@
  CFR-2018-title14-vol4.Pt. 414
 
 
+# Summary
+
+(1) The FAA accepts the application and will begin the reviews or evaluations required for a safety approval determination under this part.
+(2) The FAA rejects the application because it is incomplete or indefinite making initiation of the reviews or evaluations required for a safety approval determination under this part inappropriate.
+(a) The FAA will issue a safety approval to an applicant that meets all the requirements under this part.
+A holder of a safety approval may apply to renew it by sending the FAA a written application at least 90 days before the expiration date of the approval.
+(3) Any proposed changes in the conduct of a safety element for which the FAA has issued a safety approval must be described and must include any added information necessary to support the fitness of the proposed changes to meet the criteria upon which the FAA evaluated the safety approval application.
+The FAA will provide written notice to the applicant of our determination on the safety approval renewal request.
+(f) The FAA will provide written notice to the person requesting the safety approval transfer of our determination.
+
+
+# Tags
+
+['applicability', 'safety', 'faa', 'approved', 'required', 'information', 'criteria', 'requests', 'perform', 'public', 'written', 'determination', 'federal', 'personnel', 'confidential', 'administrator', 'procedures', 'sufficient', 'letter', 'specific', 'standard', 'elements', 'iii', 'relevant', 'necessary', 'issued']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                       |

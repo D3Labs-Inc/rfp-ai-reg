@@ -8,6 +8,20 @@
  CFR-2018-title14-vol5.Pt. 1221
 
 
+# Summary
+
+This subpart sets forth the policy governing the use of the NASA Seal, the NASA Insignia, NASA Logotype, NASA Program Identifiers, and the NASA Flags.
+(a) The NASA Seal, the NASA Insignia, NASA Logotype, NASA Program Identifiers, the NASA Flags, and the Agency's Unified Visual Communications System, as prescribed in &#167;&#8201;1221.102 through &#167;&#8201;1221.108 of this subpart, shall be used exclusively to represent NASA, its programs, projects, functions, activities, or elements.
+(c) The Associate Administrator for Public Affairs, NASA Headquarters, has designated a NASA Graphics Coordinator to implement and monitor Agencywide design improvements in consonance with the NASA Graphics Standards Manual, the NASA Insignia Standards Supplement, and the NASA Unified Visual Communications System.
+(a) Official NASA Program Identifiers will be restricted to the uses set forth in this section and to such other uses as the Associate Administrator for Public Affairs may specifically approve.
+Any person who uses the NASA Insignia, NASA Logotype, or NASA Program Identifier in a manner other than as authorized in this subpart shall be subject to the provisions of title 18 U.S.C. 701.
+
+
+# Tags
+
+['nasa', 'shall', 'design', 'use', 'publications', 'approved', 'officially', 'space', 'program', 'insignias', 'item', 'officers', 'contractors', 'awards', 'services', 'administrator', 'duty', 'activity', 'employee', 'personal', 'business', 'installation', 'established', 'flag', 'nature including', 'headquarters', 'involving', 'recordings', 'patches', 'general', 'appropriate', 'standard', 'report', 'identifier']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                        |

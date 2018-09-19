@@ -8,6 +8,22 @@
  CFR-2018-title34-vol3.Pt. 415
 
 
+# Summary
+
+(10 points) The Secretary reviews each application to assess the extent to which the proposed demonstration center for the training of dislocated workers will&#8212;
+(15 points) The Secretary reviews each application to determine the quality of the plan of operation for the project, including&#8212;
+(4) The quality of the applicant's plan to use its resources and personnel to achieve each objective including the use of appropriate existing Federal, State, and local programs; and
+(15 points) The Secretary reviews each application to determine the quality of the project's evaluation plan, including the extent to which the plan&#8212;
+(10 points) (1) The Secretary reviews each application to determine the quality of key personnel the applicant plans to use on the project, including&#8212;
+(3) The budget proposes using non-Federal resources available from appropriate employment, training, and education agencies in the State to provide project services and activities and to acquire demonstration center equipment and facilities.
+(e) A summary of evaluation activities and results that can be reviewed by the Department's Program Effectiveness Panel, as defined in 34 CFR 400.4(b), must be submitted to the Secretary during the last year of the project period.
+
+
+# Tags
+
+['projected', 'points including', 'provide', 'evaluation', 'educational', 'federal', 'program', 'vocational', 'services', 'secretary', 'plan', 'applications', 'possible', 'training', 'personnel', 'national', 'funded', 'apply', 'high']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                           |

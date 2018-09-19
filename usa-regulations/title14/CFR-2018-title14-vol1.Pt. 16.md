@@ -8,6 +8,18 @@
  CFR-2018-title14-vol1.Pt. 16
 
 
+# Summary
+
+Ex parte communication means an oral or written communication not on the public record with respect to which reasonable prior notice to all parties is not given, but it shall not include requests for status reports on any matter or proceeding covered by this part, or communications between FAA employees who participate as parties to a hearing pursuant to 16.203(b) of this part and other parties to a hearing.
+(d) The Director may transfer to the FAA Deputy Assistant Administrator for Civil Rights or Office of Civil Rights designee the authority to prepare and issue Director's Determinations pursuant to &#167;&#8201;16.31 for complaints alleging violations of section 505(d) of the Airport and Airway Improvement Act of 1982, and the requirements concerning civil rights and/or Disadvantaged Business Enterprise (DBE) issues contained in 49 U.S.C. 47107(e) and 49 U.S.C. 47113; 49 U.S.C. 47123; 49 U.S.C. 322, as amended; 49 CFR parts 23 and/or 26; and/or grant assurance 30 and/or grant assurance 37.
+The transcript of all testimony in the hearing, all exhibits received into evidence, all motions, applications requests and rulings, all documents included in the hearing record and the Director's Determination shall constitute the exclusive record for decision in the proceedings and the basis for the issuance of any orders.
+
+
+# Tags
+
+['persons shall', 'ordered', 'issued', 'faa', 'files', 'party', 'documents', 'evidence', 'airports', 'witnesses', 'hearing', 'information', 'officers', 'requirements', 'decisions', 'means', 'written', 'matters', 'including', 'addressed', 'administrator', 'mail', 'reasonably', 'agency', 'granted', 'recorded', 'statement', 'orally', 'acts', 'law', 'determined', 'time', 'proceeding', 'motions', 'action', 'requested', 'proposed', 'contained', 'federal', 'provided', 'specifically', 'case', 'authorized', 'receive', 'stating', 'follows', 'director', 'service', 'complaints', 'periods', 'facts', 'testimony', 'usc', 'investigates', 'subpoenas']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

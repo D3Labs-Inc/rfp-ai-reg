@@ -8,6 +8,20 @@
  CFR-2018-title9-vol2.Pt. 206
 
 
+# Summary
+
+The classification of contracts or risk management agreements for the purchase of swine committed to a packer, by the determination of the base price and the presence or absence of an accrual account or ledger (as defined in this section).
+Each packer must provide monthly estimates of the number of swine committed to be delivered under all of its existing contracts (even if those contracts are not currently available for renewal or to additional producers) in each contract type as defined in &#167;&#8201;206.1.
+The packer's estimate of the maximum total number of swine that potentially could be delivered to each plant within each of the following 12 calendar months, if any or all of the types of expansion clauses identified in accordance with the requirement in paragraph (c)(4) of this section are executed.
+GIPSA will provide a monthly report of estimated deliveries by contract types as reported by packers in accordance with this section, for public release on the first business day of each month.
+(iv) The types of conditions or circumstances as reported by packers that could result in expansion in the numbers of swine to be delivered under the terms of expansion clauses in the contracts at any time during the following 12 calendar months.
+
+
+# Tags
+
+['contracted', 'swine', 'pricing', 'gipsa', 'packers', 'markets', 'information', 'reporting', 'electronically', 'estimates', 'current', 'base', 'month', 'example', 'maximum', 'account', 'included', 'region', 'formula purchases', 'monthly', 'following', 'available']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                |

@@ -8,6 +8,23 @@
  CFR-2018-title34-vol3.Pt. 662
 
 
+# Summary
+
+What is the Fulbright-Hays Doctoral Dissertation Research Abroad Fellowship Program?
+(a) The Fulbright-Hays Doctoral Dissertation Research Abroad Fellowship Program is designed to contribute to the development and improvement of the study of modern foreign languages and area studies in the United States by providing opportunities for scholars to conduct research abroad.
+(b) Under the program, the Secretary awards fellowships, through institutions of higher education, to doctoral candidates who propose to conduct dissertation research abroad in modern foreign languages and area studies.
+(2) When the fellowship period begins, is admitted to candidacy in a doctoral degree program in modern foreign languages and area studies at that institution;
+(a) An individual applies for a fellowship by submitting an application to the Secretary through the institution of higher education in which the individual is enrolled.
+(a) The Secretary considers applications for fellowships under this program that have been screened and submitted by eligible institutions.
+(c) In evaluating applications, the Secretary obtains the advice of panels of United States academic specialists in modern foreign languages and area studies.
+William Fulbright Foreign Scholarship Board selects fellows on the basis of the Secretary's recommendations and the information described in &#167;&#8201;662.20(e) from binational commissions or United States diplomatic missions.
+
+
+# Tags
+
+['research', 'applications', 'secretary awards', 'fellowship', 'academic', 'foreign languages', 'politics', 'administrative', 'overseas', 'informs', 'cultural', 'areas', 'expenses', 'regulations', 'doctoral', 'program', 'individuals', 'sufficient', 'abroad']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                       |

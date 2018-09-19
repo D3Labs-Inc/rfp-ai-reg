@@ -8,6 +8,19 @@
  CFR-2018-title12-vol9.Pt. 1072
 
 
+# Summary
+
+(b) This part is also intended to implement section 508 of the Rehabilitation Act of 1973 as amended to ensure that employees and members of the public with disabilities have access to, and are able to use, electronic and information technology (EIT) to the same extent as individuals without disabilities, unless an undue burden would be imposed on the department or the Bureau.
+For purposes of this part Auxiliary aids means services or devices that enable persons with impaired sensory, manual, or speaking skills to have an opportunity to participate in, and enjoy the benefits of, programs or activities conducted by the Bureau.
+(a) No qualified individual with a disability in the United States, shall, on the basis of disability, be excluded from the participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity conducted by the Bureau.
+(f) The Bureau shall notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157), is not readily accessible to and usable by individuals with disabilities.
+
+
+# Tags
+
+['shall', 'access', 'bureau', 'programs', 'includes', 'disability', 'complaints', 'impairments', 'individually', 'informally', 'person', 'means', 'reasonable', 'aides', 'provided', 'facilities', 'service', 'appropriate', 'organ', 'act', 'equipment', 'hearing', 'compliance', 'section', 'limited', 'officer', 'discrimination', 'technology', 'activity', 'duties', 'policies', 'time', 'building', 'useful', 'allegations', 'telecommunication device', 'function', 'telephone', 'employment']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                       |

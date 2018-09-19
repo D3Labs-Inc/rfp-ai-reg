@@ -8,6 +8,17 @@
  CFR-2018-title12-vol5.Pt. 351
 
 
+# Summary
+
+(ii) For securitization transactions completed prior to the compliance date of such implementing regulations (or as to which such implementing regulations do not apply), the calculations shall be made as of the date of establishment as defined in paragraph (a)(2)(iv)(B) of this section or such earlier date on which the transferred assets have been valued for purposes of transfer to the covered fund, and thereafter only upon the date on which additional securities of the issuing entity of asset-backed securities are priced for purposes of the sales of ownership interests to unaffiliated investors.
+(1) For purposes of paragraph (a)(2)(iii) of this section, the aggregate value of all ownership interests held by a banking entity shall be the sum of all amounts paid or contributed by the banking entity in connection with acquiring or retaining an ownership interest in covered funds (together with any amounts paid by the entity (or employee thereof) in connection with obtaining a restricted profit interest under &#167;&#8201;351.10(d)(6)(ii) of this subpart), on a historical cost basis.
+
+
+# Tags
+
+['includes', 'investment', 'entity', 'meaning', 'securities', 'trade', 'bank', 'provides', 'requires', 'covered funds', 'asset', 'acting', 'risk capital', 'actively', 'iii', 'shall', 'marketing', 'terms', 'permitted', 'stated', 'foreign', 'transact', 'insures', 'applicable', 'reasons', 'companies', 'thereof', 'positive', 'documentation', 'pursuant', 'financial', 'loan', 'regulator', 'sections', 'obligated', 'organization', 'manage', 'sole', 'profit', 'standards', 'calendar', 'operating', 'basis', 'similar', 'purchased', 'described', 'instrumentality', 'liquidity', 'limits', 'periodically', 'total', 'relates', 'sales', 'programs', 'affiliated', 'purposes', 'appropriate', 'accountability', 'based', 'derivatives', 'identifiable', 'compliance', 'offer', 'qualifies', 'outside']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                   |

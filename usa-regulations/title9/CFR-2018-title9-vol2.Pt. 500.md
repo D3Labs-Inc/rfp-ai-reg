@@ -8,6 +8,21 @@
  CFR-2018-title9-vol2.Pt. 500
 
 
+# Summary
+
+(a) FSIS may take a withholding action or impose a suspension without providing the establishment prior notification because:
+(b) FSIS also may impose a suspension without providing the establishment prior notification because the establishment is handling or slaughtering animals inhumanely.
+FSIS may take a withholding action or impose a suspension after an establishment is provided prior notification and the opportunity to demonstrate or achieve compliance because:
+(d) If FSIS suspends inspection and does not hold the suspension action in abeyance as provided in paragraph (e) of this section, the establishment may request a hearing pursuant to the Uniform Rules of Practice, 7 CFR Subtitle A, part 1, subpart H.
+(b) If the Administrator refuses to grant inspection, the applicant will be provided the opportunity for a hearing in accordance with the Uniform Rules of Practice, 7 CFR Subtitle A, part 1, subpart H.
+(c) If FSIS rescinds or refuses approval of false or misleading marks, labels, or sizes or forms of any container for use with any meat or poultry product, an opportunity for a hearing will be provided in accordance with the Uniform Rules of Practice, 7 CFR subtitle A, part 1, subpart H.
+
+
+# Tags
+
+['action', 'fsis', 'products', 'establishment', 'conditions', 'notification', 'assault', 'requiring', 'sanitary', 'standard', 'operating', 'inspection']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                |

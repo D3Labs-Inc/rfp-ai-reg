@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1253
 
 
+# Summary
+
+Upon establishing that the Notice contains sufficient information, FHFA shall deem the submission complete and &#8220;received&#8221; for purposes of section 1321(e)(2)(B) of the Safety and Soundness Act (12 U.S.C. 4541(e)(2)(B)), and shall notify the Enterprise accordingly.
+If the Director determines that the new activity is a new product, FHFA shall publish a public notice soliciting comments on the proposed product for a 30 calendar-day period.
+(2) The Director will approve the new product if the Director determines that the new product complies with the applicable authorizing statute, is in the public interest, and is consistent with the safety and soundness of the Enterprise and the mortgage finance and financial system.
+(4) The Director will disapprove the new product if the Director determines that approval is inconsistent with applicable law, regulation, or FHFA policy thereunder, or contrary to public interest or the safety and soundness of the Enterprise or the mortgage finance or financial system.
+(2) The Director may impose terms, conditions, or limitations on the Temporary Approval to ensure that the new product offering is consistent with applicable statutory and regulatory standards, FHFA policies, public interest, and the safety and soundness of the Enterprise or the mortgage finance system.
+
+
+# Tags
+
+['information', 'enterprise', 'fhfa', 'product', 'includes', 'approve', 'notice', 'commenter', 'periods', 'public', 'new activity', 'shall', 'directors', 'usc', 'mortgages', 'requests', 'determined', 'providing', 'risk', 'federal', 'different', 'financial', 'markets', 'officer', 'act', 'completed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                         |

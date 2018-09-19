@@ -8,6 +8,17 @@
  CFR-2018-title14-vol5.Pt. 1245
 
 
+# Summary
+
+(a) In implementing the provisions of section 20135(g) of the National Aeronautics and Space Act (51 U.S.C. Chapter 201), and in determining when the interests of the United States would be served by waiver of all or any part of the rights of the United States in an invention or class of inventions made in the performance of work under NASA contracts, the Administrator will be guided by the objectives set forth in the National Aeronautics and Space Act, by the basic policy of the Presidential Memorandum and Statement of Government Patent Policy to the Heads of the Executive Departments and agencies dated February 18, 1983, by the goals and objectives of its current Authorization Act, Strategic Plan, and other pertinent National policies or laws, such as the National Space Policy of the United States of America.
+(b) The NASA Inventions and Contributions Board normally will recommend grant of a request for advance waiver of domestic rights submitted prior to execution of contract or within 30 days after execution of the contract unless the Board finds that the interests of the United States will be better served by restricting or denying all or part of the requested rights in one or more of the following situations:
+
+
+# Tags
+
+['shall', 'nasa', 'patented', 'inventions', 'information', 'applications', 'rights', 'government', 'contracts', 'requests', 'prior', 'claim', 'board', 'including', 'waiver', 'setting', 'administrator', 'foreign', 'licensing', 'authorized', 'execute', 'useful', 'reasonably', 'contractor', 'agency', 'publications', 'granted', 'policies', 'officer', 'pursuant', 'procedures', 'filing', 'time', 'proceeding', 'present', 'requirements', 'utilized', 'works', 'witnesses', 'involve', 'reports', 'section', 'processing', 'means', 'following', 'hearing', 'infringed', 'recommendation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                              |

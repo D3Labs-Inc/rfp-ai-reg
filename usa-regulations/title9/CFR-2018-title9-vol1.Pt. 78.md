@@ -8,6 +8,17 @@
  CFR-2018-title9-vol1.Pt. 78
 
 
+# Summary
+
+(ii) Cattle from qualified herds in a quarantined area may be moved interstate from a farm of origin directly to an approved intermediate handling facility and then directly to a recognized slaughtering establishment or directly to an approved intermediate handling facility and then directly to a quarantined feedlot and then directly to a recognized slaughtering establishment if they are negative to an official test within 30 days prior to such interstate movement and are accompanied by an &#8220;S&#8221; brand permit which states, in addition to the items specified in &#167;&#8201;78.1, the test dates and results of the official tests; or
+(iii) Cattle from qualified herds in a quarantined area may be moved interstate from a farm of origin directly to a specifically approved stockyard and then directly to an approved intermediate handling facility and then directly to a recognized slaughtering establishment or directly to an approved intermediate handling facility and then directly to a quarantined feedlot and then directly to a recognized slaughtering establishment if they are negative to an official test within 30 days prior to such interstate movement and are accompanied by a permit or &#8220;S&#8221; brand permit which states, in addition to the items specified in &#167;&#8201;78.1, the test dates and results of the official tests; or
+
+
+# Tags
+
+['test', 'brucellosis', 'herd', 'cattle', 'shall', 'swine', 'bison', 'approved', 'state disease', 'animal', 'officials', 'identification number', 'negative', 'following', 'area', 'vaccinated', 'individual', 'permitted', 'epidemiology', 'movement', 'reactor', 'agglutination', 'day', 'requires', 'iii', 'classification', 'moving', 'established', 'plan', 'month', 'certificate', 'slaughtered', 'inspects', 'quarantining', 'brucella', 'positive', 'new', 'epidemiologists', 'market', 'administration', 'aphis', 'period', 'eartag', 'branded', 'conduct', 'concentrate', 'tag', 'surveillance', 'associated', 'years', 'standards', 'interstate', 'authority', 'originating', 'directly', 'free', 'island', 'class', 'samples', 'prior', 'health', 'premises', 'representatives', 'accompany', 'status', 'nationally', 'destined', 'validated', 'stockyard', 'identified', 'designed', 'breed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

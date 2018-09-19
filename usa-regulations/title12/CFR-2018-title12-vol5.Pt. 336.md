@@ -8,6 +8,20 @@
  CFR-2018-title12-vol5.Pt. 336
 
 
+# Summary
+
+(i) A loan or advance from an insured depository institution, which is now owed to the FDIC, RTC, FSLIC or their successors, or any federal deposit insurance fund, that is delinquent for ninety (90) or more days as to payment of principal, interest, or a combination thereof and on which there remains a legal obligation to pay an amount in excess of $50,000; or
+(2) For purposes of computing the $50,000 ceiling in paragraphs (j)(1)(i) and (ii) of this section, all delinquent judgments, loans, or advances currently owed to the FDIC, RTC, FSLIC or their successors, or any federal deposit insurance fund, shall be aggregated.
+(2) Been removed from, or prohibited from participating in the affairs of, any insured depository institution pursuant to any final enforcement action by any appropriate federal banking agency;
+(2) Is prohibited from participating in the affairs of any insured depository institution pursuant to any final enforcement action by any appropriate federal banking agency;
+(a) Any employee found not in compliance with the minimum standards except as provided in paragraph (b) of this section below shall be terminated and prohibited from providing further service for or on behalf of the FDIC in any capacity.
+
+
+# Tags
+
+['shall', 'employees', 'including', 'fdic', 'insurance', 'appointing', 'meaning', 'corporation', 'bank', 'provided', 'debts', 'institutions', 'authorized', 'financial', 'services', 'federal', 'individual', 'responsibilities', 'acting', 'obligations', 'loans', 'company', 'penalty', 'standards', 'directly', 'ethics']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                         |

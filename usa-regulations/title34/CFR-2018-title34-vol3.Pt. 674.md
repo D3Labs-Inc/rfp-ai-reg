@@ -8,6 +8,18 @@
  CFR-2018-title34-vol3.Pt. 674
 
 
+# Summary
+
+(2) An institution must cancel up to 100 percent of the outstanding balance on a Federal Perkins, NDSL or Defense loan made prior to July 23, 1992, for full-time service as a nurse or medical technician performed on or after October 7, 1998, if the cancellation benefits provided under this section are not included in the borrower's promissory note.
+(2) An institution must cancel up to 100 percent of the outstanding loan balance on a Federal Perkins, NDSL or Defense loan made prior to July 23, 1992 for early intervention service performed on or after October 7, 1998, if the cancellation benefits provided under this section are not included in the terms of the borrower's promissory note.
+An institution must cancel up to 100 percent of the outstanding balance on a borrower's Federal Perkins Loan, NDSL, or Defense loan for full-time employment that includes August 14, 2008, or begins on or after that date, as a speech pathologist with a master's degree who is working exclusively with schools eligible for funds under part A of title I of the Elementary and Secondary Education Act of 1965, as amended.
+
+
+# Tags
+
+['loan', 'borrowed', 'services', 'shall', 'programs', 'institutional', 'including', 'provider', 'iii', 'times', 'payments', 'periodic', 'collecting', 'secretary', 'written repayment', 'dischargeable', 'inform', 'cancelled', 'year', 'school', 'educational', 'state', 'followed', 'federal', 'deferment', 'require', 'students', 'cost', 'documenting', 'receive', 'determines', 'means', 'described', 'applicant', 'medical', 'agency', 'completing', 'section', 'eligible', 'administration', 'activates', 'disabled', 'based', 'income', 'children', 'reasonable', 'granting', 'charges', 'assistance', 'records', 'public', 'applies', 'amounts', 'reports', 'authorize', 'status', 'supportive', 'general', 'acts', 'requests', 'electronically', 'default', 'immediate', 'procedure', 'note', 'relation', 'new', 'teaching', 'month', 'national', 'approved', 'awarded', 'dates', 'financial', 'work', 'law', 'rate', 'principal', 'maintained', 'benefit', 'enrolled', 'professional', 'individuals', 'languages', 'legally', 'credited', 'addresses', 'accounts', 'additional', 'action', 'performs', 'qualified', 'communications', 'employment', 'bills', 'total', 'prior', 'securities', 'statement', 'continuing', 'provision']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

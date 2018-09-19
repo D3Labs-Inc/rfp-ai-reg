@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 9003
 
 
+# Summary
+
+(iii) Funds received during the matching payment period that are remaining in a candidate's primary election account after the nomination may be transferred to the GELAC without regard to the contribution limitations of 11 CFR part 110 and used for any purpose permitted under this section, only if the funds are in excess of any amount needed to pay remaining net outstanding campaign obligations under 11 CFR 9034.1(b) and any amount required to be reimbursed to the Presidential Primary Matching Payment Account under 11 CFR 9038.2.
+For purposes of paragraph (a)(2)(i)(B) of this section, a candidate may use contributions to the GELAC to reimburse his or her Federal fund account an amount equal to 10% of the payroll and overhead expenditures of his or her national campaign headquarters and state offices.
+(iv) Contributions to and funds deposited in the GELAC may not be used to retire debts remaining from the presidential primaries, except that, after payment of all expenses set out in paragraph (a)(2)(i) of this section, and the completion of the audit and repayment process, including the making of all repayments owed to the United States Treasury by both the candidate's primary and general election committees, funds remaining in the GELAC may be used for any purpose permitted under 52 U.S.C. 30114 and 11 CFR part 113, including payment of primary election debts, which shall remain subject to the primary expenditure limit under 11 CFR 9035.1.
+
+
+# Tags
+
+['shall agree', 'funding', 'contributions', 'included', 'expenditures', 'pursuant', 'candidate', 'documenting', 'record', 'account', 'campaign', 'committees', 'election', 'service', 'expense', 'receives', 'costs', 'provide', 'compliance', 'required', 'establish', 'stated', 'amounts', 'person', 'related', 'primary', 'specifications', 'incur', 'considered', 'asset', 'disbursement', 'offices', 'payments', 'cfr', 'remain']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                     |

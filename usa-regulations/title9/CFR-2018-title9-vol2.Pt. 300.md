@@ -8,6 +8,20 @@
  CFR-2018-title9-vol2.Pt. 300
 
 
+# Summary
+
+FSIS implements the inspection provisions of the FMIA, the PPIA, and the EPIA through its field structure.
+Administrator means the Administrator of the Food Safety and Inspection Service or any other officer or employee of the Department to whom authority has been or may in the future be delegated to act in his or her stead.
+Inspection program, inspection service, or program means the organizational unit within the Department with responsibility for carrying out the FMIA, the PPIA, and the EPIA.
+(1) Persons subject to provisions of the FMIA or the PPIA must afford representatives of the Secretary access to establishments that slaughter or otherwise prepare livestock products or process poultry products and to other places of business subject to regulation thereunder; and
+(2) At all ordinary business hours, upon presentation of credentials by a representative of the Secretary, any person (including any firm or corporation or other business unit) subject to recordkeeping requirements under section 202 of the FMIA or section 11(b) of the PPIA must permit such representative to enter his or her place of business to examine the facilities and inventory and to examine and copy the records specified in &#167;&#8201;320.1 and &#167;&#8201;381.175, respectively, of this chapter and, upon payment of the fair market value therefor, take reasonable samples of the inventory.
+
+
+# Tags
+
+['programs', 'fsis', 'office', 'inspection', 'products', 'districts', 'technical', 'usc', 'services', 'means', 'regulations', 'provides', 'supervisor', 'food', 'voluntary', 'business', 'including', 'official']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                          |

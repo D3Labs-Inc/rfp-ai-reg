@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 811
 
 
+# Summary
+
+The regulations in this part set forth procedures and requirements relating to registration, verification, and changes in information for sex offenders who live, reside, work, or attend school in the District of Columbia.
+(b) A sex offender must register if the sex offender is placed on probation, parole, supervised release, or convalescent leave, is conditionally or unconditionally released from a secure facility, is granted unaccompanied grounds privileges or other unaccompanied leave, absconds or escapes, is otherwise not detained, incarcerated, confined, civilly committed, or hospitalized in a secure facility, or enters the District of Columbia from another jurisdiction to live, reside, work, or attend school.
+(5) If the Superior Court has not entered an order certifying that a person is a sex offender, CSOSA shall inform the person that, if the person disagrees with CSOSA's determination that the person must register or CSOSA's determination of the person's classification for purposes of registration or notification, then the person must follow the review procedures set forth in &#167;&#8201;811.8.
+
+
+# Tags
+
+['csosa', 'sex offender registration', 'information', 'regulations', 'includes', 'court', 'registered', 'offense', 'shall', 'columbia', 'iii', 'number', 'supervised', 'required', 'law', 'school', 'color', 'facility', 'compliance', 'securing', 'offices', 'set', 'criminal', 'address', 'new', 'code', 'leave']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                              |

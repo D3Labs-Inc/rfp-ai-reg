@@ -8,6 +8,20 @@
  CFR-2018-title12-vol6.Pt. 536
 
 
+# Summary
+
+(2) Any other person only when the person sells, solicits, advertises, or offers an insurance product or annuity to a consumer at an office of a savings association, or on behalf of a savings association.
+For purposes of this definition, activities on behalf of a savings association include activities where a person, whether at an office of the savings association or at another location, sells, solicits, advertises, or offers an insurance product or annuity and at least one of the following applies:
+(i) The person represents to a consumer that the sale, solicitation, advertisement, or offer of any insurance product or annuity is by or on behalf of the savings association;
+The disclosures required by paragraph (a) of this section must be provided orally and in writing before the completion of the initial sale of an insurance product or annuity to a consumer.
+The disclosure required by paragraph (b) of this section must be made orally and in writing at the time the consumer applies for an extension of credit in connection with which an insurance product or annuity is solicited, offered, or sold.
+
+
+# Tags
+
+['insurance', 'person', 'disclosures', 'associated', 'consumer', 'provide', 'sale', 'acts', 'electronic media includes', 'state', 'public', 'annuities', 'activities', 'means', 'form', 'generally', 'deposit', 'solicitation', 'physically', 'documentation', 'materials']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                    |

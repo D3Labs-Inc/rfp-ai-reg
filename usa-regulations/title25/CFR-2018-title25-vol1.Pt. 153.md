@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 153
 
 
+# Summary
+
+The regulations in this part govern the procedures in determining the competency of Crow Indians under Public Law 303, 81st Congress, approved September 8, 1949.
+The Commissioner of Indian Affairs or his duly authorized representative, upon the application of any unenrolled adult member of the Crow Tribe, shall classify him by placing his name to the competent or incompetent rolls established pursuant to the act of June 4, 1920 (41 Stat.
+Among the matters to be considered by the Commissioner of Indian Affairs in determining competency are the amount of the applicant's indebtedness to the tribe, to the United States Government, and to others; whether he is a public charge or a charge on friends and relatives, or will become such a charge, by reason of being classed as competent; and whether the applicant has demonstrated that he possesses the ability to take care of himself and his property, to protect the interests of himself and his family, to lease his land and collect the rentals therefrom, to lease the land of his minor children, to prescribe in lease agreements those provisions which will protect the land from deterioration through over-grazing and other improper practices, and to assume full responsibility for obtaining compliance with the terms of any lease.
+
+
+# Tags
+
+['shall', 'including', 'indians', 'roll', 'resides', 'competent', 'leases']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                          |

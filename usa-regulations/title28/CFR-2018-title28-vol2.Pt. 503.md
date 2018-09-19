@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 503
 
 
+# Summary
+
+Structure of the Bureau of Prisons.
+The Bureau of Prisons consists of a Central Office, located at 320 First Street, NW., Washington, DC 20534, a Staff Training Center, and six Regional Offices (Northeast, Mid-Atlantic, Southeast, North Central, South Central, and Western).
+For further information, please contact the Central Office at the address referenced, or visit www.bop.gov for a complete list of contact information for Bureau Regional Offices and facilities.
+
+
+# Tags
+
+['offices', 'training']
+
+
 # Structured Analysis Summary
 
 | Type     | Values                                                                                                         |

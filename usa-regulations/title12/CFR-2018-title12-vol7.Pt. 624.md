@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 624
 
 
+# Summary
+
+A covered swap entity shall comply with the initial margin requirements described in paragraphs (a) and (b) of this section on each business day, for a period beginning on or before the business day following the day of execution and ending on the date the non-cleared swap or non-cleared security-based swap terminates or expires.
+A covered swap entity shall comply with the variation margin requirements described in paragraph (a) of this section on each business day, for a period beginning on or before the business day following the day of execution and ending on the date the non-cleared swap or non-cleared security based swap terminates or expires.
+A covered swap entity satisfies its requirement to post initial margin under &#167;&#8201;624.3(b) by posting to its counterparty initial margin in the form and amount, and at such times, that its counterparty is required to collect pursuant to a foreign regulatory framework, provided that the counterparty is subject to the foreign regulatory framework and the prudential regulators have made a determination under paragraph (d)(1) of this section, unless otherwise stated in that determination, and the counterparty's obligations under the non-cleared swap or non-cleared security-based swap do not have a guarantee from:
+
+
+# Tags
+
+['margin', 'swap', 'entity', 'modeling', 'securities', 'include', 'financial', 'companies', 'pursuant', 'require', 'internal risk', 'agreement', 'development', 'collateral', 'shall', 'day means', 'counterparty', 'foreign', 'bank', 'regulations', 'initiation', 'credit', 'state', 'provides', 'act', 'investing', 'dollars', 'lender', 'eligibility', 'non', 'compliance', 'clearing', 'applicable', 'legally', 'money', 'trading', 'net basis', 'collected', 'institution', 'prices', 'determining', 'assets', 'currencies', 'markets', 'materially', 'posting', 'federal', 'similar', 'period', 'sections', 'funds', 'authorization', 'exchange', 'business', 'sufficient', 'regulatory']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

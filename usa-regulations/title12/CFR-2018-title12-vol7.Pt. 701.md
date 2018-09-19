@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 701
 
 
+# Summary
+
+(8) The Federal credit union includes, in its written lending policies, a limit on the aggregate dollar amount of loans made under this section of a maximum of 20% of net worth and implements appropriate underwriting guidelines to minimize risk; for example, requiring a borrower to verify employment by producing at least two recent pay stubs.
+(ii) Establish a limit on the aggregate amount of loan participations that may be purchased from any one originating lender, not to exceed the greater of $5,000,000 or 100 percent of the federally insured credit union's net worth, unless this amount is waived by the appropriate regional director, and, in the case of a federally insured, state-chartered credit union, with prior written concurrence of the appropriate state supervisory authority;
+(iv) Establish a limit on the aggregate amount of loan participations that may be purchased with respect to a single borrower, or group of associated borrowers, not to exceed 15 percent of the federally insured credit union's net worth, unless waived by the appropriate regional director, and, in the case of a federally insured, state-chartered credit union, with prior written concurrence of the appropriate state supervisory authority.
+
+
+# Tags
+
+['unions', 'loan', 'includes', 'members', 'accountants', 'federal credit', 'financial', 'section', 'iii', 'written', 'means', 'requires', 'person', 'shall', 'applications', 'state', 'insured', 'provides', 'ncua', 'rate', 'service', 'business', 'shares', 'capitalized', 'limitations', 'securities', 'income', 'purchasing', 'agreement', 'law', 'borrowed', 'authorities', 'acting', 'homes', 'notices', 'years', 'officers', 'requesting', 'generally', 'funding', 'establishes', 'directors', 'administration', 'condition', 'lending', 'regulate', 'payment', 'secondary', 'losses', 'cost', 'committees', 'program', 'reason', 'maturity', 'fees', 'board', 'information', 'pursuant', 'obligation', 'plan', 'risk', 'described', 'property', 'follows', 'contracts', 'controlled', 'term', 'entities', 'money', 'area', 'national', 'official', 'certain', 'concerning', 'originally', 'total', 'publication', 'transaction', 'prohibit', 'endorser', 'specified', 'documentation', 'timing', 'immediate', 'currently', 'base', 'addition', 'membership', 'deposit', 'periodic', 'determine', 'individual', 'balances', 'meetings', 'participated', 'benefits', 'real', 'employees', 'charter']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

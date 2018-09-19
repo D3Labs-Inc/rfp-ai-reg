@@ -8,6 +8,17 @@
  CFR-2018-title34-vol3.Pt. 400
 
 
+# Summary
+
+Community-based organization means a private nonprofit organization of demonstrated effectiveness that is representative of communities or significant segments of communities and that provides job training services (for example, Opportunities Industrialization Centers, the National Urban League, SER-Jobs for Progress, United Way of America, Mainstream, the National Puerto Rican Forum, National Council of La Raza, WAVE, Inc., Jobs for Youth, organizations operating career intern programs, neighborhood groups and organizations, community action agencies, community development corporations, vocational rehabilitation organizations, rehabilitation facilities (as defined in section 7(10) of the Rehabilitation Act of 1973 (29 U.S.C. 706(10)), agencies serving youth, agencies serving individuals with disabilities, including disabled veterans, agencies serving displaced homemakers, union-related organizations, and employer-related nonprofit organizations), and an organization of demonstrated effectiveness serving non-reservation Indians (including the National Urban Indian Council), as well as tribal governments and Native Alaskan groups.
+The Secretary determines, on a case-by-case basis, whether other indices of economic status are more representative of the number of economically disadvantaged students attending vocational education programs, taking into consideration, for example, the statistical reliability of any data submitted by a grantee as well as the general acceptance of the indices by other agencies in the State or local area.
+
+
+# Tags
+
+['programs', 'educator', 'mean', 'state', 'school', 'vocational', 'includes', 'act', 'students', 'institutions', 'individual', 'skilled', 'employer', 'requiring', 'provided', 'training', 'agency', 'shall', 'communication', 'national', 'occupation', 'administrative', 'academic', 'organizations', 'regulations', 'technology', 'usc', 'services', 'committee', 'activities', 'assistance', 'indians', 'career', 'materials', 'report', 'standards', 'specialized', 'related', 'federal', 'iii', 'cooperative', 'developed', 'based', 'general', 'transportability', 'funding', 'industrialization', 'disabled', 'center', 'local', 'apprenticeship', 'cfr', 'time', 'worked', 'laws', 'applied']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

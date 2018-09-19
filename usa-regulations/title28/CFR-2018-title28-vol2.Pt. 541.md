@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 541
 
 
+# Summary
+
+In an effort to maintain a safe and orderly environment within its institutions, the Bureau of Prisons may place in controlled housing status an inmate who tests HIV positive when there is reliable evidence that the inmate may engage in conduct posing a health risk to another person.
+(c) Based on the perceived health risk to others posed by the inmate's threatened or actual actions, the Warden may, with the telephonic approval of the Regional Director, temporarily (not to exceed 20 work days) place an inmate in a special housing status (e.g., administrative detention, or a secure health service unit room) pending the inmate's appearance before the Hearing Administrator.
+(a) At the conclusion of the hearing and following review of all material related to the recommendation for placement of an inmate in a controlled housing status, the Hearing Administrator shall prepare a written decision as to whether this placement is warranted.
+To the extent consistent with available resources and the security needs of the institution, an inmate in controlled housing status is to be considered for activities and privileges afforded to the general population.
+
+
+# Tags
+
+['inmate', 'shall', 'staff', 'institution', 'unit', 'reviewing', 'programming', 'include', 'disciplinary', 'evidence', 'provides', 'status', 'witnesses', 'follows', 'reason', 'availability', 'visiting', 'service', 'ordinarily receive', 'hearing', 'medication', 'written', 'prisons', 'information', 'persons', 'adequately', 'health', 'bureau', 'administrator', 'director', 'act', 'mentally', 'days', 'needs', 'periods', 'industries', 'security', 'sanctions', 'request', 'assign', 'cases', 'behavior', 'materials', 'involves', 'action', 'placement', 'housing', 'record', 'prohibited', 'investigate', 'udc', 'severe', 'conducted']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                   |

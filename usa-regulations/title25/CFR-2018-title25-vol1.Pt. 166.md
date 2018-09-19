@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 166
 
 
+# Summary
+
+(b) When specifically authorized by an appropriate tribal resolution establishing a general policy for permitting of Indian agricultural lands, and subject to paragraph (c) of this section, the BIA may:
+(c) The owners of a majority interest in the Indian ownership of a fractionated tract may grant a permit, subject to our approval, without giving prior notice to the minority Indian landowners as long as the minority interest owners receive fair annual rental.
+(b) Grazing rental payments made directly to the Indian landowners must be made to the parties specified in the permit, unless the permittee receives a notice of a change of ownership.
+Unless the permit provides otherwise, we may enter the range unit at any reasonable time, without prior notice, to protect the interests of the Indian landowners and ensure that the permittee is in compliance with the operating requirements of the permit.
+(a) Unless otherwise provided under tribal law, when we have reason to believe that a trespass on Indian agricultural land has occurred, within five business days, we or the authorized tribal representative will provide written notice to the alleged trespasser, the possessor of trespass property, any known lien holder, and beneficial Indian landowner, as appropriate.
+
+
+# Tags
+
+['permit', 'land', 'means', 'indians', 'tribal', 'requirements', 'agricultural', 'include', 'permittee', 'graze', 'payments', 'bia', 'trespasser', 'grants', 'authority', 'program', 'tribes', 'time', 'provided', 'periodically', 'immediately', 'fee', 'approved', 'law', 'landowners', 'livestock', 'relations', 'property', 'education', 'managed', 'use', 'applicable', 'bond', 'base', 'documentation', 'receive', 'written', 'action', 'federal', 'yes', 'impounding', 'crops', 'units', 'rates', 'trust', 'notices', 'following', 'determination', 'prior', 'plans', 'acting', 'students', 'agency', 'establishes', 'recorded', 'administrative', 'date', 'reasonable', 'costs', 'addition', 'community', 'financial', 'native', 'mortgaged', 'individual', 'annually', 'appropriate', 'accepted', 'policy', 'states', 'negotiable', 'assign', 'identify', 'obligated', 'years', 'activities', 'remove', 'academic', 'parties', 'specific', 'requests', 'regulating', 'legally', 'days']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

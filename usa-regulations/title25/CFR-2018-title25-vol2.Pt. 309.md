@@ -8,6 +8,19 @@
  CFR-2018-title25-vol2.Pt. 309
 
 
+# Summary
+
+The Act makes it unlawful to offer or display for sale or sell any good in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian, or Indian tribe, or Indian arts and crafts organization resident within the United States.
+The unqualified use of the term &#8220;Indian&#8221; or of the term &#8220;Native American&#8221; or the unqualified use of the name of a foreign tribe, in connection with an art or craft product, regardless of where it is produced and regardless of any country-of-origin marking on the product, is interpreted to mean for purposes of this part that&#8212;
+A person who offers or displays for sale or sells a good, with or without a Government trademark, in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian or Indian tribe or Indian arts and crafts organization, resident within the United States:
+Complaints about protected products alleged to be offered or displayed for sale or sold in a manner that falsely suggests they are Indian products should be made in writing and addressed to the Director, Indian Arts and Crafts Board, Room 4004-MIB, U.S. Department of the Interior, 1849 C Street, NW, Washington, DC 20240.
+
+
+# Tags
+
+['indian', 'products', 'basket', 'arts', 'dolls', 'bags', 'dance', 'beaded', 'sticks', 'crafted', 'bowls', 'silver', 'pipe', 'horse', 'traditional', 'quill', 'organization', 'tribal', 'market', 'masks', 'labor', 'shell', 'grass', 'providing', 'cedar', 'fiber', 'horsehair', 'states', 'item', 'skin', 'dresses', 'include', 'containers', 'material', 'hats', 'examples', 'tribes', 'hides', 'baleen', 'disclosed', 'native', 'raffia', 'jackets', 'willow', 'turquoise', 'penalties', 'board', 'feather', 'yucca', 'horn', 'moccasins']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                         |

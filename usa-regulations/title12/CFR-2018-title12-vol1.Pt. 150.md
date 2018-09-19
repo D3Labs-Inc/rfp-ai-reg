@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 150
 
 
+# Summary
+
+Activities ancillary to your fiduciary business include advertising, marketing, or soliciting fiduciary business, contacting existing or potential customers, answering questions and providing information to customers related to their accounts, acting as liaison between you and your customer (for example, forwarding requests for distribution, changes in investment objectives, forms, or funds received from the customer), and inspecting or maintaining custody of fiduciary assets or holding title to real property.
+Your other departments or affiliates may use fiduciary officers, employees, and facilities to perform services unrelated to the exercise of fiduciary powers, to the extent not prohibited by applicable law.
+You may not invest funds of a fiduciary account for which you have investment discretion in the following assets, unless authorized by applicable law:
+You may lend, sell or otherwise transfer assets of a fiduciary account for which you have investment discretion to yourself or any of your directors, officers, or employees; to your affiliates or any of their directors, officers, or employees; or to other individuals or organizations with whom you have an interest that might affect the exercise of your best judgment, if you meet one of the following conditions:
+
+
+# Tags
+
+['fiduciaries', 'invest', 'state law', 'occ', 'audit', 'including', 'deposited', 'account', 'assets', 'providing', 'fund', 'security', 'follow written', 'required', 'activity', 'related', 'adequate', 'federal', 'employees', 'shared', 'customer', 'bank', 'regulations govern', 'receiver', 'appropriate', 'authorities', 'records', 'trust', 'subject', 'reasonable', 'officers']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                        |

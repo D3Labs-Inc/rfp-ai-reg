@@ -8,6 +8,17 @@
  CFR-2018-title25-vol1.Pt. 134
 
 
+# Summary
+
+409; 25 U.S.C. 386), regulations governing partial payment of construction charges on Indian irrigation projects, with the exception of certain ones mentioned therein, where approved by the Department June 21, 1920, and require that each owner of irrigable land under any irrigation system constructed for the benefit of Indians under provisions of law requiring reimbursement of the cost of such system and to which land, water for irrigation purposes can be delivered from such system, shall pay, on or before November 15, 1920, a sum equal to 5 percent of the per acre cost, as of June 30, 1920, of the construction of the system under which such land is situated.
+The first installment shall be due and payable on November 15 of the year following the completion of such additional construction work or, if such additional construction work on the project, or unit thereof, has been completed prior to July 1, 1957, and the per acre annual rate determined, the first installment of the additional construction cost to be repaid by such non-Indian landowners shall be due and payable on November 15, 1958.
+
+
+# Tags
+
+['shall', 'irrigable land', 'indians', 'constructing', 'projects', 'payments', 'annually', 'charges', 'reservation', 'years', 'acre', 'assessments', 'prior', 'rate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                       |

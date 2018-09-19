@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 608
 
 
+# Summary
+
+(d) If no response to the initial demand for payment is received by the payment due date, the FCA shall take further action under this part, under the Federal Claims Collection Act of 1966, as amended, under the joint regulations (4 CFR parts 101-105), or under any other applicable State or Federal law.
+(5) The right of the debtor to obtain a review of, and to request a hearing, on the FCA's determination of indebtedness, the propriety of collecting the debt by offset, and, in the case of salary offset, the propriety of the proposed repayment schedule (i.e., the percentage of disposable pay to be deducted each pay period).
+(b) To obtain a review, the debtor shall submit a written request for review to the FCA official named in the Notice of Intent to Collect by Administrative [or Salary] Offset within 15 calendar days after receipt of the notice.
+(a)(1) Any creditor agency which requests the FCA to impose an offset against amounts owed to the debtor shall submit to the FCA a claim certification which meets the requirements of this paragraph.
+(a) To request a paying agency to impose a salary offset against amounts owed to the debtor, the FCA shall provide the paying agency with a claim certification which meets the requirements set forth in &#167;&#8201;608.825(a).
+
+
+# Tags
+
+['shall', 'claims', 'offsets', 'paying', 'debts', 'agency', 'debtor', 'collecting', 'written', 'fca', 'payments', 'officials', 'requested', 'includes amounts', 'state', 'means', 'employee', 'law', 'regulations', 'current', 'inform', 'credit', 'deductions', 'procedural', 'owed', 'financial', 'applicable', 'determines', 'authorizing', 'period', 'requiring', 'day', 'statements', 'repayment', 'expenses', 'administrative', 'reasons', 'provided', 'district', 'governing', 'set', 'decision']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                          |

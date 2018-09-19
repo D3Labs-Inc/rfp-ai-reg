@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1290
 
 
+# Summary
+
+By June 29, 2015, and by March 31, 2017, and every two years thereafter, each Bank must provide written notice to all of its members subject to community support review that each such member must submit to FHFA a completed Community Support Statement in accordance with the requirements of paragraph (b) of this section.
+Except as provided in paragraph (b)(2) of this section, each member that is subject to community support review must submit to FHFA a completed Community Support Statement and any other related information FHFA may require by December 31, 2015, and by December 31 every two years thereafter.
+FHFA may publish a notice in the Federal Register notifying the public of the opportunity to submit comments on the community support programs and activities of Bank members, with the deadline and FHFA contact information for submission of any comments to FHFA.
+FHFA will provide written notice to the member's Bank of FHFA's determination regarding the Community Support Statement submitted by the member.
+A member that is subject to a restriction on access to long-term advances under this part is not eligible to participate in the Bank's Affordable Housing Program (AHP) under part 1291 of this chapter or in other Bank Community Investment Cash Advance (CICA) programs offered under part 1292 of this chapter.
+
+
+# Tags
+
+['members', 'bank', 'communities', 'fhfa', 'provided', 'programs', 'means', 'homebuyers', 'support', 'credit', 'lending', 'targeted', 'developing', 'housing', 'advances', 'cra', 'period', 'loans', 'statement', 'notice', 'federal', 'require']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                           |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1320
 
 
+# Summary
+
+The purpose of this part is to set forth the standards and procedures governing the Council's designation of a financial market utility that the Council determines is, or is likely to become, systemically important.
+(C) The appropriate Federal banking agency, with respect to a designated financial market utility that is an institution described in section 3(q) of the Federal Deposit Insurance Act;
+In making any proposed or final determination with respect to whether a financial market utility is, or is likely to become, systemically important under this part, the Council shall take into consideration:
+(3) The Council shall consider any written materials timely submitted by the financial market utility under this section before making a proposed determination under section 1320.13.
+If the Council does not receive a timely request for a hearing under &#167;&#8201;1320.12, the Council shall provide the financial market utility written notification of the final determination of the Council under &#167;&#8201;1320.13 not later than 30 calendar days after the expiration of the date by which a financial market utility could have requested a hearing.
+
+
+# Tags
+
+['council', 'acting', 'financial', 'shall', 'securities', 'means', 'futures', 'activities', 'information', 'transaction', 'utilities', 'trade', 'includes', 'swap', 'terms', 'payment', 'designations', 'agencies', 'systems', 'written', 'determine', 'contract', 'clearing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                      |

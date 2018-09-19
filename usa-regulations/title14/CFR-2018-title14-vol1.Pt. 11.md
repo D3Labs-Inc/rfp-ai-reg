@@ -8,6 +8,21 @@
  CFR-2018-title14-vol1.Pt. 11
 
 
+# Summary
+
+An advance notice of proposed rulemaking (ANPRM) tells the public that FAA is considering an area for rulemaking and requests written comments on the appropriate scope of the rulemaking or on specific topics.
+A notice of proposed rulemaking (NPRM) proposes FAA's specific regulatory changes for public comment and contains supporting information.
+In these cases, FAA may issue a supplemental notice of proposed rulemaking (SNPRM) to give the public an opportunity to comment further or to give us more information.
+(b) If FAA has not received an adverse comment or notice of intent to file an adverse comment, we will publish a confirmation document in the Federal Register, generally within 15 days after the comment period closes.
+(c) If we receive an adverse comment or notice of intent to file an adverse comment, we will advise the public by publishing a document in the Federal Register before the effective date of the direct final rule.
+(b) If we have issued an ANPRM or NPRM on the subject matter of your petition, we will consider your arguments for a rule change as a comment in connection with the rulemaking proceeding.
+
+
+# Tags
+
+['faa', 'rulemakings', 'commenting', 'information', 'regulations', 'docketed', 'number', 'specific', 'documents', 'rule', 'safety', 'public', 'follow', 'proposals', 'issuing', 'petition', 'design', 'actions', 'include', 'act', 'general', 'regulatory', 'aviation', 'publish', 'arac', 'requests', 'notice', 'file', 'submit', 'dot', 'federal', 'useful', 'yes', 'stating']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                   |

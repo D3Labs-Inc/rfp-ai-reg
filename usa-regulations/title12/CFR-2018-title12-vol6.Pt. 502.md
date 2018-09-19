@@ -8,6 +8,23 @@
  CFR-2018-title12-vol6.Pt. 502
 
 
+# Summary
+
+If you are a savings association or a responsible savings and loan holding company, and OTS regulates you on the last day of January or on the last day of July of each year, you must pay a semi-annual assessment due on that day.
+(a) If you are a savings association, OTS determines your semi-annual assessment by totaling three components: your size, your condition, and the complexity of your business.
+How does OTS calculate the semi-annual assessment for savings and loan holding companies?
+(a) OTS calculates the semi-annual assessment savings and loan holding companies as follows:
+How does OTS determine the risk/complexity component for a savings and loan holding company?
+(d) To compute your risk/complexity component, find the row in the appropriate schedule that describes your total consolidated assets by referring to the amounts in Columns A and B.
+OTS will include an organizational form component if you are a responsible savings and loan holding company that OTS regulates under section 10(l) of the HOLA.
+If you are a savings association and your holding company, affiliate, or subsidiary fails to pay any fee within 60 days of the date specified in a bill, the Director may assess and collect that fee, with interest, from you.
+
+
+# Tags
+
+['ots direct', 'assesses', 'companies', 'risk', 'rating', 'holding', 'asset', 'applicable', 'fees', 'savings', 'components', 'financial', 'examination', 'complexity', 'consolidated', 'expenses', 'schedules', 'thrift', 'costs', 'unusual', 'reports', 'base']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

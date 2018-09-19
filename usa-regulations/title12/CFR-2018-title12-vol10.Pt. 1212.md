@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1212
 
 
+# Summary
+
+This subpart sets forth a one-year post-employment restriction applicable to senior examiners of the Federal Housing Finance Agency (FHFA).
+(3) Assigned responsibilities for examining, inspecting and supervising the regulated entity or the Office of Finance that&#8212;
+An employee of FHFA who serves as the senior examiner of a regulated entity or the Office of Finance for two or more months during the last 12 months of his or her employment with FHFA may not, within one year after leaving the employment of FHFA, knowingly accept compensation as an employee, officer, director, or consultant from a regulated entity or the Office of Finance unless the Director grants a waiver pursuant to &#167;&#8201;1212.4.
+A senior examiner who, after leaving the employment of FHFA, violates the restriction set forth in &#167;&#8201;1212.3 shall be subject to one or both of the following penalties&#8212;
+The procedures applicable to actions under paragraph (a) of this section are those provided in the Safety and Soundness Act under section 1376, in connection with the imposition of a civil money penalty; under section 1377, in connection with a removal and prohibition order (12 U.S.C. 4636 and 4636a, respectively); and under any regulations issued by FHFA implementing such procedures.
+
+
+# Tags
+
+['means', 'fhfa', 'bank', 'regulated', 'finance', 'act', 'employees', 'set', 'examiner']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                       |

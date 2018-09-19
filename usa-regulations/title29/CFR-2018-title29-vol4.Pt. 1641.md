@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1641
 
 
+# Summary
+
+ADA cause charges that also fall within the jurisdiction of section 503 and that the Commission has declined to litigate will be referred to OFCCP for review of the file and any administrative action deemed appropriate under section 503.
+ADA charges filed with EEOC, in which both allegations of discrimination under the ADA and violation of affirmative action requirements under section 503 are made, will be referred in their entirety to OFCCP for processing and resolution under section 503 and the ADA, unless the charges also include allegations of discrimination on the basis of race, color, religion, sex, national origin or age, or include allegations involving Priority List issues, or the charges are otherwise deemed of particular importance to EEOC's enforcement of the ADA.
+In such situations, EEOC will bifurcate the charges and retain the ADA component of the charges (and when applicable, the allegations pertaining to discrimination on the basis of race, color, religion, sex, national origin or age), referring the section 503 affirmative action component of the charges to OFCCP for processing and resolution under section 503.
+
+
+# Tags
+
+['ofccp', 'shall', 'eeoc', 'charges', 'section', 'ada', 'employers', 'complaints', 'office', 'procedural', 'conciliation', 'investigating', 'action', 'legal', 'refers', 'allegations', 'issue', 'information', 'required', 'file']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                              |

@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 43
 
 
+# Summary
+
+(a) Each educational institution to which this part applies and which maintains records on students shall inform parents or eligible students of the rights given them by this part.
+(b) In meeting the requirement in paragraph (a) of this section the educational institution shall give notice to parents and eligible students at least annually of the following:
+Each educational institution shall establish appropriate procedures for granting a request by parents for access to the records of their children, or by eligible students for access to their own records within a reasonable period of time.
+Educational institutions shall not permit access to or the release of student records or personally identifiable information contained in them, other than directory information of students, without the written consent of the parents or of an eligible student, to any party other than the following:
+(a) Educational institutions shall not release personal information on a student except on the condition that the party to which the information is being transferred will not permit any other party to have access to the information without the written consent of the parents or of the eligible students.
+
+
+# Tags
+
+['shall', 'students', 'records', 'information', 'educational institutions', 'accessibility', 'officially', 'personal', 'parent', 'authorized', 'required', 'rights', 'including', 'following', 'relevant', 'written', 'sheet', 'professional', 'file', 'requesting', 'safeguards', 'consent', 'schools', 'appropriate', 'reasonably', 'acting', 'form', 'legal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                    |

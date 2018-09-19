@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 142
 
 
+# Summary
+
+The Alaska Resupply Operation provides consolidated purchasing, freight handling and distribution, and necessary transportation services from Seattle, Washington to and from other points in Alaska or en route in support of the Bureau's mission and responsibilities.
+The Seattle Support Center, under the direction of the Juneau Area Office, is responsible for the operation of the Alaska Resupply Operation, including the management of all facilities and equipment, personnel, and procurement of goods and services.
+(a) The Seattle Support Center is responsible for publishing the rates and conditions that must be published in a tariff.
+Who determines the rates and conditions of service of the Alaska Resupply Operation?
+The general authority of the Assistant Secretary&#8212;Indian Affairs to establish rates and conditions for users of the Alaska Resupply Operation is delegated to the Area Director.
+The Manager must develop tariff rates using the best modeling techniques available to ensure the most economical service to the Alaska Natives, Indian or Native owned businesses, profit or nonprofit Alaska Native corporations, Native cooperatives or organizations, or such other groups or individuals as may be sponsored by any Native or Indian organization, without enhancing the Federal treasury.
+
+
+# Tags
+
+['act', 'native', 'alaska', 'deliveries', 'indian', 'rate', 'final', 'services', 'means', 'collection', 'purchasing freight', 'specialized', 'tariff', 'payment', 'tribes', 'transport', 'consolidating', 'proper', 'packaging', 'establishing', 'operation', 'warehouse']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                           |

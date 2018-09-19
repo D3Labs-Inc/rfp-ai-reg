@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 179
 
 
+# Summary
+
+(a) AIPRA applies to life estates created by operation of law under AIPRA for an individual who died on or after June 20, 2006, owning trust or restricted property.
+How does the Secretary distribute principal and income to the holder of a life estate?
+(2) Where the vested holders of remainder interests and the life tenant have not entered into a written agreement approved by the Secretary providing for the distribution of proceeds; or
+(i) Invest the principal, with interest income to be paid to the life tenant during the life estate, except in those instances where the administrative cost of investment is disproportionately high, in which case paragraph (b)(4) of this section applies; and
+(a) If income is subject to division, the Secretary will use Actuarial Table S, Valuation of Annuities, found at 26 CFR 20.2031, to determine the value of the interests of the holders of remainder interests and the life tenant.
+How does the Secretary distribute principal and income to the holder of a life estate without regard to waste?
+The Secretary must distribute all income, including bonuses and royalties, to the life estate holder to the exclusion of any holders of remainder interests.
+
+
+# Tags
+
+['means', 'bia', 'law', 'principal', 'life estates', 'secretary', 'interests', 'indian', 'restricted property', 'contract', 'tribal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                        |

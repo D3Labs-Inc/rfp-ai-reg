@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1203a
 
 
+# Summary
+
+A physically defined area, established for the protection or security of facilities, property, or classfied/proprietary information and material in the possession of NASA or a NASA contractor located at a NASA Center or Component Facility, entry to which is subject to security measures, procedures, or controls.
+(1) Directors of NASA Centers, including Component Facilities and Technical and Service Support Centers, and the Executive Director for Headquarters Operations at NASA Headquarters may establish, maintain, and protect such areas designated as Controlled, Limited, or Exclusion, depending upon their assessment of the potential for unauthorized persons either to:
+(3)(i) At a minimum, the following information will be submitted to the Assistant Administrator for Protective Services 15 workdays prior to establishment of each permanent security area:
+The Center Directors, including Component Facilities and Technical and Service Support Centers, and the Executive Director for Headquarters, NASA Headquarters may order the removal or eviction of any person whose presence in a designated security area is in violation of the provisions of this part or any regulation or order established pursuant to the provisions of this part.
+
+
+# Tags
+
+['security areas', 'nasa', 'establishing', 'designation', 'facilities', 'access', 'provide', 'controls', 'operations', 'materials', 'supplemental', 'informed', 'property', 'required', 'unauthorized']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                |

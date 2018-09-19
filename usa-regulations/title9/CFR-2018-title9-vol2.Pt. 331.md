@@ -8,6 +8,20 @@
  CFR-2018-title9-vol2.Pt. 331
 
 
+# Summary
+
+The provisions of the regulations in this subchapter apply to operations and transactions wholly within each State designated in &#167;&#8201;331.2 under paragraph 301(c) of the Act, except as otherwise provided in this section.
+(a) Each establishment located in such a designated State shall be granted inspection required under &#167;&#8201;302.1(a)(2) of this subchapter only if it is found, upon a combined evaluation of its premises, facilities, and operating procedures, to be capable of producing products that are not adulterated or misbranded.
+For a period of 90 days from the effective date of such designation, products which were prepared and inspected and passed under the supervision of a responsible State or local inspection agency can be distributed solely within the State, provided they are not adulterated or misbranded, except that the official inspection legend is not required.
+(a) An establishment preparing products solely for distribution within any State shall be designated as one producing adulterated products which would clearly endanger the public health, if:
+Each of the following States has been designated, effective on the date shown below, under section 205 of the Act, as a State in which the provisions of the sections of the Act and regulations specified below shall apply to operators engaged, other than in or for commerce, in the kinds of business indicated below:
+
+
+# Tags
+
+['products', 'inspection', 'shall', 'establishment', 'states', 'food', 'approval', 'labeling', 'federally', 'insanitary', 'applied', 'effective', 'preparing', 'subchapter', 'designate', 'ingredients', 'sensitive', 'contents', 'regulations', 'official', 'staff', 'specify']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                |

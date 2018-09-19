@@ -8,6 +8,17 @@
  CFR-2018-title25-vol2.Pt. 581
 
 
+# Summary
+
+(4) Part 585 of this subchapter relating to appeals to the Commission on written submissions of notices of violation, orders of temporary closure, proposed civil fine assessments, the Chair's decisions to void or modify management contracts, the Commission's proposals to remove certificates of self-regulation, the Chair's decisions to approve or object to a tribal gaming regulatory authority's adoption of alternate standards from those required by the Commission's minimum internal control standards and/or technical standards, and notices of late fees and late fee assessments.
+Motion practice before a presiding official on appeals of notices of violation, orders of temporary closure, proposed civil fine assessments, the Chair's decisions to void or modify management contracts, the Commission's proposals to remove certificates of self-regulation, the Chair's decisions to approve or object to a tribal gaming regulatory authority's adoption of alternate standards from those required by the Commission's minimum internal control standards and/or technical standards, and notices of late fees and late fee assessments is governed by &#167;&#8201;584.4 of this subchapter.
+
+
+# Tags
+
+['shall', 'brief', 'motion', 'limited', 'standards', 'control', 'closure', 'gaming']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                               |

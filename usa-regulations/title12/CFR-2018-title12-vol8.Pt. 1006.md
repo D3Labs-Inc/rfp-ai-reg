@@ -8,6 +8,17 @@
  CFR-2018-title12-vol8.Pt. 1006
 
 
+# Summary
+
+If the Bureau determines on the basis of the information before it that, under the law of a state, a class of debt collection practices is subject to requirements substantially similar to, or that provide greater protection to consumers than, those imposed under sections 803 through 812 and section 814 of the Act, and that there is adequate provision for state enforcement, the Bureau will exempt the class of debt collection practices in that state from the requirements of sections 803 through 812 and section 814 of the Act in the following manner and subject to the following conditions:
+(a) If, after publication of a notice in the Federal Register as provided under &#167;&#8201;1006.5 of this part, the Bureau finds on the basis of the information before it that it cannot make a favorable determination in connection with the application, the Bureau shall notify the appropriate state official of the facts upon which such findings are based and shall afford that state authority a reasonable opportunity to demonstrate or achieve compliance.
+
+
+# Tags
+
+['shall', 'state', 'bureau', 'law', 'required', 'act', 'including', 'interpretations', 'provide', 'authority', 'practices', 'applicable', 'consumers', 'debt', 'enforcement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                    |

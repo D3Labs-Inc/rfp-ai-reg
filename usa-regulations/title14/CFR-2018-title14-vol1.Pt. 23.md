@@ -8,6 +8,21 @@
  CFR-2018-title14-vol1.Pt. 23
 
 
+# Summary
+
+The applicant must account for all airplane design and operational parameters that affect structural loads, strength, durability, and aeroelasticity, including:
+(1) Determine the applicable structural design loads resulting from likely externally or internally applied pressures, forces, or moments that may occur in flight, ground and water operations, ground and water handling, and while the airplane is parked or moored.
+(c) The airplane must provide protection for all occupants, accounting for likely flight, ground, and emergency landing conditions.
+(a) Each electrical or electronic system that performs a function, the failure of which would prevent the continued safe flight and landing of the airplane, must be designed and installed such that&#8212;
+(b) Each electrical and electronic system that performs a function, the failure of which would significantly reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition, must be designed and installed such that the system recovers normal operation of that function in a timely manner after the airplane is exposed to lightning.
+(a) Each electrical and electronic systems that perform a function, the failure of which would prevent the continued safe flight and landing of the airplane, must be designed and installed such that&#8212;
+
+
+# Tags
+
+['operations', 'flight', 'included', 'airplanes', 'control', 'requirements', 'condition', 'design', 'structure', 'land', 'likely', 'pressurized', 'powerplants', 'speed', 'fuel', 'hazard', 'systems', 'maneuvering load', 'mean', 'performance', 'provided', 'limit', 'takeoff', 'pilots', 'light', 'levels', 'following', 'failure', 'preventive', 'climb', 'located', 'install', 'stall', 'communication equipment', 'electrical power', 'materials', 'configuration', 'trim', 'data', 'normal', 'occupants', 'criticality', 'safe', 'determined', 'inadvertently', 'recorders', 'sufficient', 'surface', 'engines', 'flightcrew', 'characteristics', 'information', 'excessive', 'lightning', 'functionality', 'approach', 'thrust', 'maximum', 'continuous', 'ground', 'safety', 'high', 'altitudes', 'compartments', 'application', 'longitudinally', 'airworthiness']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                               |

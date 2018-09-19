@@ -8,6 +8,18 @@
  CFR-2018-title14-vol3.Pt. 152
 
 
+# Summary
+
+(3) In the case of an off-airport area, title or an agreement, easement, leasehold or other right or property interest that, in the Administrator's opinion, provides reasonable assurance that the sponsor will not be deprived of its right to use the land for the intended purpose during the period necessary to meet the requirements of the grant agreement; or
+The sponsor or planning agency shall include in each contract of the cost reimbursable type a clause that allows any authorized representative of the Administrator, the Secretary of Transportation, or the Comptroller General of the United States access to the contractor's records pertinent to the contract for the purposes of accounting and audit.
+The grantee agrees to comply with any affirmative action plan or steps for equal employment opportunity required by 14 CFR part 152, subpart E, as part of the affirmative action program, and by any Federal, State, or local agency or court, including those resulting from a conciliation agreement, a consent decree, court order, or similar mechanism.
+
+
+# Tags
+
+['airports', 'shall', 'planning', 'cost', 'requirements', 'means', 'including', 'grants', 'projects', 'agency', 'provided', 'program', 'applicable', 'standards', 'reports', 'developed', 'federal', 'faa', 'areas', 'sponsor', 'office', 'administrative', 'funds', 'property', 'land', 'employer', 'females', 'working', 'publicizing', 'information', 'states', 'followed', 'generally', 'construction', 'minorities', 'organization', 'related', 'iii', 'payments', 'acting', 'agreements', 'air', 'activity', 'considers', 'located', 'aviation', 'record', 'satisfactory', 'form', 'annually', 'assurance', 'section', 'proposes', 'operation', 'accountability', 'having', 'designed', 'terminate', 'opportunities', 'supporting', 'procedures', 'years', 'periods', 'orders', 'obligation', 'group', 'local', 'accomplishments', 'indian', 'available', 'affirmative action', 'islander', 'financial', 'buildings']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

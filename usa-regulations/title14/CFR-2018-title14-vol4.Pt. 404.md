@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 404
 
 
+# Summary
+
+(c) A petition for rulemaking filed under this section must contain a summary, which the Associate Administrator may cause to be published in the Federal Register, which includes:
+If the Associate Administrator determines that the petition does not justify initiating rulemaking action or granting the waiver, the petition is denied.
+(a) Unless the Associate Administrator finds, for good cause, that notice is impractical, unnecessary, or contrary to the public interest, a notice of proposed rulemaking is issued and interested persons are invited to participate in proceedings related to each substantive rule proposed.
+(b) Unless the Associate Administrator determines that notice and comment is necessary or desirable, interpretive rules, general statements of policy, and rules relating to organization, procedure, or practice are issued as final rules without notice or other proceedings.
+(a) Any person may petition the Associate Administrator for an extension of time to submit comments in response to a notice of proposed rulemaking.
+(b) The Associate Administrator grants the petition only if the petitioner shows a substantive interest in the proposed rule and good cause for the extension, and if the extension is in the public interest.
+
+
+# Tags
+
+['administrator', 'petitions', 'rule', 'additional', 'interested', 'rulemaking', 'hearing', 'filing', 'proposal', 'comment', 'public', 'federal', 'transportation', 'general', 'requirements', 'reason']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                     |

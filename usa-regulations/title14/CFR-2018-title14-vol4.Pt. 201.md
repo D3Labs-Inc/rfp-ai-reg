@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 201
 
 
+# Summary
+
+(a) Applications for certificates of public convenience and necessity under section 41102 of the Statute and for interstate all-cargo air transportation certificates under section 41103 of the Statute shall meet the requirements set forth in part 302 of this chapter as to general requirements, execution, number of copies, service, and formal specifications of papers.
+(b) An applicant for new or amended certificate or commuter air carrier authority may not advertise or publish schedule listings for the air transportation covered by its application after the application has been approved by the Department (but before all authority issued by DOT, including the FAA, becomes effective) unless such advertising or schedule listings prominently state: &#8220;This service is subject to receipt of government operating authority.&#8221;
+Such certificate shall not, however, restrict the right of the holder to provide scheduled, charter, contract, or other transportation of cargo, by air, within that geographical scope.
+(e) It shall be a condition upon the holding of a certificate that the holder have and maintain in effect and on file with the Department a signed counterpart of Agreement 18900 (OST Form 4523), and a tariff (for those carriers otherwise generally required to file tariffs) that includes its terms, and that the holder comply with all other requirements of part 203.
+
+
+# Tags
+
+['shall', 'authorizing', 'air transportation', 'requirements', 'certificates', 'issue', 'schedule', 'general', 'applicability', 'passengers', 'services', 'department', 'number', 'carriers']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                          |

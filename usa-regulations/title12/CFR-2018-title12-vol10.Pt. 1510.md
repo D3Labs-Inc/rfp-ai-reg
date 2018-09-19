@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1510
 
 
+# Summary
+
+At least semiannually, the Funding Corporation must request that each Bank submit within 10 business days of the request payment for a portion of the administrative expenses in the Funding Corporation's budget for the current calendar year.
+The Funding Corporation must not request payments from the Banks that, in the aggregate, exceed the administrative expenses in the Funding Corporation's approved budget.
+(2) To the extent funds identified in paragraph (a)(1) of this section are insufficient, the Funding Corporation must obtain from each Bank in each calendar year payments totaling 20 percent of the net earnings of the Bank.
+The Funding Corporation must not obtain funds from a Bank under this paragraph after the date upon which the term of the Bank's payment obligation has ended, as determined by the Finance Board pursuant to section 21B(f)(2)(C)(iii) of the Act.
+(ii) Request that the FSLIC Resolution Fund transfer to the Funding Corporation by noon on the third business day prior to the interest payment due date any funds available from the net proceeds from the sale of assets received from the RTC, to the extent funds identified in paragraphs (a)(1) and (2) of this section are insufficient to pay the interest due.
+
+
+# Tags
+
+['funding', 'means', 'corporation', 'act', 'expense', 'banks', 'authorized', 'budget', 'report', 'administrative', 'insurance', 'projects', 'establish', 'federally', 'secretary', 'requirements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                            |

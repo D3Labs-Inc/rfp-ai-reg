@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 307
 
 
+# Summary
+
+No certification shall be required when deposit liabilities are assumed by an operating insured depository institution from an insured depository institution in default, as defined in section 3(x)(1) of the FDI Act (12 U.S.C. 1813(x)(1)), and that has been placed under FDIC receivership.
+The certification required by paragraph (a) of this section shall be provided on official letterhead of the transferring insured depository institution or its legal successor, signed by a duly authorized official, and state the date the assumption took effect.
+The Executive Secretary, upon request from the Director of the Division of Supervision and Consumer Protection and with the concurrence of the General Counsel, or their respective designees, shall issue an order terminating the insured status of the transferring insured depository institution as of the date of receipt by the FDIC of satisfactory evidence of such assumption, pursuant to section 8(q) of the FDI Act and this regulation.
+The notice to depositors required by paragraph (a) of this section shall be provided on the official letterhead of the insured depository institution, shall bear the signature of a duly authorized officer, and, unless otherwise specified by the appropriate Regional Director, may follow the form of the notice contained in Appendix B of this part.
+
+
+# Tags
+
+['shall', 'authorized', 'assumption', 'institutions', 'insurance', 'certification', 'notice', 'required', 'deposit', 'written']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                          |

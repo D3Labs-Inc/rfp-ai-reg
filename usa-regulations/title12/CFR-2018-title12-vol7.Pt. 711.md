@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 711
 
 
+# Summary
+
+The purpose of the Interlocks Act and this part is to foster competition by generally prohibiting a management official from serving two nonaffiliated depository organizations in situations where the management interlock likely would have an anticompetitive effect.
+Therefore, the Interlocks Act prohibitions contained in this part only apply to a management official of a credit union when that individual also serves as a management official of another type of depository organization (usually a bank or thrift).
+(e) Depository holding company means a bank holding company or a savings and loan holding company (as more fully defined in section 202 of the Interlocks Act (12 U.S.C. 3201)) having its principal office located in the United States.
+In reviewing applications for an exemption under this section, NCUA will apply a rebuttable presumption that an interlock will not result in a monopoly or substantial lessening of competition if the depository organization seeking to add a management official:
+A management official described in paragraph (a) of this section may continue to serve the depository organization involved in the interlock for 15 months following the date of the change in circumstances.
+
+
+# Tags
+
+['means', 'bank', 'ncua', 'organizations', 'interlocked', 'officer', 'assets', 'loans', 'areas', 'state', 'depository', 'period', 'person including', 'exempts', 'federally', 'affiliation', 'service', 'institution', 'manager', 'following', 'officials', 'consolidated', 'circumstances', 'relate', 'agency', 'substantial', 'act', 'corporations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                        |

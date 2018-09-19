@@ -8,6 +8,17 @@
  CFR-2018-title12-vol9.Pt. 1091
 
 
+# Summary
+
+(iv) A failure timely to file a response to a Notice shall constitute a waiver of a respondent's right to respond, and may result in a default determination by the Director, based on the Notice, that a respondent is a nonbank covered person that is engaging, or has engaged, in conduct that poses risks to consumers with regard to the offering or provision of consumer financial products or services and the issuance of a decision and order subjecting a respondent to the Bureau's supervisory authority pursuant to 12 U.S.C. 5514(a)(1)(C);
+(b) If a respondent did request the opportunity to present a supplemental oral response, not later than 90 days after service of a Notice of Reasonable Cause, the Associate Director shall make a recommended determination whether there is reasonable cause for the Bureau to determine that the respondent is a nonbank covered person that is engaging, or has engaged, in conduct that poses risks to consumers with regard to the offering or provision of consumer financial products or services which should result in an order subjecting the respondent to the Bureau's authority under 12 U.S.C. 5514(a)(1)(C).
+
+
+# Tags
+
+['shall mean', 'director', 'notice', 'pursuant', 'responsive', 'respond', 'service', 'person authorized', 'time', 'including', 'set', 'order', 'determine', 'information', 'file', 'delivery', 'bureau', 'commercial', 'act', 'provider', 'period', 'agreement', 'record', 'submit', 'address']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                 |

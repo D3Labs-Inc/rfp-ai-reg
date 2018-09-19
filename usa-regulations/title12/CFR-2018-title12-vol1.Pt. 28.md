@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 28
 
 
+# Summary
+
+(h) Federal branch means an office or place of business, licensed by the OCC and operated by a foreign bank in any state, that may engage in the business of banking, including accepting deposits, that is not a Federal agency as defined in paragraph (h) of this section.
+An application submitted by an eligible foreign bank to relocate a Federal branch or agency within a state is deemed approved by the OCC as of the seventh day after the close of the applicable public comment period in 12 CFR part 5, unless the OCC notifies the bank prior to that date that the filing is not eligible for expedited review.
+Except as otherwise provided by the IBA, other Federal laws or regulations, or otherwise determined by the OCC, the operations of a foreign bank at a Federal branch or agency shall be conducted with the same rights and privileges and subject to the same duties, restrictions, penalties, liabilities, conditions, and limitations that would apply if the Federal branch or agency were a national bank operating at the same location.
+Unless otherwise provided by the OCC, any provision in law, regulation, policy, or procedure that requires a national bank to obtain the approval of its board of directors will be deemed to require a Federal branch or agency to obtain the approval of parent foreign bank senior management.
+
+
+# Tags
+
+['shall', 'bank', 'deposit', 'includes', 'agency', 'asset', 'stated', 'occ', 'requiring', 'federal', 'accounting', 'loan', 'international', 'meaning', 'foreign activities', 'operating', 'applicant', 'approved', 'corporations', 'branches', 'information', 'office', 'business', 'procedural', 'notices', 'generalized', 'filed', 'pursuant', 'agreements', 'accepts', 'action', 'usc', 'secure', 'establishment', 'credit', 'consolidated basis', 'reports', 'country', 'acting', 'financial', 'additional', 'liabilities', 'lending', 'supervisory', 'day', 'holdings', 'reasons', 'exists', 'order', 'prior', 'maintained', 'entity']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                        |

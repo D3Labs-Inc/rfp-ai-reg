@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 545
 
 
+# Summary
+
+In developing an inmate's financial plan, the unit team shall first subtract from the trust fund account the inmate's minimum payment schedule for UNICOR or non-UNICOR work assignments, set forth in paragraphs (b)(1) and (b)(2) of this section.
+(2) An inmate shall receive performance pay only for those hours during which the inmate is actively participating in a work assignment or an education/vocational program.
+An inmate may receive special bonus pay based on the inmate's exceptional work in a temporary job assignment, provided this assignment has been previously identified by the Warden, and approved by the Regional Director, as critical to the institution.
+(b) With prior approval of the Psychology Services Department, each inmate who is making satisfactory progress or completes a residential drug treatment program may also be granted an achievement award from performance pay funds.
+(a) Inmates who perform exceptional services not ordinarily a part of the inmate's regular assignment may be granted a special award regardless of the inmate's work or program status.
+The Warden shall ensure that staff receive training on their roles in, and on the operation of, the work and performance pay program.
+
+
+# Tags
+
+['work', 'shall', 'inmate', 'programming', 'pay', 'perform', 'assigned', 'participating', 'institution', 'medically', 'status', 'received', 'special', 'require', 'obligations', 'staff', 'telephone', 'service', 'ordinarily', 'funds', 'exceptional', 'job', 'limitation', 'award', 'court', 'drug', 'bureau', 'release', 'time', 'training', 'response', 'month', 'related', 'vacations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                 |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol2.Pt. 202
 
 
+# Summary
+
+The regulation also requires creditors to notify applicants of action taken on their applications; to report credit history in the names of both spouses on an account; to retain records of credit applications; to collect information about the applicant's race and other personal characteristics in applications for certain dwelling-related loans; and to provide applicants with copies of appraisal reports used in connection with credit transactions.
+For 25 months (12 months for business credit, except as provided in paragraph (b)(5) of this section) after the date that a creditor receives an application for which the creditor is not required to comply with the notification requirements of &#167;&#8201;202.9, the creditor shall retain all written or recorded information in its possession concerning the applicant, including any notation of action taken.
+A creditor shall retain the information beyond 25 months (12 months for business credit, except as provided in paragraph (b)(5) of this section) if the creditor has actual notice that it is under investigation or is subject to an enforcement proceeding for an alleged violation of the Act or this part, by the Attorney General of the United States or by an enforcement agency charged with monitoring that creditor's compliance with the Act and this regulation, or if it has been served with notice of an action filed pursuant to section 706 of the Act and &#167;&#8201;202.16 of this part.
+
+
+# Tags
+
+['applicable', 'credit', 'shall', 'information', 'means', 'include', 'prohibits creditor', 'section', 'reasons', 'requirements', 'act', 'related', 'provides', 'regulations', 'persons', 'state', 'iii', 'agency', 'concerning', 'action', 'lawful', 'request', 'account', 'report', 'rules', 'programs', 'violating', 'creditworthiness', 'notice', 'term', 'property', 'enforcement', 'general', 'transactions', 'age', 'special', 'businesses', 'federal', 'obtains', 'race', 'orally', 'form', 'payments', 'parties', 'native', 'expressly', 'notification', 'definition', 'debt', 'record', 'dwelling', 'disclosure', 'appropriate', 'individual', 'time', 'uses', 'receiving', 'financial']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                              |

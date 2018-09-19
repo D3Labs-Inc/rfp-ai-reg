@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1215
 
 
+# Summary
+
+(a) This regulation sets forth the policies and procedures that must be followed in order to compel an employee of the Federal Housing Finance Agency (FHFA) to produce records or information, or to provide testimony relating to the employee's official duties, in the context of a legal proceeding.
+(a) This regulation applies to demands or requests for records, information, or testimony, in legal proceedings in which FHFA is not a named party.
+Request means any informal request, by whatever method, in connection with a legal proceeding, seeking production of records, information, or testimony that has not been ordered by a court or other competent authority.
+(a) The Director will review every demand or request received and, in accordance with this regulation, determine whether, and under what conditions, to authorize an employee to produce records, information, or testimony.
+(b) If any person in possession of FHFA confidential supervisory information, is served with a demand in a legal proceeding directing that person to produce FHFA's confidential supervisory information or to testify with respect thereto, such person shall immediately notify the General Counsel of such service, of the testimony requested and confidential supervisory information described in the demand, and of all relevant facts.
+
+
+# Tags
+
+['fhfa', 'information', 'testimony', 'confidentiality', 'including', 'proceeding', 'agency', 'order', 'meaning', 'requesting', 'records', 'protect employees', 'authority', 'written', 'demand', 'law', 'general', 'provides', 'act', 'regulation', 'requiring', 'statement', 'seek', 'court', 'travel', 'party', 'procedural', 'fees', 'issues', 'federal', 'determinations', 'notice']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                               |

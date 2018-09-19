@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 462
 
 
+# Summary
+
+In order for the Secretary to determine whether a standardized test is suitable for measuring the gains of participants in an adult education program required to report under the NRS, a test publisher must&#8212;
+(1) For a test used to measure educational gain in the NRS before the effective date of these regulations that is submitted to the Secretary for review under this part, the test publisher must provide documentation of periodic review of the content and specifications of the test to ensure that the test continues to reflect NRS educational functioning levels.
+(1) Include a statement requiring that local eligible providers measure the educational gain of all students who receive 12 hours or more of instruction in the State's adult education program with a test that the Secretary has determined is suitable for use in the NRS;
+(2) Identify the pre- and post-tests that the State requires eligible providers to use to measure the educational functioning level gain of ABE, ASE, and ESL students;
+A local eligible provider must measure the educational gains of students using only tests that the Secretary has determined are suitable for use in the NRS and that the State has identified in its assessment policy.
+
+
+# Tags
+
+['test', 'educational', 'includes', 'secretary', 'provide', 'administrations', 'meaning', 'cfr', 'level', 'program required', 'information', 'follow', 'nrs', 'times', 'forms', 'item', 'students', 'measuring', 'scoring', 'content', 'states', 'administering', 'language', 'guidelines', 'documentation', 'literacy', 'publishes', 'procedures', 'areas', 'standard', 'reviews', 'skills', 'regulations', 'register', 'adult']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                              |

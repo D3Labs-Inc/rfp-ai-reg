@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 550
 
 
+# Summary
+
+In an effort to reduce the introduction or use of alcohol, the Warden shall establish procedures for monitoring and testing individual inmates or groups of inmates who are known or suspected to be users of alcohol, or who are considered high risks based on behavior observed or on information received by staff.
+The Bureau of Prisons requires that an inmate who is serving a sentence in a contract community treatment center (CTC) participate in a program of urine testing for drug use.
+The contract center staff shall hold a program planning conference with a sentenced inmate who has drug aftercare as a condition of release.
+(2) Inmates may also be considered for course placement if they request to participate in the drug abuse education program but do not meet the criteria of paragraph (b)(1) of this section.
+Inmates may apply for the RDAP by submitting requests to a staff member (ordinarily, a member of the unit team or the Drug Abuse Program Coordinator).
+(b) Inmates with a documented drug use problem who did not choose to participate in RDAP may be required to participate in CTS as a condition of participation in a community-based program, with the approval of the Supervisory Community Treatment Services Coordinator.
+
+
+# Tags
+
+['inmate', 'programming', 'shall', 'drugs', 'release', 'time', 'test', 'staff', 'use', 'community', 'iii', 'rdap', 'treatment center', 'offense', 'based', 'pay', 'prisons', 'disciplinary', 'incentive', 'participate', 'included', 'formal', 'institution', 'abuse', 'behavior', 'samples', 'course', 'unit', 'collection']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                     |

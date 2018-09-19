@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 338
 
 
+# Summary
+
+First, this subpart B notifies all insured state nonmember banks of their duty to collect and retain certain information about a home loan applicant's personal characteristics in accordance with Regulation B of the Board of Governors of the Federal Reserve System (12 CFR part 202) in order to monitor an institution's compliance with the Equal Credit Opportunity Act of 1974 (15 U.S.C. 1691 et seq.).
+Second, this subpart B notifies certain insured state nonmember banks of their duty to maintain, update and report a register of home loan applications in accordance with Regulation C of the Board of Governors of the Federal Reserve System (12 CFR part 203), which implements the Home Mortgage Disclosure Act (12 U.S.C. 2801 et seq.).
+Banks and other lenders required to file a Home Mortgage Disclosure Act loan application register (LAR) with the Federal Deposit Insurance Corporation shall maintain, update and report such LAR in accordance with Regulation C of the Board of Governors of the Federal Reserve System (12 CFR part 203).
+
+
+# Tags
+
+['shall', 'loans', 'act', 'advertisements', 'poster', 'insurance', 'bank means', 'opportunity', 'require', 'housing', 'states', 'certain', 'entity', 'cfr', 'personal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                     |

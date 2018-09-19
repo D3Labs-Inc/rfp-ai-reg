@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 540
 
 
+# Summary
+
+(c) Special mail means correspondence sent to the following: President and Vice President of the United States, the U.S. Department of Justice (including the Bureau of Prisons), U.S. Attorneys Offices, Surgeon General, U.S. Public Health Service, Secretary of the Army, Navy, or Air Force, U.S. Courts (including U.S. Probation Officers), Members of the U.S. Congress, Embassies and Consulates, Governors, State Attorneys General, Prosecuting Attorneys, Directors of State Departments of Corrections, State Parole Commissioners, State Legislators, State Courts, State Probation Officers, other Federal and State law enforcement offices, attorneys, and representatives of the news media.
+Except when precluded by statute (see &#167;&#8201;540.72), the Bureau of Prisons permits an inmate to subscribe to or to receive publications without prior approval and has established procedures to determine if an incoming publication is detrimental to the security, discipline, or good order of the institution or if it might facilitate criminal activity.
+In addition to the procedures set forth in this subpart, inmate telephone use is subject to those limitations which the Warden determines are necessary to ensure the security or good order, including discipline, of the institution or to protect the public.
+(1) Designation to a CMU allows greater Bureau staff management of communication with persons in the community through complete monitoring of telephone use, written correspondence, and visiting.
+
+
+# Tags
+
+['inmates', 'visiting', 'mailed', 'correspondent', 'included', 'warden shall', 'institution', 'staff', 'inform', 'publicity', 'telephone', 'visitor', 'secure', 'generated', 'personal', 'listed', 'special', 'procedure', 'written', 'providing', 'limitations', 'offices', 'communications', 'stating', 'news media', 'monitored', 'numbers', 'ordinarily', 'means', 'legal', 'funds', 'approval', 'prior', 'reasonable', 'followed', 'restrict', 'materials', 'units', 'attorneys', 'designate', 'establishing', 'purpose', 'bureau', 'appropriate', 'receive', 'regulations', 'federal', 'active', 'programming', 'official', 'privileges', 'contain', 'status', 'management', 'corrections', 'authorizing', 'released', 'request', 'specific', 'items', 'employment', 'criteria', 'requirements', 'business', 'addressed', 'sexual', 'permit', 'service', 'facilities', 'content', 'prisons']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

@@ -8,6 +8,21 @@
  CFR-2018-title12-vol7.Pt. 714
 
 
+# Summary
+
+In an open-end lease, your member assumes the risk and responsibility for any difference in the estimated residual value and the actual value of the property at lease end.
+In a closed-end lease, you assume the risk and responsibility for any difference in the estimated residual value and the actual value of the property at lease end.
+(c) The amount of the estimated residual value you rely upon to satisfy the full payout lease requirement may not exceed 25% of the original cost of the leased property unless the amount above 25% is guaranteed.
+What is required if you rely on an estimated residual value greater than 25% of the original cost of the leased property?
+If the amount of the estimated residual value you rely upon to satisfy the full payout lease requirement of &#167;&#8201;714.4(b) exceeds 25% of the original cost of the leased property, a financially capable party must guarantee the excess.
+Your indirect leasing arrangements are not subject to the eligible obligation limit if they satisfy the provisions of &#167;&#8201;701.23(b)(3)(iv) that require that you make the final underwriting decision and that the lease contract is assigned to you very soon after it is signed by the member and the dealer or leasing company.
+
+
+# Tags
+
+['leased', 'property', 'insurance', 'financial', 'rating', 'value', 'estimated', 'set', 'end', 'salvage', 'provisions', 'company']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                |

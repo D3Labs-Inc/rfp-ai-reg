@@ -8,6 +8,22 @@
  CFR-2018-title34-vol3.Pt. 660
 
 
+# Summary
+
+(b) Research on more effective methods of providing instruction and achieving competency in foreign languages, area studies, or other international fields;
+(j) Studies and evaluations of effective practices in the dissemination of international information, materials, research, teaching strategies, and testing techniques through the education community, including elementary and secondary schools.
+(j) Studies and evaluations of effective practices in the dissemination of international information, materials, research, teaching strategies, and testing techniques through the education community, including elementary and secondary schools.
+What additional selection criteria does the Secretary use for an application for a research project, a survey, or a study?
+The Secretary reviews each application for information that shows the extent to which the results of the proposed project are likely to be used by other research projects or programs with similar objectives.
+The Secretary reviews each application for information that shows that the extent to which the proposed project is likely to develop new knowledge that will contribute to the purposes of the International Education Program authorized by part A of title VI of the HEA.
+The Secretary reviews each application for information that shows the extent to which the proposed work may contribute significantly to strengthening, expanding, or improving programs of foreign language studies, area studies, or international studies in the United States.
+
+
+# Tags
+
+['international', 'educational', 'secretary', 'materials', 'studies', 'languages', 'research', 'program', 'projects', 'collected', 'needs', 'east', 'instructional', 'adequate', 'asia', 'select', 'apply']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                        |

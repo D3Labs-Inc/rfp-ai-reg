@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 221
 
 
+# Summary
+
+An agent may issue and file, in his or its own name, tariff publications naming local fares and/or joint fares, and provisions governing such fares, and rules and regulations governing foreign air transportation to the extent provided by this part and/or Department order, for account of carriers participating in such tariff publications, under authority of their powers of attorney given to such issuing agent as provided in &#167;&#8201;221.150.
+A power of attorney prepared in accordance with a form acceptable to the Office of International Aviation shall be used by a carrier to give authority to an agent and (in the case of the agent being an individual) such agent's alternate to issue and file with the Department tariffs which contain local or joint fares or charges, including provisions governing such fares or charges, applicable via and for account of such carrier.
+(a) When an electronically filed record which has been submitted to the Department under this subpart, is disapproved (rejected), or a special tariff permission is approved or denied, under authority assigned by the Department of Transportation's Regulations, 14 CFR 385.13, such actions shall be understood to include the following provisions:
+
+
+# Tags
+
+['shall', 'tariffs', 'fares', 'including', 'files', 'applications', 'notices', 'air carriers', 'number', 'specifications', 'rule', 'provisions', 'provide', 'services', 'requirements', 'data', 'means', 'effective', 'passengers', 'route', 'publications', 'transportation', 'department', 'referring', 'authority', 'agent', 'charged', 'persons', 'states', 'electronically', 'governed', 'ticketed', 'issuing', 'condition', 'orders', 'date', 'thereto', 'statements', 'concurrently', 'follows', 'matter', 'contained', 'regulation', 'information', 'points', 'recorded', 'publish', 'changed', 'permission', 'actions', 'types', 'manner', 'times', 'thereof', 'designation', 'foreign', 'paper', 'amend', 'agreement', 'limit', 'specify', 'form', 'terms', 'cancel', 'joint', 'markets', 'new', 'special', 'adopting', 'traveling']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

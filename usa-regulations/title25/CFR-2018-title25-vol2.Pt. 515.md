@@ -8,6 +8,20 @@
  CFR-2018-title25-vol2.Pt. 515
 
 
+# Summary
+
+The Privacy Act Officer shall, not later than 10 working days after receipt of a request for an amendment or correction of a record, acknowledge receipt of the request and provide notification of whether the request is granted or denied.
+If the appeal under this section is denied in whole or in part, the requester has the right to file a Statement of Disagreement that states the reason(s) for disagreeing with the Privacy Act Officer's denial of the request for amendment or correction.
+Within 30 working days of the amendment or correction of the record, the Privacy Act Officer shall notify all persons, organizations, or agencies to which it previously disclosed the record, and if an accounting of that disclosure was made, that the record has been amended or corrected.
+Subject to the exceptions listed in paragraph (b) of this section, an individual may make a request for an accounting of the disclosures of any record about that individual that the Commission has made to another person, organization, or agency.
+When a record pertaining to an individual is required to be disclosed by a court order, the Privacy Act Officer shall make reasonable efforts to provide notice of this to the individual.
+
+
+# Tags
+
+['records', 'shall', 'requester', 'information', 'fee', 'officer', 'disclosure', 'statements', 'commission', 'investigative', 'timely', 'determined', 'relevant', 'individuals', 'addressed', 'include', 'gaming', 'act', 'appealed', 'number', 'privacy', 'amend', 'personal', 'means', 'federal', 'letter', 'stating']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                         |

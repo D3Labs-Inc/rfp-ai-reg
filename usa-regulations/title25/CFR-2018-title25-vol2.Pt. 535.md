@@ -8,6 +8,21 @@
  CFR-2018-title25-vol2.Pt. 535
 
 
+# Summary
+
+(d)(1) The Chairman shall approve or disapprove an amendment within thirty (30) days from receipt of a complete submission if the amendment does not require a background investigation under part 537 of this chapter, unless the Chairman notifies the parties in writing of the need for an extension of up to thirty (30) days.
+(2) The Chairman shall approve or disapprove an amendment as soon as practicable but no later than 180 days from receipt of a complete submission if the amendment requires a background investigation under part 537 of this chapter.
+If the Chairman does not approve or disapprove an amendment within the timelines of paragraph (d)(1) or (d)(2) of this section, the amendment shall be deemed disapproved and a party shall have thirty (30) days to appeal the decision under part 583 of this chapter.
+(e)(1) The Chairman may approve an amendment to a management contract if the amendment meets the submission requirements of paragraph (c) of this section.
+(2) The Chairman shall disapprove an amendment of a management contract for class II gaming if he or she determines that the conditions contained in &#167;&#8201;533.6(b) of this chapter apply.
+(3) The Chairman may disapprove an amendment of a management contract for class III gaming if he or she determines that the conditions contained in &#167;&#8201;533.6(c) of this chapter apply.
+
+
+# Tags
+
+['shall', 'amendments', 'management', 'require', 'chairman', 'containing', 'approval', 'assignments']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                            |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 509
 
 
+# Summary
+
+(1) The witness and any party who has not had an opportunity to oppose a deposition subpoena issued under this section may file a motion with the administrative law judge to quash or modify the subpoena prior to the time for compliance specified in the subpoena, but not more than ten days after service of the subpoena.
+The administrative law judge shall recommend that the Director issue a final order granting a motion for summary disposition if the undisputed pleaded facts, admissions, affidavits, stipulations, documentary evidence, matters as to which official notice may be taken, and any other evidentiary materials properly submitted in connection with a motion for summary disposition show that:
+The record must include the administrative law judge's recommended decision, recommended findings of fact, recommended conclusions of law, and proposed order; all prehearing and hearing transcripts, exhibits, and rulings; and the motions, briefs, memoranda, and other supporting papers filed in connection with the hearing.
+Upon the expiration of the time for filing any exceptions, any replies to such exceptions or any motions and any ruling thereon, and after receipt of certified record, the Office shall notify the parties within ten days of the submission of the proceeding to the Director for final determination.
+
+
+# Tags
+
+['shall', 'party', 'ordered', 'include', 'file', 'hearings', 'proceedings', 'materials', 'subpoenas', 'witness', 'requirements', 'document', 'time', 'office', 'service', 'issue', 'pursuant', 'acting', 'person', 'recordings', 'authorities', 'counsel', 'motion', 'follows', 'depositions', 'notice', 'state', 'judge means', 'requested', 'ruled', 'enforcing', 'exhibit', 'limitations', 'reasonableness', 'written', 'caused', 'law', 'respond', 'director', 'relevance', 'provided', 'appropriate', 'privilege', 'matters', 'proposal', 'copied', 'exception', 'institution', 'directs', 'certain', 'case', 'papers', 'section', 'period', 'courts', 'agency', 'discovery', 'evidence', 'sets', 'specify', 'examination', 'chart', 'statements', 'subpart']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

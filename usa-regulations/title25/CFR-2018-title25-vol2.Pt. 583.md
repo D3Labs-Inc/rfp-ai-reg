@@ -8,6 +8,22 @@
  CFR-2018-title25-vol2.Pt. 583
 
 
+# Summary
+
+This part applies to appeals from the Chair's decision to approve or disapprove a management contract or amendment to a management contract under parts 533 and 535 of this chapter.
+Only a party to the management contract or amendment thereto approved or disapproved by the Chair may appeal.
+(a) Within 30 days after the Chair serves his or her determination, the appellant must file a notice of appeal with the Commission and serve it on all parties to the management contract.
+The brief shall state succinctly why the appellant believes the Chair's approval or disapproval should be reversed and may include supporting documentation.
+(b) Another party to the management contract may oppose the appeal by filing an opposition brief with the Commission within 20 days after service of the appellant's brief.
+The opposition brief shall state succinctly why the party believes the Chair's approval or disapproval should be upheld and may include supporting documentation.
+(a) The Commission shall issue its final decision within 90 days after service of the appeal brief or within 90 days after the conclusion of briefing by the parties, whichever is later.
+
+
+# Tags
+
+['briefing', 'shall', 'management']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                       |

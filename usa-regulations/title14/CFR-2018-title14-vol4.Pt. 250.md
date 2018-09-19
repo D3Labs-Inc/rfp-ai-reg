@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 250
 
 
+# Summary
+
+(a) Every carrier shall establish priority rules and criteria for determining which passengers holding confirmed reserved space shall be denied boarding on an oversold flight in the event that an insufficient number of volunteers come forward.
+(a) Subject to the exceptions provided in &#167;&#8201;250.6, a carrier to whom this part applies as described in &#167;&#8201;250.2 shall pay compensation in interstate air transportation to passengers who are denied boarding involuntarily from an oversold flight as follows:
+(b) Subject to the exceptions provided in &#167;&#8201;250.6, a carrier to whom this part applies as described in &#167;&#8201;250.2 shall pay compensation to passengers in foreign air transportation who are denied boarding involuntarily at a U.S. airport from an oversold flight as follows:
+(3) The carrier fully discloses all material restrictions, including but not limited to, administrative fees, advance purchase or capacity restrictions, and blackout dates applicable to the offer, on the use of such free or reduced rate transportation before the passenger decides to give up the cash/check payment in exchange for such transportation.
+
+
+# Tags
+
+['shall', 'passengers', 'carrier', 'ticket', 'transportation', 'flights', 'air', 'means', 'compensation', 'boardings', 'deny', 'charges', 'offered', 'seats operating', 'states', 'check', 'fare', 'public', 'provide', 'included', 'flyer', 'type', 'applicability', 'quarter', 'payment', 'priority', 'restrictions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                              |

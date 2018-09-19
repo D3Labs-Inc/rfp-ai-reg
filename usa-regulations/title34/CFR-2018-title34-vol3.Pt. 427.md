@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 427
 
 
+# Summary
+
+(15 points) The Secretary reviews each application for specific information that shows the need for the proposed bilingual vocational training project in the local geographic area, including&#8212;
+(10 points) (1) The Secretary reviews each application to determine the quality of key personnel the applicant plans to use on the project, including&#8212;
+(1) The budget is sufficient to support the proposed project, and that it represents a cost effective use of Bilingual Vocational Training Program funds;
+(10 points) The Secretary reviews each application to determine the quality of the project's evaluation plan, including the extent to which the plan&#8212;
+(10 points) The Secretary reviews each application for information to determine the effectiveness and efficiency of the plan for demonstrating and disseminating information about project activities and results throughout the project period, including&#8212;
+(d) The annual evaluation must contain descriptions and analyses of the accuracy of records and validity of measures used by the project to establish and report on participant enrollment, completion, and placement by sex, racial or ethnic group, socio-economic status, and, if appropriate, by level of English proficiency for each occupation for which training has been provided.
+
+
+# Tags
+
+['including', 'job', 'projects', 'programs', 'training', 'points', 'applicable', 'languages', 'employment', 'plan', 'evaluates', 'needs', 'occupational', 'secretary', 'skills', 'state', 'provides', 'english', 'educational', 'agency', 'related', 'information', 'vocational', 'apply', 'national', 'following']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                             |

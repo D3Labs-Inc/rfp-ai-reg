@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 74
 
 
+# Summary
+
+The purpose of this part is to implement section 105 of the Civil Liberties Act of 1988, which authorizes the Attorney General to locate, identify, and make payments to all eligible individuals of Japanese ancestry who were evacuated, relocated, and interned during World War II as a result of government action.
+(b) Historic information pertaining to individuals listed in official United States Government records will be analyzed to determine if such persons are eligible for compensation as set forth in section 108 of the Act.
+The Office shall compare the names and other identifying information of eligible individuals from the historical official records of the United States Government with current information from both official and unofficial sources in the information system to determine if such persons are living or deceased and, if living, the present location of these individuals.
+(i) A certified copy of the public record of birth or a religious record showing that the person was the informant and was named as the parent of the deceased eligible individual;
+(iii) Information obtained from public records or a public agency such as school or welfare agencies, which shows that with the deceased eligible individual's knowledge, the person had been named as parent of the child.
+
+
+# Tags
+
+['individual', 'eligible', 'person', 'state', 'shall establish', 'information', 'marriage', 'acts', 'record', 'pursuant', 'means', 'action', 'payments', 'official', 'internment', 'administrator', 'including', 'child', 'military', 'public', 'relocation', 'determines', 'written', 'orders', 'officers', 'year', 'government', 'resident', 'addressed', 'law', 'statement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                  |

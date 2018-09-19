@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 241
 
 
+# Summary
+
+(a) Record here the total cost to the air carrier of all spare instruments, parts, appurtenances and subassemblies related to the primary components of flight equipment units provided for in balance sheet accounts 1601 through 1607, inclusive.
+This primary classification (8100) shall include income and loss incident to commercial ventures not inherently related to the performance of the common carrier air transport services of the accounting entity; other revenues and expenses attributable to financing or other activities which are extraneous to and not an integral part of air transportation or its incidental services; and special recurrent items of a nonperiod nature.
+(a) Record here the revenue from nonscheduled air transport services (except as otherwise required by profit and loss Account 86 Income from Nontransport Ventures) where the party receiving the transportation obtains exclusive use of an aircraft at either published tariff or other contractual rates and the remuneration paid by the party receiving transportation accrues directly to, and the responsibility for providing transportation is that of, the accounting air carrier.
+(a) Record here charges for services performed for the air carrier by outside and associated companies which are not identifiable with services provided for in profit and loss accounts 37 through 41, inclusive, or which are not expressly identified with other objective expense accounts.
+
+
+# Tags
+
+['shall', 'accounted', 'operation', 'including', 'record', 'service', 'relation', 'expensed', 'carrier', 'report', 'transported', 'aircraft', 'revenue', 'flights', 'generating', 'air', 'costs', 'equipment', 'activity', 'provided', 'tax', 'passenger', 'traffic', 'charged', 'functional', 'current', 'nature applicable', 'properties', 'loss', 'schedules', 'data', 'credited', 'directives', 'code', 'receiving', 'element', 'classification', 'items', 'adjusted', 'sale', 'followed', 'objections', 'basis', 'personnel', 'balance', 'assign', 'materials', 'directly', 'controlled', 'separated', 'statistically', 'years', 'entity', 'fee', 'amounts', 'parts', 'stock', 'specifically', 'prescribed', 'total', 'income', 'periodically', 'individually', 'insurance', 'grouping', 'incurred', 'association', 'issuing', 'involved', 'values', 'maintenances', 'financial', 'information', 'purchases', 'capitalized', 'lease', 'result', 'funds available', 'bts', 'units', 'supplies', 'liability', 'domestic', 'standards', 'foreign', 'designed', 'sold', 'rates', 'route', 'requirements', 'publicity', 'time', 'markets', 'appropriately', 'provisions', 'accruing', 'sheets', 'international', 'changed', 'miles', 'origin']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

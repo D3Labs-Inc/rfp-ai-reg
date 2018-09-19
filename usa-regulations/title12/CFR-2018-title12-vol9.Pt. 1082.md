@@ -8,6 +8,19 @@
  CFR-2018-title12-vol9.Pt. 1082
 
 
+# Summary
+
+(3) In the event that notice is provided after the initiation of an action, the written description shall also include the following, in addition to the information described in paragraph (c)(1) of this section:
+(4) In the event that notice is provided after the initiation of an action, in addition to the requirements set forth in paragraph (c)(3) of this section, the notice shall further include a complete, unredacted copy of any document filed by any party in relation to the action and any orders issued by the court or other body.
+(1) The information described in paragraph (c) of this section, including the complaint, motion for relief, or other document, as well as the fact that notice has been provided, shall be subject to any limitations on disclosure imposed by the State Official pursuant to paragraph (c)(1)(viii) of this section; provided, however, that the recipient may disclose such information:
+The requirements set forth in this section are not intended to, do not, and may not be relied upon to create any right, benefit, or defense, substantive or procedural, enforceable at law by a party against the United States or any State enforcing the provisions of the Dodd-Frank Act or any regulation prescribed thereunder.
+
+
+# Tags
+
+['notice', 'actions', 'state', 'document', 'pursuant', 'shall', 'official', 'described', 'number', 'enforceable', 'requiring', 'section', 'law', 'entity']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                    |

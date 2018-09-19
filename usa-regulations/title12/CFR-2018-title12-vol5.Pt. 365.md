@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 365
 
 
+# Summary
+
+Each employee of an insured State nonmember bank who acts as a mortgage loan originator must register with the Registry, obtain a unique identifier, and maintain this registration in accordance with the requirements of this subpart.
+An insured State nonmember bank may identify one or more employees of the bank who may submit the information required by paragraph (d)(1) of this section to the Registry on behalf of the bank's employees provided that this individual, and any employee delegated such authority, does not act as a mortgage loan originator, consistent with paragraph (e)(1)(i)(F) of this section.
+For the purpose of providing information required by paragraph (e) of this section, this individual and their delegates must not act as mortgage loan originators unless the bank has 10 or fewer full time or equivalent employees and is not a subsidiary; and
+(b) Require that all employees of the insured State nonmember bank who are mortgage loan originators be informed of the registration requirements of the S.A.F.E. Act and this subpart and be instructed on how to comply with such requirements and procedures;
+
+
+# Tags
+
+['banking', 'employees', 'including', 'mortgages', 'information', 'acting', 'registrant', 'provides', 'related', 'actions', 'federal', 'insurance', 'loan', 'require', 'pursuant', 'iii', 'means', 'appropriate', 'authorized', 'business', 'policies', 'registry', 'origination activity', 'estate lending', 'state', 'renewal', 'number', 'subpart', 'identify', 'regulators']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                           |

@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 247
 
 
+# Summary
+
+Treaty Fishing Access Sites means all Federal lands acquired by the Secretary of the Army and Transferred to the Secretary of the Interior pursuant to Public Law 100-581, Title IV, November 1, 1988, to be administered to provide access to usual and accustomed fishing areas and ancillary fishing facilities.
+(c) The Area Director may suspend or withdraw the privileges of use of any or all of the facilities at the sites for any violation of the regulations in this part or of any rules issued under the regulations in this part.
+(a) You may use the sites for access to usual and accustomed fishing areas and ancillary fishing facilities if you are a member of the Confederated Tribes and Bands of the Yakima Indian Nation (Yakima), the Confederated Tribes of the Warm Springs Reservation of Oregon (Warm Springs), the Confederated Tribes of the Umatilla Indian Reservation (Umatilla), and the Nez Perce Tribe (Nez Perce).
+(b) The Area Director may suspend or withdraw the privileges of use of any or all of the facilities at the sites for any violation of the regulations in this part or for any violation of any rules issued under the regulations in this part.
+
+
+# Tags
+
+['fishing', 'site', 'tribes', 'property means', 'tribal', 'states', 'access', 'indian', 'facilities', 'commercial', 'including', 'federal', 'activity', 'camper', 'laws', 'thereof', 'apply', 'treaty', 'vehicle', 'use', 'motor']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                      |

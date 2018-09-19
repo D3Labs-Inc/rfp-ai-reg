@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 797
 
 
+# Summary
+
+In those cases where an oral hearing is not required by this subpart, NCUA shall make its determination on the request for waiver or reconsideration based upon a review of the written record.
+(a) NCUA may collect debts owed by employees to the federal government by means of salary offset under the authority of 5 U.S.C. 5514, 5 CFR part 550, subpart K, and this subpart.
+(g) That the employee has a right to request a hearing regarding the existence and amount of the debt claimed or the salary offset schedule proposed by NCUA, provided that the employee files a request for such a hearing with NCUA in accordance with &#167;&#8201;797.20, and that such a hearing will be conducted by a hearing official not under the supervision or control of NCUA;
+(j) That NCUA will initiate salary offset procedures not less than 30 days from the date of the employee's receipt of the Notice, unless the employee files a timely request for a hearing;
+(1) If NCUA decides that the proposed repayment schedule is unacceptable, the employee shall have 15 calendar days from the date of the decision in which to file a request for a hearing.
+
+
+# Tags
+
+['shall', 'ncua', 'agency', 'offset', 'hearing', 'paying', 'administrative', 'means', 'requested', 'debts owed', 'written', 'collecting', 'federal employees', 'procedure', 'claimed', 'following', 'pursuant', 'including', 'usc', 'proposed', 'authorizes', 'date', 'review', 'records', 'statement', 'officially', 'overpayments', 'salary', 'certification', 'schedules', 'information', 'government']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                           |

@@ -8,6 +8,19 @@
  CFR-2018-title2-vol1.Pt. 910
 
 
+# Summary
+
+These financing statement(s) must be approved in writing by the contracting officer prior to the recording, and they shall provide notice that the recipient's title to all equipment (not real property) purchased with Federal funds under the financial assistance agreement is conditional pursuant to the terms of this section, and that the Government retains an undivided reversionary interest in the equipment.
+(iii) Perform procedures to determine whether the auditee has complied with Federal statutes, regulations, and the terms and conditions of DOE awards that could have a direct and material effect on the DOE program consistent with the requirements of &#167;&#8201;910.514 Scope of audit.
+This report must describe the scope of testing of internal control over compliance, include an opinion or modified opinion as to whether the auditee complied with Federal statutes, regulations, and the terms and conditions of DOE awards which could have a direct and material effect and refer to the separate schedule of findings and questioned costs described in paragraph (d) of this section.
+The auditor's determination of whether a noncompliance with the provisions of Federal statutes, regulations, or the terms and conditions of DOE awards is material for the purpose of reporting an audit finding is in relation to a type of compliance requirement for a major program identified in the compliance supplement.
+
+
+# Tags
+
+['doe', 'awards', 'audits', 'include', 'program', 'applications', 'costs', 'federal', 'requirements', 'findings', 'research', 'reports', 'provided', 'shall', 'information', 'appropriate', 'recipient', 'risk', 'compliance', 'specifically', 'followed', 'office', 'cfr', 'data', 'determining', 'entity', 'meaning', 'equipment', 'states', 'control', 'relation', 'patent', 'financial', 'company', 'projects', 'significant', 'government', 'business', 'record', 'iii', 'auditee', 'funds', 'section', 'investigating', 'identify', 'generally', 'action', 'agency', 'reasonably', 'auditors', 'responsibility', 'management', 'accountability', 'available', 'written', 'activity', 'years', 'criteria', 'periodically', 'time', 'correcting', 'prior', 'processes', 'property', 'use', 'legally', 'reviews', 'provisions', 'inquiries', 'titles', 'result', 'requests', 'agreements', 'procedures', 'grants', 'performance', 'planned', 'consist', 'allegation', 'regulation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

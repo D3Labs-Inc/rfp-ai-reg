@@ -8,6 +8,18 @@
  CFR-2018-title34-vol1.Pt. 104
 
 
+# Summary
+
+(b) When a recipient is taking remedial action to correct the effects of past discrimination pursuant to &#167;&#8201;104.6 (a), when a recipient is taking voluntary action to overcome the effects of conditions that resulted in limited participation in its federally assisted program or activity pursuant to &#167;&#8201;104.6(b), or when a recipient is taking affirmative action pursuant to section 503 of the Act, the recipient may invite applicants for employment to indicate whether and to what extent they are handicapped, Provided, That:
+A recipient that operates a public elementary or secondary education program or activity shall conduct an evaluation in accordance with the requirements of paragraph (b) of this section of any person who, because of handicap, needs or is belived to need special education or related services before taking any action with respect to the initial placement of the person in regular or special education and any subsequent significant change in placement.
+A recipient that operates a public elementary or secondary education program or activity shall establish and implement, with respect to actions regarding the identification, evaluation, or educational placement of persons who, because of handicap, need or are believed to need special instruction or related services, a system of procedural safeguards that includes notice, an opportunity for the parents or guardian of the person to examine relevant records, an impartial hearing with opportunity for participation by the person's parents or guardian and representation by counsel, and a review procedure.
+
+
+# Tags
+
+['shall', 'providers', 'educate', 'including', 'personal', 'handicapped', 'requirements', 'activity', 'services', 'recipients', 'impair', 'appropriate', 'organic', 'procedures', 'effecting', 'assisted', 'tests', 'physical', 'applications', 'accessibility', 'employment', 'evaluate', 'discrimination', 'placement', 'actions', 'means', 'facilities', 'health', 'materials', 'aid', 'limiting', 'general', 'job', 'federal financial', 'academic', 'housing', 'available', 'set', 'special', 'students', 'structure', 'publications', 'sections', 'standard', 'private', 'act', 'periodic', 'related', 'conditions', 'specific', 'altering', 'buildings', 'employee', 'benefits', 'training', 'concerning', 'need', 'equipment']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                            |

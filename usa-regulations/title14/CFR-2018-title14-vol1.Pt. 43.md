@@ -8,6 +8,19 @@
  CFR-2018-title14-vol1.Pt. 43
 
 
+# Summary
+
+(a) Except as provided in this section and &#167;&#8201;43.17, no person, other than the Administrator, may approve an aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to service after it has undergone maintenance, preventive maintenance, rebuilding, or alteration.
+Except as provided in paragraphs (b) and (c) of this section, each person who maintains, performs preventive maintenance, rebuilds, or alters an aircraft, airframe, aircraft engine, propeller, appliance, or component part shall make an entry in the maintenance record of that equipment containing the following information:
+(b) Each holder of an air carrier operating certificate or an operating certificate issued under Part 121 or 135, that is required by its approved operations specifications to provide for a continuous airworthiness maintenance program, shall make a record of the maintenance, preventive maintenance, rebuilding, and alteration, on aircraft, airframes, aircraft engines, propellers, appliances, or component parts which it operates in accordance with the applicable provisions of Part 121 or 135 of this chapter, as appropriate.
+(a) Each person performing maintenance, alteration, or preventive maintenance on an aircraft, engine, propeller, or appliance shall use the methods, techniques, and practices prescribed in the current manufacturer's maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods, techniques, and practices acceptable to the Administrator, except as noted in &#167;&#8201;43.16.
+
+
+# Tags
+
+['maintenance', 'aircraft', 'approved', 'certificate', 'inspect', 'perform', 'airworthy', 'personally', 'shall', 'altered', 'production', 'operating', 'program', 'recorded', 'engine', 'accepted', 'data', 'specific', 'type', 'item', 'parts', 'authorized', 'method', 'necessary', 'manufacturer', 'required', 'rotor', 'procedures', 'equipment', 'mechanical']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                        |

@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 110
 
 
+# Summary
+
+(1) No person shall make contributions to any candidate, his or her authorized political committees or agents with respect to any election for Federal office that, in the aggregate, exceed $2,000.
+(1) With respect to any campaign for nomination for election or election to Federal office, no person shall make contributions to a candidate or political committee of currency of the United States, or of any foreign country, which in the aggregate exceed $100.
+(i) Expenditures by a delegate committee to defray the costs of certain campaign materials (such as pins, bumper stickers, handbills, brochures, posters and yard signs) that advocate the selection of a delegate and also include information on or reference to a candidate for the office of President or any other public office are neither contributions to the candidate referred to, nor subject to limitation under 11 CFR 110.1 provided that:
+A foreign national shall not direct, dictate, control, or directly or indirectly participate in the decision-making process of any person, such as a corporation, labor organization, political committee, or political organization with regard to such person's Federal or non-Federal election-related activities, such as decisions concerning the making of contributions, donations, expenditures, or disbursements in connection with elections for any Federal, State, or local office or decisions concerning the administration of a political committee.
+
+
+# Tags
+
+['shall', 'contribute', 'political committees', 'candidates', 'include', 'elects', 'expenditures', 'communication', 'campaign', 'organization', 'officer', 'funds', 'parties', 'means', 'federal', 'iii', 'provides', 'state', 'persons', 'require', 'section', 'separately', 'publications', 'statements', 'designations', 'follow', 'set', 'transfer', 'supporting', 'year', 'debts', 'makes', 'delegate', 'contributors', 'pursuant', 'fundraising', 'receivables', 'similar', 'local', 'address', 'cfr', 'administration', 'limits', 'institution', 'knowingly', 'nationals', 'substantially', 'active', 'foreign', 'solicitations', 'identifies', 'purpose', 'report', 'reasonable', 'individual', 'prohibitions', 'expense', 'account', 'mailed', 'disclaimer', 'information']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                    |

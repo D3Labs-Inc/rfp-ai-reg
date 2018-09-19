@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 327
 
 
+# Summary
+
+If the reserve ratio of the DIF as of the end of the prior assessment period is equal to or greater than 2 percent and less than 2.5 percent, the total base assessment rates after adjustments for established small institutions and large and highly complex institutions, except as provided in paragraph (f) of this section, shall be as prescribed in the following schedule:
+If the reserve ratio of the DIF as of the end of the prior assessment period is greater than 2.5 percent, the total base assessment rates after adjustments for established small institutions and large and highly complex institutions, except as provided in paragraph (f) of this section, shall be the rate prescribed in the following schedule:
+Prior to the reserve ratio of the DIF reaching 1.15 percent for the first time on or after June 30, 2016, all new institutions shall be subject to the initial and total base assessment rate schedules provided for in paragraph (a) of this section.
+If the reserve ratio of the DIF as of the end of the prior assessment period is equal to or greater than 2 percent and less than 2.5 percent, the initial and total base assessment rates for an insured branch of a foreign bank, except as provided in paragraph (f) of this section, shall be the rate prescribed in the following schedule:
+
+
+# Tags
+
+['shall', 'institutions', 'assessments', 'iii', 'rate', 'asset', 'adjust', 'risk', 'bank', 'quarter', 'deposit', 'insurance', 'ratios', 'period', 'credits', 'reports', 'determines', 'percent', 'average consolidated total', 'includes', 'section', 'provides notice', 'based', 'follows', 'quarterly', 'calculates', 'loan', 'score', 'financial', 'pursuant', 'requested', 'capitalized', 'applications', 'information', 'set', 'appropriate', 'date', 'payments', 'funds', 'weights', 'subsequently', 'invoices', 'new', 'assignments', 'method', 'written', 'times', 'camels', 'changed', 'states', 'measures', 'results', 'files', 'fdic', 'surcharges', 'prior', 'applies', 'debt', 'effective', 'balances']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

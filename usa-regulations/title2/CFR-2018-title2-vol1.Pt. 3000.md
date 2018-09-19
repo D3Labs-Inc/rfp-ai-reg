@@ -8,6 +8,21 @@
  CFR-2018-title2-vol1.Pt. 3000
 
 
+# Summary
+
+This part adopts the Office of Management and Budget (OMB) guidance in Subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Homeland Security policies and procedures for nonprocurement debarment and suspension.
+The Department of Homeland Security policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in Subparts A through I of 2 CFR Part 180, as that section is supplemented by the section in this part with the same section number.
+Within the Department of Homeland Security, the Secretary of Homeland Security has delegated the authority to grant an exception to let an excluded person participate in a covered transaction to the Head of the Contracting Activity for each DHS component as provided in the OMB guidance at 2 CFR 180.135.
+Department of Homeland Security extends coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction.
+You as a DHS component official must include a term or condition in each covered transaction into which you enter, to communicate to the participant the requirements to&#8212;
+(b) Include a similar term or condition in any lower-tier covered transactions into which the participant enters.
+
+
+# Tags
+
+['section', 'security', 'nonprocurement debarment', 'suspension']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                        |

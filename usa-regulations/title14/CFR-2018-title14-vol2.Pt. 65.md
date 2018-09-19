@@ -8,6 +8,20 @@
  CFR-2018-title14-vol2.Pt. 65
 
 
+# Summary
+
+(c) Unless authorized by the Administrator, a person whose air traffic control tower operator, mechanic, or parachute rigger certificate is suspended may not apply for any rating to be added to that certificate during the period of suspension.
+(1) A person whose air traffic control tower operator, aircraft dispatcher, or parachute rigger certificate is revoked may not apply for the same kind of certificate for 1 year after the date of revocation; and
+(a) No person may pack, maintain, or alter any personnel-carrying parachute intended for emergency use in connection with civil aircraft of the United States (including the reserve parachute of a dual parachute system to be used for intentional parachute jumping) unless that person holds an appropriate current certificate and type rating issued under this subpart and complies with &#167;&#167;&#8201;65.127 through 65.133.
+(d) Each person who holds a parachute rigger certificate shall present it for inspection upon the request of the Administrator or an authorized representative of the National Transportation Safety Board, or of any Federal, State, or local law enforcement officer.
+(c) A certificated parachute rigger need not comply with &#167;&#167;&#8201;65.127 through 65.133 (relating to facilities, equipment, performance standards, records, recent experience, and seal) in packing, maintaining, or altering (if authorized) the main parachute of a dual parachute pack to be used for intentional jumping.
+
+
+# Tags
+
+['certificate', 'operations', 'aircraft', 'ratings', 'requirements', 'applications', 'performance', 'courses', 'parachute', 'inspected', 'test', 'procedures', 'appropriately', 'shall', 'flight', 'persons', 'approved', 'including', 'control', 'authority', 'airing', 'following', 'prescribed', 'practical', 'experience', 'addition', 'administrator', 'officer', 'training', 'report', 'maintenance', 'records', 'facilities', 'standard', 'eligible', 'use', 'security', 'transportation', 'areas', 'holding', 'duty', 'subject', 'hours', 'drugs', 'traffic', 'instruction', 'currently', 'faa', 'tower', 'rigger', 'knowledge', 'passing', 'exercises']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                  |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 370
 
 
+# Summary
+
+Unless otherwise provided in this part, each &#8220;covered institution&#8221; (defined in &#167;&#8201;370.2(a)) is required to implement the information technology system and recordkeeping capabilities needed to calculate the amount of deposit insurance coverage available for each deposit account in the event of its failure.
+Except as otherwise provided in paragraphs (b) and (c) of this section, a covered institution must maintain in its deposit account records for each account the information necessary for its information technology system to meet the requirements set forth in &#167;&#8201;370.3.
+The request shall state the amount of additional time needed to meet the requirements of this part, the reason(s) for which such additional time is needed, and the total number and dollar value of accounts for which deposit insurance coverage could not be calculated using the covered institution's information technology system were the covered institution to fail as of the date of the request.
+(3) If a covered institution experiences a significant change in its deposit taking operations, the FDIC may require that it submit a certification of compliance and a deposit insurance coverage summary report more frequently than annually.
+
+
+# Tags
+
+['account', 'deposited', 'check', 'institutions', 'insurance', 'information', 'require', 'code', 'meaning', 'maintain', 'trust', 'shall', 'order', 'fund', 'pursuant', 'quarter', 'instrument', 'data', 'recordkeeping', 'time', 'federal', 'request', 'operating', 'actions', 'period']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                          |

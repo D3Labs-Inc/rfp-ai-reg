@@ -8,6 +8,20 @@
  CFR-2018-title14-vol3.Pt. 142
 
 
+# Summary
+
+(c) Except as provided in paragraph (b) of this section, after August 3, 1998, no person may conduct training, testing, or checking in advanced flight training devices or flight simulators without, or in violation of, the certificate and training specifications required by this part.
+(a) Except as provided in paragraph (b) of this section, each applicant for, or holder of, a training center certificate must apply to the Administrator for training program approval.
+(iii) Is employed as a flight simulator instructor or a flight training device instructor for a training center providing instruction and testing to meet the requirements of part 61 of this chapter on August 1, 1996.
+(a) An applicant for, or holder of, a training center certificate must ensure that each aircraft used for flight instruction and solo flights meets the following requirements:
+(b) A certificate holder shall maintain a record for each instructor or evaluator designated to instruct a course approved in accordance with subpart B of this part that indicates that the instructor or evaluator has complied with the requirements of &#167;&#167;&#8201;142.13, 142.45, 142.47, 142.49, and 142.53, as applicable.
+
+
+# Tags
+
+['training', 'requirements', 'flights', 'evaluator', 'certificate', 'operations', 'shall', 'aircraft', 'instructors', 'specifications', 'applicable', 'courses', 'including', 'test', 'center', 'instruction', 'curriculum', 'program', 'control', 'approved', 'pilots', 'iii', 'provided', 'checks', 'conducted', 'aviation', 'qualification', 'chapter', 'subject', 'means', 'following', 'authorizations', 'simulations', 'holder', 'administrator', 'device', 'equipped', 'manner', 'number', 'safety', 'facilities', 'crewmember']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                       |

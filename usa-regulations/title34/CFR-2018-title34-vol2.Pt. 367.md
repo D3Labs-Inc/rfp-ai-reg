@@ -8,6 +8,19 @@
  CFR-2018-title34-vol2.Pt. 367
 
 
+# Summary
+
+(xv) Services under other Federal, State, or local programs designed to provide resources, training, counseling, or other assistance of substantial benefit in enhancing the independence, productivity, and quality of life of older individuals who are blind;
+For any fiscal year, beginning with fiscal year 2015, the Secretary shall first reserve not less than 1.8 percent and not more than 2 percent of funds appropriated and made available to carry out this chapter to provide training and technical assistance to DSAs, or other providers of independent living services for older individuals who are blind, that are funded under this chapter for such fiscal year.
+(a) To be eligible to receive a grant or enter into a contract or cooperative agreement under section 751A of the Act and this subpart, an applicant shall submit an application to the Secretary containing a proposal to provide training and technical assistance to DSAs or other service providers of IL services to older individuals who are blind and any additional information at the time and in the manner that the Secretary may require.
+(b) The Secretary shall provide for peer review of applications by panels that include persons who are not Federal or State government employees and who have experience in the provision of services to older individuals who are blind.
+
+
+# Tags
+
+['services', 'included', 'means', 'individual', 'state', 'programs', 'requires', 'persons', 'grant', 'directly provides', 'actively', 'information', 'funds', 'agencies', 'training', 'received', 'administrative', 'award', 'shall', 'year', 'blind', 'communicating', 'authority', 'rehabilitation', 'iii', 'secretary', 'dsas', 'americans', 'costs', 'appropriation', 'assistance', 'legal', 'act', 'consumers', 'advocacy', 'peer', 'support', 'generated', 'needs', 'groups', 'independently', 'federal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                          |

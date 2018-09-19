@@ -8,6 +8,21 @@
  CFR-2018-title12-vol7.Pt. 721
 
 
+# Summary
+
+What categories of activities are preapproved as incidental powers necessary or requisite to carry on a credit union's business?
+A charitable donation account (CDA) is a hybrid charitable and investment vehicle, satisfying the conditions in paragraphs (b)(2)(i) through (vii) of this section, that you may fund as a means to provide charitable contributions and donations to qualified charities.
+If you fund a CDA that satisfies all of the conditions in paragraphs (b)(2)(i) through (vii) of this section, then you may do so free from the investment limitations of the Federal Credit Union Act and part 703 of this chapter.
+Loan-related products are the products, activities or services you provide to your members in a lending transaction that protect you against credit-related risks or are otherwise incidental to your lending authority.
+Marketing activities are the activities or means you use to promote membership in your credit union and the products and services you offer to your members.
+No official, employee, or their immediate family member may receive any compensation or benefit, directly or indirectly, in connection with your engagement in an activity authorized under this part, except as otherwise provided in paragraph (b) of this section.
+
+
+# Tags
+
+['service', 'activities', 'including', 'financial', 'account', 'member', 'cdas', 'product', 'invest', 'transfer', 'electronic', 'loan', 'credit union', 'agreements', 'charitable', 'transaction', 'distribution', 'tax', 'written', 'category', 'ncua', 'performed', 'cards', 'certifications', 'savings', 'regulatory', 'counseling', 'employees', 'payment', 'provide', 'applies', 'funding', 'means', 'deposit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                     |

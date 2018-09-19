@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 561
 
 
+# Summary
+
+The term account means any savings account, demand account, certificate account, tax and loan account, note account, United States Treasury general account or United States Treasury time deposit-open account, whether in the form of a deposit or a share, held by an accountholder in a savings association.
+The term demand accounts means non-interest-bearing demand deposits that are subject to check or to withdrawal or transfer on negotiable or transferable order to the savings association and that are permitted to be issued by statute, regulation, or otherwise and are payable on demand.
+The term security means any non-withdrawable account, note, stock, treasury stock, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, or, in general, any interest or instrument commonly known as a security, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing, except that a security shall not include an account or deposit insured by the Federal Deposit Insurance Corporation.
+
+
+# Tags
+
+['term', 'account', 'loan', 'associations', 'mean', 'state', 'securities', 'similar', 'person', 'savings', 'units', 'transfers', 'deposit', 'note', 'certificate', 'directors', 'included', 'authority', 'officers', 'credit', 'insured', 'operating', 'shall', 'districts', 'owns', 'brothers', 'basis', 'corporation', 'provided', 'bank', 'stock', 'voting']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                     |

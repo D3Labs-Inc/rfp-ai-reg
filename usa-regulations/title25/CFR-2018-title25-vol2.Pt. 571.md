@@ -8,6 +8,19 @@
  CFR-2018-title25-vol2.Pt. 571
 
 
+# Summary
+
+(a) The Commission's authorized representative may enter the premises of an Indian gaming operation to inspect, examine, photocopy, and audit all papers, books, and records (including computer records) concerning:
+(b) A tribe shall engage an independent certified public accountant to provide an annual audit of the financial statements of each class II and class III gaming operation on the tribe's Indian lands for each fiscal year.
+(a) Each tribe shall prepare and submit to the Commission two paper copies or one electronic copy of the financial statements and audits required by &#167;&#8201;571.12, together with management letter(s), and other documented auditor communications and/or reports as a result of the audit setting forth the results of each fiscal year.
+(c) When gaming ceases to operate and the tribal gaming regulatory authority has terminated the facility license required by &#167;&#8201;559.6, the tribe shall prepare and submit to the Commission two paper copies or one electronic copy of the financial statements, reports, and audits required by &#167;&#8201;571.12, together with management letter(s), setting forth the results covering the period since the period covered by the previous financial statements.
+
+
+# Tags
+
+['shall', 'indian gaming', 'financial', 'commission', 'meanings', 'audit', 'accounted', 'statements', 'person', 'operation', 'states', 'official', 'records', 'party', 'information', 'depositions', 'presentation', 'represented', 'prepared']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                              |

@@ -8,6 +8,17 @@
  CFR-2018-title12-vol4.Pt. 265
 
 
+# Summary
+
+To grant, under sections 25 and 25A of the Federal Reserve Act (12 U.S.C. 601 and 604) and section 4(c)(13) of the Bank Holding Company Act (12 U.S.C. 1843(c)(13)) and the Board's Regulations K and Y (12 CFR parts 211 and 225), specific consent to the acquisition, either directly or indirectly, by a member bank, an Edge or Agreement corporation, or a bank holding company of stock of a company chartered under the laws of a foreign country or a company chartered under the laws of a state of the United States that is organized and operated for the purpose of financing exports from the United States, and to approve any such acquisition that may exceed the limitations of section 25A of the Federal Reserve Act based on the company's capital and surplus, if all of the following conditions are met:
+To permit a state member bank to invest in bank premises under section 24A of the Federal Reserve Act (12 U.S.C. 371a) in an amount in excess of that set forth in 12 CFR 208.21(a), if the Reserve Bank is satisfied that approval is warranted after giving consideration to the bank's capitalization in relation to the character and condition of its assets and to its deposit liabilities and other corporate responsibilities, including the volume of its risk assets and of its marginal and inferior quality assets, all considered in relation to the strength of its management.
+
+
+# Tags
+
+['bank', 'acting', 'approved', 'reserved', 'companies', 'board', 'authorize', 'pursuant', 'notices', 'requiring', 'reports', 'federal', 'actions', 'corporations', 'proposes', 'securities', 'usc', 'members', 'applications', 'invest', 'shall', 'sections', 'ordered', 'foreign', 'condition', 'issuing', 'include', 'activities', 'times', 'deposit', 'state', 'requested', 'information', 'functions', 'period', 'public', 'related', 'provided', 'circumstances', 'regulations', 'organization', 'agreements', 'examination', 'day', 'establish', 'merger', 'cfr', 'branch', 'office', 'additional', 'procedure', 'prior', 'iii', 'credit', 'financial', 'registration', 'specifically', 'involved', 'law']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                   |

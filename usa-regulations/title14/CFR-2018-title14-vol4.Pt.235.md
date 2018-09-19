@@ -8,6 +8,20 @@
  CFR-2018-title14-vol4.Pt.235
 
 
+# Summary
+
+Reports by air carriers on incidents involving animals during air transport.
+(a) Each covered carrier shall, within 15 days after the end of the month to which the information applies, submit to the United States Department of Transportation's Aviation Consumer Protection Division a report on any incidents involving the loss, injury, or death of an animal during air transport provided by the air carrier, including incidents on flights by that carrier that are operated with aircraft having 60 or fewer seats.
+(b) Within 15 days after the end of December of each year, each covered carrier shall submit the following information (this information may be included in any report that the carrier may file for the loss, injury, or death of animals during the month of December):
+(1) The total number of incidents involving an animal during air transport provided by the air carrier for the entire calendar year, including incidents on flights by that carrier that are operated with aircraft having 60 or fewer seats.
+Covered carriers shall use the following data table when reporting the total number of animal incidents during air transport provided by the air carrier for the entire calendar year:
+
+
+# Tags
+
+['include animals', 'report', 'carrier', 'shall', 'seats', 'passenger', 'incidents', 'number']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                     |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 248
 
 
+# Summary
+
+This part implements section 13 of the Bank Holding Company Act by defining terms used in the statute and related terms, establishing prohibitions and restrictions on proprietary trading and on investments in or relationships with covered funds, and explaining the statute's requirements.
+For purposes of this paragraph (b), financial exposure means the aggregate risks of one or more financial instruments and any associated loans, commodities, or foreign exchange or currency, held by a banking entity or its affiliate and managed by a particular trading desk as part of the trading desk's market making-related activities.
+(1) Notwithstanding &#167;&#8201;248.10(a) of this subpart, a banking entity is not prohibited from acquiring or retaining an ownership interest in, or acting as sponsor to, a covered fund that is an issuing entity of asset-backed securities in connection with, directly or indirectly, organizing and offering that issuing entity, so long as the banking entity and its affiliates comply with all of the requirements of paragraph (a)(3) through (8) of this section.
+
+
+# Tags
+
+['include', 'investing', 'entity', 'funding', 'means', 'securities', 'trade', 'bank', 'providing', 'requires', 'assets', 'risk capital', 'active', 'iii', 'acting', 'state', 'shall', 'marketing', 'term', 'permit', 'foreign', 'transaction', 'applicable', 'insures', 'reasons', 'company', 'thereof', 'positions', 'section', 'documentation', 'pursuant', 'financial', 'loaned', 'regulations', 'obligations', 'manages', 'organizing', 'solely', 'profits', 'covered', 'standards', 'calendar', 'operating', 'basis', 'purchases', 'similar', 'described', 'instrumentality', 'liquidity', 'limitations', 'period', 'relate', 'sale', 'total', 'affiliated', 'purposes', 'appropriate', 'accountability', 'derived', 'based', 'compliance program', 'offerings', 'qualify', 'identifiable', 'outside']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                   |

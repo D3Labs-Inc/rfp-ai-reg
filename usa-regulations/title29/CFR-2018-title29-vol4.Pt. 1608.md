@@ -8,6 +8,18 @@
  CFR-2018-title29-vol4.Pt. 1608
 
 
+# Summary
+
+Where an affirmative action plan or program is alleged to violate title VII, or is asserted as a defense to a charge of discrimination, the Commission will investigate the charge in accordance with its usual procedures and pursuant to the standards set forth in these Guidelines, whether or not the analysis and plan are in writing.
+If the Commission makes the determination described in paragraph (a) of this section and also finds that the affirmative action program has been approved by an appropriate official of the Department of Labor or its authorized agencies, or is part of a conciliation or settlement agreement or an order of an administrative agency, whether entered by consent or after contested proceedings brought to enforce Executive Order 11246, as amended, the Commission will issue a determination of no reasonable cause.
+If adherence to an Order of a United States District Court or other court of competent jurisdiction, whether entered by consent or after contested litigation, in a case brought to enforce a Federal, State, or local equal employment opportunity law or regulation, is the basis of a complaint filed under title VII or is alleged to be the justification for an action which is challenged under title VII, the Commission will investigate to determine:
+
+
+# Tags
+
+['actions', 'opportunities', 'program', 'discrimination', 'vii', 'affirmative', 'plan', 'employers labor', 'commission', 'orders', 'practices', 'regulation', 'including', 'procedural', 'title', 'providing equal', 'states', 'guidelines', 'persons', 'restriction', 'written', 'congressional', 'conciliation', 'constitute', 'appropriate', 'similar', 'conditions', 'reasonable', 'policies']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                   |

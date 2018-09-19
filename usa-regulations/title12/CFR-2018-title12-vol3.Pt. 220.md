@@ -8,6 +8,18 @@
  CFR-2018-title12-vol3.Pt. 220
 
 
+# Summary
+
+One such requirement is that the purchase be made &#8220;in reliance upon an agreement accepted by the creditor (broker-dealer) in good faith&#8221; that the customer will &#8220;promptly make full cash payment for the security, if funds sufficient for the purpose are not already in the account; and, subject to certain exceptions, &#167;&#8201;220.4(c)(2) provides that the creditor shall promptly cancel or liquidate the transaction if payment is not made by the customer within seven business days after the date of purchase.
+(d) The arrangements for delayed delivery and payment in the case presented to the Board and outlined above clearly would be inconsistent with the requirement of &#167;&#8201;220.4(c)(1)(i) that the purchase be made in reliance upon an agreement accepted by the creditor in good faith that the customer will &#8220;promptly&#8221; make full cash payment for the security.
+(a) The Board was recently asked whether under Regulation T, &#8220;Credit by Brokers and Dealers&#8221; (12 CFR part 220), if there are simultaneous long and short positions in the same security in the same margin account (often referred to as a short sale &#8220;against the box&#8221;), such positions may be used to supply the place of the deposit of margin ordinarily required in connection with the guarantee by a creditor of a put or call option or combination thereof on such stock.
+
+
+# Tags
+
+['secure', 'transacting', 'margining', 'accounts', 'requiring', 'credited', 'shall', 'stocks', 'creditor', 'options', 'meanings', 'day', 'issuing', 'purchasers', 'payments', 'market', 'purpose', 'investment', 'dealers', 'broker', 'customers', 'trade', 'cash', 'registered', 'firm', 'funds', 'authorized', 'additional', 'sales', 'period', 'contracts', 'deposit', 'board', 'ruled', 'includes', 'acts', 'prices', 'persons', 'arrangements', 'delivery', 'certain', 'recent', 'specifically', 'applications', 'positions', 'foreign', 'regulated', 'programs', 'provide', 'section', 'pursuant', 'exchangeable', 'times', 'reasonable', 'case', 'general', 'bank', 'follows', 'provision', 'borrows', 'subject', 'accepts', 'institutional', 'extensions', 'describing', 'presentation', 'loan', 'held', 'plan', 'short', 'exceptional', 'charges', 'apply', 'stated']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

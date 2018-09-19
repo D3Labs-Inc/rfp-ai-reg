@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 354
 
 
+# Summary
+
+(c) Official mark means the inspection mark, and any other mark, or any variations in such marks, approved by the Administrator and authorized to be affixed to any product, or affixed to or printed on the packaging material of any product, stating that the product was inspected, or indicating the condition of the product, or for the purpose of maintaining the identity of products inspected under this part, including, but not limited to, that set forth in &#167;&#8201;354.65.
+(e) Official device means a stamping appliance, branding device, stencil, printed label, or any other mechanically or manually operated tool that is approved by the Administrator for the purpose of applying any official mark or other identification to any product or the packaging material thereof.
+All condemned carcasses, or parts of carcasses, shall be disposed of by one of the following methods, under the supervision of an inspector of the Inspection Service: (Facilities and materials for carrying out the requirements in this section shall be furnished by the official establishment.)
+(l) Watertight trucks and receptacles for holding or handling diseased carcasses and diseased parts of carcasses shall be so constructed as to be readily and thoroughly cleaned; such trucks and receptacles shall be marked in a conspicuous manner with the word &#8220;condemned&#8221; in letters not less than 2 inches high and, when required by the inspector in charge, shall be equipped with facilities for locking and sealing.
+
+
+# Tags
+
+['shall', 'inspections', 'production', 'means', 'water', 'rabbits', 'rooms', 'clean', 'operating', 'plant', 'thereof', 'approve', 'conditional', 'adequately', 'carcasses', 'applicant', 'diseases', 'inspector', 'follows', 'materials', 'copies', 'administrative', 'services', 'showing', 'facilities', 'equipped', 'contained', 'indicate', 'includes', 'pursuant', 'persons', 'air', 'complete', 'process', 'officially', 'state', 'labeling', 'marked', 'condemnation', 'metal', 'supervisor', 'provides', 'specify', 'washing', 'affected', 'tanks', 'eviscerated', 'properly', 'handling', 'hour', 'certificates', 'food', 'practicable', 'authorized', 'day', 'require', 'acts', 'times', 'designate', 'toilets', 'proper', 'stamping', 'final', 'floor', 'employee', 'identification', 'receiving', 'ready', 'regulations', 'remove', 'doors', 'procedure', 'political', 'immediate', 'edible', 'sanitary', 'general', 'covered', 'foreign', 'office', 'prevented', 'opened', 'packaged', 'areas', 'misrepresentations', 'oils', 'line', 'suitably', 'set', 'types', 'ordered', 'appeals']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

@@ -8,6 +8,20 @@
  CFR-2018-title14-vol3.Pt. 158
 
 
+# Summary
+
+The FAA may authorize a public agency under &#167;&#8201;158.18 to impose a PFC for payments for debt service on indebtedness incurred to carry out an airport project that is not eligible if the FAA determines that such use is necessary because of the financial need of the airport.
+This paragraph sets forth the information that a public agency must file, unless otherwise authorized by the Administrator, in its notice of intent to use PFC revenue to finance specific projects under this section.
+(a) Following approval of an application to impose a PFC under subpart B of this part, the public agency shall notify the air carriers and foreign air carriers required to collect PFC's at its airport of the Administrator's approval.
+(c) The public agency must notify air carriers required to collect PFCs at its airport and the FAA of changes in the charge expiration date at least 30 days before the existing charge expiration date or new charge expiration date, whichever comes first.
+(f) Issuing carriers and their agents shall stop collecting the PFC's on the charge expiration date stated in a notice from the public agency, or as required by the Administrator.
+
+
+# Tags
+
+['pfc', 'projection', 'shall', 'airports', 'carriers', 'included', 'collects', 'agency', 'funds', 'revenue', 'air', 'cost', 'faa', 'requirements', 'applications', 'administrator', 'approved', 'meaning', 'fee', 'following', 'publication', 'servicing', 'account', 'planned', 'passengers', 'informal', 'notice', 'financial', 'federal', 'program', 'ticket', 'issued', 'provided', 'charged', 'date', 'comment', 'authorized', 'recorded', 'iii', 'reports', 'eligible', 'total', 'document', 'months', 'developing', 'granted', 'receive', 'facilities', 'separate', 'set', 'monthly', 'filing', 'specific', 'acknowledging', 'fuel', 'new', 'generated', 'agents', 'systems', 'support', 'covered', 'allow', 'statements', 'proposed', 'islands', 'reserved']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

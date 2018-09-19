@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 615
 
 
+# Summary
+
+Any association or other Farm Credit System institution other than Farm Credit banks, excluding the Federal Agricultural Mortgage Corporation, with interest rate risk that could lead to significant declines in net income or in the market value of capital must comply with the requirements of &#167;&#8201;615.5180.
+(4) For Farm Credit Banks, agricultural credit banks (with respect to loans other than to cooperatives), and associations, the percentage or dollar amount of equity investment (which may be expressed as a range within which the board of directors may from time to time determine the requirement) that will be required to be purchased as a condition for obtaining a loan, which amount shall be not less than 2 percent of the loan amount or $1,000, whichever is less;
+An institution that does not have or maintain the minimum capital ratios applicable to it, whether required in subpart H of this part or part 628 of this chapter, in a decision pursuant to this subpart, in a written agreement or temporary or final order under part C of title V of the Act, or in a condition for approval of an application, or an institution that has failed to submit or comply with an acceptable plan to attain those ratios, will be subject to such administrative action or sanctions as the Farm Credit Administration considers appropriate.
+
+
+# Tags
+
+['shall', 'securities', 'investing', 'institutional', 'requires', 'means', 'capitalize', 'risks', 'including marketable', 'loans', 'banks acting', 'managed', 'equities', 'liquidated', 'policies', 'credits', 'values', 'stock', 'associated', 'minimum', 'providing', 'issue', 'collateral', 'funding', 'assets', 'retire', 'losses', 'corporations', 'eligibility', 'plan', 'state', 'authorizes', 'effect', 'obligation', 'establishes', 'timely', 'ratios', 'basis', 'mortgages', 'applicants', 'appropriate', 'limitations', 'governed', 'preferred', 'agreement', 'pursuant', 'information', 'specifying', 'prior', 'purchasers', 'standardized', 'addition', 'maintains', 'operating', 'financial', 'service', 'identified', 'farm', 'administration', 'generally', 'iii', 'rate', 'votes', 'board', 'earning', 'written', 'term', 'base', 'bond', 'transfer', 'business', 'date', 'reserved', 'holds', 'follows', 'debt', 'form', 'portfolios', 'transaction', 'federal', 'definition', 'instrument', 'set', 'propose', 'materially', 'determine', 'need']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 5
 
 
+# Summary
+
+(f) Public Disclosure and Media Relations Division of the Commission is that division which is responsible for, among other things, the processing of requests for public access to records which are submitted to the Commission pursuant to 52 U.S.C. 30109(a)(4)(B)(ii) and 30111(a).
+(b) Public access to such Commission records as are subject to the collateral provisions of the Freedom of Information Act and are not included in the material subject to disclosure under this part (described in 11 CFR 5.4(a)) shall be governed by the rules set forth as part 4 of this chapter.
+(a) In accordance with 52 U.S.C. 30111(a), the Commission shall make the following material available for public inspection and copying through the Commission's Public Disclosure and Media Relations Division:
+(c) Requests for copies of records not available through the Public Disclosure and Media Relations Division shall be addressed to the Chief FOIA Officer, Federal Election Commission, at the street address identified in the definition of &#8220;Commission&#8221; in &#167;&#8201;1.2.
+In the event that the Public Disclosure and Media Relations Division receives a written request for access to materials not described in 11 CFR 5.4(a), it shall promptly forward such request to the Commission FOIA Officer for processing in accordance with the provisions of part 4 of this chapter.
+
+
+# Tags
+
+['requester', 'records', 'publications', 'commission', 'materials', 'fee', 'shall', 'payment', 'information', 'time', 'campaign', 'act', 'availability', 'chapters', 'division', 'internal', 'opinions', 'copying']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                           |

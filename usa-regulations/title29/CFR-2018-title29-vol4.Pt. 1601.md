@@ -8,6 +8,17 @@
  CFR-2018-title29-vol4.Pt. 1601
 
 
+# Summary
+
+(2) When a person claiming to be aggrieved requests, in writing, that a notice of right to sue be issued, and the charge to which the request relates is filed against a respondent other than a government, governmental agency or political subdivision, the Commission may issue such notice as described in &#167;&#8201;1601.28(e) with copies to all parties, at any time prior to the expiration of 180 days from the date of filing of the charge with the Commission; provided that the District Director, the Field Director, the Area Director, the Local Director, the Director of the Office of Field Programs or upon delegation, the Director of Field Management Programs has determined that it is probable that the Commission will be unable to complete its administrative processing of the charge within 180 days from the filing of the charge and has attached a written certificate to that effect.
+(3) Issuance of a notice of right to sue shall terminate further proceeding of any charge that is not a Commissioner charge unless the District Director; Field Director; Area Director; Local Director; Director of the Office of Field Programs or upon delegation, the Director of Field Management Programs; or the General Counsel, determines at that time or at a later time that it would effectuate the purpose of title VII, the ADA, or GINA to further process the charge.
+
+
+# Tags
+
+['shall', 'charged', 'commission', 'agency', 'persons', 'information', 'states', 'issued', 'determined', 'procedures', 'appropriate', 'officers', 'terms', 'allegation', 'district', 'designated', 'authorized', 'pursuant', 'notices', 'processing', 'including', 'local', 'acts', 'days', 'conciliation', 'statements', 'filing', 'employer', 'federal', 'discrimination', 'practice', 'fep', 'field', 'actions', 'section', 'respondents', 'case', 'law', 'requests', 'time', 'concerned', 'matters', 'amend', 'proceeding', 'review', 'cause', 'followed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                             |

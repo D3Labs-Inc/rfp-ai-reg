@@ -8,6 +8,18 @@
  CFR-2018-title12-vol2.Pt. 204
 
 
+# Summary
+
+In addition, any other foreign bank's branch located in the United States that is eligible to apply to become an insured bank under section 5 of the Federal Deposit Insurance Act (12 U.S.C. 1815) is required to maintain reserves in accordance with this part as a nonmember depository institution.
+(iii) Any deposit or account on which the depository institution has reserved the right to require at least seven days' written notice prior to withdrawal or transfer of any funds in the account and from which withdrawals may be made automatically through payment to the depository institution itself or through transfer of credit to a demand deposit or other account in order to cover checks or drafts drawn upon the institution or to maintain a specified balance in, or to make periodic transfers to such other account, such as accounts authorized by 12 U.S.C. 371a (automatic transfer account or ATS account), provided that the depositor is eligible to hold an ATS account; or
+(1) International banking facility or IBF means a set of asset and liability accounts segregated on the books and records of a depository institution, United States branch or agency of a foreign bank, or an Edge or Agreement Corporation that includes only international banking facility time deposits and international banking facility extensions of credit.
+
+
+# Tags
+
+['institution', 'accounting', 'deposit', 'includes', 'funded', 'bank', 'require', 'reserved', 'transaction', 'shall', 'balance', 'obligated', 'times', 'credit', 'state', 'depository', 'day', 'federal', 'terms', 'loan', 'board', 'periodic', 'means', 'payments', 'provide', 'ibf', 'general', 'securities', 'purpose', 'maintained', 'check', 'participation', 'transfers', 'foreign', 'authorizes', 'arrangements', 'market', 'rate', 'office', 'trust', 'withdrawals', 'involves', 'exempts', 'iii', 'corporations', 'asset', 'directly', 'reports', 'acting', 'usc', 'cash', 'received', 'investment', 'purchased', 'similar', 'entities', 'established', 'following', 'agreement', 'locations', 'draft', 'consist', 'organized solely', 'described', 'additional', 'section', 'saving', 'permits', 'insure', 'penalty', 'liabilities', 'share', 'party', 'business', 'held', 'eligible', 'sales', 'issuing', 'concerning']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

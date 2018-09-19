@@ -8,6 +8,18 @@
  CFR-2018-title12-vol2.Pt. 207
 
 
+# Summary
+
+(ii) More than 3 years before the parties entered into the agreement, in the case of any oral communication in which the NGEP discusses providing (or refraining from providing) comments or testimony to a Federal banking agency or written comments that must be included in the institution's CRA public file in connection with a request to, or agreement by, the institution or affiliate to take (or refrain from taking) any action that is in fulfillment of the CRA; or
+In responding to a request for a covered agreement from any individual or entity under paragraph (b)(1) of this section, a NGEP, insured depository institution, or affiliate may withhold from public disclosure confidential or proprietary information that the party believes the relevant supervisory agency could withhold from disclosure under the Freedom of Information Act (5 U.S.C. 552 et seq.) (FOIA).
+Each NGEP and each insured depository institution or affiliate that is a party to a covered agreement must file an annual report with each relevant supervisory agency concerning the disbursement, receipt, and uses of funds or other resources under the covered agreement.
+
+
+# Tags
+
+['agreements', 'loans', 'institution', 'ngep', 'informed', 'community', 'generally', 'provides', 'filings', 'affiliate', 'organization', 'cra', 'insurance', 'annual report', 'including', 'following', 'year', 'requirements', 'companies', 'written', 'iii', 'agencies', 'businesses', 'concerns', 'public', 'expense', 'section', 'purposes', 'banking', 'makes', 'release', 'service', 'federally', 'terminate', 'examples', 'state', 'receiving', 'party']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                         |

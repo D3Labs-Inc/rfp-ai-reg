@@ -8,6 +8,18 @@
  CFR-2018-title2-vol1.Pt. 417
 
 
+# Summary
+
+(e) Notwithstanding the fact that procurement contracts to be implemented outside the United States that are below the primary tier covered transaction in a USDA foreign assistance program, export credit guarantee program or direct credit program are not covered transactions, pursuant to paragraphs (c) and (d) of this section, primary tier participants under these programs must check the EPLS prior to entering into any procurement contract that is expected to equal or exceed $25,000 with a person at the first lower tier and shall not enter into such a procurement contract if the person is excluded or disqualified under the EPLS.
+In addition, a transaction at the first lower tier under the export credit guarantee program might be a procurement contract (i.e., a contract for the purchase and sale of goods) that is expected to equal or exceed $25,000 entered into between the U.S. exporter and the foreign importer for the U.S. commodities, the payment for which is covered by the guarantee.
+In addition, a transaction at the first lower tier might be a procurement contract that is expected to equal or exceed $25,000 entered into between the U.S. exporter and the foreign importer for the U.S. commodities, the payment for which is covered by the financing agreement.
+
+
+# Tags
+
+['program', 'usda', 'debars', 'official', 'food', 'requirements', 'agreement', 'transactions', 'services', 'federal', 'including', 'usc', 'section', 'foreign', 'contracts', 'pursuant', 'guarantee', 'awarded', 'provide', 'property', 'payment', 'nutrition', 'suspension', 'tier', 'participate', 'agency', 'regulatory', 'cfr', 'permits']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                           |

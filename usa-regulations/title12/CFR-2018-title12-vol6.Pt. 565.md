@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 565
 
 
+# Summary
+
+The principal purpose of this part is to define, for savings associations, the capital measures and capital levels that are used for determining the supervisory actions authorized under section 38 of the FDI Act. This part also establishes procedures for submission and review of capital restoration plans and for issuance and review of directives and orders pursuant to section 38.
+Upon receiving notice that its capital restoration plan has not been approved, any undercapitalized savings association (as defined in &#167;&#8201;565.4(b)(3) of this part) shall be subject to all of the provisions of section 38 and this part applicable to significantly undercapitalized institutions.
+The aggregate liability under the guarantee provided under section 38 and this part for all companies that control a specific savings association that is required to submit a capital restoration plan under this part shall be limited to the lesser of:
+(iii) The date by which the savings association subject to the notice of reclassification may file with the OTS a written appeal of the proposed reclassification and a request for a hearing, which shall be at least 14 calendar days from the date of service of the notice unless the OTS determines that a shorter period is appropriate in light of the financial condition of the savings association or other relevant circumstances.
+
+
+# Tags
+
+['shall', 'capitalized', 'ots pursuant', 'associations', 'actions', 'act', 'written', 'periods', 'plans', 'sections', 'directing', 'including', 'required', 'means', 'notice', 'failure', 'circumstances', 'ratings', 'materials', 'categories', 'witnesses', 'relevant', 'proposes', 'institution', 'supervisory', 'financial', 'authority', 'company', 'previously', 'orders', 'officers']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                             |

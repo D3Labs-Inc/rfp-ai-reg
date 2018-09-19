@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 608
 
 
+# Summary
+
+(2) If the amount appropriated for a fiscal year for the HBCU Program is insufficient to provide $500,000 to each eligible institution with an approved application, each grant is ratably reduced.
+Except as provided in paragraphs (b) and (c) of this section, a grantee may expend grant funds for activities that are related to carrying out the allowable activities included in its approved application.
+(a) (1) A grantee shall provide for the conduct of a compliance and financial audit of any funds it receives under this part of a qualified, independent organization or person in accordance with the Standards for Audit of Governmental Organizations, Programs, Activities, and Functions, 1981 revision, established by the Comptroller General of the United States.
+(b) An institution awarded a grant under this part must submit to the Department of Education Inspector General three copies of the audit required in paragraph (a) of this section within six months after completion of the audit.
+(d) A grantee shall repay to the Treasury of the United States any grant funds it received that it did not expend or use to carry out the allowable activities included in its approved application within ten years following the date of the initial grant it received under this part.
+
+
+# Tags
+
+['program', 'grants', 'funds', 'years', 'activities', 'academic', 'educational', 'institutions', 'schools', 'establishing', 'follows', 'means', 'general', 'applications', 'cost', 'requirements', 'shall', 'purposes including', 'develop', 'regulations', 'students', 'secretary', 'degree', 'faculty', 'accredited', 'audit', 'reasonable', 'federal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                       |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 575
 
 
+# Summary
+
+(iv) No later than thirty days after the reorganization, the mutual holding company shall file with the OTS a certification stating that the mutual holding company will not deviate materially, or cause its savings association subsidiaries to deviate materially, from the business plan submitted in connection with the Reorganization Notice, unless prior written approval from the Regional Director is obtained.
+(iii) If the Reorganization Plan provides that the acquiree association is to be federally chartered, approval pursuant to &#167;&#8201;552.4 of this chapter of the amendment of the existing charter of the acquiree association in its entirety to read in the form of the proposed charter and bylaws of such association (as modified by any conditions imposed by the OTS in its notice of intent not to disapprove or paragraph (c)(2) of this section and subject to paragraph (c)(5) of this section).
+(1) A mutual holding company shall provide written notice to the OTS at least 30 days prior to the effective date of any direct or indirect transfer of any of the stock that it holds in a subsidiary holding company, a resulting association, an acquiree association, or any subsidiary savings association that was in the mutual form when acquired by the mutual holding company, including stock transferred in connection with a pledge pursuant to &#167;&#8201;575.11(b) or any transfer of all or a substantial portion of the assets or liabilities of any such subsidiary holding company or association.
+
+
+# Tags
+
+['shall', 'stock', 'companies', 'terms associate', 'approved', 'proposed', 'pursuant', 'requirement', 'provides', 'issuances', 'chartering', 'plan', 'included', 'accounts', 'market', 'ots', 'mutual', 'materials', 'reorganize', 'applications', 'meanings set', 'provision', 'notice', 'offer', 'capitalize', 'state', 'limitation', 'proxies', 'savings', 'members', 'pricing', 'acquires', 'filings', 'share', 'transfer', 'specified', 'bylaw', 'follows', 'standards', 'acting', 'membership', 'chapter', 'times', 'regulatory', 'authorize']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                        |

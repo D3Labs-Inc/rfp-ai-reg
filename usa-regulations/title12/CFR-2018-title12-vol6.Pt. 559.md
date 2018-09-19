@@ -8,6 +8,21 @@
  CFR-2018-title12-vol6.Pt. 559
 
 
+# Summary
+
+Lower-tier entity includes any company in which an operating subsidiary or a service corporation has a direct or indirect ownership interest.
+A federal savings association (&#8220;you&#8221;) that meets the requirements of this section, as detailed in the following chart, may establish, or obtain an interest in an operating subsidiary or a service corporation.
+How much may a savings association invest in service corporations or lower-tier entities?
+The amount that a federal savings association (&#8220;you&#8221;) may invest in a service corporation or any lower-tier entity depends upon several factors.
+(b) In addition to the amounts you may invest under paragraph (a) of this section, and to the extent that you have authority under other provisions of section 5(c) of the HOLA and part 560 of this chapter, and available capacity within any applicable investment limits, you may make loans to any service corporation and any lower-tier entity, subject to the following conditions:
+(a) In accordance with this section, a savings association (&#8220;you&#8221;) may exercise your salvage power to make a contribution or a loan (including a guarantee of a loan made by any other person) to your service corporation or lower-tier entity (&#8220;salvage investment&#8221;) that exceeds the maximum amount otherwise permitted under law or regulation.
+
+
+# Tags
+
+['invests', 'service corporation', 'activity', 'includes', 'subsidiary', 'businesses', 'development', 'associations', 'organizations', 'entity', 'housing', 'related', 'ots', 'operating', 'market', 'reasons', 'basis', 'homes', 'issue', 'community', 'securities', 'income tax', 'ownership', 'generally', 'financial', 'account', 'insurance', 'loan', 'credit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                   |

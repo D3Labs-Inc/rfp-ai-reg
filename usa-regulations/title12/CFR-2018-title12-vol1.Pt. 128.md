@@ -8,6 +8,17 @@
  CFR-2018-title12-vol1.Pt. 128
 
 
+# Summary
+
+(a) No savings association may deny a loan or other service, or discriminate in the purchase of loans or securities or discriminate in fixing the amount, interest rate, duration, application procedures, collection or enforcement procedures, or other terms or conditions of such loan or other service on the basis of the age or location of the dwelling, or on the basis of the race, color, religion, sex, handicap, familial status (having one or more children under the age of 18), marital status, age (provided the person has the capacity to contract) or national origin of:
+(a) No savings association may discourage, or refuse to allow, receive, or consider, any application, request, or inquiry regarding a loan or other service, or discriminate in imposing conditions upon, or in processing, any such application, request, or inquiry on the basis of the age or location of the dwelling, or on the basis of the race, color, religion, sex, handicap, familial status (having one or more children under the age of 18), marital status, age (provided the person has the capacity to contract), national origin, or other characteristics prohibited from consideration in &#167;&#8201;128.2(c) of this part, of the prospective borrower or other person, who:
+
+
+# Tags
+
+['loans', 'regulations', 'income', 'act', 'shall', 'applicant', 'credit', 'home', 'lending', 'federal', 'discriminate', 'prohibit', 'opportunities', 'factor', 'housing', 'practices', 'equal', 'associated', 'discriminatory', 'employment', 'savings', 'requiring', 'economic', 'areas', 'assistance', 'status', 'property', 'policies', 'fair', 'provides', 'nondiscriminatory', 'language', 'underwriting', 'risk', 'business']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                           |

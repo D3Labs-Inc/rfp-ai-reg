@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 17
 
 
+# Summary
+
+The notice shall be mailed not less than 10 days preceding the date of the hearing and shall state that the special attorney will, at the time and place specified therein, take testimony to determine whether the will of the deceased Osage Indian shall be approved or disapproved.
+(b) Any interested party desiring to contest approval of the will may, not less than 5 days before the date set for hearing, file written objections in triplicate, showing that a copy thereof was served upon attorneys for the proponent and other attorneys of record in the case.
+Minor heirs at law, who by the terms of the will are devised a lesser interest in the estate than they would take by descent, of whose interests are challenged, shall, with the approval of the special attorney, be represented at the hearing by guardians ad litem.
+Upon the superintendent's final action of approval or disapproval of a will, he shall immediately notify by mail all attorneys appearing in the case, together with interested parties who are not represented by attorneys, of his decision and of their right to file an appeal.
+
+
+# Tags
+
+['shall', 'attorney', 'hearing', 'indians', 'day', 'means', 'brief', 'appeals', 'testimony', 'examination', 'minors', 'interests', 'showing', 'written']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                 |

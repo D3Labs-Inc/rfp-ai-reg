@@ -8,6 +8,19 @@
  CFR-2018-title29-vol7.Pt. 1913
 
 
+# Summary
+
+(1) Except as provided in paragraphs (b) (3) through (6) below, this section applies to all requests by OSHA personnel to obtain access to records in order to examine or copy personally identifiable employee medical information, whether or not pursuant to the access provisions of 29 CFR 1910.1020(e).
+The Principal OSHA Investigator shall be the OSHA employee in each instance of access to personally identifiable employee medical information who is made primarily responsible for assuring that the examination and use of this information is performed in the manner prescribed by a written access order and the requirements of this section (paragraphs (d) through (m).
+Except as provided in paragraph (d)(4) below, each request by an OSHA representative to examine or copy personally identifiable employee medical information contained in a record held by an employer or other recordholder shall be made pursuant to a written access order which has been approved by the Assistant Secretary upon the recommendation of the OSHA Medical Records Officer.
+(2) The Principal OSHA Investigator, the OSHA Medical Records Officer, the Assistant Secretary, and any other authorized person listed on a written access order may permit the examination or use of personally identifiable employee medical information by agency employees and contractors who have a need for access, and appropriate qualifications for the purpose for which they are using the information.
+
+
+# Tags
+
+['shall', 'personal', 'information', 'agency', 'osha access', 'records', 'identifier', 'employee', 'appropriateness', 'concerning', 'circumstances', 'medically', 'health', 'written', 'promptly', 'use', 'employment', 'specific', 'orders', 'protect individual', 'contained', 'number', 'procedures', 'obtained']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                          |

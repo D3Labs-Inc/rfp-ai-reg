@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 242
 
 
+# Summary
+
+(2) This part defines the terms &#8220;significant nonbank financial company&#8221; and &#8220;significant bank holding company&#8221; as provided in section 102(a)(6) of the Dodd-Frank Act for purposes of&#8212;
+For purposes of this section, the &#8220;consolidated annual gross financial revenues&#8221; of a company means that portion of the consolidated annual gross revenues of the company (as determined in accordance with applicable accounting standards) that are derived, directly or indirectly, by the company or any of its subsidiaries from&#8212;
+For purposes of this section, the &#8220;consolidated total financial assets&#8221; of a company means that portion of the consolidated total assets of the company (as determined in accordance with applicable accounting standards) that are related to&#8212;
+(ii) A company may seek to rebut the presumption described in paragraph (e)(2)(i) of this section by providing evidence to the Council, with respect to the definition of a nonbank financial company for purposes of Title I of the Dodd-Frank Act (other than with respect to the definition of a significant nonbank financial company), or the Board, with respect to the definition of a significant nonbank financial company, that the account receivable is not related to a financial activity.
+
+
+# Tags
+
+['company', 'financial', 'act', 'assets', 'states', 'activity', 'bank', 'accounts', 'clearing', 'credit', 'reporting', 'trade', 'securities', 'terms', 'form']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                                                                                                 |

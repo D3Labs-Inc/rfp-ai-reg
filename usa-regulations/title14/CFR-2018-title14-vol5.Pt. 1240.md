@@ -8,6 +8,17 @@
  CFR-2018-title14-vol5.Pt. 1240
 
 
+# Summary
+
+(1) When the Board receives written notice, in the manner prescribed by the procedures of the Board, that a NASA Center has approved the initial (first) release to a qualified user of a software package based on a software innovation made by an employee of NASA or a NASA contractor and reported to NASA in the manner prescribed by the procedures of the Board, the Board may recommend to the Administrator or designee that an award be made, including a specific amount and distribution thereof for any multiple innovators, so long as the following conditions have been met:
+When the Board receives written notice, in the manner and format prescribed by the procedures of the Board, that a NASA Center has approved for publication a NASA Tech Brief based on an innovation made by an employee of NASA or a NASA contractor and reported to NASA in the manner and form prescribed by the procedures of the Board, the Board may recommend to the Administrator or designee that an award be made, including a specific amount and distribution thereof for any multiple innovators.
+
+
+# Tags
+
+['applications', 'award', 'nasa', 'means', 'written', 'scientific', 'prescribed', 'hearing', 'board', 'receive', 'patents', 'designed', 'information', 'government', 'includes', 'exhibit', 'requested', 'statements', 'material', 'execute', 'setting', 'software', 'transfer', 'contractors', 'briefs', 'submit', 'shall']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                             |

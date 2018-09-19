@@ -8,6 +8,20 @@
  CFR-2018-title9-vol2.Pt. 392
 
 
+# Summary
+
+(a) All rulemaking petitions filed with FSIS, along with any documentation submitted in support of a petition, will be available for public inspection in the FSIS docket room and will be posted on the FSIS Web site at http://www.fsis.usda.gov/.
+(b) If FSIS cannot readily determine whether information submitted in support of a petition is privileged or confidential business information, FSIS will request that the petitioner submit a written statement that certifies that the petition does not contain confidential information that should not be put on public display.
+(d) All comments on a petition will become part of the petition file and will be available for public inspection in the FSIS docket room and posted on the FSIS Web site at http://www.fsis.usda.gov/.
+(a) A petition will receive expedited review by FSIS if the requested action is intended to enhance the public health by removing or reducing foodborne pathogens or other potential food safety hazards that might be present in or on meat, poultry, or egg products.
+(b) For a petition to be considered for expedited review, the petitioner must submit scientific information that demonstrates that the requested action will reduce or remove foodborne pathogens or other potential food safety hazards that are likely to be present in or on meat, poultry, or egg products, and how it will do so.
+
+
+# Tags
+
+['petitions', 'information', 'fsis', 'regulations', 'public', 'submit', 'statistics', 'comment', 'petitioner', 'foodborne', 'food', 'requested', 'journal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                 |

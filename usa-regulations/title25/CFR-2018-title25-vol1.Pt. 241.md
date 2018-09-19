@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 241
 
 
+# Summary
+
+Members of the Metlakatla Indian Community, and such other Alaskan Natives as have joined them or may join them in residence on the aforementioned islands, shall not be required to obtain a license or permit from the State of Alaska to engage in fishing in the waters of the Annette Islands Reserve.
+During 1963, and until the Secretary of the Interior or his duly authorized representative determines otherwise, the Metlakatla Indian Community is permitted to operate not more than one trap per site for salmon fishing at any four of the following sites in the Annette Islands Reserve, Alaska:
+All commercial fishing, other than with traps, shall be in accordance with the season and gear restrictions established by rule or regulation by the Alaska Board of Fish and Game for Commercial Fishing in any part of the previously defined area; provided, however, that the Secretary or his duly authorized representative may, upon request by the Metlakatla Indian Community authorize such other commercial fishing at such times as he shall prescribe, which authorization shall be based upon the following criteria:
+Subsistence fishing within the Annette Islands Reserve shall be in accordance with the season, gear and bag restrictions established by rule or regulation of the Alaska Board of Fish and Game for Commercial Fishing in Fishing District No. 1.
+
+
+# Tags
+
+['fishing', 'shall', 'island', 'reservation', 'authorized', 'native commercial', 'traps', 'approximately', 'restriction', 'indian', 'said', 'area', 'appropriate', 'states', 'karluk', 'stat', 'fishery', 'waters', 'feet']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

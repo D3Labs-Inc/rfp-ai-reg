@@ -8,6 +8,19 @@
  CFR-2018-title14-vol1.Pt. 33
 
 
+# Summary
+
+(a) For each fan, compressor, turbine, and turbosupercharger rotor, the applicant must establish by test, analysis, or a combination of both, that each rotor will not burst when operated in the engine for 5 minutes at whichever of the conditions defined in paragraph (b) of this section is the most critical with respect to the integrity of such a rotor.
+(ii) One period repeating the run specified in paragraph (g)(2)(i) of this section, except that it must be followed by 10 minutes at the thrust obtained with the power control lever set at the position for 80 percent of rated maximum continuous augmented thrust;
+(iii) One period repeating the run specified in paragraph (g)(2)(i) of this section, except that it must be followed by 10 minutes at the thrust obtained with the power control lever set at the position for 60 percent of rated maximum continuous augmented thrust and then 10 minutes at not more than 15 percent of rated takeoff thrust;
+(b) In addition to the test requirements in paragraph (a) of this section, each engine for which 30-second OEI and 2-minute OEI ratings are desired, that incorporates a means for automatic temperature control within its operating limitations in accordance with &#167;&#8201;33.28(k), must run for a period of 4 minutes at the maximum power-on rpm with the gas temperature at least 35 &#176;F (19 &#176;C) higher than the maximum operating limit at 30-second OEI rating.
+
+
+# Tags
+
+['engines', 'tested', 'powers', 'operability', 'condition', 'speeds', 'maximum', 'rotor', 'thrusts', 'fuel', 'limiters', 'oil', 'failure', 'include', 'designed', 'pressure', 'rated', 'followed', 'temperatures', 'controllability', 'vibrations', 'applicable requirements', 'flight', 'functionally', 'iii', 'level', 'specify', 'ice', 'ingestion', 'runs', 'periodically', 'inlet', 'turbine', 'birds', 'unacceptable', 'critical', 'systems', 'minimum', 'aircraft', 'continuation', 'approved', 'effect', 'shaft overspeed', 'load', 'instrumentation', 'installation', 'analysis', 'air', 'appropriately', 'service', 'shall', 'idle', 'minutes', 'device', 'stresses', 'positive', 'associated', 'rotational', 'maintenance', 'components', 'specification', 'time', 'section', 'provide data', 'allowed', 'starting', 'tank', 'percent', 'cycling', 'instruction', 'normal', 'takeoff', 'characteristics', 'transients', 'blade', 'value', 'completion', 'propeller', 'static', 'demonstrating', 'flows', 'structure', 'second', 'prescribes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

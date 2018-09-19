@@ -8,6 +8,20 @@
  CFR-2018-title12-vol6.Pt. 516
 
 
+# Summary
+
+(2) All other applicants are encouraged to contact the appropriate Regional Office to determine whether a pre-filing meeting or the submission of a draft business plan or other relevant information would expedite the application review process.
+If you are eligible for expedited treatment under &#167;&#8201;516.5, you may file your application in the form of a notice that includes all information required by the applicable substantive regulation.
+If you want OTS to waive a requirement that you provide certain information with the notice or application, you must include a written waiver request:
+If you are eligible for expedited treatment and you have appropriately filed your notice with OTS, you may engage in the proposed activities upon the expiration of 30 days after the filing date of your notice, unless OTS takes one of the following actions before the expiration of that time period:
+You are not actively pursuing a final OTS determination if you have failed to timely take an action required under this part, including filing required additional information, or OTS has suspended processing of your application under &#167;&#8201;516.260 based on circumstances that are, in whole or in part, within your control and you have failed to take reasonable steps to resolve these circumstances.
+
+
+# Tags
+
+['ots', 'applicant', 'filings', 'requires', 'including', 'period', 'procedure', 'timely', 'information', 'commenter', 'additional', 'requesting', 'review', 'meeting', 'business', 'issues', 'public', 'regulations', 'processes', 'days', 'circumstances', 'regulatory', 'appropriately', 'confidential', 'significant', 'office', 'acts']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                   |

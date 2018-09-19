@@ -8,6 +8,21 @@
  CFR-2018-title12-vol10.Pt. 1237
 
 
+# Summary
+
+The provisions of this part shall apply to the appointment and operations of the Federal Housing Finance Agency (&#8220;Agency&#8221;) as conservator or receiver of a regulated entity.
+(2) In danger of default means, with respect to a regulated entity, the definition under section 1303(8)(B) of the Safety and Soundness Act or applicable FHFA regulations.
+Entity-affiliated party means any party meeting the definition of an entity-affiliated party under section 1303(11) of the Safety and Soundness Act or applicable FHFA regulations.
+Limited-life regulated entity means an entity established by the Agency under section 1367(i) of the Safety and Soundness Act with respect to a Federal Home Loan Bank in default or in danger of default, or with respect to an Enterprise in default or in danger of default.
+The conservator or receiver may enforce any contract entered into by the regulated entity pursuant to the provisions and subject to the restrictions of section 1367(d)(13) of the Safety and Soundness Act.
+The Agency, as conservator, will not pay a Securities Litigation Claim against a regulated entity, except to the extent the Director determines is in the interest of the conservatorship.
+
+
+# Tags
+
+['entity', 'shall', 'including', 'mean', 'capital', 'receiver', 'act', 'authorize', 'liquidity', 'claims', 'lien', 'securities', 'period', 'determines', 'regulations', 'unsecured', 'priority', 'value', 'receivership', 'limitations', 'alternate', 'liabilities']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                      |

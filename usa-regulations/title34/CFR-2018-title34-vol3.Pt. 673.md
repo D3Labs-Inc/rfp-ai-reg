@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 673
 
 
+# Summary
+
+(1) When awarding and disbursing a Federal Perkins loan or an FSEOG or awarding FWS employment to a student, the institution shall take into account those amounts of estimated financial assistance it&#8212;
+(3) The institution may also exclude as estimated financial assistance any portion of a subsidized Federal Stafford or Direct Loan that is equal to or less than the amount of a student's national service education awards or post service benefits paid for the cost of attendance under title I of the National and Community Service Act of 1990 (AmeriCorps).
+(2) If the student's total amount of estimated financial assistance still exceeds his or her need by more than $300, as recalculated pursuant to paragraph (d)(1) of this section, the institution shall cancel any undisbursed loan or grant (other than a Federal Pell Grant).
+(1) Five percent of the first $2,750,000 of the institution's total expenditures to students in that award year under the FWS, FSEOG, and the Federal Perkins Loan programs; plus
+(d) The institution shall not include, when calculating the allowance in paragraph (c) of this section, the amount of loans made under the Federal Perkins Loan Program that it assigns during the award year to the Secretary under section 463(a)(6) of the HEA.
+
+
+# Tags
+
+['institutions', 'educational', 'federal', 'fws', 'program', 'students', 'grants', 'loan', 'services', 'fseog', 'shall', 'awards', 'funds', 'need', 'employment', 'code', 'assisted', 'includes', 'allowance', 'overpayments', 'allocated', 'financial', 'secretary', 'states', 'exceeds', 'providing', 'benefits', 'year', 'iii']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                       |

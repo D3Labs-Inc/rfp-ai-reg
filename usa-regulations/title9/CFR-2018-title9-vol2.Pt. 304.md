@@ -8,6 +8,20 @@
  CFR-2018-title9-vol2.Pt. 304
 
 
+# Summary
+
+No grant of inspection can be issued after April 3, 1970 (the date of enactment of the Water Quality Improvement Act), unless such certification has been obtained, or is waived because of failure or refusal of the State, interstate agency or the Secretary of the Interior to act on a request for certification within a reasonable period (which shall not exceed 1 year after receipt of such request).
+(b) Before being granted Federal inspection, an establishment shall have conducted a hazard analysis and developed and validated a HACCP plan, as required by &#167;&#167;&#8201;417.2 and 417.4 of this chapter.
+A conditional grant of inspection shall be issued for a period not to exceed 90 days, during which period the establishment must validate its HACCP plan.
+(c) Before producing new product for distribution in commerce, an establishment shall have conducted a hazard analysis and developed a HACCP plan applicable to that product in accordance with &#167;&#8201;417.2 of this chapter.
+During a period not to exceed 90 days after the date the new product is produced for distribution in commerce, the establishment shall validate its HACCP plan, in accordance with &#167;&#8201;417.4 of this chapter.
+
+
+# Tags
+
+['shall', 'application', 'grant', 'inspection', 'establishment', 'waters', 'operations', 'period']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                               |

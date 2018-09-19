@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 712
 
 
+# Summary
+
+(i) A less than adequately capitalized FCU, or an FCU that would be rendered less than adequately capitalized by the recapitalization of a CUSO, must obtain prior written approval from the appropriate NCUA regional office if the making of the investment would result in an aggregate cash outlay, measured on a cumulative basis (regardless of how the investment is valued for accounting purposes, but limited to the immediately preceding seven (7) years) in an amount that is in excess of 1% of its paid-in and unimpaired capital and surplus; or
+(3) Provide NCUA, its representatives, and the state supervisory authority having jurisdiction over any FISCU with an outstanding loan to, investment in or contractual agreement for products or services with the CUSO with complete access to any books and records of the CUSO and the ability to review the CUSO's internal controls, as deemed necessary by NCUA or the state supervisory authority in carrying out their respective responsibilities under the Act and the relevant state credit union statute;
+Otherwise, an FCU may invest in, loan to, and/or contract with only those CUSOs that are sufficiently bonded or insured for their specific operations and engaged in the preapproved activities and services related to the routine daily operations of credit unions.
+
+
+# Tags
+
+['service', 'cuso', 'loan', 'credit union', 'invest', 'legally', 'included', 'limited', 'account', 'year financial', 'business', 'corporation', 'state', 'authority', 'ncua', 'fcus', 'means', 'capitalization', 'activities', 'transfers', 'estate', 'audits', 'related', 'fiscu', 'processing', 'separateness', 'cash', 'electronic', 'having', 'provide', 'officer', 'counsel', 'number', 'reasonably', 'check']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                         |

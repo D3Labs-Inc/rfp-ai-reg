@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 645
 
 
+# Summary
+
+An individual is eligible to participate in a Regular, Veterans, or a Math and Science Upward Bound project if the individual meets all of the following requirements:
+(a) Regular Upward Bound projects designed to prepare high school students for programs of postsecondary education.
+(2) May provide a summer bridge component to those Upward Bound participants who have graduated from secondary school and intend to enroll in an institution of higher education in the following fall term.
+(2)(i) If an applicant for a new grant proposes to continue to serve substantially the same target population and schools that the applicant is serving under an expiring project, the Secretary evaluates the applicant's prior experience of high quality service delivery under the expiring Upward Bound project on the basis of the outcome criteria in &#167;&#8201;645.32.
+(2) Uses the approved project objectives for the applicant's expiring Upward Bound grant and the information the applicant submitted in its annual performance reports (APRs) to determine the number of PE points; and
+Whether the applicant met or exceeded its approved objective with regard to participants served during the project year who remained in or completed their Veterans Upward Bound educational program.
+
+
+# Tags
+
+['projects', 'applications', 'participate', 'program', 'educational', 'included', 'schools', 'services', 'students', 'secretary', 'provided', 'scores', 'means', 'points', 'academic', 'funds', 'iii', 'veterans', 'years', 'requirements', 'courses', 'costs', 'follows', 'science', 'states', 'college', 'administrative', 'active', 'individual', 'financial', 'components', 'completion', 'federal grants', 'designated', 'income', 'agency', 'institutions', 'effectively', 'secondary', 'regular', 'persons', 'level', 'bound', 'targets', 'organization', 'reviewed', 'serves', 'plan', 'evaluations', 'language', 'instruction', 'areas', 'similar', 'terms', 'postsecondary', 'needed', 'number']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                     |

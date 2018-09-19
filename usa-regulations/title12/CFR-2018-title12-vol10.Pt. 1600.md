@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1600
 
 
+# Summary
+
+(ii) Designated Agency Ethics Official's Determination: Upon termination of their employment by OFR, such employee would be prohibited, for a period of one year immediately after leaving OFR, from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.
+(ii) Designated Agency Ethics Official's Determination: Upon termination of employment by OFR, such employee would be prohibited, for a period of six months immediately after leaving OFR, from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.
+(i) Fact pattern: OFR employs a researcher and such employee has access only to &#8220;aggregated&#8221; or &#8220;masked&#8221; transaction or position data maintained by the Data Center or other business confidential information about financial entities required to report to OFR.
+(ii) Designated Agency Ethics Official's Determination: Upon termination of their employment by OFR, such employee would not be prohibited from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.
+
+
+# Tags
+
+['data', 'information', 'financial', 'employment', 'company', 'ofr', 'positions', 'includes', 'advantage', 'transactions', 'business', 'example', 'researcher', 'changing', 'masked', 'designated']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                    |

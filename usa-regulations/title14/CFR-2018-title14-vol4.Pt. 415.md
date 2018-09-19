@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 415
 
 
+# Summary
+
+Once licensed, a launch operator must perform a flight safety analysis for each launch using final launch vehicle performance and other data as required by subpart C of part 417 of this chapter and using the analysis methods approved by the FAA through the licensing process.
+An applicant's safety review document must include a ground safety analysis report, and a ground safety plan for its launch processing and post-flight operations as required by this section, &#167;&#8201;417.109 of this chapter, and subpart E of part 417 of this chapter when launching from a launch point in the United States.
+(a) An applicant's safety review document must describe all computing systems and software that perform a safety-critical computer system function for any operation performed during launch processing or flight that could have a hazardous effect on the public as required by &#167;&#8201;417.123 of this chapter.
+An applicant's safety review document must contain a list of the flight termination system installation procedures and a synopsis of the procedures that demonstrates how each of those procedures meet the requirements of section D417.15 of appendix D of part 417 of this chapter.
+
+
+# Tags
+
+['launches', 'flights', 'safety', 'including', 'licenses', 'requirements', 'applicable', 'test', 'operating', 'payload', 'impacts', 'procedures', 'identify', 'orbit', 'data', 'faa', 'hazardous', 'personnel', 'vehicle', 'provided', 'subsystems', 'points', 'environmental', 'policies', 'reviews', 'planned', 'contain', 'shall', 'information', 'proposing', 'component', 'issuing', 'systems', 'publications', 'document', 'range', 'designed', 'site', 'national', 'associated', 'numbering', 'analysis', 'communication', 'following', 'chapter', 'diagrams', 'trajectories', 'compliance']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                             |

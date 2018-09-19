@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 259
 
 
+# Summary
+
+Each covered carrier shall adopt a Contingency Plan for Lengthy Tarmac Delays for its scheduled and public charter flights at each U.S. large hub airport, medium hub airport, small hub airport and non-hub airport at which it operates or markets such air service and shall adhere to its plan's terms.
+(3) For all flights, assurance that the carrier will provide adequate food and potable water no later than two hours after the aircraft leaves the gate (in the case of a departure) or touches down (in the case of an arrival) if the aircraft remains on the tarmac, unless the pilot-in-command determines that safety or security considerations preclude such service;
+A carrier's failure to comply with the assurances required by this rule and contained in its Contingency Plan for Lengthy Tarmac Delays will be considered to be an unfair and deceptive practice within the meaning of 49 U.S.C. 41712 that is subject to enforcement action by the Department.
+(a) Each U.S. air carrier that has a website and each foreign air carrier that has a website marketed to U.S. consumers, and that is required to adopt a contingency plan for lengthy tarmac delays, shall post its current contingency plan on its website in easily accessible form.
+
+
+# Tags
+
+['passengers', 'shall', 'flights', 'carriers', 'including', 'airports', 'delays', 'written', 'plan', 'services', 'aircraft', 'consumer', 'air', 'refunds', 'operating', 'information', 'notify', 'scheduled', 'customs', 'reservation', 'states', 'cancellations', 'boardings', 'responsibility', 'designed', 'security', 'seats']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                             |

@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 141
 
 
+# Summary
+
+(2) A pilot school may have its school certificate and ratings renewed for an additional 24 calendar months if the Administrator determines the school's personnel, aircraft, facility and airport, approved training courses, training records, and recent training ability and quality meet the requirements of this part.
+(1) Each applicant must have adequate personnel, including certificated flight instructors, certificated ground instructors, or holders of a commercial pilot certificate with a lighter-than-air rating, and a chief instructor for each approved course of training who is qualified and competent to perform the duties to which that instructor is assigned.
+(d) A pilot school may request and receive initial approval for a period of not more than 24 calendar months for any training course under this part that does not meet the minimum ground and flight training time requirements, provided the following provisions are met:
+A pilot school that holds examining authority may recommend a person who graduated from its course for the appropriate pilot, flight instructor, or ground instructor certificate or rating without taking the FAA knowledge test or practical test in accordance with the provisions of this subpart.
+
+
+# Tags
+
+['train', 'courses', 'flights', 'certificate', 'requirements', 'instructors', 'operations', 'pilot school', 'rate', 'tests', 'aircraft category', 'students', 'approved', 'applicable', 'aviation', 'provided', 'ground', 'based', 'iii', 'following', 'including', 'recorder', 'persons', 'appropriate', 'faa', 'meets', 'practice', 'areas', 'instrument', 'drugs', 'conducted', 'standard', 'business', 'officers', 'lighting', 'mean', 'control', 'checks', 'direction', 'receive', 'adequate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                              |

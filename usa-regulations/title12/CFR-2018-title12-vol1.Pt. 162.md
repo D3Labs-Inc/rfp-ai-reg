@@ -8,6 +8,16 @@
  CFR-2018-title12-vol1.Pt. 162
 
 
+# Summary
+
+
+
+
+# Tags
+
+['regulation']
+
+
 # Structured Analysis Summary
 
 | Type      | Values             |

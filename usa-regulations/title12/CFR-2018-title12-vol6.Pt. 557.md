@@ -8,6 +8,22 @@
  CFR-2018-title12-vol6.Pt. 557
 
 
+# Summary
+
+If you are a federal savings association, subpart B of this part applies to your deposit activities.
+Subpart C of this part applies to the deposit activities of all federal and state-chartered savings associations.
+(a) Under sections 4(a), 5(a), and 5(b) of the HOLA, 12 U.S.C. 1463(a), 1464(a), and 1464(b), OTS is authorized to promulgate regulations that preempt state laws affecting the operations of federal savings associations when appropriate to:
+(b) To further these purposes without undue regulatory duplication and burden, OTS hereby occupies the entire field of federal savings associations' deposit-related regulations.
+Federal savings associations may exercise deposit-related powers as authorized under federal law, including this part, without regard to state laws purporting to regulate or otherwise affect deposit activities, except to the extent provided in &#167;&#8201;557.13.
+(a) The OTS has not preempted the following types of state law, to the extent that the law only incidentally affects your deposit-related activities or is otherwise consistent with the purposes of &#167;&#8201;557.11:
+All federal and state chartered savings associations (&#8220;you&#8221;) should establish and maintain deposit documentation practices and records that demonstrate that you appropriately administer and monitor deposit-related activities.
+
+
+# Tags
+
+['law', 'deposit', 'states', 'accounts', 'requirements', 'regulate', 'federal', 'savings', 'association', 'evidence']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                     |

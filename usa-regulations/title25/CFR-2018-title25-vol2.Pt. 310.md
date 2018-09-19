@@ -8,6 +8,23 @@
  CFR-2018-title25-vol2.Pt. 310
 
 
+# Summary
+
+Government marks of genuineness for Alaskan Indian hand-made products may be affixed to articles meeting the conditions specified in &#167;&#8201;310.3 by persons duly authorized by the Indian Arts and Crafts Board to affix such marks.
+No article may carry the Government mark of genuineness for Alaskan Indian hand-made products unless all of the following conditions are met:
+Government marks of genuineness for Alaskan Eskimo hand-made products may be affixed to articles meeting the conditions specified in &#167;&#8201;310.6 by persons duly authorized by the Indian Arts and Crafts Board to affix such marks.
+No article may carry the Government mark of genuineness for Alaskan Eskimo hand-made products unless all of the following conditions are met:
+(3) Tops for mukluks made of commercial fabric.
+All marks shall be applied to the article with a rubber stamp to be furnished by the Indian Arts and Crafts Board.
+All marks shall be applied to the article with a rubber stamp to be furnished by the Indian Arts and Crafts Board.
+On baskets and fabrics which offer no surface for the application of such a rubber stamp, the stamp shall be placed on a paper tag attached to the article by a wire caught in a lead seal disc that shall be impressed and made fast with a hand seal press furnished by the Indian Arts and Crafts Board.
+
+
+# Tags
+
+['seal', 'shall', 'marks', 'commercial', 'conditions', 'penalties', 'tag']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                    |

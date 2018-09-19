@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 8
 
 
+# Summary
+
+(a) Each national bank and each Federal savings association shall pay to the Comptroller of the Currency a semiannual assessment fee, due by March 31 and September 30 of each year, for the six-month period beginning on January 1 and July 1 before each payment date.
+The Comptroller of the Currency will calculate the amount due under this section and provide a notice of assessments to each national bank and each Federal savings association no later than 7 business days prior to collection on March 31 and September 30 of each year.
+Subject to any limit that the OCC prescribes in the &#8220;Notice of Comptroller of the Currency Fees,&#8221; the OCC shall adjust the semiannual assessment computed in accordance with paragraphs (c)(1)(i) and (ii) of this section by multiplying that figure by 1.5 for each independent trust bank and independent trust Federal savings association that receives a composite rating of 3 under the Uniform Financial Institutions Rating System (UFIRS) at its most recent examination and by 2.0 for each bank that receives a composite UFIRS rating of 4 or 5 at such examination.
+
+
+# Tags
+
+['assessed', 'assets', 'bank', 'rating', 'fees', 'associations', 'shall', 'days', 'federal', 'payment', 'preceding', 'activities', 'institutions', 'examined', 'occ', 'notices', 'reports', 'receivables', 'trust', 'forms', 'risk', 'independent']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                             |

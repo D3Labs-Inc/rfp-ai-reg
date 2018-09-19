@@ -8,6 +8,22 @@
  CFR-2018-title25-vol2.Pt. 556
 
 
+# Summary
+
+(a) A tribe shall place the following notice on the application form for a key employee or a primary management official before that form is filled out by an applicant:
+(a) A tribe shall place the following notice on the application form for a key employee or a primary management official before that form is filled out by an applicant:
+A tribe shall perform a background investigation for each primary management official and for each key employee of a gaming operation.
+(b) If, in the course of a background investigation, a tribe discovers that the applicant has a notice of results on file with the NIGC from a prior investigation and the tribe has access to the earlier investigative materials (either through the NIGC or the previous tribal investigative body), the tribe may rely on those materials and update the investigation and investigative report under &#167;&#8201;556.6(b)(1).
+(a) To make a finding concerning the eligibility of a key employee or primary management official for granting of a gaming license, an authorized tribal official shall review a person's:
+(a) When a tribe employs a primary management official or a key employee, the tribe shall maintain a complete application file containing the information listed under &#167;&#8201;556.4(a)(1) through (14).
+(b) Before issuing a license to a primary management official or to a key employee, a tribe shall:
+
+
+# Tags
+
+['shall', 'tribe', 'investigative', 'application', 'tribal', 'including', 'ordinances', 'notice', 'gaming', 'iii', 'official', 'criminal', 'charges', 'licenses', 'position', 'personal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                            |

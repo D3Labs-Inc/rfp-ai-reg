@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 83
 
 
+# Summary
+
+(2) Take actions concerning employees who are convicted of violating drug statutes in the workplace (see &#167;&#8201;83.225).
+(2) Require the employee to participate satisfactorily in a drug abuse assistance or rehabilitation program approved for these purposes by a Federal, State or local health, law enforcement, or other appropriate agency.
+Award means an award of financial assistance by the Department of Justice or other Federal agency directly to a recipient.
+Cooperative agreement means an award of financial assistance that, consistent with 31 U.S.C. 6305, is used to enter into the same kind of relationship as a grant (see definition of grant in &#167;&#8201;83.650), except that substantial involvement is expected between the Federal agency and the recipient when carrying out the activity contemplated by the award.
+Drug-free workplace means a site for the performance of work done in connection with a specific award at which employees of the recipient are prohibited from engaging in the unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance.
+A recipient so prohibited is suspended, in accordance with the Federal Acquisition Regulation for procurement contracts (48 CFR part 9, subpart 9.4) and the common rule, Government-wide Debarment and Suspension (Nonprocurement), that implements Executive Order 12549 and Executive Order 12689.
+
+
+# Tags
+
+['award', 'workplaces', 'federal', 'including', 'means', 'drug', 'state', 'government', 'employees', 'actions', 'assistance', 'require', 'executive', 'authority', 'agency', 'dispensing', 'programs', 'statutes', 'recipient', 'direct', 'faith', 'purpose']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                               |

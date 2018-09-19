@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 363
 
 
+# Summary
+
+(2) Subject to the criteria specified in &#167;&#8201;363.1(b), each insured depository institution with consolidated total assets of less than $1 billion as of the beginning of its fiscal year that is required to file, or whose parent holding company is required to file, management's assessment of the effectiveness of internal control over financial reporting with the SEC or the appropriate Federal banking agency in accordance with section 404 of SOX must submit a copy of such assessment to the FDIC, the appropriate Federal banking agency, and any appropriate State bank supervisor with its Part 363 Annual Report as additional information.
+(3) For institutions with total assets of less than $1 billion as of the beginning of their fiscal year that are public companies or subsidiaries of public companies that meet the criterion specified in &#167;&#8201;363.1(b)(1), any independent public accountant's report on the audit of internal control over financial reporting required by section 404 of SOX and the PCAOB's auditing standards; and
+(4) For all institutions that are public companies or subsidiaries of public companies that meet the criterion specified in &#167;&#8201;363.1(b)(1), any independent public accountant's written communication of all deficiencies in internal control over financial reporting that are of a lesser magnitude than significant deficiencies required by the PCAOB's auditing standards.
+
+
+# Tags
+
+['report', 'shall', 'institutions', 'including', 'officers', 'accepted accounting', 'required', 'management', 'audits', 'public', 'financial', 'controls', 'companies', 'filing', 'means', 'insurance', 'related', 'outside', 'annually', 'appropriate', 'banking', 'material', 'standards']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                             |

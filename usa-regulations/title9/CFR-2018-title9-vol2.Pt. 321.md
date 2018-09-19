@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 321
 
 
+# Summary
+
+(a) The Administrator is authorized under paragraph (a) of section 301 of the Act, when he determines it would effectuate the purposes of the Act, to cooperate with any State (including Puerto Rico) or any organized Territory in developing and administering the meat inspection program of such jurisdiction with a view to assuring that it imposes and enforces requirements at least equal to those under Titles I and IV of the Act, with respect to establishments at which products are prepared for use as human food solely for distribution within such jurisdiction, and with respect to the products of such establishments.
+(a) The Administrator is authorized under 21 U.S.C. 683(b) to coordinate with States that have meat inspection programs as provided in &#167;&#8201;321.1 of this part to select certain establishments operating under these programs to participate in a cooperative program to ship carcasses, parts of carcasses, meat, and meat food products in interstate commerce.
+(b) Establishments selected to participate in a cooperative interstate shipment program described in this section must receive inspection services from designated State personnel that have been trained in the enforcement of the Act. If the designated personnel determine that the carcasses, parts of carcasses, meat, and meat food products prepared in establishments selected to participate in the cooperative interstate shipment program comply with all requirements under the Act, these items will bear an official Federal mark of inspection and may be shipped in interstate commerce.
+
+
+# Tags
+
+['federal', 'programs', 'state', 'meat inspection', 'establishment', 'food', 'assistance', 'livestock']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                    |

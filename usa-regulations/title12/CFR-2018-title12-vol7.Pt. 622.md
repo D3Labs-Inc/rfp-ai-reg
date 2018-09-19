@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 622
 
 
+# Summary
+
+Within 30 days after the expiration of time allowed under paragraph (a) of this section, or within such further time as the Board for good cause allows, the presiding officer shall file the entire hearing record, including a recommended decision and findings and conclusions, the transcript, exhibits (including on request of any of the parties any exhibits excluded from evidence or tender of proof), exceptions, rulings and all briefs and memoranda filed in connection with the hearing.
+Unless otherwise ordered by the Board or required by law, the entire record in any proceeding under this subpart, including the notice of hearing, transcript, exhibits, proposed findings and conclusions, recommended decision of the presiding officer, exceptions thereto, decision and order of the Board, and any other papers which are filed in connection with the proceeding shall not be made public, and shall be for the confidential use only of the FCA and its staff, the presiding officer, the parties, and other appropriate supervisory authorities.
+Any person to whom a subpoena is directed may, prior to the time specified therein for compliance, but in no event more than 5 days after the date of service of such subpoena, apply to the FCA representative authorized in the order, or if unavailable to the Board, to quash or modify such subpoena, accompanying such application with a brief statement of the reasons therefor.
+
+
+# Tags
+
+['shall file', 'hearing', 'ordered', 'persons', 'parties', 'board', 'times', 'services', 'issues', 'noticed', 'state', 'included', 'written', 'office', 'testimony', 'rulings', 'recorded', 'answered', 'setting', 'represented', 'briefs', 'acts', 'authority', 'matters', 'evidence', 'subpoenas', 'appropriate', 'information', 'require', 'penalty', 'fca', 'decisions', 'relevance', 'institutions', 'proceeding', 'oral', 'investigation', 'means', 'court', 'transcripts', 'constituting', 'prior', 'stipulated', 'specify']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

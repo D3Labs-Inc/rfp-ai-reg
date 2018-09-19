@@ -8,6 +8,18 @@
  CFR-2018-title34-vol1.Pt. 101
 
 
+# Summary
+
+In any case where it appears from the respondent's answer to the notice of hearing or opportunity for hearing, from his failure timely to answer, or from his admissions or stipulations in the record, that there are no matters of material fact in dispute, the reviewing authority or presiding officer may enter an order so finding, vacating the hearing date if one has been set, and fixing the time for filing briefs under &#167;&#8201;101.101.
+Each of the matters of which an admission is requested shall be deemed admitted, unless within a period designated in the request (not less than 10 days after service thereof, or within such further time as the presiding officer or the reviewing authority if no presiding officer has yet been designated may allow upon motion and notice) the party to whom the request is directed serves upon the requesting party a sworn statement either denying specifically the matters of which an admission is requested or setting forth in detail the reasons why he cannot truthfully either admit or deny such matters.
+A prohibited communication in writing received by the Secretary, the reviewing authority, or by the presiding officer, shall be made public by placing it in the correspondence file of the docket in the case and will not be considered as part of the record for decision.
+
+
+# Tags
+
+['shall', 'decisions', 'hearing', 'times', 'office', 'file', 'briefs', 'documents', 'parties', 'authorize', 'state', 'requested', 'proceedings', 'matters', 'oral', 'motion', 'persons', 'evidence', 'issues', 'testimony', 'action', 'prior', 'excepted', 'mailing', 'communications', 'notices', 'response', 'written', 'examination', 'order', 'procedural', 'reviewing', 'date', 'exhibit', 'acting', 'petitions', 'proposed', 'service', 'served', 'material', 'official', 'includes', 'period']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                  |

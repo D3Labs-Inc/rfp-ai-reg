@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 105
 
 
+# Summary
+
+Therefore, after providing the required notification to the Attorney General as described in this subpart, the Provider may begin instruction of a candidate if the Attorney General has informed the Provider that the Attorney General has determined as a result of the risk assessment conducted pursuant to section 113 of ATSA that providing the training does not present a risk to aviation or national security.
+(a) A Provider must submit a complete Flight Training Candidate Checks Program (FTCCP) form and arrange for the submission of fingerprints to the Department in accordance with this section prior to providing flight training, except with respect to persons whom the Provider has determined, as provided in &#167;&#8201;105.11 of this part, are not subject to a security risk assessment.
+Section 6402 authorizes a fingerprint-based criminal history check of state and national criminal history records to screen prospective and current private security officers, and section 6402(d)(2) requires the Attorney General to publish regulations to provide for the &#8220;security, confidentiality, accuracy, use, submission, dissemination, destruction of information and audits, and record keeping&#8221; of the CHRI and related information, standards for qualifying an authorized employer, and the imposition of fees.
+(a) Authorized employer means any person that employs private security officers and is authorized by the regulations in this subpart to request a criminal history record information search of an employee through a state identification bureau.
+
+
+# Tags
+
+['state', 'trained', 'provides', 'information', 'candidate', 'certification', 'included', 'secure', 'means', 'fingerprint', 'check', 'criminal', 'notification', 'shall', 'authorizing', 'employee', 'record', 'issuing', 'submission', 'request', 'individual', 'act', 'persons', 'require', 'processed', 'nationals', 'agencies', 'pursuant', 'fee', 'flight', 'department', 'foreign', 'law', 'identification', 'federal', 'employment', 'seal', 'aircraft', 'specific', 'receive', 'access', 'standard', 'rate', 'applicable']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                     |

@@ -8,6 +8,25 @@
  CFR-2018-title34-vol3.Pt. 402
 
 
+# Summary
+
+The Native Hawaiian Vocational Education Program provides financial assistance to projects that provide vocational training and related activities for the benefit of native Hawaiians.
+The Secretary provides assistance through grants, contracts, or cooperative agreements to plan, conduct, and administer programs, or portions of programs, that provide vocational training and related activities for the benefit of native Hawaiians.
+The following regulations apply to the Native Hawaiian Vocational Education Program:
+The following definitions apply to the Native Hawaiian Vocational Education Program:
+The Secretary uses the following selection criteria to evaluate an application:
+(2) The proposed program is designed to meet the identified vocational education needs of native Hawaiians;
+(3) The application proposes an effective plan for coordination with the office of the Hawaii State director for vocational education; and
+(25 points) The Secretary reviews each application to determine the quality of the management plan for the project, including&#8212;
+(1) The Secretary reviews each application to determine the quality of key personnel the applicant plans to use on the project, including&#8212;
+(2) The Secretary reviews each application to determine whether, for any training programs proposed&#8212;
+
+
+# Tags
+
+['programs', 'includes', 'evaluates', 'plan', 'secretary', 'points', 'proposes', 'applicable', 'vocational', 'provides', 'personnel', 'projects', 'job', 'state']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                |

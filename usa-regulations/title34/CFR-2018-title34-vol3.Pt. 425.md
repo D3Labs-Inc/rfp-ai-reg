@@ -8,6 +8,23 @@
  CFR-2018-title34-vol3.Pt. 425
 
 
+# Summary
+
+(a) The Secretary provides grants or cooperative agreements to projects that develop, implement, and operate programs using different models of curricula that integrate vocational and academic learning by&#8212;
+The following regulations apply to the Demonstration Projects for the Integration of Vocational and Academic Learning Program:
+(15 points) The Secretary reviews each application to determine the quality of the plan of operation for the project, including&#8212;
+(15 points) The Secretary reviews each application to determine the quality of the project's evaluation plan, including the extent to which the plan&#8212;
+(10 points) The Secretary reviews each application for information to determine the effectiveness and efficiency of the plan for demonstrating and disseminating information about project activities and results throughout the project period, including&#8212;
+(10 points) (1) The Secretary reviews each application to determine the quality of key personnel the applicant plans to use on the project, including&#8212;
+(5 points) (1) The Secretary reviews each application to determine the extent to which the applicant plans to devote adequate resources to the project.
+(f) A summary of evaluation activities and results that can be reviewed by the Department's Program Effectiveness Panel, as defined in 34 CFR 400.4(b), must be submitted to the Secretary during the last year of the project period.
+
+
+# Tags
+
+['projects', 'include', 'educational', 'points', 'providing', 'program', 'evaluating', 'nation', 'secretary', 'vocational', 'plan', 'schools', 'employment', 'individuals', 'possible', 'activities', 'integration', 'iii', 'federal', 'effectiveness', 'applications', 'approaches', 'apply']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                        |

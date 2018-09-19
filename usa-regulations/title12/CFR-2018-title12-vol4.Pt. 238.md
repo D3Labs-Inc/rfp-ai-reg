@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 238
 
 
+# Summary
+
+(1) The following acquisitions of voting securities of a savings and loan holding company, which would otherwise require prior notice under this subpart, are not subject to the prior notice requirements if the acquiring person notifies the appropriate Reserve Bank within 90 calendar days after the acquisition and provides any relevant information requested by the Reserve Bank:
+A savings and loan holding company seeking to acquire or control voting securities or assets of a company engaged in a service or activity pursuant to this section, shall file a notice containing the following:
+An election filed under paragraph (e)(3)(i) of this section is effective on the 61st calendar day after the date that a complete declaration was filed with the appropriate Reserve Bank, unless the Board notifies the savings and loan holding company prior to that time that the election is ineffective.
+(2) For purposes of section 202(3)(B) of the Interlocks Act (12 U.S.C. 3201(3)(B)), an affiliate relationship involving a savings and loan holding company based on common ownership does not exist if the Board determines, after giving the affected persons the opportunity to respond, that the asserted affiliation was established in order to avoid the prohibitions of the Interlocks Act and does not represent a true commonality of interest between the depository organizations.
+
+
+# Tags
+
+['shall', 'company', 'banks', 'board', 'includes', 'means', 'applicable', 'notice', 'acting', 'controlled', 'requires', 'personally', 'savings', 'institution', 'managed', 'associated', 'loans', 'activities', 'state', 'officers', 'pursuant', 'securities', 'laws', 'informational', 'financial', 'periods', 'section', 'capitalized', 'issue', 'action', 'acquisition', 'publication', 'affiliates', 'follows', 'providing', 'iii', 'proceeding', 'holds', 'federal', 'authorities', 'stock', 'transaction', 'business', 'acquire', 'service', 'hearing', 'assets', 'corporations', 'agreements', 'conducting', 'organizations', 'filings', 'prior', 'day', 'solely', 'additions', 'individuals', 'thereof', 'witness', 'subsidiaries', 'ordered', 'approved', 'competition', 'exempt', 'homes', 'involvement', 'written', 'appropriate', 'directors', 'limitations', 'record', 'requesting', 'procedure', 'insured', 'convicted', 'depositions', 'immediate', 'described', 'factor', 'prohibited', 'report', 'purchasing', 'propose', 'policies', 'dividends', 'depository', 'regulated', 'statement', 'set', 'determine', 'timely', 'qualify', 'audit', 'effect', 'supervisory', 'votes', 'regulatory', 'area', 'debt']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

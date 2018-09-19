@@ -8,6 +8,21 @@
  CFR-2018-title25-vol1.Pt. 36
 
 
+# Summary
+
+(4) Schools exceeding these specific staffing ratios for over 30 consecutive days during one school year shall submit a justification for a request for a waiver to the Director, through the Agency Superintendent for Education or Area Education Programs Administrator, as appropriate, which may be approved for a period not to exceed one school year and for the following reasons:
+(c) Each school shall involve staff and provide the opportunity for involvement by the tribal community in planning programs, objectives, and activities which meet student/teacher needs.
+(c) All intraschool programs (e.g., library, instructional labs, physical education, music, etc.) which are directly related to or affect student instruction shall provide services from the beginning of the school term through the final class period at the close of the school term.
+One unit shall be required of each student in the junior high/middle school instructional program.
+One unit shall be required of each student in the junior high/middle school instructional program.
+Within 30 days of the onsite visit, the Agency Superintendent for Education or Area Education Programs Administrator, as appropriate, shall issue to the local school supervisor and local school board a written report summarizing the findings and ordering, as necessary, required actions to correct noted deficiencies.
+
+
+# Tags
+
+['school', 'shall', 'students', 'programs', 'requirements', 'means', 'services', 'basic education', 'include', 'instruction', 'minimum academic standards', 'activity', 'evaluation', 'skill', 'followed', 'provided', 'health', 'policies', 'assessment', 'physics', 'homeliving', 'annually', 'written', 'developed', 'days', 'behavior', 'grade', 'agency', 'years', 'areas', 'procedure', 'units', 'objects', 'parents', 'staff', 'socialization', 'administrative', 'indians', 'states', 'materials', 'boards', 'personal', 'studies', 'reports', 'science', 'professional', 'operation', 'teacher', 'residential', 'classes', 'planned', 'base', 'appropriate', 'counseling', 'level', 'test', 'abilities', 'career', 'tribally', 'setting', 'culture', 'time', 'tribes', 'alternate', 'library', 'current', 'result', 'available', 'arts', 'responsibility', 'handbook', 'nation', 'local', 'circumstances', 'enrolling', 'establishing', 'related', 'informational', 'need']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

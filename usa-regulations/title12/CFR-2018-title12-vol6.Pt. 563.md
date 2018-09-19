@@ -8,6 +8,20 @@
  CFR-2018-title12-vol6.Pt. 563
 
 
+# Summary
+
+(2) A savings association that does not meet the conditions for expedited treatment under &#167;&#8201;516.5 of this chapter may not, directly or indirectly, convert to a national or state bank without prior application to and approval of OTS, as provided in paragraph (h)(2)(ii) of this section.
+Each savings association or service corporation maintaining a plan not subject to recordkeeping and reporting requirements of the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code of 1954, as amended, shall establish and maintain records containing the following:
+Following the date of the approval of the application by the Office, the association shall have an offering period of not more than one year in which to complete the sale of the mutual capital certificates issued pursuant to this section.
+(1) Unless the savings association meets its capital requirement under part 567 of this chapter, it shall, at least ten business days prior to issuance, file with the Regional Director or his or her designee a notice of intent to issue securities evidencing such borrowings.
+An employee of a savings association who is a mortgage loan originator must complete an initial registration with the Registry pursuant to this subpart within 180 days from the date that the OTS provides in a public notice that the Registry is accepting registrations.
+
+
+# Tags
+
+['shall', 'associated', 'require', 'office', 'includes', 'ots', 'provided', 'securities', 'financial', 'saving', 'inform', 'means', 'employee', 'corporations', 'mortgage', 'acts', 'applicant', 'authorization', 'period', 'iii', 'following', 'services', 'transaction', 'institutions', 'action', 'capitalized', 'relating', 'pursuant', 'approved', 'reportable', 'notices', 'accounting', 'activities', 'federally', 'bank', 'files', 'loans', 'forms', 'certification', 'directors', 'plans', 'issuing', 'regulators', 'condition', 'prior', 'stated', 'lawful', 'terms', 'business', 'offering', 'appropriate', 'involving potential', 'violated', 'written', 'sections', 'right', 'person', 'effected', 'supervisory', 'registrant', 'additional', 'materials', 'document', 'deposit', 'established', 'identified', 'procedures', 'insured', 'operating', 'records', 'times', 'compliance', 'prohibits', 'transferring', 'chapter', 'certain', 'rate', 'affiliated', 'distribution', 'sar', 'enforcement', 'agreement', 'day', 'maintained', 'bonds', 'statements', 'borrowers', 'home', 'assets', 'participating']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                    |

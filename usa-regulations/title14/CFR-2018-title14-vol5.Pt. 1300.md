@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1300
 
 
+# Summary
+
+(g) Borrower means an &#8220;Obligor,&#8221; as defined in Section 102(a)(4) of the Act, and includes an air carrier that is primarily liable for payment of the principal of and interest on a Federal credit instrument, which party may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
+(h) Federal credit instrument, as defined in Section 107(2) of the Act, means any guarantee or other pledge by the Board issued under the program to pledge the full faith and credit of the United States to pay all or part of any of the principal of and interest on a loan issued by a borrower and funded by a lender.
+(k) Lender means any non-Federal qualified institutional buyer, as defined in Section 102(a)(3) of the Act, that funds a financial obligation subject to a guarantee issued by the Board.
+(a) In accordance with section 102(c)(1) of the Act, the Board may enter into agreements with one or more borrowers to issue Federal credit instruments only if the Board determines, in its discretion and in accordance with the minimum requirements set forth in this part, that&#8212;
+
+
+# Tags
+
+['applications', 'financial', 'loan', 'shall', 'guarantee', 'include', 'lender', 'board', 'borrowers', 'required', 'mean', 'debts', 'approved', 'federal', 'act', 'securing', 'instrument', 'issued', 'operating', 'entity', 'obligations', 'plans', 'appraisals', 'years', 'carriers', 'standard', 'certified', 'current', 'participations', 'eligible', 'reasonably', 'evaluation', 'agreement', 'omb', 'provide', 'government', 'documents']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                 |

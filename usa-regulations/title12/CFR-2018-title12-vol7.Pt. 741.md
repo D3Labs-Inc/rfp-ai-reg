@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 741
 
 
+# Summary
+
+(ii) Section 202(d)(3) of the Act (12 U.S.C. 1782(d)(3)) provides, generally, that no insured credit union shall pay any dividends on its insured shares or distribute any of its assets while it remains in default in the payment of its deposit or any premium charge due to the fund.
+Any credit union which is insured pursuant to title II of the Act and is permitted by state law to accept nonmember shares or deposits from sources other than other credit unions and public units (or, for low-income designated credit unions, any nonmembers), shall identify such nonmember accounts as nonmember shares or deposits on any statement or report required by the NCUA Board for insurance purposes.
+(b) Any credit union insured pursuant to Title II of the Act that has assets of $50 million or more must establish and document a contingency funding plan (CFP) that meets the requirements of paragraph (d) of this section.
+(c) Receive secondary capital accounts only if the credit has a low-income designation pursuant to paragraph (b) of this section, and then only in accordance with the terms and conditions authorized for Federal credit unions pursuant to &#167;&#8201;701.34(b)(1) of this chapter and to the extent not inconsistent with applicable state law and regulation.
+
+
+# Tags
+
+['loans', 'includes', 'state', 'accountants', 'unions federally', 'require', 'shall', 'insurability', 'chapter', 'credit', 'ncua', 'liquidity', 'share', 'manage', 'investment', 'ncusif', 'meaning', 'written', 'reports', 'deposit', 'funds', 'institutions', 'provides', 'authorize', 'concerning', 'reserves', 'operating', 'financial condition', 'period', 'following', 'risk policy', 'act', 'board', 'net', 'approved', 'merger', 'capitalized', 'applicant', 'branching', 'members', 'premium', 'based', 'ratio', 'corporate', 'plan', 'chartered', 'asset', 'borrow', 'transfer', 'regulations', 'security']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                       |

@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 311
 
 
+# Summary
+
+(b) Carcasses of cattle, including their detached organs and other parts, found on post-mortem inspection to be affected with anasarca to a lesser extent than as described in paragraph (a) of this section may be passed for human food after removal and condemnation of the affected tissues, provided the lesion is localized.
+Anaplasmosis, anthrax, babesiosis, bacillary hemoglobinuria in cattle, blackleg, bluetongue, hemorrhagic septicemia, icterohematuria in sheep, infectious bovine rhinotracheitis, leptospirosis, malignant epizootic catarrh, strangles, purpura hemorrhagica, azoturia, infectious equine encephalomyelitis, toxic encephalomyelitis (forage poisoning), infectious anemia (swamp fever), dourine, acute influenza, generalized osteoporosis, glanders (farcy), acute inflammatory lameness, extensive fistula, and unhealed vaccine lesions.
+(2) Carcasses of cattle showing one or more tapeworm lesions of cysticercus bovis but not so extensive as indicated in paragraph (a)(1) of this section, as determined by a careful examination, including examination of, but not limited to, the heart, diaphragm and its pillars, muscles of mastication, esophagus, tongue, and musculature exposed during normal dressing operations, may be passed for human food after removal and condemnation of the lesions with surrounding tissues: Provided, That the carcasses, appropriately identified by retained tags, are held in cold storage under positive control of a USDA Food Inspector at a temperature not higher than 15 &#176;F.
+
+
+# Tags
+
+['shall', 'carcass', 'lesion', 'condition', 'condemned', 'affected', 'inspection', 'shows', 'generalization', 'tissue', 'cattle', 'organs', 'food', 'liver', 'meat', 'lymph', 'acute', 'localized', 'nodes', 'diseased', 'sheep', 'extensive', 'normal', 'portions', 'products', 'livestock', 'swine', 'traumatic', 'water', 'equines', 'cysts', 'muscular', 'tapeworms', 'parts', 'hemorrhagic', 'infectious', 'tuberculosis', 'odor', 'section', 'provided', 'muscles', 'mortem', 'includes', 'demodex', 'follows', 'inflammation', 'services', 'septicemia', 'exposing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                    |

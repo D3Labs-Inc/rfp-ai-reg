@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 398
 
 
+# Summary
+
+(2) In Alaska or when the nearest large or medium hub is more than 400 miles from the eligible place, the Department may instead require service to a small hub or nonhub.
+(a) The number of seats guaranteed at the eligible place will be sufficient to accommodate the estimated passenger traffic at an average load factor of 60 percent, except that an average load factor of 50 percent will be used when service is provided with aircraft having fewer than 15 passenger seats.
+(b) Only under unusual circumstances will an eligible place's essential air service level be set at a number of flights that will accommodate more than 40 passengers a day in each direction (a total of 80 inbound and outbound passengers).
+To qualify as essential air service, flights must depart at reasonable times, considering the needs of passengers with connecting flights at the hub.
+(a) Except in Alaska, no more than one intermediate stop is permitted in providing essential air service between the eligible place and its hub, unless otherwise agreed to with the community.
+(d) The eligible place is a place in Alaska for which the Department's essential air service determination permits the overflight.
+
+
+# Tags
+
+['hub', 'traffic', 'place', 'essential air service', 'passengers', 'flight', 'aircraft', 'airports', 'providing', 'states', 'factor', 'guarantee', 'level', 'community', 'appropriations', 'require']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                    |

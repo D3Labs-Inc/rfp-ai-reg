@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 1500
 
 
+# Summary
+
+Under the authority listed above the Environmental Protection Agency adopts the Office of Management and Budget (OMB) guidance Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards to Non-Federal Entities (subparts A through F of 2 CFR part 200), as supplemented by this part, as the Environmental Protection Agency (EPA) policies and procedures for financial assistance administration.
+Request for Review is the letter an Affected Entity submits to the designated Review Official to challenge the DDO's Appeal decision.
+The Affected Entity must submit the Appeal electronically via email to the DDO, with a copy to the AO, using the email addresses specified in the Agency Decision within the 30-day period stated in paragraph (a) of this section.
+(2) If the Appeal decision was issued by a DDO located in an agency Regional Office, the request for review must be electronically submitted to the Regional Administrator, or designee, at the email address identified in the Appeal decision, with a copy to the DDO.
+(1) The Affected Entity provides new information in the request for review that was not available to the DDO for the Appeal decision; and
+
+
+# Tags
+
+['epa', 'awards', 'required', 'agency', 'decision', 'appealing', 'reviewable', 'official', 'recipients', 'agreement', 'assistance', 'include', 'ddo', 'cost', 'dispute', 'entity', 'approved', 'provide', 'environmental', 'program', 'quality', 'rate', 'design', 'national', 'federal', 'funding', 'submit', 'notice', 'relating', 'information', 'electronic']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                          |

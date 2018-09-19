@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 171
 
 
+# Summary
+
+Annual operation and maintenance assessment means the charges you must pay us for our costs of administration, operation, maintenance, and rehabilitation of the irrigation facility servicing your farm unit.
+Annual operation and maintenance assessment rate means the per acre charge we establish for the irrigation facility servicing your farm unit.
+Incentive Agreement means a written agreement between you and us that allows us to waive your annual operation and maintenance assessment, when you agree to improve idle lands and we determine that it is in the best interest of our irrigation facility.
+How does BIA determine the annual operation and maintenance assessment rate for the irrigation facility servicing my farm unit?
+How does BIA calculate my annual operation and maintenance assessment if supplemental water is available on the irrigation facility servicing my farm unit?
+(b) If we determine that carrying water in accordance with paragraph (a) of this section is jeopardizing our ability to provide irrigation service to the lands we are required to serve, we will terminate the Agreement.
+You do not have to pay your annual operation and maintenance assessment for your land(s) within the service area of your irrigation facility when:
+
+
+# Tags
+
+['irrigable', 'mean', 'water', 'cost', 'assess', 'bia', 'facilities', 'projects', 'operation', 'collecting', 'united', 'annually', 'services', 'established', 'acres', 'including', 'number', 'land', 'authority', 'organizations', 'information', 'gpo', 'publications', 'use', 'farm', 'charged', 'providing', 'requests', 'rate', 'customer', 'improvements', 'office', 'fund', 'written', 'plans', 'structures']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

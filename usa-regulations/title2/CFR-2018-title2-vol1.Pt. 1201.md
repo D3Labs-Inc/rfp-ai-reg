@@ -8,6 +8,21 @@
  CFR-2018-title2-vol1.Pt. 1201
 
 
+# Summary
+
+DOT Components must implement the language in this part unless different provisions are required by Federal statute or are approved by DOT Headquarters.
+DOT Components making Federal awards to non-Federal entities must implement the language in the Subpart C&#8212;Pre-Federal Award Requirements and Contents of Federal Awards of this Part through Subpart F&#8212;Audit Requirements of this Part in codified regulations unless different provisions are required by Federal statute or are approved by DOT Headquarters.
+The DOT Component making a financial assistance award must establish conflict of interest policies for Federal awards, including policies from DOT Headquarters.
+The non-Federal entity must disclose in writing any potential conflict of interest to the DOT Component or pass-through entity in accordance with applicable Federal awarding agency policy.
+Notwithstanding 2 CFR 200.313, subrecipients of States shall follow such policies and procedures allowed by the State with respect to the use, management and disposal of equipment acquired under a Federal award.
+Notwithstanding 2 CFR 200.317, subrecipients of States shall follow such policies and procedures allowed by the State when procuring property and services under a Federal award.
+
+
+# Tags
+
+['federal', 'administrative', 'awards', 'dot', 'transportation', 'cfr', 'require', 'financial', 'office', 'headquarters', 'program', 'income', 'notwithstanding', 'shall', 'conflict', 'general']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                     |

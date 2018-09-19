@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 1400
 
 
+# Summary
+
+Within the Department of the Interior, the Director, Office of Acquisition and Property Management has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.
+Under 2 CFR 180.635, the Suspending and Debarring Official may resolve a suspension or debarment action through an administrative agreement if it is in the best interest of the Government at any stage of proceedings, where the respondent agrees to appropriate terms.
+Following completion of suspension proceedings, the Suspending and Debarring Official issues a written decision under the provisions of 2 CFR 180.750 and 180.755.
+(a) Within 30 days of receiving the decision, the respondent may ask the Suspending and Debarring Official to reconsider the decision based on clear and material error(s) of fact or conclusion(s) of law that would change the outcome of the matter.
+In addition to a petition for reconsideration based on a clear error of material fact or law, a respondent may, at any time following imposition of debarment, request the Suspending and Debarring Official to reduce or terminate the period of debarment based upon the factors under the provisions of 2 CFR 180.880.
+
+
+# Tags
+
+['official', 'debarred', 'actions', 'information', 'suspension', 'administrative', 'written', 'proceeding', 'management', 'findings', 'respondent', 'follow', 'transaction', 'provide', 'tiers', 'interior', 'doi', 'recorded', 'documents']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                        |

@@ -8,6 +8,20 @@
  CFR-2018-title14-vol5.Pt. 1252
 
 
+# Summary
+
+(Published at 44 FR 33768, June 12, 1979.) The Act and the government-wide regulations prohibit discrimination on the basis of age in programs or activities receiving Federal financial assistance.
+(a) General rule: No person in the United States shall, on the basis of age be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance.
+(b) Specific rules: A recipient may not, in any program or activity receiving Federal financial assistance, directly or through contractual, licensing, or other arrangements use age distinctions or take any other actions which have the effect, on the basis of age, of:
+(1) As part of a compliance review under &#167;&#8201;91.41, NASA may require a recipient employing the equivalent of 15 or more employees to complete a written self-evaluation, in a manner specified by the responsible Agency official, of any age distinction imposed in its program or activity receiving Federal financial assistance from NASA to assess the recipient's compliance with the Act.
+(1) Termination of a recipient's Federal financial assistance from NASA under the program or activity involved where the recipient has violated the Act or these regulations.
+
+
+# Tags
+
+['means', 'nasa age', 'shall', 'recipients', 'include', 'agency', 'regulations', 'information', 'actions', 'federal', 'assisted', 'activity', 'states', 'mediation', 'complaints', 'procedural', 'reasonably', 'general', 'written', 'complained', 'compliance', 'rule', 'discriminated', 'funds', 'islands', 'proceeding', 'educational', 'administrative', 'notices', 'described', 'individuals', 'providing', 'legislative']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                           |

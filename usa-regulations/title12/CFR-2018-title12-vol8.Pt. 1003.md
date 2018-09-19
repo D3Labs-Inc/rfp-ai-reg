@@ -8,6 +8,18 @@
  CFR-2018-title12-vol8.Pt. 1003
 
 
+# Summary
+
+A for-profit mortgage-lending institution (other than a bank, savings association, or credit union) is also deemed to have a branch office in an MSA or in an MD, if, in the preceding calendar year, it received applications for, originated, or purchased five or more covered loans related to property located in that MSA or MD, respectively.
+(ii) For purposes of this paragraph (a)(35), an &#8220;automated underwriting system&#8221; means an electronic tool developed by a securitizer, Federal government insurer, or Federal government guarantor of closed-end mortgage loans or open-end lines of credit that provides a result regarding the credit risk of the applicant and whether the covered loan is eligible to be originated, purchased, insured, or guaranteed by that securitizer, Federal government insurer, or Federal government guarantor.
+By March 1 following the calendar year for which data are collected and recorded as required by &#167;&#8201;1003.4, a financial institution shall submit its annual loan/application register in electronic format to the appropriate Federal agency at the address identified by such agency.
+
+
+# Tags
+
+['loan', 'applications', 'institutions', 'shall', 'mortgage', 'pursuant', 'credits', 'home', 'data', 'means', 'federally', 'dwelling', 'housing', 'identified', 'lending', 'purchased', 'disclosure', 'principal', 'acting', 'property', 'transaction', 'agency', 'report', 'state', 'requires', 'financial', 'developed', 'recorded', 'public', 'number', 'income', 'follows', 'excluded', 'submitted', 'annual', 'pricing', 'calendar', 'office', 'section', 'bureau', 'terms', 'covered', 'open']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                       |

@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 76
 
 
+# Summary
+
+(a) If the respondent requests an adjudicatory proceeding, the United States Attorney, within fifteen (15) days after receipt of the request, shall file a complaint against the respondent with a Judge who has been assigned to hear and decide the case and shall serve a copy of the complaint on the respondent as provided in 28 CFR 76.6(b).
+Service of Notice of the Date Set for Hearing shall be made by the Judge with whom the complaint has been filed either by delivering a copy to the individual party or, if known, to the attorney of record of a party; or by mailing, by certified or registered mail, return receipt requested, a copy to the last known address of a party or a party's attorney.
+(c) The record of the proceedings shall consist of the notices, pleadings, motions, rulings, exhibits, orders, the findings, decisions or opinions of the Judge, the stipulations and briefs, and the transcript(s) of the hearing(s).
+(c) An individual subject to an order assessing a penalty after a hearing may, before the expiration of the thirty (30) day period beginning on the date the final order is entered, either by the Judge or the Attorney General, whichever is applicable, bring a civil action in the appropriate District Court of the United States pursuant to the provisions of 21 U.S.C. 844a(g) and obtain de novo judicial review of the final order.
+
+
+# Tags
+
+['shall', 'timely', 'ordering', 'parties', 'judge', 'hear', 'including', 'discovery', 'evidence', 'request', 'witnesses', 'respondent', 'proceeding', 'written', 'motions', 'person', 'drug', 'reason', 'means', 'matters', 'law', 'attorneys', 'state', 'issue', 'record', 'statements', 'processing', 'general', 'document', 'facts', 'procedural', 'pleadings', 'proposal', 'depositions', 'information', 'conferring', 'conducting', 'setting', 'allegations', 'act', 'notices', 'penalty pursuant', 'administrative', 'authorities', 'appropriate', 'avoid', 'provide', 'undue', 'contained', 'section', 'substances']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                        |

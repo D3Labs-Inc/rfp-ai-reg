@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 138
 
 
+# Summary
+
+210) is based on forty equal annual payments, the annual per acre assessment is hereby fixed at $0.42 per acre for the year 1957 and each succeeding year until the entire cost for each tract shall have been repaid to the United States Treasury.
+On those tracts where payments have been made pursuant to part 134 of this chapter, annual assessments beginning with the year 1957 at the rate of $0.42 per acre will be made until the entire cost of $16.7535 per acre shall have been repaid to the United States Treasury.
+564); 25 U.S.C. 386(a) no assessment shall be made on behalf of construction costs against Indian-owned land within the project until the Indian title thereto has been extinguished.
+Indian-owned lands passing to non-Indian ownership shall be assessed for construction costs and the first assessment shall be due on December 31 of the year that Indian title is extinguished.
+Assessments against this land will be at the annual rate of $0.42 per acre and shall be due as provided in &#167;&#8201;138.3, and payable promptly thereafter until the total construction cost of $16.7535 per acre chargeable against the land has been paid in full.
+
+
+# Tags
+
+['indian', 'stat', 'assessment', 'annual', 'lands']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                 |

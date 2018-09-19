@@ -8,6 +8,22 @@
  CFR-2018-title14-vol1.Pt. 5
 
 
+# Summary
+
+Safety assurance means processes within the SMS that function systematically to ensure the performance and effectiveness of safety risk controls and that the organization meets or exceeds its safety objectives through the collection, analysis, and assessment of information.
+Safety Risk Management means a process within the SMS composed of describing the system, identifying the hazards, and analyzing, assessing and controlling risk.
+(a) The certificate holder must develop and maintain processes to analyze safety risk associated with the hazards identified in &#167;&#8201;5.53(c).
+(b) The certificate holder must develop and maintain processes that analyze the data acquired through the processes and systems identified under paragraph (a) of this section and any other relevant data with respect to its operations, products, and services.
+(a) The certificate holder must conduct assessments of its safety performance against its safety objectives, which include reviews by the accountable executive, to:
+(b) Upon completion of the assessment, if ineffective controls or new hazards are identified under paragraphs (a)(2) through (5) of this section, the certificate holder must use the safety risk management process described in subpart C of this part.
+(a) The certificate holder must maintain records of outputs of safety risk management processes as described in subpart C of this part.
+
+
+# Tags
+
+['safety', 'sms', 'hazards', 'risk', 'means', 'process', 'controls', 'implemented', 'operating', 'identify', 'relevant', 'required', 'organization', 'responsibility', 'holder', 'procedures']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                |

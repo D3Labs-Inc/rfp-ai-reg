@@ -8,6 +8,20 @@
  CFR-2018-title14-vol5.Pt. 1216
 
 
+# Summary
+
+(1) Identifying matters under their cognizance which may affect protection and enhancement of environmental quality and for employing the proper procedures to ensure that necessary actions are taken to meet the requirements of applicable laws and regulations;
+(a) The NASA Senior Environmental Official (SEO) (as defined in Appendix A to this subpart) is responsible for overseeing and guiding NASA's integration of NEPA into the Agency's planning and decision making.
+(2) Each NASA Center has an environmental management office that guides and supports the working-level functions of the NEPA process, such as evaluating proposed actions; developing, reviewing, and approving required documentation; and advising project managers.
+(b) The Responsible Official shall ensure that planning and decision making for each proposed Agency action complies with these regulations and with Agency NEPA policy and guidance provided by the SEO, HQ/EMD, and the Center's environmental management office.
+(a) When the Responsible Official determines that an emergency exists that makes it necessary to take urgently needed actions before preparing a NEPA analysis and any required documentation, in accordance with the provisions in &#167;&#167;&#8201;1216.305 and 1216.307 of this subpart, then the following provisions apply:
+
+
+# Tags
+
+['nasa', 'environmental', 'actions including', 'nepa', 'agency', 'requirements', 'activity', 'management', 'information', 'document', 'appropriately', 'developing', 'useful', 'responsibility', 'plans', 'policies', 'property', 'regulations', 'projects', 'processes', 'proposed', 'materials', 'federal', 'studies', 'minor', 'shall', 'significant', 'program', 'analysis', 'reviewers', 'administrator', 'impacts', 'act', 'resources', 'facilities', 'supports', 'decisions', 'aircraft', 'iii', 'emergency', 'systems', 'application', 'classified', 'protection', 'official', 'flight', 'national', 'environment']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                     |

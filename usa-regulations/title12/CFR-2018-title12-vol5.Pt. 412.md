@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 412
 
 
+# Summary
+
+Payment in kind means goods, services or other benefits provided by a non-Federal source for travel, subsistence, and related expenses in lieu of funds paid to Eximbank by check or similar instrument for the same purpose.
+Eximbank may accept payment from a conflicting non-Federal source if the conditions of &#167;&#8201;412.7 are met and the employee's supervisor (except in the case of Board members) and the DAEO determine that Eximbank's interest in the employee's attendance at or participation in the meeting or similar event outweighs concern that acceptance of the payment by Eximbank may cause a reasonable person to question the integrity of Eximbank's programs and operations.
+In determining whether to accept payment, Eximbank shall consider all relevant factors, including the purpose of the meeting or similar event, the importance of the travel for Eximbank, the nature and sensitivity of any pending matter affecting the interests of the conflicting non-Federal source, the significance of the employee's role in any such matter, the identity of other expected participants, and the location and duration of the meeting or similar event.
+This part shall not be applied in connection with the acceptance by Eximbank of payment for travel, subsistence, and related expenses incurred by an employee to attend a meeting or similar function described in and authorized by 41 CFR part 304-1.
+
+
+# Tags
+
+['payment', 'travel', 'event', 'eximbank', 'means', 'expenses', 'sources', 'employee', 'authorize', 'chapter', 'shall', 'official', 'state']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

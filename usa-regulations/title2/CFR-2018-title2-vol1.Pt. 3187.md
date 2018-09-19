@@ -8,6 +8,20 @@
  CFR-2018-title2-vol1.Pt. 3187
 
 
+# Summary
+
+Under the authority listed above, the Institute of Museum and Library Services (IMLS) adopts the Office of Management and Budget (OMB) Guidance in 2 CFR part 200, with the additions that are provided below.
+(a) If two or more institutions are under the common control of one agency or institution or are otherwise organizationally related and apply for assistance under the Act, the Director determines under all the relevant circumstances whether they are separate museums for the purpose of establishing eligibility for assistance under these regulations.
+(a) Each recipient and subrecipient, as applicable, shall comply with the relevant nondiscrimination statutes and public policy requirements including, but not limited to, the following:
+(b) A recipient may contract for supplies, equipment, and services, subject to applicable law, including but not limited to applicable Office of Management and Budget (OMB) Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200.
+(b) No costs shall be allowed for the purchase of any object to be included in the collection of a museum, except library, literary, or archival material specifically required for a designated activity under a Federal award under the Act.
+
+
+# Tags
+
+['museums', 'applications', 'federated', 'services', 'shall', 'required', 'including', 'imls', 'mail', 'regulations', 'director', 'institute', 'date', 'statute', 'applying', 'islands', 'information', 'cost', 'related', 'act', 'authorizing', 'separate', 'object']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                               |

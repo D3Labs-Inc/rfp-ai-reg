@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 90
 
 
+# Summary
+
+In addition to the duties specified by paragraph (a) of this section, the State office shall administer funds received under this program, including receipt, review, processing, monitoring, progress and financial report review, technical assistance, grant adjustments, accounting, auditing, and fund disbursements.
+(1) The State office shall allocate funds as provided in 42 U.S.C. 3796gg-1(c)(4) to courts and for law enforcement, prosecution, and victim services (including funds that must be awarded to culturally specific community-based organizations).
+Applicants that are domestic violence or sexual assault coalitions or other victim service providers must partner with a State, local, or tribal government.
+All State, local, and tribal government and court applicants are required to enter into a formal collaboration with victim service providers and, as appropriate, population specific organizations.
+All State, tribal, or territorial domestic violence or sexual assault coalition and other victim service provider applicants are required to enter into a formal collaboration with a State, Indian tribal government or unit of local government, and, as appropriate, population specific organizations.
+Applications from eligible entities must be submitted as described in the relevant program solicitation developed by the Office on Violence Against Women and must include all the information required by 42 U.S.C. 3796hh-1(a).
+
+
+# Tags
+
+['stating', 'include', 'victim', 'service', 'funding', 'programming', 'applicability', 'law', 'information', 'organization', 'provider', 'require', 'granted', 'shall', 'specific', 'violence', 'act', 'officers', 'government', 'entity', 'federal', 'plans', 'documents', 'activities', 'match', 'reviewing', 'grantee', 'agency', 'costs', 'prevention', 'prosecution', 'allocations', 'iii', 'report', 'purpose', 'domestic', 'tribal', 'processing', 'eligibility', 'relevant', 'courts', 'related', 'department', 'released', 'populations', 'persons', 'public', 'meets', 'minor', 'award', 'women', 'submitted', 'geographic', 'effort', 'time', 'evaluate', 'set', 'implementing', 'projected', 'local', 'limits', 'identifying', 'sexual', 'need']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                          |

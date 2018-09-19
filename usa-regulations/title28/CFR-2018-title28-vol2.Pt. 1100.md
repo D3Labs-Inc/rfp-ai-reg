@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 1100
 
 
+# Summary
+
+(3) Procedures for federal law enforcement officials to request that certain victims of severe forms of trafficking in persons, who are aliens and are also potential witnesses, be permitted to remain in the United States to effectuate the prosecution of those responsible, and procedures to protect their safety, including taking measures to protect victims of severe forms of trafficking in persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates (these procedures should be appropriate to their status as victims of severe forms of trafficking in persons); and
+Each federal agency having law enforcement responsibilities should ensure that its officers are trained in identifying victims of severe forms of trafficking in persons, and are familiar with the rights, services, and protections such victims are to be accorded under the TVPA and 42 U.S.C. 10606 and 10607.
+In cases involving severe forms of trafficking in persons, federal officials should provide victims within the United States, as defined by this subpart, information about their rights and applicable services, including:
+(a) Federal law enforcement officials who encounter alien victims of severe forms of trafficking in persons who are potential witnesses to that trafficking may request that the Immigration and Naturalization Service (INS) grant the continued presence of such aliens in the United States.
+
+
+# Tags
+
+['victim', 'service', 'usc', 'including', 'federal', 'means', 'lawful', 'person', 'shall', 'protecting', 'official', 'state', 'requires', 'act', 'procedures', 'agency', 'authority', 'investigation', 'aliens', 'right', 'available', 'traffickers', 'immigration', 'appropriate', 'condition', 'enforcing', 'involving', 'ins', 'benefit', 'responsibility', 'particular', 'provide', 'crime', 'granted', 'following']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                   |

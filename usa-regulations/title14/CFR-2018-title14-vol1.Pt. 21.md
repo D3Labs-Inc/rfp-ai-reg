@@ -8,6 +8,18 @@
  CFR-2018-title14-vol1.Pt. 21
 
 
+# Summary
+
+(b) The applicant submits the type design, test reports, and computations necessary to show that the product to be certificated meets the applicable airworthiness, aircraft noise, fuel venting, and exhaust emission requirements of this subchapter and any special conditions prescribed by the FAA, and the FAA finds&#8212;
+(i) Except as provided by paragraph (c) of this section, a statement, in a form and manner acceptable to the FAA, certifying that: the applicant has completed the engineering analysis necessary to demonstrate compliance with the applicable airworthiness requirements; the applicant has conducted appropriate flight, structural, propulsion, and systems tests necessary to show that the aircraft, its components, and its equipment are reliable and function properly; the type design complies with the airworthiness standards and noise requirements established for the aircraft under &#167;&#8201;21.17(f); and no feature or characteristic makes it unsafe for its intended use;
+An applicant for an original, special airworthiness certificate-primary category for a new aircraft that meets the criteria of &#167;&#8201;21.24(a)(1), manufactured under a production certificate, including aircraft assembled by another person from a kit provided by the holder of the production certificate and under the supervision and quality control of that holder, is entitled to a special airworthiness certificate without further showing, except that the FAA may inspect the aircraft to determine conformity to the type design and condition for safe operation.
+
+
+# Tags
+
+['aircraft', 'certificate', 'applications', 'designation', 'requirements', 'product', 'flights', 'operations', 'approved', 'faa', 'tested', 'airworthy', 'engines', 'article', 'changed', 'including', 'manufacturer', 'reportable', 'airplanes', 'procedures', 'acceptance', 'data', 'appropriately', 'authorized', 'document issued', 'control', 'power', 'types', 'limit', 'provide', 'necessary', 'specifies', 'inspected', 'propeller', 'persons', 'standard', 'iii', 'equipment', 'fuel', 'conforms', 'category', 'safety', 'compliance', 'following', 'listing', 'etops', 'structure', 'specifications', 'installed', 'time', 'regulation', 'special', 'information', 'conducting', 'primary', 'responsible', 'services', 'identify', 'components', 'condition', 'new', 'performance', 'states', 'failure', 'chapter', 'prescribe', 'surrendered']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 46
 
 
+# Summary
+
+(2) A national bank or Federal savings association that is an over $50 billion covered institution, as defined in &#167;&#8201;46.2 of this part, as of October 9, 2012 must conduct its first stress test under this part using financial statement data as of September 30, 2012, and report the results of its stress test on or before January 5, 2013.
+(3) A $10 to $50 billion covered institution that is subject to its first annual stress test pursuant to &#167;&#8201;46.3(b)(1) of this part must make its initial public disclosure in the period starting June 15 and ending June 30 of 2015 by disclosing the results of a stress test conducted in 2014, using financial statement data as of September 30, 2014.
+(1) The disclosure of the estimates of aggregate losses, pre-provision net revenue, provisions for loan and lease losses, net income, and pro forma capital ratios (including regulatory and any other capital ratios specified by the OCC), as required by paragraph (b) of this section, must reflect the estimated cumulative effects, as well as the estimated capital ratios, at the end of the planning horizon for the severely adverse scenario.
+
+
+# Tags
+
+['tests', 'requirement', 'included', 'capital', 'shall', 'losses', 'publication', 'stress', 'report', 'institution means', 'risks', 'company', 'scenarios', 'occ annually', 'applicable', 'procedures', 'ending', 'disclosure']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                 |

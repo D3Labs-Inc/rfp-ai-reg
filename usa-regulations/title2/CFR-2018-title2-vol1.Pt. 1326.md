@@ -8,6 +8,21 @@
  CFR-2018-title2-vol1.Pt. 1326
 
 
+# Summary
+
+This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Commerce policies and procedures for nonprocurement debarment and suspension.
+(d) Department of Commerce grants officer, agreements officer, or other official authorized to enter into any type of nonprocurement transaction that is a covered transaction;
+The Department of Commerce policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, as that section is supplemented by the section in this part with the same section number.
+Within the Department of Commerce, the Secretary of Commerce or designee has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.
+(2) The export Trading Company Act Certification of Review Program.
+This extends the coverage of the Department of Commerce nonprocurement suspension and debarment requirements to one additional tier of contracts under covered nonprocurement transactions, as permitted under the OMB guidance at 2 CFR 180.220(c) (see optional lower tier coverage in the figure in the appendix to 2 CFR part 180).
+
+
+# Tags
+
+['trading', 'transaction', 'section', 'tiers', 'commerce', 'requirements', 'include', 'program', 'nonprocurement debarment', 'certification', 'joint']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                              |

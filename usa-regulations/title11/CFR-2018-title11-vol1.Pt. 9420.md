@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 9420
 
 
+# Summary
+
+Except as otherwise provided in 11 CFR 9420.6 and 11 CFR 9420.7, no qualified handicapped person shall be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by the Commission because its facilities are inaccessible to or unusable by handicapped persons.
+The Commission may comply with the requirements of this section through such means as redesign of equipment, reassignment of services to accessible buildings, assignment of aides to beneficiaries, home visits, delivery of services at alternate accessible sites, alteration of existing facilities and construction of new facilities, use of accessible rolling stock, or any other methods that result in making its programs or activities readily accessible to and usable by handicapped persons.
+(e) The Commission will notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157), or section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 792), are not readily accessible and usable to handicapped persons.
+
+
+# Tags
+
+['accessible', 'includes', 'complaints', 'programs', 'impairments', 'person', 'commission', 'handicapped', 'aides', 'require', 'act', 'facilities', 'service', 'organic', 'means', 'activities', 'telecommunication', 'physical', 'extent', 'shall', 'effect', 'section', 'setting appropriate', 'building', 'addition', 'compliance', 'identify', 'providing', 'telephone']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                          |

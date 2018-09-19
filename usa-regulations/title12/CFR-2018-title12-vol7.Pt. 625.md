@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 625
 
 
+# Summary
+
+The EAJA provides for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (designated by the EAJA as &#8220;adversary adjudications&#8221;) before Federal agencies.
+(c) If review, reconsideration, or appeal is sought or taken of an adversary adjudication decision as to which an applicant believes it has prevailed, application proceedings for any award of fees and other expenses shall be stayed pending final disposition of the underlying controversy.
+Unless the FCA counsel requests an extension of time for filing or a statement of intent to negotiate under paragraph (c) of this section is filed, the presiding officer, upon a satisfactory showing of entitlement by the applicant, may make an award for the applicant's fees and other expenses under the EAJA.
+(b) Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
+The decision shall also include, if at issue, findings on whether the FCA's position was substantially justified, whether the applicant unduly protracted the adversary adjudication, or whether special circumstances make an award unjust.
+
+
+# Tags
+
+['shall', 'applications', 'proceedings', 'information', 'fca', 'decisions', 'rate', 'administration', 'officer', 'including', 'eligibility', 'filing', 'board', 'award', 'issue', 'expenses', 'matters', 'service', 'counsel', 'written', 'additional', 'exhibit', 'acting', 'adjudication', 'providing', 'final', 'fees', 'person']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                   |

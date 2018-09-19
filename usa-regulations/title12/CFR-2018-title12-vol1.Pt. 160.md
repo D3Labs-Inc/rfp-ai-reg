@@ -8,6 +8,20 @@
  CFR-2018-title12-vol1.Pt. 160
 
 
+# Summary
+
+(3) A Federal savings association's total investment in the commercial paper and corporate debt securities of any one issuer, or issued by any one person or entity affiliated with such issuer, together with other loans, shall not exceed the general lending limitations contained in &#167;&#8201;32.3(a) of this chapter.
+A financing lease made for commercial, corporate, business, or agricultural purposes is subject to all limitations applicable to the amount of a Federal savings association's investment in commercial loans.
+A financing lease of residential or nonresidential real property is subject to all limitations applicable to the amount of a Federal savings association's investment in these types of real estate loans.
+(a) Pursuant to HOLA section 5(c)(1)(H), a Federal savings association may invest in obligations issued by any state, territory, possession, or political subdivision thereof (&#8220;governmental entity&#8221;), subject to appropriate underwriting and the following conditions:
+(b) Any Federal savings association that is adequately capitalized may, to the extent it has legal authority to do so, invest in obligations (including loans) of, or issued by, any state housing corporation incorporated in the state in which such savings association has its home or a branch office; provided (except with respect to loans), that:
+
+
+# Tags
+
+['loans', 'shall', 'credit', 'investment activities', 'includes', 'securities', 'property', 'fee', 'obligated', 'lending', 'leased', 'payments', 'associated', 'state', 'requirement', 'market', 'pursuant', 'limits', 'rate', 'authorizing', 'corporations', 'estate', 'standards', 'provided', 'real', 'adequately', 'undertake', 'business', 'appropriate', 'specifying', 'values', 'bank', 'periodic', 'documentation', 'reasonable', 'appraise', 'policy', 'sections', 'directly', 'late', 'outstanding', 'charges', 'subject', 'iii', 'general', 'supervisory', 'home']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                             |

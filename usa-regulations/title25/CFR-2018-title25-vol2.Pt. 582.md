@@ -8,6 +8,21 @@
  CFR-2018-title25-vol2.Pt. 582
 
 
+# Summary
+
+This part applies to appeals from the Chair's decision to disapprove a gaming ordinance, resolution, or amendment thereto under part 522 of this chapter.
+Within 30 days after the Chair serves his or her disapproval, the appellant must file with the Commission a notice of appeal.
+The appeal brief shall state succinctly why the appellant believes the Chair's disapproval should be reversed and may include supporting documentation.
+(a) An individual, whether acting on his or her own behalf or as an agent of an entity, or an entity other than the tribe identified in &#167;&#8201;582.2, may request to participate in an appeal of an ordinance disapproval on a limited basis by filing a submission with the Commission within 10 days of the filing of the notice of appeal.
+(e) Within 10 days of the filing of a response pursuant to paragraph (d) of this section, the Commission will notify the submitter in writing of its decision whether to accept and consider the submission and will state the basis for its decision, which it shall serve on the individual or entity and the tribe.
+(b) The Commission shall notify the tribe and any limited participant of its final decision and the reason(s) supporting it.
+
+
+# Tags
+
+['shall', 'ordinance', 'supporting', 'serves', 'tribe']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                     |

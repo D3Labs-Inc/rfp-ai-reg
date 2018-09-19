@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 14
 
 
+# Summary
+
+(i) The person represents to a consumer that the sale, solicitation, advertisement, or offer of any insurance product or annuity is by or on behalf of the bank or Federal savings association;
+In the case of an application for credit in connection with which an insurance product or annuity is solicited, offered, or sold, a covered person must disclose that the bank or Federal savings association may not condition an extension of credit on either:
+The disclosures described in paragraph (a) of this section are required in advertisements and promotional material for insurance products or annuities unless the advertisements and promotional materials are of a general nature describing or listing the services or products offered by the bank or Federal savings association.
+Any person who accepts deposits from the public in an area where such transactions are routinely conducted in the bank or Federal savings association may refer a consumer who seeks to purchase an insurance product or annuity to a qualified person who sells that product only if the person making the referral receives no more than a one-time, nominal fee of a fixed dollar amount for each referral that does not depend on whether the referral results in a transaction.
+
+
+# Tags
+
+['insurance', 'person', 'disclosures', 'bank', 'acts', 'sales', 'consumer', 'meaning', 'associated', 'annuity', 'provided', 'electronically', 'media includes', 'states', 'types', 'form', 'activities', 'general', 'public', 'federal', 'solicited', 'deposit', 'physical']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                  |

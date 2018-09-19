@@ -8,6 +8,17 @@
  CFR-2018-title25-vol1.Pt. 87
 
 
+# Summary
+
+(j) Enrollment means that aspect of a plan which pertains to making or bringing current a roll of members of an organized, reservation-based tribe with membership criteria approved or accepted by the Secretary, a roll of members of an organized or recognized entity in Oklahoma, or Alaska or elsewhere, or a roll prepared for the purpose of making per capita payments for judgments awarded by the Indian Claims Commission or United States Court of Claims; or which pertains to using an historical roll or records of names, including tribal rolls closed and made final, for research or other purposes.
+The Area Director shall make a presentation of the results of the research and shall arrange for expertise of the Bureau of Indian Affairs to be available at these meetings to assist the tribe or group in developing a use or distribution proposal, bearing in mind that under the Act not less than twenty (20) per centum of the judgment funds, including investment income thereon, is to be used for tribal programs unless the Secretary determines that the particular circumstances of the affected Indian tribe clearly warrant otherwise.
+
+
+# Tags
+
+['shall', 'included', 'meanings', 'tribal', 'days', 'funds', 'proposals', 'tribes', 'program', 'beneficiaries', 'minors', 'indian', 'trust', 'plan', 'pertinent', 'legislation', 'investment income', 'provide', 'enrollment', 'rolls', 'individuals', 'formally', 'thereof', 'current', 'submit', 'reservation', 'group', 'agreement']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                          |

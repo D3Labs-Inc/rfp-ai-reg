@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 603
 
 
+# Summary
+
+(a) The Privacy Act Officer shall, within a reasonable period of time after the date of receipt of a request for information of records:
+(b) If access to a record is denied because the information therein has been compiled by the Farm Credit Administration in reasonable anticipation of a civil or criminal action proceeding, the Privacy Act Officer shall notify the requester of that person's right to judicial appeal under 5 U.S.C. 552a(g).
+Medical records in the custody of the Farm Credit Administration which are not subject to Office of Personnel Management regulations shall be disclosed either to the individual to whom they pertain or that person's authorized or legal representative or to a licensed physician named by the individual.
+(b) The Privacy Act Officer shall acknowledge receipt of the request within 10 days (excluding Saturdays, Sundays, and legal holidays) and, if a determination has not been made, advise the individual when that person may expect to be advised of action taken on the request.
+(a) Not more than 10 days (excluding Saturdays, Sundays, and legal holidays) after receipt by an individual of an adverse determination on the individual's request to amend a record or otherwise, the individual may appeal to the Director, Office of Agency Services.
+
+
+# Tags
+
+['records', 'shall', 'investigations', 'individuals', 'requester', 'administration', 'criminal', 'agencies', 'legal', 'informed', 'statement', 'relevant', 'reason', 'enforcement', 'timely', 'act', 'maintains', 'establishing', 'persons', 'officer', 'identifiable', 'determine']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                         |

@@ -8,6 +8,19 @@
  CFR-2018-title14-vol3.Pt. 183
 
 
+# Summary
+
+(a) Unless sooner terminated under paragraph (b) of this section, a designation as an Aviation Medical Examiner or as a Flight Standards or Aircraft Certification Service Designated Representative as described in &#167;&#167;&#8201;183.21, 183.23, 183.25, 183.27, 183.29, 183.31, or 183.33 is effective until the expiration date shown on the document granting the authorization.
+(d) A radio engineering representative may approve engineering information relating to the design and operating characteristics of radio equipment, within limits prescribed by and under the general supervision of the Administrator whenever the representative determines that information complies with the applicable regulations of this chapter.
+(a) If any change occurs that may affect an ODA Unit's qualifications or ability to perform a function (such as a change in the location of facilities, resources, personnel or the organizational structure), no Unit member may perform that function until the Administrator is notified of the change, and the change is approved and appropriately documented as required by the procedures manual.
+The Administrator, at any time and for any reason, may inspect an ODA Holder's or applicant's facilities, products, components, parts, appliances, procedures, operations, and records associated with the authorized or requested functions.
+
+
+# Tags
+
+['design', 'certificates', 'examining', 'approved', 'requirements', 'authorized', 'operating', 'issuing', 'engines', 'flight', 'oda', 'aircraft', 'administrators', 'united', 'representatives', 'test', 'function', 'applications', 'pilot', 'include', 'procedures', 'appropriately', 'records', 'airworthiness', 'changes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                   |

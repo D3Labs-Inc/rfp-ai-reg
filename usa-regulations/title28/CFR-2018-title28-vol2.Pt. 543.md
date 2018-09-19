@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 543
 
 
+# Summary
+
+The Warden shall establish an inmate law library, and procedures for access to legal reference materials and to legal counsel, and for preparation of legal documents.
+(a) An act by an attorney which violates Bureau regulations or institution guidelines and which threatens the security, good order, or discipline of the institution is grounds for limitation or denial by the Warden of the attorney's privileged visitation and correspondence rights.
+(c) An act by an inmate in violation of Bureau regulations or institution guidelines warrants a limitation by the Warden of the inmate's correspondence or visiting rights with attorneys only if necessary to protect institution security, good order, or discipline.
+If necessary to maintain security or good order in the institution, the Warden may prohibit a student or legal assistant from visiting or corresponding with an inmate.
+(b) The attorney who employs an assistant and who wishes the assistant to visit or correspond with an inmate on legal matters shall provide the Warden with a signed statement including:
+If necessary to maintain security or good order in the institution, the Warden may prohibit a legal assistant from visiting or corresponding with an inmate.
+
+
+# Tags
+
+['shall', 'legal', 'administrator', 'visit', 'institution', 'staff', 'inmate reasonable', 'attorneys', 'including', 'general', 'time', 'law', 'settlement', 'prisons', 'document', 'statement', 'person', 'actions', 'bureau', 'claim', 'agency', 'assistance', 'yes', 'court', 'officers', 'filed', 'federal', 'counsel', 'limitation', 'mental']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                       |

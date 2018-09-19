@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 9428
 
 
+# Summary
+
+They describe the format and contents of the national mail voter registration form and the information that will be required from the states for inclusion in the Commission's biennial report to Congress.
+(a) The national mail voter registration form shall consist of three components: An application, which shall contain appropriate fields for the applicant to provide all of the information required or requested under 11 CFR 9428.4; general instructions for completing the application; and accompanying state-specific instructions.
+(b) If a state, in accordance with 11 CFR 9428.4(a)(2), requires the applicant's full social security number, the chief state election official shall provide the Commission with the text of the state's privacy statement required under the Privacy Act of 1974 (5 U.S.C. 552a note).
+(c) Each chief state election official shall notify the Commission, in writing, within 30 days of any change to the state's voter eligibility requirements or other information reported under this section.
+(3) The total number of new valid registrations accepted statewide between the past two federal general elections, including all registrations that are new to the local jurisdiction and re-registrations across jurisdictional lines, but excluding all applications that are duplicates, rejected, or report only a change of name, address, or (where applicable) party preference within the local jurisdiction;
+
+
+# Tags
+
+['state', 'shall', 'number', 'registrations', 'voters', 'applicable', 'elections', 'require', 'including', 'information', 'party', 'offices', 'form', 'mail', 'generated', 'statewide', 'address', 'responses', 'specifications', 'means', 'report', 'eligibility']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                          |

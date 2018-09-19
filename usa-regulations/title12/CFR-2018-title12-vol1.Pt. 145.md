@@ -8,6 +8,18 @@
  CFR-2018-title12-vol1.Pt. 145
 
 
+# Summary
+
+Subject to regulation of the United States Treasury Department, a Federal savings association may serve as a depositary for Federal taxes, as a Treasury tax and loan depositary, or as a depositary of public money and fiscal agent of the Government or any other instrumentality thereof when designated for that purpose by such instrumentality and approved by the OCC, and may satisfy any requirement in connection therewith, including maintaining accounts described in &#167;&#167;&#8201;161.33, 161.52, 161.53, and 161.54 of this chapter; pledging collateral; and performing the services outlined in 31 CFR 202.3(b) or any section that supersedes or amends &#167;&#8201;202.3(b).
+Subject to paragraphs (c) and (g) of this section, a Federal savings association shall indemnify any person against whom an action is brought or threatened because that person is or was a director, officer, or employee of the association, for:
+If a majority of the directors of a Federal savings association concludes that, in connection with an action, any person ultimately may become entitled to indemnification under this section, the directors may authorize payment of reasonable costs and expenses, including reasonable attorneys' fees, arising from the defense or settlement of such action.
+
+
+# Tags
+
+['including', 'shall', 'offices', 'thereof', 'association', 'deposits', 'personal', 'action', 'acting', 'requires', 'insurance', 'law', 'state', 'judgment', 'reasonable', 'means', 'subject']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                           |

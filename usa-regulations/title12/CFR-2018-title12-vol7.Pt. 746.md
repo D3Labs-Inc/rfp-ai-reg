@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 746
 
 
+# Summary
+
+Within 30 calendar days after the Secretary of the Board receives a request for review, the Director of the Office of Examination and Insurance shall issue a written decision, stating the reasons for the decision, and provide written notice of the right to file an appeal with the Committee pursuant to &#167;&#8201;746.107.
+After receiving a written decision by the appropriate program office in response to a request for reconsideration pursuant to &#167;&#8201;746.105, an insured credit union may file an appeal with the Committee.
+The Board or the Special Counsel to the General Counsel may request additional information to be provided in writing from either of the parties within 15 calendar days after the filing of an appeal, any amendments or supplementary information to the appeal documents by the insured credit union, or any responsive materials by the program office, whichever is later.
+Within 60 calendar days of the date of an initial agency determination, or, as applicable, a determination by the program office on any request for reconsideration, a petitioner may file an appeal seeking review of the determination by the Board.
+
+
+# Tags
+
+['shall', 'appeal', 'reviewable', 'committee', 'request', 'procedural', 'provides', 'pursuant', 'board', 'unions', 'determination', 'written', 'decisions including', 'ncua', 'materials', 'officers', 'appropriate', 'information', 'enforcement actions', 'authorities', 'supervisory', 'generally', 'addition', 'timely', 'stating', 'counsel', 'member', 'subparts', 'filed', 'act', 'granting', 'hear', 'initially', 'examination']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                        |

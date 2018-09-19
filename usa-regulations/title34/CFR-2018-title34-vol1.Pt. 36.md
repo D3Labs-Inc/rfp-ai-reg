@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 36
 
 
+# Summary
+
+Purpose.
+The purpose of this part is to make inflation adjustments to the civil monetary penalties within the jurisdiction of the Department of Education.
+These penalties are subject to review and adjustment as necessary at least once every 4 years in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended.
+Penalty adjustment.
+The citations for the adjusted penalty provisions, a brief description of the penalty, and the adjusted maximum (and minimum, if applicable) penalty amounts are listed in Table I.
+
+
+# Tags
+
+['penalty']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                       |

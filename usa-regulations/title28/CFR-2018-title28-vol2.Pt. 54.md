@@ -8,6 +8,18 @@
  CFR-2018-title28-vol2.Pt. 54
 
 
+# Summary
+
+The obligation to comply with these Title IX regulations is not obviated or alleviated by any rule or regulation of any organization, club, athletic or other league, or association that would render any applicant or student ineligible to participate or limit the eligibility or participation of any applicant or student, on the basis of sex, in any education program or activity operated by a recipient and that receives Federal financial assistance.
+Except as provided elsewhere in these Title IX regulations, no person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any academic, extracurricular, research, occupational training, or other education program or activity operated by a recipient that receives Federal financial assistance.
+(4) A recipient shall not grant preferences to applicants for employment on the basis of attendance at any educational institution or entity that admits as students only or predominantly members of one sex, if the giving of such preferences has the effect of discriminating on the basis of sex in violation of these Title IX regulations.
+
+
+# Tags
+
+['shall', 'include', 'sexes', 'education', 'employment', 'differently', 'student', 'institution', 'recipient', 'federal', 'active', 'provides', 'service', 'assists', 'separately', 'agencies', 'recruitment', 'applicable', 'requires', 'related', 'admissions', 'operated', 'benefit', 'means', 'athletic', 'plans', 'facilities', 'action', 'regulation', 'discriminate', 'offers', 'effect', 'schools', 'equally', 'organization', 'concerning', 'transfer', 'housing', 'limited', 'procedural', 'applying', 'leave', 'degree', 'study', 'persons', 'employee', 'materials', 'jobs', 'provisions', 'policy', 'subject', 'treated', 'occupations', 'professional', 'designation', 'uses', 'purpose', 'periodic', 'condition', 'comparable', 'associate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                          |

@@ -8,6 +8,20 @@
  CFR-2018-title14-vol1.Pt. 31
 
 
+# Summary
+
+(3) The altitude required to achieve level flight after corrective action is inititated, with the balloon descending at the maximum vertical velocity determined in paragraph (a)(1) of this section.
+(c) A factor of safety of at least five must be used in the design of all fibrous or non-metallic parts of the rigging and related attachments of the envelope to basket, trapeze, or other means provided for carrying occupants.
+The primary attachments of the envelope to the basket, trapeze, or other means provided for carrying occupants must be designed so that failure is extremely remote or so that any single failure will not jeopardize safety of flight.
+The test must be made at design maximum weight on a horizontal surface, with the basket, trapeze, or other means provided for carrying occupants, striking the surface at angles of 0, 15, and 30 degrees.
+(c) Each balloon using a captive gas as the lifting means must have an automatic valve or appendix that is able to release gas automatically at the rate of at least three percent of the total volume per minute when the balloon is at its maximum operating pressure.
+
+
+# Tags
+
+['operating', 'fuel', 'loaded', 'test', 'required', 'control', 'gas balloon', 'maximum weight', 'flight', 'designed', 'light', 'air', 'factors', 'limiting', 'temperature', 'envelope', 'horizontal', 'approved', 'pressurized', 'object', 'applicability', 'structure', 'information', 'emergency', 'markings', 'suspended', 'performing', 'equipment', 'function', 'means', 'condition', 'fitting']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                     |

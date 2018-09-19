@@ -8,6 +8,22 @@
  CFR-2018-title25-vol2.Pt. 531
 
 
+# Summary
+
+(6) Provide for the allocation of operating expenses or overhead expenses among the tribe, the tribal gaming operation, the contractor, and any other user of shared facilities and services.
+Require the management contractor to provide the tribal governing body not less frequently than monthly with verifiable financial reports or all information necessary to prepare such reports.
+Require the management contractor to provide immediate access to the gaming operation, including its books and records, by appropriate tribal officials, who shall have:
+Be for a term not to exceed five (5) years, except that upon the request of a tribe, the Chairman may authorize a contract term that does not exceed seven (7) years if the Chairman is satisfied that the capital investment required, and the income projections, for the particular gaming operation require the additional time.
+The time period shall begin running no later than the date when the gaming activities authorized by an approved management contract begin.
+(2) Not more than forty (40) percent of the net revenues if the Chairman is satisfied that the capital investment required and income projections for the gaming operation require the additional fee.
+Indicate whether and to what extent changes in the ownership interest in the management contract require advance approval by the tribe.
+
+
+# Tags
+
+['gaming', 'providing operating', 'contract', 'accounting', 'provisions', 'required', 'tribal', 'authorized', 'shall', 'act', 'advertising', 'including', 'revenues', 'date', 'fee', 'indicate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                          |

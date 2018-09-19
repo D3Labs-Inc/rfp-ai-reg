@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 16
 
 
+# Summary
+
+(c) SEC Rule 174 (17 CFR 230.174&#8212;Delivery of prospectus by dealers; Exemptions under section 4(a)(3) of the Act) applies to transactions by dealers in national bank and Federal savings association issued securities.
+(a) The OCC will deem offers and sales of national bank or Federal savings association issued securities that meet all of the following requirements to be exempt from the registration and prospectus requirements of &#167;&#8201;16.3 pursuant to &#167;&#8201;16.5(c) of this part:
+(c) No offer or sale of national bank or Federal savings association issued securities shall be made in reliance on SEC Regulation D (17 CFR part 230, Regulation D&#8212;Rules Governing the Limited Offer and Sale of Securities Without Registration Under the Securities Act of 1933) without compliance with paragraphs (a)(1) and (a)(2) of this section.
+(a) The OCC will deem offers and sales of national bank or Federal savings association issued securities that satisfy the requirements of SEC Regulation A (17 CFR part 230, Regulation A&#8212;Conditional Small Issues Exemption) to be exempt from the registration and prospectus requirements of &#167;&#8201;16.3 pursuant to &#167;&#8201;16.5(d) of this part.
+
+
+# Tags
+
+['offer', 'meaning', 'filings', 'securities', 'requirement', 'act', 'occ', 'statement', 'cfr', 'associations', 'issuing', 'amendment', 'purchasers', 'prior', 'effectiveness', 'prospectus', 'timely', 'information', 'sec', 'bank', 'shall', 'receive', 'federal', 'fee', 'business', 'pursuant', 'documents', 'occurs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                   |

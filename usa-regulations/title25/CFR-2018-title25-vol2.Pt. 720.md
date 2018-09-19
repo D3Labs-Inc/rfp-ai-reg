@@ -8,6 +8,19 @@
  CFR-2018-title25-vol2.Pt. 720
 
 
+# Summary
+
+(a) No qualified handicapped person shall, on the basis of handicap, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity conducted by the agency.
+The definitions, requirements, and procedures of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), as established by the Equal Employment Opportunity Commission in 29 CFR part 1613, shall apply to employment in federally conducted programs or activities.
+Except as otherwise provided in &#167;&#8201;720.150, no qualified handicapped person shall, because the agency's facilities are inaccessible to or unusable by handicapped persons, be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by the agency.
+If an action required to comply with this section would result in such an alteration or such burdens, the agency shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that, to the maximum extent possible, handicapped persons receive the benefits and services of the program or activity.
+
+
+# Tags
+
+['shall', 'agency', 'accessibility', 'personal', 'program', 'impair', 'include', 'services', 'complaints', 'historic', 'required', 'providing', 'physical', 'handicapped', 'facilities', 'general means', 'appropriate', 'organs', 'alterations', 'materials', 'activity', 'auxiliary aids', 'buildings', 'identify', 'alleged', 'telecommunication', 'act', 'compliance', 'extent', 'effective', 'telephone', 'limitation', 'assisted']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                 |

@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 9409
 
 
+# Summary
+
+(a) This part sets forth policies and procedures you must follow when you submit a demand or request to an employee of the United States Election Assistance Commission to produce official records and information, or provide testimony relating to official information, in connection with a legal proceeding.
+Demand means a subpoena, or an order or other command of a court or other competent authority, for the production, disclosure, or release of records or for the appearance and testimony of a Commission employee that is issued in a legal proceeding.
+(a) A demand directed to the Commission for the testimony of a Commission employee or for the production of documents shall be served in accordance with the Federal Rules of Civil Procedure, Federal Rules of Criminal Procedure, or applicable State procedures and shall be directed to the General Counsel, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005.
+Subpoenas or requests for official records or information or testimony must be served on the General Counsel, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005.
+The General Counsel will make the final determination on demands and requests to employees for production of official records and information or testimony.
+
+
+# Tags
+
+['commission', 'information', 'procedures', 'requester', 'shall', 'testimony', 'official records', 'authority', 'employees', 'confidential', 'includes', 'proceedings', 'fees', 'demand', 'means', 'documents', 'state', 'act', 'cause', 'generally', 'written', 'applicable', 'law', 'processing', 'counsel', 'ordered', 'legal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                   |

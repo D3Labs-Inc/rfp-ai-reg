@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 24
 
 
+# Summary
+
+(c) Community and economic development entity (CEDE) means an entity that makes investments or conducts activities that primarily benefit low- and moderate-income individuals, low- and moderate-income areas, or other areas targeted by a governmental entity for redevelopment, or would receive consideration as &#8220;qualified investments&#8221; under 12 CFR 25.23.
+(1) Subject to &#167;&#8201;24.4(a), an eligible bank may make an investment authorized by 12 U.S.C. 24 (Eleventh) and this part without prior notification to, or approval by, the OCC if the bank follows the after-the-fact notice procedures described in this section.
+(5) A national bank that is not an eligible bank but that is at least adequately capitalized, and has a composite rating of at least 3 with improving trends under the Uniform Financial Institutions Rating System, may submit a letter to the Community Affairs Department requesting authority to submit after-the-fact notices of its investments.
+(1) If a national bank does not meet the requirements for after-the-fact investment notification set forth in this part, the bank must submit an investment proposal to the Community Affairs Department, Office of the Comptroller of the Currency, Washington, DC 20219.
+
+
+# Tags
+
+['investment', 'development', 'occ', 'bank', 'community', 'housing', 'capitalized', 'funds', 'primarily', 'including', 'business', 'low', 'loans', 'financial', 'approval', 'follows', 'areas', 'meanings', 'activity', 'written', 'usc', 'order', 'public', 'action', 'owned']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                         |

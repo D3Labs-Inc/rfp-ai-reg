@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 523
 
 
+# Summary
+
+(b) Extra good time means a credit to a sentence as authorized by 18 U.S.C. 4162 for performing exceptionally meritorious service or for performing duties of outstanding importance in an institution or for employment in a Federal Prison Industry or Camp.
+(a) The Bureau of Prisons awards extra good time credit for performing exceptionally meritorious service, or for performing duties of outstanding importance or for employment in an industry or camp.
+(c) Meritorious good time continues uninterrupted regardless of work assignment changes unless the Warden or the Discipline Hearing Officer takes specific action to terminate or disallow the award.
+Where the receiving institution is other than a camp, farm, or community corrections center, the extra good time is terminated upon arrival, and staff at the receiving institution shall review each case to determine if the inmate should continue in meritorious good time earning status if not immediately employed in Federal Prison Industries or assigned to a work/study release program.
+(b) For inmates serving a sentence for offenses committed on or after September 13, 1994, but before April 26, 1996, all yearly awards of good conduct time will vest for inmates who have earned, or are making satisfactory progress (see &#167;&#8201;544.73(b) of this chapter) toward earning a General Educational Development (GED) credential.
+
+
+# Tags
+
+['awarding', 'sentence', 'good time', 'extra', 'earn', 'released', 'inmate', 'programs', 'work', 'violator', 'prisons', 'meritorious', 'days', 'act', 'educational', 'staff', 'credits', 'assigned', 'months', 'serving', 'dcegt', 'disallowed', 'automatically']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                  |

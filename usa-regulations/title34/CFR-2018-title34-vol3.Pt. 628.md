@@ -8,6 +8,20 @@
  CFR-2018-title34-vol3.Pt. 628
 
 
+# Summary
+
+(1) The Secretary gives up to 50 points to applicants with the least resources as measured, at the end of the applicant's fiscal year preceding the year it applies for an endowment challenge grant, by revenue per full-time equivalent student it receives from the sum of the following&#8212;
+(a) To receive an endowment challenge grant, an institution must raise at least $25,000 in matching funds and qualify for at least a $50,000 grant under paragraph (c) of this section.
+(e) The corpus or income of an endowment fund or quasi-endowment fund existing at the closing date established by the Secretary for submission of eligibility requests under the Endowment Challenge Grant Program.
+(2) If, during the grant period, a grantee withdraws or spends all or part of the endowment fund corpus, it must repay to the Secretary an amount equal of 50 percent of the amount withdrawn or spent plus the income earned on that amount.
+(c) If, during the grant period, a grantee spends more endowment fund income or uses it for purposes other than permitted under paragraphs (a) or (b) of this section, it shall repay to the Secretary an amount equal to 50 percent of the amount improperly spent.
+
+
+# Tags
+
+['funding', 'secretary', 'institutions', 'grants', 'endowment', 'grantee', 'shall', 'program', 'follow', 'iii', 'times', 'financial', 'federal', 'educational', 'include', 'accountant', 'general', 'regulation', 'applicable', 'security', 'costs', 'income', 'increased', 'fiscal years', 'total', 'government', 'set', 'requirements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                |

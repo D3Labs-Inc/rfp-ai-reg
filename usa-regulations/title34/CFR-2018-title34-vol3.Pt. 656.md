@@ -8,6 +8,18 @@
  CFR-2018-title34-vol3.Pt. 656
 
 
+# Summary
+
+(1) The extent to which the Center's activities and training programs have a significant impact on the university, community, region, and the Nation as shown through indices such as enrollments, graduate placement data, participation rates for events, and usage of Center resources; the extent to which students matriculate into advanced language and area or international studies programs or related professional programs; and the extent to which the applicant supplies a clear description of how the applicant will provide equal access and treatment of eligible project participants who are members of groups that have been traditionally underrepresented, such as members of racial or ethnic minority groups, women, persons with disabilities, and the elderly;
+The Secretary reviews each application to determine the extent to which the institution provides financial and other support to the operation of the Center, teaching staff for the Center's subject area, library resources, linkages with institutions abroad, outreach activities, and qualified students in fields related to the Center.
+The Secretary reviews each application to determine the extent to which the institution provides financial and other support to the operation of the Center, teaching staff for the Center's subject area, library resources, linkages with institutions abroad, outreach activities, and qualified students in fields related to the Center.
+
+
+# Tags
+
+['languages', 'program', 'center', 'including', 'training', 'students', 'provide', 'applications', 'secretary', 'undergraduate', 'professional', 'study', 'instructional', 'areas', 'funding', 'graduate', 'libraries', 'institutions', 'international', 'fields', 'educational', 'development', 'teaching', 'activities', 'region', 'nation', 'offerings', 'resources']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                             |

@@ -8,6 +8,21 @@
  CFR-2018-title14-vol2.Pt. 97
 
 
+# Summary
+
+(a) This part prescribes standard instrument approach procedures to civil airports in the United States and the weather minimums that apply to landings under IFR at those airports.
+HAL means height above landing and is the height of the DA/MDA above a designated helicopter landing area elevation used for helicopter instrument approach procedures and is expressed in feet.
+Procedure turn means the maneuver prescribed when it is necessary to reverse direction to establish the aircraft on an intermediate or final approach course.
+Visibility minimum means the minimum visibility specified for approach, landing, or takeoff, expressed in statute miles, or in feet where RVR is reported.
+The standard instrument approach procedures and takeoff minimums and obstacle departure procedures (ODPs) are available for examination at the FAA's Rules Docket (AGC-200) and at the National Flight Data Center, 800 Independence Avenue, SW., Washington, DC 20590, or at the National Archives and Records Administration (NARA).
+(c) Standard instrument approach procedures and takeoff minimums and obstacle departure procedures (ODPs) are depicted on aeronautical charts published by the FAA National Aeronautical Charting Office.
+
+
+# Tags
+
+['means', 'instrument approach procedures', 'altitude', 'visibility', 'miles', 'minimums', 'course', 'landing', 'prescribes', 'height', 'faa', 'data', 'level', 'flight', 'airports', 'national']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                     |

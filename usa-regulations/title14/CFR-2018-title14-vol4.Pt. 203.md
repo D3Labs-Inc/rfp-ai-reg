@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 203
 
 
+# Summary
+
+This part requires that certain U.S. and foreign direct air carriers waive the passenger liability limits and certain carrier defenses in the Warsaw Convention in accordance with the provisions of Agreement 18900, dated May 13, 1966, and provides that acceptance of authority for, or operations by the carrier in, air transportation shall be considered to act as such a waiver by that carrier.
+(c) Participation in the Montreal Agreement, whether by signing the Agreement, filing a signed counterpart to it under &#167;&#8201;203.3, or by operation of law under &#167;&#8201;203.5, shall constitute a special agreement between the carrier and its passengers as a condition of carriage that a liability limit of not less than $75,000 (U.S.) shall apply under Article 22(1) of the Warsaw Convention for passenger injury and death.
+It shall be a condition on the authority of all direct U.S. and foreign carriers to operate in air transportation that they have and maintain in effect and on file with the Department a signed counterpart of Agreement 18900, and a tariff (for those carriers otherwise generally required to file tariffs) that includes its provisions, as required by this subpart.
+
+
+# Tags
+
+['carrier', 'agreement', 'file', 'air', 'shall', 'passenger']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                   |

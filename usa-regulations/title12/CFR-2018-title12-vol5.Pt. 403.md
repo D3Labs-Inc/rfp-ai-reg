@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 403
 
 
+# Summary
+
+(2) A determination to classify information shall be made by an original classification authority when the information concerns one or more of categories (i) through (x) of this paragraph, and when the unauthorized disclosure of the information, either by itself or in the context of other information, reasonably could be expected to cause damage to the national security.
+(x) Other categories of information that are related to the national security and that require protection against unauthorized disclosure as determined by the President of the United States, by the Chairman or by other officials who have been delegated original classification authority by the President.
+(3) Information that is determined to concern one or more of the above categories shall be classified when an original classification authority also determines that its unauthorized disclosure, either by itself or in the context of other information, reasonably could be expected to cause damage to the national security.
+(1) In no case shall information be classified in order to conceal violations of law, inefficiency, or administrative error; to prevent embarrassment to a person, organization, or agency; to restrain competition; or to prevent or delay the release of information that does not require protection in the interest of national security.
+
+
+# Tags
+
+['shall', 'classification', 'national security information', 'classify', 'original', 'office', 'require', 'documents', 'markings', 'determines', 'declassification', 'materials', 'records', 'bank', 'state', 'order', 'access', 'administration', 'services', 'confidential', 'designate', 'review', 'authorize', 'foreign', 'appropriate', 'possibility', 'reason', 'agency', 'directed', 'specifically', 'persons', 'acting', 'sources', 'requested', 'caused', 'meanings', 'permanent', 'control', 'officials', 'level', 'projects', 'disclosures', 'government', 'forms', 'written', 'procedure']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                              |

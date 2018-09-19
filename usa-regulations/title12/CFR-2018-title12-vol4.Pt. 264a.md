@@ -8,6 +8,19 @@
  CFR-2018-title12-vol4.Pt. 264a
 
 
+# Summary
+
+For purposes of this part, an officer or employee of the Federal Reserve is considered to be the &#8220;senior examiner&#8221; for a particular state member bank, bank holding company, savings and loan holding company, or foreign bank if&#8212;
+An officer or employee of the Federal Reserve who serves as the senior examiner of a state member bank for two or more months during the last twelve months of such individual's employment with the Federal Reserve may not, within one year after leaving the employment of the Federal Reserve, knowingly accept compensation as an employee, officer, director or consultant from&#8212;
+An officer or employee of the Federal Reserve who serves as the senior examiner of a bank holding company for two or more months during the last twelve months of such individual's employment with the Federal Reserve may not, within one year of leaving the employment of the Federal Reserve, knowingly accept compensation as an employee, officer, director or consultant from&#8212;
+An officer or employee of the Federal Reserve who serves as the senior examiner of a savings and loan holding company for two or more months during the last twelve months of such individual's employment with the Federal Reserve may not, within one year of leaving the employment of the Federal Reserve, knowingly accept compensation as an employee, officer, director or consultant from&#8212;
+
+
+# Tags
+
+['bank', 'company', 'act', 'state', 'examiner', 'reserve', 'restrictions', 'penalty']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                     |

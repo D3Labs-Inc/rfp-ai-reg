@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 548
 
 
+# Summary
+
+(a) The institution's chaplain may contract with representatives of faith groups in the community to provide specific religious services which the chaplain cannot personally deliver due to, ordinarily, religious prescriptions or ecclesiastical constraints to which the chaplain adheres.
+(c) The Warden or the Warden's designee (ordinarily the chaplain) may require a recognized representative of the faith group to verify a volunteer's or contractor's religious credentials prior to approving his or her entry into the institution.
+(b) An inmate ordinarily shall be allowed to wear or use personal religious items during religious services, ceremonies, and meetings in the chapel, unless the Warden determines that the wearing or use of such items would threaten institution security, safety, or good order.
+Consistent with maintaining security, safety, and good order in the institution, the Warden shall endeavor to facilitate the observance of important religious holy days which involve special fasts, dietary regulations, worship, or work proscription.
+(a) The Bureau provides inmates requesting a religious diet reasonable and equitable opportunity to observe their religious dietary practice within the constraints of budget limitations and the security and orderly running of the institution and the Bureau through a religious diet menu.
+
+
+# Tags
+
+['religious', 'inmates', 'ordinarily', 'work', 'shall', 'chaplains', 'days', 'institution', 'visiting', 'diets', 'provide pastoral', 'requesting', 'limitation', 'personal', 'dietary', 'ceremonial', 'services']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                          |

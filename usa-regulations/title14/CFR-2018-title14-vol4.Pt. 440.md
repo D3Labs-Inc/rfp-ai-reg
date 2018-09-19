@@ -8,6 +8,17 @@
  CFR-2018-title14-vol4.Pt. 440
 
 
+# Summary
+
+(d) The licensee or permittee must obtain and maintain in effect a policy or policies of insurance, in an amount determined by the FAA under paragraph (e) of this section, that covers claims by the United States, its agencies, and its contractors and subcontractors involved in a licensed or permitted activity for property damage or loss resulting from a licensed or permitted activity.
+(iii) The Federal Aviation Administration of the Department of Transportation on behalf of the United States, but only to the extent provided in legislation, must hold harmless and indemnify the licensee or permittee, each first-tier customer, any part 440 customer, and their respective directors, officers, servants, agents, subsidiaries, employees and assignees, or any of them, from and against liability, loss or damage arising out of claims that contractors and subcontractors of the United States may have for property damage sustained by them and for bodily injury or property damage sustained by their employees, resulting from licensed or permitted activities and arising out of the indemnifying party's failure to implement properly the waiver requirement to the extent that claims they would otherwise have for such damage or injury exceed the amount of insurance or demonstration of financial responsibility required under &#167;&#8201;440.9(c) and (e).
+
+
+# Tags
+
+['insured', 'mean', 'shall', 'claim', 'activity', 'required', 'including', 'party', 'states', 'property', 'licensed', 'policies', 'reentry authorized', 'launched', 'iii', 'responsible', 'government', 'injury', 'loss', 'customers', 'financial', 'liabilities', 'information', 'reasonably', 'result', 'provide', 'permit issued', 'demonstration', 'order']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                      |

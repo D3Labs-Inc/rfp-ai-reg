@@ -8,6 +8,20 @@
  CFR-2018-title12-vol7.Pt. 810
 
 
+# Summary
+
+Pursuant to this authority, Federal Financing Bank bills, referred to herein as &#8220;FFB bills,&#8221; are offered for sale from time to time and tenders invited therefor, through the Federal Reserve Banks.
+Federal Financing Bank bills will be issued in denominations of $10,000, $15,000, $50,000, $100,000, $500,000 and $1,000,000 (maturity value).
+On the occasion of an offering of FFB bills, tenders therefor will be invited through public notices issued by the Federal Financing Bank.
+Each FFB bill will be paid in its face amount at maturity upon presentation and surrender to any Federal Reserve Bank or Branch or to the Department of the Treasury, Bureau of the Public Debt, Securities Transaction Branch, Washington, DC 20226.
+The Federal Reserve Banks, as fiscal agents of the United States, have been authorized by the Department of the Treasury to perform all such acts as may be necessary to carry out the provisions of this and other circulars of the Department of the Treasury as may be applicable to FFB bills, and of any public notice or notices issued in connection with any offering of these securities.
+
+
+# Tags
+
+['secure', 'federal', 'bills', 'public', 'banks', 'treasury obligations', 'tenders']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                             |

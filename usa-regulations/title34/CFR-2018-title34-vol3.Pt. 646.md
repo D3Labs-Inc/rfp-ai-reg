@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 646
 
 
+# Summary
+
+The Secretary evaluates the need for a Student Support Services project proposed at the applicant institution on the basis of the extent to which the application contains clear evidence of&#8212;
+The Secretary evaluates the quality of the applicant's proposed objectives in the following areas on the basis of the extent to which they are both ambitious, as related to the need data provided under paragraph (a) of this section, and attainable, given the project's plan of operation, budget, and other resources.
+(1) (3 points) The qualifications required of the project director, including formal education and training in fields related to the objectives of the project, and experience in designing, managing, or implementing Student Support Services or similar projects;
+(2) Uses the approved project objectives for the applicant's expiring Student Support Services grant and the information the applicant submitted in its annual performance reports (APRs) to determine the number of prior PE points; and
+Whether the applicant met or exceeded its objective regarding the current and prior participants receiving a baccalaureate degree at the grantee institution within the specified number of years.
+For each year of the project period, a grantee must serve at least the number of participants that the Secretary identifies in the Federal Register notice inviting applications for a competition.
+
+
+# Tags
+
+['students', 'applications', 'projects', 'points', 'secretary', 'program', 'services', 'funds', 'education', 'grants', 'participated', 'scores', 'academic', 'years', 'financial', 'including', 'institutions', 'provided', 'cost', 'aid', 'persons', 'federal', 'means', 'requirements', 'following', 'report', 'evaluations', 'reviewers', 'designing', 'number', 'award', 'plans', 'administration', 'receive', 'loans', 'activities', 'income', 'supporting', 'degree', 'serves', 'grantee', 'objective', 'need', 'population', 'managing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                           |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1263
 
 
+# Summary
+
+An applicant shall be deemed to make long-term home mortgage loans, as required by section 4(a)(1)(C) of the Bank Act (12 U.S.C. 1424(a)(1)(C)) and &#167;&#8201;1263.6(a)(3), if, based on the applicant's most recent regulatory financial report filed with its appropriate regulator, or other documentation provided to the Bank, in the case of a CDFI applicant that does not file such reports, the applicant originates or purchases long-term home mortgage loans.
+In determining whether a building and loan association, savings and loan association, cooperative bank, homestead association, savings bank, insured depository institution, or CDFI credit union has complied with the financial condition requirements of section 4(a)(2)(B) of the Bank Act (12 U.S.C. 1424(a)(2)(B)) and &#167;&#8201;1263.6(a)(4), the Bank shall obtain as a part of the membership application and review each of the following documents:
+An institution that has been conditionally approved for membership under paragraph (c)(1) or (d)(1) of this section shall be subject to all regulations applicable to members generally, including those relating to stock purchase requirements and or collateral, notwithstanding that its membership may be conditional for some period of time.
+A Bank designating the principal place of business for a member under this section shall document the bases for its determination in writing and shall include that documentation in the membership digest and application file for the institution that are required under &#167;&#8201;1263.2.
+
+
+# Tags
+
+['shall', 'applicant', 'banking', 'means', 'institutions', 'requirement', 'includes', 'loan', 'membership', 'stock', 'regulatory financial', 'insured', 'provides', 'reports', 'regulations', 'member', 'written', 'recent', 'state', 'business', 'officer', 'asset', 'fhfa', 'information', 'property', 'period', 'accounting', 'residential', 'homes', 'federally', 'following', 'rating', 'funds', 'houses', 'unions', 'terminates', 'combined', 'consolidated', 'documentation', 'operating expenses', 'appealed', 'requested', 'eligibility', 'file', 'entity', 'total', 'perform', 'standards', 'cra', 'generated', 'prior', 'associations', 'action', 'minimum', 'received', 'directors', 'statements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                   |

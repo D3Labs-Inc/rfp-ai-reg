@@ -8,6 +8,17 @@
  CFR-2018-title12-vol7.Pt. 628
 
 
+# Summary
+
+(4) If a securitization exposure is a derivative contract (other than protection provided by a System institution in the form of a credit derivative) that has a first priority claim on the cash flows from the underlying exposures (notwithstanding amounts due under interest rate or currency derivative contracts, fees due, or other similar payments), a System institution may choose to set the risk-weighted asset amount of the exposure equal to the amount of the exposure as determined in paragraph (c) of this section.
+Under the simple modified look-through approach, the risk-weighted asset amount for a System institution's equity exposure to an investment fund equals the adjusted carrying value of the equity exposure multiplied by the highest risk weight that applies to any exposure the fund is permitted to hold under the prospectus, partnership agreement, or similar agreement that defines the fund's permissible investments (excluding derivative contracts that are used for hedging rather than speculative purposes and that do not constitute a material portion of the fund's exposures).
+
+
+# Tags
+
+['exposure', 'capitalization', 'credit', 'risk', 'includes', 'institution', 'equity', 'means stock', 'transaction', 'reserved', 'provider', 'assets', 'require', 'loan', 'contracts', 'netting', 'general', 'payments', 'financial', 'values', 'iii', 'cash', 'secures', 'guaranteed', 'collateralized', 'periodic', 'losses', 'investment', 'instrumentality', 'follows', 'derivative', 'development', 'sections', 'securitized', 'similar', 'standard', 'bank holding', 'applicable', 'minimum', 'calculated', 'funded', 'reports', 'total', 'acts', 'marketable', 'eligible', 'counterparty', 'specifically', 'setting', 'fca', 'currently', 'agreement', 'obligate', 'contractual', 'defaulting', 'trade', 'legally', 'rate', 'entities', 'relating', 'weight', 'percent', 'effectiveness', 'non', 'business', 'limits', 'purchasers', 'companies', 'basis', 'allocating', 'approaches', 'prior', 'based', 'adjust', 'associated', 'day', 'meet', 'committed', 'deductions', 'members', 'services', 'disclosures', 'parties', 'qualified', 'underlying', 'corporations', 'times', 'settlements', 'tax', 'establishment', 'borrowers', 'protection', 'insured']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

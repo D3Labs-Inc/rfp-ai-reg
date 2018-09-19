@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 161
 
 
+# Summary
+
+(c) Where the provisions in this subpart are inconsistent with the Navajo Nation's agricultural resource management plan, the Secretary may waive the provisions under part 1 of this title, so long as the waiver does not violate a federal statute or judicial decision or conflict with the Secretary's trust responsibility under federal law.
+(a) BIA, with the concurrence of the Navajo Nation, will establish range units on the Navajo Partitioned Lands to provide unified areas for which range management plans can be developed to improve and maintain soil and forage resources.
+(b) If BIA determines that the owner of the unauthorized livestock or other property or the owner's representative is unknown or refuses delivery of the written notice, a public notice of intent to impound will be posted at the tribal community building, U.S. Post Office, and published in the local newspaper nearest to the Indian agricultural lands where the trespass is occurring.
+(b) BIA will provide public notice of sale of impounded property by posting at the tribal community building, U.S. Post Office, and publishing in the local newspaper nearest to the Indian agricultural lands where the trespass is occurring.
+
+
+# Tags
+
+['bia', 'permits', 'grazing', 'land', 'managing', 'tribal', 'trespassers', 'resources', 'range', 'including', 'areas', 'requirements', 'following', 'permittee', 'use', 'units authorized', 'written', 'act means', 'nation', 'livestock', 'actions', 'provides', 'navajo', 'law', 'time', 'improve', 'planning', 'productive', 'agricultural', 'property', 'immediately', 'impounded', 'cost', 'indian', 'applicants', 'provisions', 'notice', 'penalties', 'forage', 'effect', 'committee', 'entity', 'concurrent', 'proceed', 'developed', 'decisions', 'damages', 'approved', 'party', 'publication', 'federal', 'dates', 'appropriate', 'apply', 'activity', 'issued', 'brands', 'specifying']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                               |

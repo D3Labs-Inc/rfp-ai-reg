@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 4
 
 
+# Summary
+
+(a) In any situation where the Administrator has reason to believe that any person licensed under the Act has violated or is violating any provision of the Act, or the regulations or standards issued thereunder, and he deems it warranted under the circumstances, the Administrator may suspend such person's license temporarily, for a period not to exceed 21 days, effective, except as provided in &#167;&#8201;4.10(b), upon written notification given to such person of the suspension of his license pursuant to &#167;&#8201;1.147(b) of the Uniform Rules of Practice (7 CFR 1.147(b)).
+(b) In any case of actual or threatened physical harm to animals in violation of the Act, or the regulations or standards issued thereunder, by a person licensed under the Act, the Administrator may suspend such person's license temporarily, for a period not to exceed 21 days, effective upon oral or written notification, whichever is earlier.
+In the event of oral notification, a written confirmation thereof shall be given to such person pursuant to &#167;&#8201;1.147(b) of the Uniform Rules of Practice (7 CFR 1.147(b)) as promptly as circumstances permit.
+(a) At any time prior to the issuance of a complaint seeking a civil penalty under the Act, the Administrator, in his discretion, may enter into a stipulation with any person in which:
+
+
+# Tags
+
+['administrator', 'notification', 'penalty', 'practice', 'person licensed', 'matter']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                           |

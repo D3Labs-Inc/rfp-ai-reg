@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1102
 
 
+# Summary
+
+Pursuant to &#167;&#167;&#8201;1102.103(b), 1102.104(d), 1102.109(c) and 1102.109(a)(4) of this subpart, the time within which a request for information, access or amendment by an individual with respect to records maintained by the ASC that pertain to him or her normally would be processed may be extended for good cause shown or because of unusual circumstances.
+Except as provided in paragraph (b) of this section or by 12 CFR part 1102, subpart C, no person shall disclose or permit the disclosure of any exempt records, or information contained therein, to any persons other than those officers, directors, employees, or agents of the ASC or a State appraiser regulatory agency who has a need for such records in the performance of their official duties.
+These notice requirements need not be followed if the ASC Officer determines under this subpart that the information should not be disclosed; the information has been published or has been officially made available to the public; disclosure of the information is required by law (other than FOIA); or the submitter's request for confidential treatment appears obviously frivolous, in such instance the submitter shall be given written notice of the determination to disclose the information at least five business days prior to release.
+
+
+# Tags
+
+['shall', 'records', 'ascs', 'requesters', 'informational', 'includes', 'times', 'persons', 'appraisals', 'statements', 'written', 'appropriate', 'agency', 'provide', 'stated', 'document', 'reasonable', 'pursuant', 'authorizing', 'general', 'section', 'fees', 'disclosures', 'office', 'require', 'means', 'procedure', 'acting', 'responses', 'filing', 'parties', 'services', 'ruled', 'directors', 'federally', 'order', 'reviewed', 'administrative', 'iii', 'law', 'confidentiality', 'determines', 'setting', 'public', 'amendment', 'periodically', 'commercial', 'staff', 'individual', 'institution', 'proceeding', 'seek', 'specifically', 'clearly', 'notices', 'address', 'relating', 'professional', 'copies', 'exemptions', 'particularity', 'amcs', 'usc', 'appears', 'process', 'regulated', 'promptly', 'follows', 'identified', 'search', 'applicant', 'day', 'cost', 'conducting', 'identification', 'waiver', 'non', 'received', 'fact', 'materials']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

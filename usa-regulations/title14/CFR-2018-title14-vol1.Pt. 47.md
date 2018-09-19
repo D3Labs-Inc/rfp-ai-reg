@@ -8,6 +8,20 @@
  CFR-2018-title14-vol1.Pt. 47
 
 
+# Summary
+
+(a) A person who wishes to register an aircraft in the United States must submit an Aircraft Registration Application, AC Form 8050-1 under this part.
+The FAA issues a Certificate of Aircraft Registration, AC Form 8050-3 to the person who appears to be the owner on the basis of the evidence of ownership submitted pursuant to &#167;&#8201;47.11 with the Aircraft Registration Application, or recorded at the Registry.
+The applicant must obtain the U.S. registration number from the Registry by request in writing describing the aircraft by make, type, model, and serial number (or, if it is amateur-built, as provided in &#167;&#8201;47.33(b)) and stating that the aircraft has not previously been registered anywhere.
+(1) This temporary authority is valid for operation within the United States until the date the applicant receives the Certificate of Aircraft Registration or until the date the FAA denies the application, but in no case for more than 90 days after the date the applicant signs the application.
+(a) If the original Certificate of Aircraft Registration, AC Form 8050-3, is lost, stolen, or mutilated, the registered owner may submit to the Registry a written request that states the reason a replacement certificate is needed and the fee required by &#167;&#8201;47.17.
+
+
+# Tags
+
+['registration', 'certificates', 'applicant', 'registering aircraft', 'stating', 'number', 'submit', 'registry', 'authorizes', 'required', 'signed', 'expires', 'form', 'person', 'flight', 'shall', 'corporation', 'request', 'owners', 'officers', 'evidence', 'follows', 'date', 'foreign', 'type', 'letter', 'recorded', 'faa', 'lawfully', 'period', 'trustee', 'temporary', 'agreement', 'trusts', 'issue', 'describing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                |

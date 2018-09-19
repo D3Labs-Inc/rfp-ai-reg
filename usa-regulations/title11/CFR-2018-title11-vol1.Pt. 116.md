@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 116
 
 
+# Summary
+
+(2) The candidate and the political committee have undertaken all reasonable efforts to satisfy the outstanding debt and the requirements of 11 CFR 116.7 or 116.8, as appropriate, including the submission of the information specified in those sections and Commission review, are satisfied.
+A creditor may forgive the outstanding balance of a debt owed by an ongoing committee if the creditor and the ongoing committee have satisfied the requirements of 11 CFR 116.3 or 116.5, as appropriate, regarding extensions of credit by commercial vendors and advances by committee staff and other individuals, and the debt has been outstanding for at least twenty-four months, and&#8212;
+A political committee may request that the Commission determine that a debt owed to a creditor is not payable for purposes of the Act if the debt has been outstanding for at least twenty-four months, and the requirements of paragraph (b) or (c) of this section, as appropriate, have been satisfied, and&#8212;
+The terminating committee shall continue to disclose the debt on its schedules of outstanding debts and obligations until the Commission has completed its review of the debt settlement plan pursuant to 11 CFR 116.7(f) and has determined that the debt is not payable for purposes of the Act.
+
+
+# Tags
+
+['debt', 'committees', 'shall', 'included', 'funds', 'creditors', 'pursuant', 'payments', 'reasonable', 'provide', 'commission', 'elects', 'vendor', 'report', 'obligations', 'cfr', 'owed', 'disputed', 'iii', 'expenses', 'addition', 'service', 'date', 'involves', 'received', 'loan']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                             |

@@ -8,6 +8,22 @@
  CFR-2018-title28-vol2.Pt. 61
 
 
+# Summary
+
+The purpose of this part is to establish Department of Justice procedures which supplement the relevant provisions of the NEPA regulations and to provide for the implementation of those provisions identified in 40 CFR 1507.3(b).
+Internal procedures applicable, respectively, to the Bureau of Prisons, the Drug Enforcement Administration, the Immigration and Naturalization Service, and the Office of Justice Assistance, Research and Statistics are set forth in the appendices to this part, for informational purposes.
+(b) The Department of Justice shall independently determine whether an EIS or an environmental assessment is required where:
+The NEPA regulations contain requirements to ensure adequate consideration of environmental documents in agency decisionmaking.
+(b) If the Department of Justice has primary responsibility for the subject matter involved and if the subunit affected finds that the bill or legislative proposal has a significant impact on the environment, that subunit shall prepare a legislative environmental impact statement in compliance with 40 CFR 1506.8.
+CEQ shall be consulted when emergency circumstances make it necessary to take a major federal action with significant environmental impact without following otherwise applicable procedural requirements under NEPA.
+The Land and Natural Resources Division shall have final responsibility for ensuring compliance with the requirements of the procedures set forth in this part.
+
+
+# Tags
+
+['environmental', 'actions', 'shall', 'procedural', 'alternatives', 'department', 'requiring', 'regulations', 'nepa', 'legislation', 'justice', 'enforcement', 'eis', 'includes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                            |

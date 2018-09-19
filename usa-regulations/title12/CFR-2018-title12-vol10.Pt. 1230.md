@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1230
 
 
+# Summary
+
+(3) A regulated entity or the Office of Finance shall not, without providing the Director at least 30 days' advance written notice, pay, disburse, or transfer to any executive officer, annual compensation (where the annual amount has changed); pay for performance or other incentive pay; any amounts under a severance plan, change-in-control agreement, or other separation agreement; any compensation that would qualify as direct compensation for purposes of securities filings; or any other element of compensation identified by the Director prior to the notice period.
+(4) Notwithstanding the foregoing review periods, a regulated entity or the Office of Finance shall provide five business days' advance written notice to the Director before committing to pay compensation of any amount or type to an executive officer who is being newly hired.
+During the review period required by paragraph (d) of this section, or any extension thereof, a regulated entity or the Office of Finance shall not execute the compensation action that is under review unless the Director provides written notice of approval or non-objection.
+An Enterprise may not enter into any agreement or contract to provide any payment of money or other thing of current or potential value in connection with the termination of employment of an executive officer unless the agreement or contract is approved in advance by the Director.
+
+
+# Tags
+
+['compensation', 'provide', 'shall', 'office', 'agreements', 'directors', 'notice', 'executive', 'benefit', 'plan', 'required', 'businesses', 'similar', 'arrangements', 'regulated', 'acts', 'pay']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                            |

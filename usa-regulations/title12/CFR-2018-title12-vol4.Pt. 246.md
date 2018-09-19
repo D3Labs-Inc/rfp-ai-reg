@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 246
 
 
+# Summary
+
+(1) Is a bank holding company, other than a foreign bank holding company, with $50 billion or more in total consolidated assets, as determined based on the average of the bank holding company's total consolidated assets reported for the assessment period on the Federal Reserve's Form FR Y-9C (&#8220;FR Y-9C&#8221;),
+(2)(i) Is a savings and loan holding company, other than a foreign savings and loan holding company, with $50 billion or more in total consolidated assets, as determined, except as provided in paragraph (a)(2)(ii) of this section, based on the average of the savings and loan holding company's total consolidated assets as reported for the assessment period on the FR Y-9C or on the Quarterly Savings and Loan Holding Company Report (FR 2320), as applicable.
+For any savings and loan holding company, other than a foreign savings and loan holding company, total assessable assets will be, except as provided in paragraph (e)(3)(ii) of this section, the average of the savings and loan holding company's total consolidated assets as reported for the assessment period on the regulatory reports on the savings and loan holding company's Form FR Y-9C, column B of the Quarterly Savings and Loan Holding Company Report (FR 2320), or other reports as determined by the Board as applicable to the savings and loan holding company.
+
+
+# Tags
+
+['assessable', 'company', 'act', 'total', 'line', 'financial', 'board', 'period means', 'reporting', 'shall', 'assets', 'banking', 'applicable', 'domiciled', 'organizations', 'purpose', 'subsidiaries', 'calculated', 'foreign']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                   |

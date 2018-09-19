@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 216
 
 
+# Summary
+
+(d) In those instances in which the permit or lease requires regrading and backfilling, the mining plan shall show the proposed methods and the timing of grading and backfilling of areas of land to be affected by the operation.
+(e) The mining supervisor shall review the mining plan submitted to him by the operator and shall promptly indicate to the operator any changes, additions, or amendments necessary to meet the requirements formulated pursuant to &#167;&#8201;216.4, the provisions of these regulations and the terms of the permit or lease.
+Whenever it is determined by such inspection that backfilling and grading have been carried out in accordance with the established requirements and approved exploration or mining plan, the superintendent shall issue a release of an appropriate amount of the performance bond for the area graded and backfilled.
+(b) If the mining supervisor determines that an operator has failed to comply with the terms and conditions of a permit or lease, or with the requirements of an exploration or mining plan, or with the provisions of applicable regulations, the superintendent shall serve a notice of noncompliance upon the operator by delivery in person to him or his agent or by certified or registered mail addressed to the operator at his last known address.
+
+
+# Tags
+
+['shall', 'operating', 'plan', 'waters', 'required', 'land', 'mining', 'exploration', 'approved', 'areas', 'include', 'means', 'supervisor', 'roads', 'proposes', 'development', 'surface', 'bonds', 'control', 'reclamation', 'indian', 'necessary', 'authorized', 'states', 'perform', 'disturbed', 'resources', 'minerals', 'amendments', 'pollutants', 'cultural', 'deposit']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                              |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1223
 
 
+# Summary
+
+D&amp;I strategic planning is the process of analyzing the business and activities of a regulated entity to develop strategies for promoting diversity and ensuring the inclusion of minorities, women, individuals with disabilities, and MWDOBs in all activities and at every level of the organization, including management, employment, and contracting.
+Each regulated entity shall develop, implement, and maintain policies and procedures to ensure, to the maximum extent possible in balance with financially safe and sound business practices, the inclusion and utilization of minorities, women, individuals with disabilities, and minority-, women-, and disabled-owned businesses in all business and activities and at all levels of the regulated entity, including in management, employment, procurement, insurance, and all types of contracts.
+(4) Data showing by minority and gender the number of individuals hired for employment with the regulated entity in each occupational or job category identified on the Form EEO-1 during the reporting year;
+(5) Data showing by minority, gender and disability classification, and categorized as voluntary or involuntary, the number of separations from employment with the regulated entity in each occupational or job category identified on the Form EEO-1 during the reporting year;
+
+
+# Tags
+
+['shall', 'entities', 'report', 'contracts including', 'service', 'year', 'businesses', 'information', 'employer', 'data', 'disability', 'identify', 'officer', 'policy', 'diversity', 'investment', 'discrimination', 'american', 'minorities', 'mwdob', 'actions', 'fhfa', 'financial', 'women individuals', 'meaning', 'opportunity', 'establish', 'minimum', 'requiring', 'responsibilities', 'extent', 'management', 'job', 'provided', 'promote', 'complaints']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                     |

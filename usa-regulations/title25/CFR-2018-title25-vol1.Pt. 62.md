@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 62
 
 
+# Summary
+
+(b) The regulations in this part are not applicable and do not provide procedures for the filing of appeals from adverse enrollment actions by tribal committees, unless:
+When an appeal is from an adverse enrollment action taken by a Superintendent or tribal committee, the Superintendent shall acknowledge in writing receipt of the appeal and shall forward the appeal to the Director together with any relevant information or records; the recommendations of the tribal committee, when applicable; and his/her recommendations on the appeal.
+(a) Except as provided in paragraph (c) of this section, when an appeal is from an adverse enrollment action taken by a Superintendent or tribal committee, the Director will consider the record as presented together with such additional information as may be considered pertinent.
+(b) When an appeal is from an adverse enrollment action taken by a Director, the Director shall acknowledge in writing receipt of the appeal and shall forward the appeal to the Assistant Secretary for final action together with any relevant information or records; the recommendations of the tribal committee, when applicable; and his/her recommendations.
+(c) The Director shall forward the appeal to the Assistant Secretary for final action together with any relevant information or records; the recommendations of the tribal committee, when applicable; and his/her recommendations when the adverse enrollment action which is being appealed is either:
+
+
+# Tags
+
+['shall', 'tribal', 'days', 'means', 'authorized', 'enrolled', 'action', 'document', 'information', 'appeal', 'mailing', 'files', 'office', 'secretarial']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                   |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 748
 
 
+# Summary
+
+A credit union must file a report if it knows, suspects, or has reason to suspect that any crime or any suspicious transaction related to money laundering activity or a violation of the Bank Secrecy Act has occurred.
+In situations involving violations requiring immediate attention, such as ongoing money laundering schemes, a credit union must immediately notify, by telephone, an appropriate law enforcement authority and its supervisory authority, in addition to filing a SAR.
+This section is issued to ensure that all federally insured credit unions establish and maintain procedures reasonably designed to assure and monitor compliance with the requirements of subchapter II of chapter 53 of title 31, United States Code, the Financial Recordkeeping and Reporting of Currency and Foreign Transactions Act, and the implementing regulations promulgated under it by the Department of Treasury, 31 CFR chapter X.
+Each federally insured credit union shall develop and provide for the continued administration of a program reasonably designed to assure and monitor compliance with the recordkeeping and recording requirements in subchapter II of chapter 53 of title 31, United States Code and implementing regulations issued by the Department of Treasury at 31 CFR chapter X.
+
+
+# Tags
+
+['union', 'transaction', 'reporting', 'filings', 'compliance', 'member', 'security', 'suspect', 'information', 'involves', 'act', 'including', 'recording', 'money', 'law', 'loan', 'program', 'activity', 'regulations', 'reason', 'provided', 'natural', 'violation', 'means', 'federally', 'requiring']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                           |

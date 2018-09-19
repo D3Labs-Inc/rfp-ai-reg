@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 205
 
 
+# Summary
+
+(a) The provisions in the Section regarding registration of &#8220;buyers of farm products, commission merchants, and selling agents,&#8221; &#8220;regular&#8221; distribution of &#8220;portions&#8221; of the master list, furnishing of &#8220;oral confirmation * * * on request,&#8221; and the effect of all this, that is, subsections (c)(2) (D), (E) and (F), (e) (2) and (3), and (g)(2) (C) and (D), must be read together.
+Not registering with a particular system operator has the effect, under subsections (e)(2) and (g)(2)(C), of making such persons, whether they are inside or outside the State covered by that system, subject to security interests shown on that system's master list whether or not such persons know about them, so that such persons for their own protection will need to query the system operator about any seller &#8220;engaged in farming operations,&#8221; of a farm product produced in the State covered by that system, with whom they deal.
+Upon such filing in such system, subsections (e)(2) and (g)(2)(C) make buyers, commission merchants and selling agents not registered with that system subject to the security interest in that product whether or not they know about it, even if they are outside that State.
+
+
+# Tags
+
+['states', 'information', 'persons', 'mean', 'products', 'registrant', 'secured', 'filing', 'efs', 'section', 'requires', 'including', 'needed', 'electronically', 'crop', 'lists', 'law', 'years', 'operation', 'terms', 'effective', 'distribution', 'farming', 'forms', 'amendment', 'documents', 'notices', 'follows', 'recordings', 'inspection']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                         |

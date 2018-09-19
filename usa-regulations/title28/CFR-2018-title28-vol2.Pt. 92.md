@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 92
 
 
+# Summary
+
+(5) In the case of an undergraduate, agree in writing that the participant will complete an educational course of study leading to the award of a baccalaureate degree and will then accept an appointment and complete four years of service as an officer in the State police or in a local police department within the State;
+An applicant may apply to participate in more than one State Police Corps program, provided that the applicant is prepared to commit to serve as a law enforcement officer in the State to which application is made.
+Appropriate application materials should be developed by the State Police Corps agency to obtain the information reasonably needed to make selection and assignment decisions and to provide required information to the Director.
+The non-profit community organizations that wish to receive a grant under this program should provide for an overall program design with the objective of recruiting and retaining applicants from a variety of populations to a police department.
+(2) The program provides recruiting services that include tutorial programs to enable individuals to meet police force academic requirements and to pass entrance examinations;
+(4) The program provides retention services to assist in retaining individuals to stay in the application process of the police department.
+
+
+# Tags
+
+['programs', 'applicable', 'policing', 'educational', 'include', 'academic', 'corps', 'study', 'service', 'provide', 'requirement', 'individual', 'localities', 'counseling', 'processes', 'funds', 'agency', 'year', 'nonprofit', 'participants receive', 'expenses', 'selected', 'enforcement', 'state', 'payments', 'shall', 'community', 'school', 'recognized', 'recruitment', 'organization', 'officers', 'reimbursement', 'developing', 'satisfactory', 'needed', 'law']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                |

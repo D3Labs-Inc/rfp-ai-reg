@@ -8,6 +8,22 @@
  CFR-2018-title25-vol1.Pt. 41
 
 
+# Summary
+
+This subpart prescribes procedures for providing financial and technical assistance under the TCCUA for the operation and improvement of Tribal colleges and universities and advancement of educational opportunities for Indian students.
+(b) BIE must consult with the Secretary of Education to determine the reasonable number of students required to support a Tribal college or university.
+(b) Within 30 days of receiving a resolution or other duly authorized request from the governing body of one or more Indian Tribes, BIE will initiate an eligibility study to determine whether there is justification to encourage and maintain a Tribal college or university.
+(a) If the Tribal college or university receives a positive determination of the eligibility study under &#167;&#8201;41.19(d), it is entitled to apply for financial assistance under this subpart.
+Yes. Eligibility for grants under this subpart does not bar a Tribal college or university from receiving financial assistance under any other Federal program.
+Yes. Eligibility for grants under this subpart does not bar Din&#233; College from receiving financial assistance under any other Federal program.
+(a) The Din&#233; College must use financial assistance under this subpart only for operation and maintenance, including educations programs, annual capital expenditures, major capital improvements, mandatory payments, supplemental student services, and improvement and expansion, as described in 25 U.S.C. 640c-1(b)(1);
+
+
+# Tags
+
+['meanings', 'indian', 'educational', 'colleges', 'universities', 'eligible', 'tribal', 'funding', 'students', 'bie', 'grants', 'assist', 'term', 'program', 'include', 'determines', 'received', 'facilities', 'tribes', 'annually', 'submit', 'nation', 'payment', 'requesting', 'instruction', 'services', 'financial', 'procedures', 'fte', 'provided', 'written', 'year', 'information', 'established', 'din', 'authorized']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                              |

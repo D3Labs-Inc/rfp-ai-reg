@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 325
 
 
+# Summary
+
+The purpose of this part is to establish procedures to be followed in designating eligible points and in determining essential air transportation levels for eligible points, and in the appeals and periodic reviews of these determinations, under section 419 of the Act.
+(a) DOT, on a periodic basis, will send a questionnaire to each eligible point that is served by not more than one certificated air carrier, or is designated as an eligible point under section 419(b) of the Act, or for which DOT is reviewing its essential air service needs.
+(c) Any other interested person may, during the 60-day response period, submit information relevant to the essential air service level of that eligible point by filing in the Documentary Services Division, five copies of a document titled with the name of the point involved.
+(a) Not later than October 24, 1979, after reviewing all information submitted, CAB issued determinations of the essential level of air service for eligible points that, on October 24, 1978, were served by not more than one direct air carrier holding a certificate under section 401 of the Act for scheduled service to the point.
+
+
+# Tags
+
+['services', 'states', 'shall', 'air', 'points', 'level', 'information', 'designation', 'determining', 'periodic', 'responsibility']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                            |

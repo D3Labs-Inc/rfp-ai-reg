@@ -8,6 +8,22 @@
  CFR-2018-title9-vol2.Pt. 315
 
 
+# Summary
+
+Carcasses and parts passed for cooking; rendering into lard or tallow.
+Carcasses and parts passed for cooking may be rendered into lard in accordance with &#167;&#8201;319.702 of this subchapter or rendered into tallow, provided such rendering is done in the following manner:
+Such carcasses and parts shall be cooked for a time sufficient to render them effectually into lard or tallow, provided all parts of the products are heated to a temperature not lower than 170 &#176;F.
+(b) At establishments not equipped with closed rendering equipment for rendering carcasses and parts passed for cooking into lard and tallow, such carcasses or parts may be rendered in open kettles under the direct supervision of a Program employee.
+Carcasses and parts passed for cooking may be used for the preparation of meat food products, provided all such carcasses or parts are heated to a temperature not lower than 170 &#176;F.
+Disposal of products passed for cooking if not handled according to this part.
+Products passed for cooking if not handled and processed in accordance with the provisions of this part, shall be disposed of in accordance with &#167;&#8201;314.1 or &#167;&#8201;314.3 of this subchapter.
+
+
+# Tags
+
+['products', 'shall', 'render', 'open']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                           |

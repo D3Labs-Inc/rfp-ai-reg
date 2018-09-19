@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1239
 
 
+# Summary
+
+(4) FHFA has the authority under the Safety and Soundness Act to review a regulated entity's indemnification policies, procedures, and practices to ensure that they are conducted in a safe and sound manner, and that they are consistent with the body of law adopted by the board of directors under paragraph (b) of this section.
+The board of directors of each regulated entity shall have committees, however styled, that address each of the following areas of responsibility: Risk management; audit; compensation; and corporate governance (in the case of the Banks, including the nomination of independent board of director candidates, and, in the case of the Enterprises, including the nomination of all board of director candidates).
+Each regulated entity's board of directors shall approve, have in effect at all times, and periodically review an enterprise-wide risk management program that establishes the regulated entity's risk appetite, aligns the risk appetite with the regulated entity's strategies and objectives, addresses the regulated entity's exposure to credit risk, market risk, liquidity risk, business risk and operational risk, and complies with the requirements of this part and with all applicable FHFA regulations and policies.
+
+
+# Tags
+
+['shall', 'risks', 'including', 'management', 'appropriate', 'directors', 'business', 'report', 'policy', 'independence', 'entity', 'financial', 'committees', 'officers', 'accountability', 'responsibility', 'board member means', 'law', 'practical', 'audit', 'banks', 'internal', 'written', 'requirements', 'operational', 'market', 'address', 'reviewing', 'procedures', 'related', 'reasonable', 'applicable', 'activities', 'compensation', 'compliance', 'establish', 'timely', 'values', 'meetings', 'manner', 'structure']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                           |

@@ -8,6 +8,20 @@
  CFR-2018-title14-vol3.Pt. 198
 
 
+# Summary
+
+(2) In the case of non-premium insurance, an aircraft operation is no longer performed under contract to a department, agency, or instrumentality of the U.S. Government; or pursuant to an agreement between the United States and a foreign government; or the Administrator finds that commercial insurance can now be obtained on reasonable terms.
+(b) Policies issued without premium may be revised from time to time by the FAA with notice to the insured, to add aircraft or insurable items or to amend amounts of coverage if the insured has changed the amount by which it has otherwise insured or self-insured the aircraft or itself.
+(c) Each applicant for premium or non-premium insurance must, upon request by the FAA, submit to the FAA evidence that commercial insurance is not available on reasonable terms for each flight or ground operation for which insurance is sought.
+Each aircraft operator who has a standby non-premium insurance policy must, upon request by the FAA, submit evidence to the FAA that commercial insurance is not available on reasonable terms before the FAA activates that policy.
+(d) The standby non-premium policy issued to the aircraft operator does not provide actual coverage until formally activated by the FAA.
+
+
+# Tags
+
+['insurable', 'faa', 'policies', 'aircraft operation', 'arising', 'consumers', 'binders', 'covered', 'premiums', 'following', 'stating', 'applicable']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                   |

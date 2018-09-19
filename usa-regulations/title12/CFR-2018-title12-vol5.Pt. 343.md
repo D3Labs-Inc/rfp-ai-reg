@@ -8,6 +8,20 @@
  CFR-2018-title12-vol5.Pt. 343
 
 
+# Summary
+
+(2) For purposes of this definition, activities on behalf of a bank include activities where a person, whether at an office of the bank or at another location sells, solicits, advertises, or offers an insurance product or annuity and at least one of the following applies:
+(i) The person represents to a consumer that the sale, solicitation, advertisement, or offer of any insurance product or annuity is by or on behalf of the bank;
+The disclosures required by paragraph (a) of this section must be provided orally and in writing before the completion of the initial sale of an insurance product or annuity to a consumer.
+The disclosure required by paragraph (b) of this section must be made orally and in writing at the time the consumer applies for an extension of credit in connection with which an insurance product or annuity is solicited, offered, or sold.
+The disclosures described in paragraph (a) of this section are required in advertisements and promotional material for insurance products or annuities unless the advertisements and promotional materials are of a general nature describing or listing the services or products offered by the bank.
+
+
+# Tags
+
+['insured', 'banking', 'disclosures', 'sale', 'consumer', 'person', 'state', 'provide', 'include', 'annuity', 'acts', 'means', 'electronic media', 'activities', 'form', 'federal', 'general', 'public', 'solicitation', 'deposit', 'physically', 'documentation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                  |

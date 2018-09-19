@@ -8,6 +8,19 @@
  CFR-2018-title14-vol2.Pt. 93
 
 
+# Summary
+
+(a) Each of the following airports is designated as a high density traffic airport and, except as provided in &#167;&#8201;93.129 and paragraph (b) of this section, or unless otherwise authorized by ATC, is limited to the hourly number of allocated IFR operations (takeoffs and landings) that may be reserved for the specified classes of users for that airport:
+(a) Any air carrier of commuter operator having the authority to conduct international operations shall be provided slots for those operations, excluding transborder service solely between HDR airports and Canada, subject to the following conditions and the other provisions of this section:
+This subpart prescribes special operating rules for all persons operating aircraft in the following airspace, designated as the Grand Canyon National Park Special Flight Rules Area: That airspace extending from the surface up to but not including 18,000 feet MSL within an area bounded by a line beginning at Lat. 35&#176;55&#8242;12&#8243; N., Long.
+Except when in contact with the Grand Canyon National Park Airport Traffic Control Tower during arrival or departure or on a search and rescue mission directed by the U.S. Air Force Rescue Coordination Center, no person may operate an aircraft in the Special Flight Rules Area unless he monitors the appropriate frequency continuously while in that airspace.
+
+
+# Tags
+
+['operations', 'slots', 'flights', 'shall', 'airports', 'aircraft', 'areas', 'included', 'allocate', 'points', 'rule', 'international', 'applicable', 'section', 'services', 'special air traffic', 'authorizations', 'requirements', 'carriers', 'number', 'road', 'faa', 'corridors', 'requests', 'pilot', 'airspace extending', 'new', 'vfr', 'following', 'control', 'persons', 'seasons', 'limit', 'segment', 'designated', 'beginning', 'mean', 'sfra', 'based', 'periods', 'direction', 'altitudes', 'north', 'park', 'prior', 'transfers', 'boundary', 'use', 'atc', 'canyon', 'west', 'sector', 'procedures', 'conducts', 'federal', 'time', 'frequency', 'officer', 'generally', 'appropriate', 'lotteries', 'nation', 'miles', 'pattern', 'east', 'restrictions', 'addition', 'termination', 'days', 'classes', 'iii', 'reports', 'lake', 'msl', 'commercial', 'south', 'subpart', 'radio']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

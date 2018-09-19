@@ -8,6 +8,18 @@
  CFR-2018-title25-vol1.Pt. 226
 
 
+# Summary
+
+If Lessee refuses to comply, the refusal will be considered a violation of the lease terms and said lease shall be subject to cancellation as to the acreage or horizon the further development of which was ordered: Provided further, That the Superintendent may impose restrictions as to time of drilling and rate of production from any well or wells when in his judgment, such action may be necessary or proper for the protection of the natural resources of the leased land and the interests of the Osage Tribe.
+(b) The Superintendent may, with the consent of and under terms approved by the Osage Tribal Council, grant an extension of the primary term of a lease on which the actual drilling of a well shall have commenced within the term thereof or for the purpose of enabling Lessee to obtain a market for his oil and/or gas production.
+(2) Any member of the Osage Tribe residing in Osage County and outside a corporate city is entitled to the use at his own expense of not to exceed 400,000 cubic feet of gas per calendar year for his principal residence at a rate not to exceed the amount paid by a gas purchaser plus 10 percent: Provided, That such requirement shall be subject to the determination by the Superintendent that gas in sufficient quantities is available above that needed for lease operation and that no waste would result.
+
+
+# Tags
+
+['terms shall', 'lessees', 'leases', 'operations', 'gas', 'oil', 'drills', 'superintendent', 'said', 'thereof', 'damage', 'productive', 'provided', 'approved', 'tank', 'royalty', 'information', 'produced', 'bond', 'necessary', 'land', 'included', 'prior', 'requirements', 'watering', 'use', 'persons', 'purchases', 'wells', 'measurements', 'corporation', 'plug', 'reports', 'written', 'agreement', 'filing', 'rental', 'commencement', 'osage', 'surface', 'proper', 'party', 'immediately', 'reasonably', 'original', 'authorized representative', 'payments', 'gross', 'showing', 'furnish', 'formations', 'recovery', 'line', 'procedures', 'recorded', 'days', 'execute', 'time', 'regulating', 'covered', 'working', 'holes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

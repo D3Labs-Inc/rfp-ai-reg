@@ -8,6 +8,17 @@
  CFR-2018-title12-vol1.Pt. 43
 
 
+# Summary
+
+Except as set forth in paragraph (b)(8)(ii) of this section, each third-party purchaser and its affiliates must comply with the hedging and other restrictions in &#167;&#8201;43.12 as if it were the retaining sponsor with respect to the securitization transaction and had acquired the eligible horizontal residual interest pursuant to &#167;&#8201;43.4; provided that, the hedging and other restrictions in &#167;&#8201;43.12 shall not apply on or after the date that each CRE loan (as defined in &#167;&#8201;43.14) that serves as collateral for outstanding ABS interests has been defeased.
+In addition to the disclosures required pursuant to &#167;&#8201;43.4(c), the sponsor provides, or causes to be provided, to potential investors a reasonable period of time prior to the sale of the asset-backed securities as part of the securitization transaction and, upon request, to the Commission and its appropriate Federal banking agency, if any, in written form under the caption &#8220;Credit Risk Retention&#8221;, the name and form of organization of any originator that will acquire and retain (or has acquired and retained) an interest in the transaction pursuant to this section, including a description of the form and amount (expressed as a percentage and dollar amount (or corresponding amount in the foreign currency in which the ABS interests are issued, as applicable)) and nature (e.g., senior or subordinated) of the interest, as well as the method of payment for such interest under paragraph (a)(1)(iv) of this section.
+
+
+# Tags
+
+['loans', 'includes', 'means', 'assets', 'secures', 'property', 'shall', 'interests', 'transaction', 'requires securitizers', 'pursuant', 'issue', 'credit', 'sponsored', 'payments', 'providing', 'entity', 'qualify', 'iii', 'collateral', 'purchasers', 'agreements', 'risks', 'debt', 'service', 'income', 'application', 'mortgages', 'years', 'principally', 'follows', 'date', 'vehicle', 'originally', 'basis', 'similar', 'rate', 'federal', 'abs', 'person', 'funding', 'cash', 'section', 'commercially', 'specifies', 'values', 'determine', 'materially', 'described', 'documentation', 'prior', 'financial', 'periods', 'developer', 'controlling', 'retain', 'monthly', 'account', 'thereof', 'standard', 'family', 'state', 'ratios', 'seller', 'capitalization', 'timely', 'financed', 'clo', 'amounts', 'affiliates', 'utility', 'generally', 'insured', 'losses', 'definition', 'operating', 'hedging', 'base', 'obligation', 'tax', 'acting', 'day']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

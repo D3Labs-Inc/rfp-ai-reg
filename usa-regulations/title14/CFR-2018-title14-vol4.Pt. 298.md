@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 298
 
 
+# Summary
+
+Nothing in this part shall be construed as authorizing the operation of large aircraft in air transportation, and the exemption provided by this part to air taxi operators and commuter air carriers that register with the Department extends only to the direct operation in air transportation in accordance with the limitations and conditions of this part of aircraft originally designed to have a maximum passenger capacity of 60 seats or less or a maximum payload capacity of 18,000 pounds or less.
+(a) An air taxi operator or commuter air carrier in holding out to the public and in performing its services in air transportation shall do so only in the name or names in which its air carrier certificate is issued pursuant to section 44702 of the Statute by the Federal Aviation Administration, and in which it is registered with the Department under this part, or in which its Commuter Air Carrier Authorization is issued or other trade name is registered.
+(a) Each commuter air carrier and each small certificated air carrier shall file with the Department's Bureau of Transportation Statistics (BTS) the applicable schedules of BTS Form 298-C, A Report of Financial and Operating Statistics for Small Aircraft Operators' and Schedule T-100, AU.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market&#8221; as required by this section.
+
+
+# Tags
+
+['operations', 'shall', 'aircraft', 'flights', 'services', 'passengers', 'revenue', 'air carriers', 'expenses', 'transportation', 'schedules', 'reports', 'included', 'code', 'means', 'lines', 'provide', 'data', 'filing', 'miles', 'publicity', 'requirements', 'total', 'traffic', 'availability', 'authority', 'related', 'official', 'applications', 'agreement', 'persons', 'insurance', 'equipment', 'registrations', 'generally', 'information', 'types', 'pursuant', 'security', 'department', 'following', 'states', 'points', 'government', 'stage', 'travel', 'certificate', 'ticket', 'periods', 'personnel', 'number', 'capacity', 'aviation', 'fuel', 'airports', 'statistical', 'mails', 'sign', 'circumstances', 'ton', 'faa', 'maximum', 'bts', 'set']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |

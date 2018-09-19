@@ -8,6 +8,18 @@
  CFR-2018-title14-vol5.Pt. 1253
 
 
+# Summary
+
+The obligation to comply with these Title IX regulations is not obviated or alleviated by any rule or regulation of any organization, club, athletic or other league, or association that would render any applicant or student ineligible to participate or limit the eligibility or participation of any applicant or student, on the basis of sex, in any education program or activity operated by a recipient and that receives Federal financial assistance.
+Except as provided elsewhere in these Title IX regulations, no person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any academic, extracurricular, research, occupational training, or other education program or activity operated by a recipient that receives Federal financial assistance.
+(1) No person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination in employment, or recruitment, consideration, or selection therefor, whether full-time or part-time, under any education program or activity operated by a recipient that receives Federal financial assistance.
+
+
+# Tags
+
+['shall', 'including', 'sex', 'educational', 'employment', 'differently', 'students', 'institutions', 'recipients', 'federal', 'activity', 'provided', 'services', 'assisting', 'separation', 'recruitment', 'agency admission', 'applications', 'requirements', 'means', 'relation', 'operations', 'benefits', 'plans', 'athletics', 'facilities', 'actions', 'regulation', 'discrimination', 'offered', 'effectively', 'school', 'equally', 'organization', 'concerned', 'housing', 'transfers', 'limit', 'procedures', 'leave', 'apply', 'study', 'degree', 'persons', 'employees', 'materials', 'associate', 'job', 'policies', 'provisions', 'subject', 'treat', 'occupations', 'professional', 'designed', 'use', 'program', 'purposes', 'opportunities', 'periodic']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                   |

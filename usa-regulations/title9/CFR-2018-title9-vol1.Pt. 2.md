@@ -8,6 +8,18 @@
  CFR-2018-title9-vol1.Pt. 2
 
 
+# Summary
+
+(c) A licensed dealer who operates as a broker or an operator of an auction sale shall set forth in his or her license renewal application and annual report the total gross amount, expressed in dollars, derived from commissions or fees charged for the sale of animals by the licensee to research facilities, dealers, exhibitors, retail pet stores, and persons for use as pets, during the preceding business year (calendar or fiscal), and any other information as may be required thereon.
+(a)(1) Each dealer, other than operators of auction sales and brokers to whom animals are consigned, and each exhibitor shall make, keep, and maintain records or forms which fully and correctly disclose the following information concerning each dog or cat purchased or otherwise acquired, owned, held, or otherwise in his or her possession or under his or her control, or which is transported, euthanized, sold, or otherwise disposed of by that dealer or exhibitor.
+(f) A research facility which acquires any live random source dog or cat from a dealer must obtain the certification required under paragraph (b) of this section and shall keep, maintain, and make available for APHIS inspection the original for at least 3 years following disposition.
+
+
+# Tags
+
+['shall', 'animals', 'include', 'facilities', 'requiring', 'provide', 'recorded', 'aphis', 'research', 'licensed', 'personally', 'cared', 'transported', 'iacuc', 'cat', 'applicant', 'dog', 'dealers', 'inform', 'certification', 'tags', 'sections', 'followed', 'inspection', 'use', 'accepts', 'number', 'approved', 'identified', 'appropriate', 'health', 'activities', 'exhibitors', 'business', 'written', 'conditions', 'reports', 'sales', 'usda', 'live', 'period', 'identification', 'year', 'dates', 'veterinary', 'operator', 'holding', 'breeding', 'iii', 'reviewed', 'control', 'stated', 'carrier', 'public', 'officials', 'fees', 'physically', 'personnel', 'maintained', 'setting', 'exhibiting', 'adequate', 'documenting', 'acting', 'handling', 'tattoos', 'train', 'federal', 'needed', 'issuing', 'registration', 'pets', 'contain', 'veterinarian', 'purpose', 'sufficient', 'sites', 'times', 'completing', 'obtain']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

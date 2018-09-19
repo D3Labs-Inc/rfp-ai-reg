@@ -8,6 +8,20 @@
  CFR-2018-title9-vol1.Pt. 89
 
 
+# Summary
+
+(d) When the movement of livestock is delayed en route so that the period of their confinement in the cars materially exceeds that specified by the Twenty-Eight Hour Law, the livestock should receive additional feed in proportion to such excess time.
+(a) Livestock should be unloaded into pens of the character described in &#167;&#8201;89.5(a) for feeding, watering, and resting, unless there is ample room in the car for all of the animals to lie down at the same time.
+(d) Livestock unloaded for water and returned to the car for feed and rest should be allowed to remain in the pens not less than 1 hour.
+(d) Livestock unloaded for water and returned to the car for feed and rest should be allowed to remain in the pens not less than 1 hour.
+(a) Stock pens and other enclosures for feeding, watering, and resting livestock in transit should have (1) sufficient space for all of the livestock to lie down at the same time, (2) properly designed facilities for feeding and watering the livestock, (3) reasonably well-drained, clean, and safe floors of concrete, cinders, gravel, hard-packed earth, or other suitable material, and (4) suitable protection from weather reasonably to be expected in the region in which the pens are located.
+
+
+# Tags
+
+['feed', 'watering', 'livestock', 'conditions', 'hours', 'time', 'ration', 'sufficient', 'ample']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                        |

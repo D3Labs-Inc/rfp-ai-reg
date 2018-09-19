@@ -8,6 +8,19 @@
  CFR-2018-title14-vol5.Pt. 1217
 
 
+# Summary
+
+This part sets forth policy and procedures with respect to the use of the NASA's authority to certify to the U.S. Commissioner of Customs duty-free entry of articles into the United States for the use of NASA or for implementation of a NASA international program, including articles that will be launched into space, spare parts for such articles, ground support equipment, or uniquely associated equipment for use in connection with a NASA international program or launch service agreement.
+The revised authorities also provided, in U.S. note 1 to subchapter VIII of chapter 98 of the HTSUS, that articles brought into the customs territory of the United States by NASA from space or from a foreign country as part of a NASA's international programs would not be considered imports or subject to customs entry requirements.
+(a) The following NASA officials, their deputies, and designees within their respective organizations are authorized, under the conditions described herein, to make the certification to the Commissioner of Customs required for the duty-free entry of space articles pursuant to subheading HTSUS 9808.00.80.
+Pursuant to U.S. note 1 subchapter VIII of chapter 98, HTSUS, articles brought into the customs territory of the United States by NASA from space shall not be considered an importation, and no certification or entry of such materials through U.S. Customs shall be required.
+
+
+# Tags
+
+['article', 'nasa', 'shall', 'space', 'customer', 'official', 'certifications', 'require', 'htsus', 'foreign', 'directorate', 'pursuant', 'associate', 'international']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                     |

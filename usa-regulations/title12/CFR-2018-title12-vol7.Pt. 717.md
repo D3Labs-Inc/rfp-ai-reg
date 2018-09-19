@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 717
 
 
+# Summary
+
+(A) If a consumer has a time deposit account, such as a share certificate, at a federal credit union that is currently in force, the federal credit union has a pre-existing business relationship with the consumer and can use eligibility information it receives from its affiliates to make solicitations to the consumer about its products or services.
+(E) If a consumer makes a telephone inquiry to a federal credit union about its products or services and provides contact information to the institution, but does not obtain a product or service from or enter into a financial contract or transaction with the institution, the federal credit union has a pre-existing business relationship with the consumer and can therefore use eligibility information it receives from an affiliate to make solicitations to the consumer about its products or services for three months after the date of the inquiry.
+The federal credit union is prohibited from using eligibility information received from its insurance brokerage affiliate to make solicitations to the consumer about its home equity loan products unless the consumer is given a notice and opportunity to opt out and the consumer does not opt out.
+
+
+# Tags
+
+['informs', 'credit', 'consumer eligibility', 'provides', 'accountability', 'medical', 'notice', 'service', 'affiliates', 'including', 'means', 'reasons', 'iii', 'unions', 'applicable', 'creditor', 'generally', 'report', 'establishing', 'example', 'receive', 'periodic', 'addresses', 'requiring', 'program', 'electronic', 'relationship', 'insurance', 'loans', 'solicitations', 'opted', 'purposes', 'section', 'products', 'person', 'transactions', 'applying', 'companies', 'described', 'obtaining', 'market', 'payment', 'term', 'continued', 'debt', 'requested', 'furnished', 'brokerage', 'contained', 'uses', 'acting', 'mails', 'relate', 'disputed', 'appropriately', 'law', 'card', 'specific', 'communicated', 'financial']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                    |

@@ -8,6 +8,20 @@
  CFR-2018-title28-vol2.Pt. 544
 
 
+# Summary
+
+Pursuant to the Crime Control Act of 1990 (18 U.S.C. 3624(f)), limited English proficient inmates confined in Federal Bureau of Prisons institutions are required to attend an English-as-a-Second Language (ESL) program until they function at the equivalence of the eighth grade level in competency skills.
+Except as provided for in &#167;&#8201;544.71, an inmate confined in a federal institution who does not have a verified General Educational Development (GED) credential or high school diploma is required to attend an adult literacy program for a minimum of 240 instructional hours or until a GED is achieved, whichever occurs first.
+(c) Staff shall document in the inmate's education file the specific reasons for not requiring the inmate to participate in, or to complete, the literacy program.
+(a) The Warden or designee shall assign to an education staff member the responsibility to coordinate the institution's literacy program.
+As with other mandatory programs, such as work assignments, staff may take disciplinary action against an inmate lacking a GED credential or high school diploma if that inmate refuses to enroll in, and to complete, the mandatory 240 instructional hours of the literacy program.
+
+
+# Tags
+
+['programs', 'inmate', 'shall', 'education', 'activity', 'hobbycrafts wellness', 'certificates', 'assignments', 'skill', 'institution need', 'staff', 'include', 'generally', 'levels', 'work', 'training', 'provides', 'requirements', 'participants', 'arts', 'personal', 'service', 'minimum', 'leisure time', 'goal', 'set', 'materials', 'prisons offers', 'approval', 'following', 'fits', 'special', 'act', 'sale', 'completed', 'prior', 'determination', 'individual']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                           |

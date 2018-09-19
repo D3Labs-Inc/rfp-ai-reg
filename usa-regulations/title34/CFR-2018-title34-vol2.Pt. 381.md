@@ -8,6 +8,19 @@
  CFR-2018-title34-vol2.Pt. 381
 
 
+# Summary
+
+(c) In any fiscal year in which the amount appropriated to carry out this part is equal to or greater than $5,500,000, an eligible system from any State and from any of the jurisdictions named in paragraph (b) of this section may apply to receive the amount allotted pursuant to section 509(c)-(e) of the Act.
+(3) Have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of eligible individuals with disabilities within the State and the American Indian Consortium;
+(b) Notwithstanding any other provision of law, in any fiscal year in which the amount appropriated for this program is equal to or greater than $5,500,000, the Secretary pays directly to an eligible system that submits an application that meets the requirements of &#167;&#8201;381.10 the amount of the allotment to the State pursuant to section 509 of the Act, unless the State provides otherwise.
+(b) The eligible system's use of information and records concerning individuals must be limited only to purposes directly connected with the protection and advocacy program, including program evaluation activities.
+
+
+# Tags
+
+['program', 'includes', 'state', 'funds', 'administrative', 'individuals', 'activity', 'required', 'act', 'mean', 'advocacy', 'secretary', 'services', 'cfr', 'mediation', 'providing information', 'shall', 'audit', 'regulation', 'income', 'federal', 'agency', 'disabling', 'procedures', 'american']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                   |

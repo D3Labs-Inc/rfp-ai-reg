@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 9036
 
 
+# Summary
+
+(vi) The photocopies of each check or written instrument and of supporting documentation shall either be alphabetized and referenced to copies of the relevant deposit slip, but not segregated by State as required in the threshold submission; or such photocopies may be batched in deposits of 50 contributions or less and cross-referenced by deposit number and sequence number within each deposit on the contributor list.
+If the candidate chooses to request the specific contributions rejected for matching pursuant to 11 CFR 9036.5(a)(2), the amount certified shall equal only the matchable amount of the particular contribution that meets the standards on resubmission, rather than the amount projected as being nonmatchable based on that contribution due to the sampling techniques used in reviewing the original submission.
+Candidates who have received matching funds and who are eligible to continue to receive such funds may continue to submit additional submissions for payment to the Commission on dates specified in the Federal Election Commission's Guideline for Presentation in Good Order.
+
+
+# Tags
+
+['shall', 'contribution', 'submissions', 'submit', 'contributors', 'candidate', 'payments', 'additional', 'commission', 'matched', 'resubmission', 'documentation', 'deposited', 'certifications required', 'date', 'funds', 'year', 'orders', 'base']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                             |

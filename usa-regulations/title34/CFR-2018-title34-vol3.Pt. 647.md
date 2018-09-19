@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 647
 
 
+# Summary
+
+The Secretary reviews each application to determine the extent to which the applicant can clearly and definitively demonstrate the need for a McNair project to serve the target population.
+The Secretary evaluates the quality of the applicant's objectives and proposed targets (percentages) in the following areas on the basis of the extent to which they are both ambitious, as related to the need data provided under paragraph (a) of this section, and attainable, given the project's plan of operation, budget, and other resources:
+(2) Uses the approved project objectives for the applicant's expiring McNair grant and the information the applicant submitted in its annual performance reports (APRs) to determine the number of PE points; and
+Whether the applicant met or exceeded its objective for providing participants served during the project year with appropriate research and scholarly activities each academic year.
+(A) Uses criteria not required by the applicable law or program regulations, the Federal Register notice inviting applications, the other published application materials for the competition, or guidance provided to the peer reviewers by the Secretary; or
+For each year of the project period, a grantee must serve at least the number of participants that the Secretary identifies in the Federal Register notice inviting applications for a competition.
+
+
+# Tags
+
+['applications', 'projects', 'programs', 'secretary', 'points', 'education', 'included', 'scores', 'students', 'provided', 'funds', 'services', 'participates', 'years', 'cost', 'research', 'report', 'degree', 'means', 'institutions', 'following', 'reviewer', 'financial', 'evaluating', 'academic', 'administrative', 'native', 'tuition', 'graduate', 'appropriate', 'award', 'number', 'geographically', 'persons', 'mcnair', 'populations', 'need', 'activity', 'requirements', 'eligible', 'grants', 'data']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                      |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 341
 
 
+# Summary
+
+This part is issued by the Federal Deposit Insurance Corporation (the FDIC) under sections 2, 3(a)(34)(B), 17, 17A and 23(a) of the Securities Exchange Act of 1934 (the Act), as amended (15 U.S.C. 78b, 78c(a)(34)(B), 78q, 78q-1 and 78w(a)) and applies to all insured State nonmember banks, insured State savings associations, or subsidiaries of such institutions, that act as transfer agents for securities registered under section 12 of the Act (15 U.S.C. 78l), or for securities exempt from registration under subsections (g)(2)(B) or (g)(2)(G) of section 12 (15 U.S.C. 781(g)(2)(B) and (G)) (securities of investment companies, including mutual funds, and certain insurance companies).
+An application for registration under section 17A(c) of the Act, of a transfer agent for which the FDIC is the appropriate regulatory agency, as defined in section 3(a)(34)(B)(iii) of the Act, shall be filed with the FDIC at its Washington, DC headquarters on Form TA-1, in accordance with the instructions contained therein.
+Any transfer agent registered under this part that ceases to engage in the functions of a transfer agent as defined in &#167;&#8201;341.2(a) shall file a written notice of withdrawal from registration with the FDIC.
+
+
+# Tags
+
+['shall', 'securities', 'fdic', 'means', 'days', 'insurance', 'transferring', 'issuance', 'federal', 'registering', 'act', 'certificate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                   |

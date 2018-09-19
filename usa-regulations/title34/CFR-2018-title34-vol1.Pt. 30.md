@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 30
 
 
+# Summary
+
+(2) If paragraph (c)(1) of this section applies, the Secretary may rely on 31 U.S.C. 3716 as authority for offset up to 10 years after the date that the official or officials described in that paragraph first knew or reasonably should have known of the right of the United States to collect the debt.
+What procedures apply when the Secretary requests another agency to offset a debt owed under a program or activity of the Department?
+If the Secretary collects more than one debt of a debtor by administrative offset, the Secretary applies the recovered funds to satisfy those debts based on the Secretary's determination of the best interests of the United States, determined by the facts and circumstances of the particular case.
+(2) The sixty-fifth day after the date of the notice under &#167;&#8201;30.22(b), if the debtor did not request a review under &#167;&#8201;30.24, or an opportunity to inspect and copy records of the Department under &#167;&#8201;30.23; or
+(2) The Secretary refers a proposed compromise, or suspension or termination of collection, of a debt that exceeds $1,000,000 and that arises under a loan program described in paragraph (e)(1) of this section to the Department of Justice for review.
+
+
+# Tags
+
+['secretary', 'debts', 'collects', 'debtor', 'costs', 'offset', 'procedures authorized', 'section', 'federal', 'requests', 'requirements', 'agency', 'actions', 'timely', 'loan', 'state', 'agreement', 'program', 'records', 'laws', 'days', 'report', 'file', 'charges', 'specific', 'education', 'department', 'funding']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                |

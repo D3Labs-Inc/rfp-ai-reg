@@ -8,6 +8,20 @@
  CFR-2018-title12-vol9.Pt. 1075
 
 
+# Summary
+
+The Bureau will use funds in the Civil Penalty Fund for payments to compensate eligible victims' uncompensated harm, as described in to paragraph (b) of this section.
+(iii) Except as provided in paragraph (c)(2)(i) of this section, if the final order in the Bureau enforcement action does not specify the amount of the victims' harm, each victim's compensable harm is equal to the victim's out-of-pocket losses that resulted from the violation or violations for which a civil penalty was imposed, except to the extent such losses are impracticable to determine.
+The Fund Administrator will allocate Civil Penalty Fund funds specified in paragraph (c) of this section to classes of victims and to consumer education and financial literacy programs as appropriate according to the schedule established in paragraph (b) of this section and the guidelines established in &#167;&#167;&#8201;1075.106 and 1075.107.
+If the funds available under &#167;&#8201;1075.105(c) are sufficient, the Fund Administrator will allocate to each class of victims the amount necessary to compensate fully the uncompensated harm, determined under &#167;&#8201;1075.104(b) as of the last day of the most recently concluded six-month period, of all victims in that class to whom it is practicable to make payments.
+For purposes of this paragraph (b), the Fund Administrator will assign each class of victims to the six-month period in which the victims first had uncompensated harm as described in &#167;&#8201;1075.104(b).
+
+
+# Tags
+
+['administrative', 'funds', 'victims', 'allocated', 'bureau means', 'ordered', 'including', 'period', 'law', 'establish', 'distribute', 'harm', 'financial', 'payment', 'action', 'compensated', 'redress', 'time']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                 |

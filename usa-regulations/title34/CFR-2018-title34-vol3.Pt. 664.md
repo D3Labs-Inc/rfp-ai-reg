@@ -8,6 +8,21 @@
  CFR-2018-title34-vol3.Pt. 664
 
 
+# Summary
+
+(a) The Fulbright-Hays Group Projects Abroad Program is designed to contribute to the development and improvement of the study of modern foreign languages and area studies in the United States by providing opportunities for teachers, students, and faculty to study in foreign countries.
+(b) Under the program, the Secretary awards grants to eligible institutions, departments, and organizations to conduct overseas group projects in research, training, and curriculum development.
+(3) Is an experienced education administrator responsible for planning, conducting, or supervising programs in modern foreign languages or area studies at the elementary, secondary, or postsecondary level; or
+The Secretary assists projects designed to develop or improve programs in modern foreign language or area studies at the elementary, secondary, or postsecondary level by supporting overseas projects in research, training, and curriculum development by groups of individuals engaged in a common endeavor.
+(1) Is designed to permit faculty and administrators in institutions of higher education and elementary and secondary schools, and administrators in State departments of education the opportunity to spend generally from four to eight weeks in a foreign country acquiring resource materials for curriculum development in modern foreign language and area studies; and
+The Secretary looks for information that shows the extent to which the project addresses program priorities in the field of modern foreign languages and area studies for that year.
+
+
+# Tags
+
+['projects', 'educational', 'program', 'secretary', 'studied', 'general', 'foreign languages', 'administrative', 'applications', 'relation', 'international', 'students', 'providing', 'country', 'group', 'economies', 'overseas', 'institution', 'resource', 'material', 'plan', 'secondary', 'instructional', 'possible', 'cost']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                               |

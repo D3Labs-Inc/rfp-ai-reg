@@ -8,6 +8,19 @@
  CFR-2018-title12-vol5.Pt. 340
 
 
+# Summary
+
+The purpose of this part is to prohibit individuals or entities that improperly profited or engaged in wrongdoing at the expense of a failed institution or covered financial company, or seriously mismanaged a failed institution, from buying assets of a failed institution from the Federal Deposit Insurance Corporation (FDIC).
+(1) The restrictions of this part generally apply to sales of assets of failed institutions owned or controlled by the FDIC in any capacity.
+(2) The restrictions in this section apply to the sale of assets of a subsidiary of a failed institution or a bridge depository institution if the FDIC controls the terms of the sale by agreement or in its role as shareholder.
+Neither 12 U.S.C. 1821(p) nor this part in any way limits the authority of the FDIC to establish policies prohibiting the sale of assets to prospective purchasers who have injured any failed institution, or to other prospective purchasers, such as certain employees or contractors of the FDIC, or individuals who are not in compliance with the terms of any debt or duty owed to the FDIC.
+
+
+# Tags
+
+['means', 'act', 'financial', 'assets', 'fdic', 'institution', 'federally', 'funds', 'exchange', 'final', 'corporation', 'policies', 'balance', 'restrictions', 'secures', 'banking', 'intermediary', 'obligation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                     |

@@ -8,6 +8,18 @@
  CFR-2018-title11-vol1.Pt. 9004
 
 
+# Summary
+
+Each candidate, except for individuals who have withdrawn pursuant to 11 CFR 9004.8, shall submit a statement of net outstanding qualified campaign expenses no later than 30 calendar days after the end of the expenditure report period.
+(i) If, in reviewing the preliminary statement of a candidate eligible to receive post-election funding, the Commission receives information indicating that substantial assets of that candidate's authorized committee(s) have been undervalued or not included in the statement or that the amount of outstanding qualified campaign expenses has been otherwise overstated in relation to committee assets, the Commission may decide to temporarily postpone its certification of funds to that candidate pending a final determination of whether the candidate is entitled to all or a portion of the funds for which he or she is eligible based on the percentage of votes the candidate received in the general election.
+A minor or new party candidate, or a major party candidate in the event of a deficiency in the payments received from the Fund due to the application of 11 CFR 9005.2(b), whose outstanding debts exceed the cash on hand after the end of the expenditure report period as determined under 11 CFR 9002.12, may dispose of assets acquired for fundraising purposes in a sale to a wholesaler or other intermediary who will in turn sell such assets to the public provided that the sale to the wholesaler or intermediary is an arms-length transaction.
+
+
+# Tags
+
+['election shall', 'included', 'expense', 'received', 'campaigns', 'costs', 'committees', 'candidate', 'asset', 'traveling', 'expenditures', 'funding', 'payments', 'pursuant', 'service', 'amounts', 'cfr', 'paid', 'government', 'itemized', 'reimbursement', 'total', 'commercial', 'iii', 'statement', 'equipment', 'winding', 'reasonable', 'provide', 'price', 'setting', 'limitation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                      |

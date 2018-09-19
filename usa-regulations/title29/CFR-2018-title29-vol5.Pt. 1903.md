@@ -8,6 +8,18 @@
  CFR-2018-title29-vol5.Pt. 1903
 
 
+# Summary
+
+(a) Section 15 of the Act provides: &#8220;All information reported to or otherwise obtained by the Secretary or his representative in connection with any inspection or proceeding under this Act which contains or which might reveal a trade secret referred to in section 1905 of title 18 of the United States Code shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this Act or when relevant in any proceeding under this Act. In any such proceeding the Secretary, the Commission, or the court shall issue such orders as may be appropriate to protect the confidentiality of trade secrets.&#8221; Section 15 of the Act is considered a statute within the meaning of section 552(b)(3) of title 5 of the United States Code, which exempts from the disclosure requirements matters that are &#8220;specifically exempted from disclosure by statute.&#8221;
+(a) If an inspection discloses that an employer has failed to correct an alleged violation for which a citation has been issued within the period permitted for its correction, the Area Director shall, if appropriate, consult with the Regional Solicitor, and he shall notify the employer by certified mail or by personal service by the Compliance Safety and Health Officer of such failure and of the additional penalty proposed under &#167;&#8201;1903.15(d)(5) by reason of such failure.
+(1) The employer must inform affected employees and their representative(s) about abatement activities covered by this section by posting a copy of each document submitted to the Agency or a summary of the document near the place where the violation occurred.
+
+
+# Tags
+
+['shall', 'inspected', 'employee', 'abate', 'information including', 'violation', 'officers', 'reasonably', 'act', 'employment', 'citations', 'appropriate', 'equipment', 'requirements', 'mean', 'working', 'compliance', 'operating', 'time', 'construction', 'state', 'immediately', 'review', 'posting', 'orders', 'notices', 'areas', 'date', 'days', 'documentation', 'sections', 'addition', 'physical', 'period', 'confidential', 'penalty', 'health', 'director', 'administrator', 'activity', 'personal', 'established', 'hazardous', 'general', 'contained', 'circumstances', 'thereof']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                       |

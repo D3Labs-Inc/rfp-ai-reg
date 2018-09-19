@@ -8,6 +8,19 @@
  CFR-2018-title34-vol3.Pt. 403
 
 
+# Summary
+
+(d) Consultation with the State council on vocational education and other appropriate agencies, groups, and individuals, including business, industry, and labor, involved in the planning, administration, evaluation, and coordination of programs funded under the Act;
+(a) A State desiring to participate in programs authorized by the Act shall designate or assign the head of the State office responsible for administering part B of the Individuals with Disabilities Education Act (IDEA) (20 U.S.C. 1400 et seq.) to review the implementation of the provisions of the Act as they relate to students with disabilities by reviewing all or a representative sample of applications of eligible recipients to ensure that&#8212;
+(5) To the extent consistent with the number and location of individuals who are members of special populations enrolled in private secondary schools, the State will provide for the participation of those individuals in the vocational education projects, services, and activities assisted under &#167;&#167;&#8201;403.112 and 403.113;
+(a) Except as provided in paragraphs (b) and (c) of this section, each eligible recipient, including a State corrections educational agency, that receives an award under a basic program listed in &#167;&#8201;403.60 or a special program listed in &#167;&#8201;403.130, may use no more than the amount of funds from each award that is necessary and reasonable for the proper and efficient administration of the projects, services, and activities for which the award was made.
+
+
+# Tags
+
+['programs', 'states', 'education', 'including', 'shall', 'students', 'provided', 'vocational', 'iii', 'developed', 'funds', 'service', 'agency', 'skill', 'occupations', 'projects', 'local', 'individualized', 'need', 'school boards', 'personnel requirements', 'acts', 'institutions', 'planning', 'secretary', 'organization', 'assisting', 'job training', 'areas', 'recipients', 'described', 'labor', 'careers', 'instruction', 'population', 'special', 'administrative', 'employability', 'working', 'inform', 'activity', 'academic', 'appropriate', 'economic', 'serving', 'assessment', 'evaluating', 'procedures', 'establishes', 'years', 'sex', 'federal', 'concerns', 'follows', 'receiving', 'improve', 'family', 'equipment', 'use', 'technologies', 'available', 'participation', 'industries', 'relates', 'financial', 'amounts', 'fiscal', 'teacher', 'applied', 'section', 'coordinated', 'increases', 'grants']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                           |

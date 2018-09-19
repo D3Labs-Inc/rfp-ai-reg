@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1277
 
 
+# Summary
+
+A Bank shall issue its stock only to its members, or to former members to the extent those institutions are required to maintain a minimum stock investment for existing activities under the capital plan, and only in book-entry form.
+(2) The capital plan shall specify the amount and class (or classes) of Bank stock that an institution is required to own in order to become and remain a member of the Bank, and to obtain advances from, or to engage in other business transactions with, the Bank.
+(3) The capital plan shall require the board of directors of the Bank to monitor and, as necessary, to adjust, the minimum investment to ensure that outstanding stock remains sufficient for the Bank to comply with its regulatory capital requirements.
+The capital plan shall provide that the owners of the Class B stock own the retained earnings, surplus, undivided profits, and equity reserves of the Bank, but shall have no right to receive any portion of those items, except through declaration of a dividend or capital distribution approved by the board of directors or through the liquidation of the Bank.
+
+
+# Tags
+
+['shall', 'bank including', 'stock means capital', 'require', 'redemption', 'written', 'plans', 'minimum investment', 'provides', 'notice', 'approval', 'institutions', 'rights', 'following', 'member', 'liquidated', 'repurchased']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                        |

@@ -8,6 +8,17 @@
  CFR-2018-title14-vol5.Pt. 1212
 
 
+# Summary
+
+(ii) To the extent that noncriminal investigative files may exist within this system of records, the Inspector General Investigations Case Files system of records is exempt from the following sections of the Privacy Act (5 U.S.C. 552a): (c)(3) relating to access to the disclosure accounting, (d) relating to access to records, (e)(1) relating to the type of information maintained in the records; (e)(4) (G), (H), and (I) relating to publishing the system notice information as to agency procedures for access and amendment and information as to the categories of sources or records, and (f) relating to developing agency rules for gaining access and making corrections.
+Any officer or employee of an agency, who by virtue of employment or official position, has possession of, or access to, agency records which contain individually identifiable information the disclosure of which is prohibited by this section or by rules or regulations established thereunder, and who knowing that disclosure of the specific material is so prohibited, willfully discloses the material in any manner to any person or agency not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000.
+
+
+# Tags
+
+['records', 'shall', 'nasa', 'information', 'individual', 'requests', 'provided', 'requirements', 'accessible', 'disclosure', 'authorized', 'including', 'systems', 'federal', 'maintained', 'determined', 'appropriate', 'persons', 'officer', 'procedures', 'act', 'official', 'agency', 'general', 'reasonably', 'materials', 'notices', 'reports', 'following', 'manages', 'employee', 'time', 'civil', 'center', 'regulation', 'identified', 'avoiding', 'overall', 'enforcement', 'investigations', 'established']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                 |

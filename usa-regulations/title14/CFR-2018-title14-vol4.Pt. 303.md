@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 303
 
 
+# Summary
+
+The Assistant Secretary or Administrative Law Judge, if the matter has been assigned to a judge, upon his or her initiative or upon application, may order the target company or other persons to submit some or all of the information required by this subpart, or other information under 14 CFR 302.25.
+(i) The person submitting the application to the Department shall send a complete copy of the application to the Chief, Transportation Section, Antitrust Division of the Department of Justice, at the same time as it is filed with the Documentary Services Division.
+The list shall include a description of the application, the docket number, date of filing, state that it may be reviewed in the Documentary Services Division, and indicate that interested parties may comment on the application or request a hearing within 21 days of the date of filling or other period as specified.
+After the period for which comments, requests for a hearing or responses to an order to show cause are due concerning a section 412 application, the Assistant Secretary may proceed by order requesting further information or justification or by order of approval or disapproval or, in appropriate cases, may proceed by order to show cause or by order instituting a full evidentiary hearing.
+
+
+# Tags
+
+['shall', 'applications', 'conferred', 'commenting', 'include', 'file', 'general', 'carriers', 'hearing', 'procedural', 'person', 'act', 'secretary', 'publication', 'antitrust', 'matter', 'set', 'requirements', 'ordered', 'immunity', 'date', 'term', 'section', 'timely', 'documents', 'notice', 'approved']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                             |

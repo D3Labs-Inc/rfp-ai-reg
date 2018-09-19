@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 45
 
 
+# Summary
+
+A covered swap entity shall post initial margin with respect to any non-cleared swap or non-cleared security-based swap to a counterparty that is a financial end user with material swaps exposure.
+A covered swap entity shall comply with the initial margin requirements described in paragraphs (a) and (b) of this section on each business day, for a period beginning on or before the business day following the day of execution and ending on the date the non-cleared swap or non-cleared security-based swap terminates or expires.
+For a non-cleared swap or non-cleared security-based swap with a swap entity, a covered swap entity shall collect initial margin and variation margin required pursuant to this part solely in the form of the following types of collateral:
+A covered swap entity satisfies its requirement to post initial margin under &#167;&#8201;45.3(b) by posting to its counterparty initial margin in the form and amount, and at such times, that its counterparty is required to collect pursuant to a foreign regulatory framework, provided that the counterparty is subject to the foreign regulatory framework and the prudential regulators have made a determination under paragraph (d)(1) of this section, unless otherwise stated in that determination, and the counterparty's obligations under the non-cleared swap or non-cleared security-based swap do not have a guarantee from:
+
+
+# Tags
+
+['margin', 'entity', 'models', 'security', 'companies', 'includes', 'pursuant', 'financial', 'requires', 'non swaps', 'internal risk', 'agreements', 'developments', 'collateral', 'bank', 'shall', 'provides', 'counterparties', 'day means', 'foreign', 'credit', 'initiation', 'act', 'stated', 'applicable', 'netting', 'dollars', 'lender', 'eligibility', 'compliance', 'cleared', 'investment', 'federal', 'legal', 'traded', 'money', 'collects', 'determines', 'prices', 'institutions', 'regulations', 'asset', 'currencies', 'market', 'material', 'similar', 'posted', 'sections', 'funds', 'periodically', 'basis', 'authorization', 'exchange', 'regulatory', 'business', 'sufficient']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

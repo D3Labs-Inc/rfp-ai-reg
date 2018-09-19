@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 332
 
 
+# Summary
+
+If selected to participate in a cooperative interstate shipment program, an establishment under this paragraph must employ on average no more than 25 employees as of July 1, 2014, or it must transition to become an official establishment as provided in &#167;&#8201;332.11 of this part.
+(b) Inspection services for selected establishments participating in a cooperative interstate shipment program must be provided by designated personnel, who will be under the direct supervision of a State employee.
+(a) To facilitate oversight and enforcement of this part, selected establishments operating under a cooperative interstate shipment program must, upon request, give the FSIS selected establishment coordinator or other FSIS officials access to all establishment records required under the Act and the implementing regulations in this chapter.
+(a) Transition grants are funds that a State participating in a cooperative interstate shipment program under this part may apply for to reimburse selected establishments in the State for the cost to train one individual in the seven HACCP principles for meat or poultry processing as required under &#167;&#8201;417.7 of this chapter and associated training in the development of sanitation standard operating procedures required under part 416 of this chapter.
+
+
+# Tags
+
+['established', 'states', 'employees', 'meat inspection', 'selected', 'cooperative', 'fsis', 'programs', 'official', 'federal', 'number', 'actions', 'procedures', 'transition', 'operating', 'basis']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                           |

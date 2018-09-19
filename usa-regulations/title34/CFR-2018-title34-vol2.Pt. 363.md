@@ -8,6 +8,19 @@
  CFR-2018-title34-vol2.Pt. 363
 
 
+# Summary
+
+(a) Under the State supported employment services program, the Secretary provides grants to assist States in developing and implementing collaborative programs with appropriate entities to provide programs of supported employment services for individuals with the most significant disabilities, including youth with the most significant disabilities, to enable them to achieve an employment outcome of supported employment in competitive integrated employment.
+(ii) In the event that a designated State agency uses more than 50 percent of its allotment under this part to provide supported employment services to youth with the most significant disabilities as required by &#167;&#8201;363.22, there is no requirement that a designated State agency provide non-Federal expenditures to match the excess Federal funds spent for this purpose.
+(a) A designated State unit must provide for the transition of an individual with a most significant disability, including a youth with a most significant disability, to extended services, as defined in 34 CFR 361.5(c)(19), no later than 24 months after the individual enters supported employment, unless a longer period is established in the individualized plan for employment.
+(ii) Is no longer eligible to receive extended services provided by the designated State unit with funds allotted under this part and 34 CFR part 361 because the individual&#8212;
+
+
+# Tags
+
+['state', 'include', 'program', 'required', 'employers', 'provider', 'supports', 'funds', 'services', 'needs', 'federal', 'disabilities', 'individuals', 'administrative', 'appropriated', 'receiving', 'agency', 'extended', 'competitive', 'collaborative', 'entities', 'information', 'regulations', 'expenditures']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                 |

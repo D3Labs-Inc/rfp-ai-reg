@@ -8,6 +8,17 @@
  CFR-2018-title12-vol4.Pt. 266
 
 
+# Summary
+
+This part, issued under authority of section 11(i) of the Federal Reserve Act (12 U.S.C. 248(i)), and pursuant to section 552 of title 5 of the United States Code, which requires that every agency shall publish in the Federal Register its rules of procedure, relates to limitations on former members and employees of the Board with respect to participation in matters connected with their former duties and official responsibilities while serving with the Board.&#8201;1
+No former member or employee of the Board shall appear personally before the Board or a Federal Reserve Bank on behalf of anyone other than the United States, an agency thereof, or a Federal Reserve Bank, in connection with any judicial or other proceeding, application, request for ruling or determination, or other particular matter involving a specific party or parties in which the United States, an agency thereof, or a Federal Reserve Bank is also a party or has a direct and substantial interest, and which matter was in process during his tenure of office or period of employment and under his official Board responsibility, at any time within a period of one year after the termination of such responsibility.
+
+
+# Tags
+
+['board', 'shall', 'matters', 'personally', 'proceeding', 'regulations', 'appearance', 'criminal', 'employees']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                          |

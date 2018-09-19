@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 6
 
 
+# Summary
+
+(a) No qualified handicapped person shall, on the basis of handicap, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity conducted by the Commission.
+No qualified handicapped person shall, on the basis of handicap, be subjected to discrimination in employment under any program or activity conducted by the Commission.
+The definitions, requirements, and procedures of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), as established in 29 CFR part 1613, shall apply to employment in federally conducted programs or activities.
+Except as otherwise provided in 11 CFR 6.150 and 11 CFR 6.151, no qualified handicapped person shall be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by the Commission because its facilities are inaccessible to or unusable by handicapped persons.
+If an action required to comply with this section would result in such an alteration or such burdens, the Commission will take any other action that would not result in such an alteration or such a burden but would nevertheless ensure that, to the maximum extent possible, handicapped persons receive the benefits and services of the program or activity.
+
+
+# Tags
+
+['person', 'accessibility', 'programs', 'including', 'complaint', 'impairments', 'require', 'service', 'commission', 'handicapped', 'act', 'organic', 'effect', 'identified', 'provide', 'aids means', 'federal', 'facilities', 'section', 'activities', 'physical', 'shall', 'buildings', 'setting appropriate', 'compliance', 'telephone', 'telecommunication', 'hearing', 'discrimination', 'allegations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                             |

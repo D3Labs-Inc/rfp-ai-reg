@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1249
 
 
+# Summary
+
+Book-entry System means the automated book-entry system operated by the Federal Reserve Banks acting as the fiscal agent for the Enterprises, on which Book-entry Enterprise Securities are issued, recorded, transferred and maintained in book-entry form.
+Transfer message means an instruction of a Participant to a Federal Reserve Bank to effect a transfer of a Book-entry Security (including a Book-entry Enterprise Security) maintained in the Book-entry System, as set forth in Federal Reserve Bank Operating Circulars.
+(a) Except in the case of a security interest in favor of the United States or a Federal Reserve Bank or otherwise as provided in &#167;&#8201;1249.13(c)(1), for the purposes of this part, each Enterprise and the Federal Reserve Banks shall treat the Participant to whose Securities Account an interest in a Book-entry Enterprise Security has been credited as the person exclusively entitled to issue a Transfer Message, to receive interest and other payments with respect thereof and otherwise to exercise all the rights and powers with respect to such Security, notwithstanding any information or notice to the contrary.
+
+
+# Tags
+
+['securities', 'bank', 'law', 'book', 'including', 'shall', 'enterprises', 'federal', 'trust', 'transferable', 'accounts', 'documents', 'setting', 'participation', 'certificate', 'meaning', 'form']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

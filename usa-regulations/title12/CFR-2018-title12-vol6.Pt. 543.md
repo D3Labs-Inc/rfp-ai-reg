@@ -8,6 +8,18 @@
  CFR-2018-title12-vol6.Pt. 543
 
 
+# Summary
+
+Approval by the Office of the organization of a Federal savings association or the conversion of an insured association to Federal savings association form shall constitute issuance of a charter and shall be final, provided that the association complies with the procedures set out at &#167;&#8201;544.2(a) of this chapter.
+Organization of a Federal savings association is completed when the organization meeting and the first meeting of its directors have been held, permanent officers have been bonded, the association holds the cash required to be paid on subscriptions to its capital, if required, Federal Home Loan Bank membership has been obtained and Federal Deposit Insurance Corporation insurance of accounts has been confirmed and any conditions imposed by the Office in connection with approval of the application have been met.
+(c) This section shall not be construed to prevent the exercise by a Federal savings association enjoying grandfathered rights hereunder of authority that is available under the applicable state law only upon the occurrence of specific preconditions, such as the attainment of a particular future date or specified level of regulatory capital, which have not occurred at the time of conversion from a state mutual savings bank, provided they occur thereafter.
+
+
+# Tags
+
+['shall', 'associations', 'office', 'meetings', 'businesses', 'approve', 'federal savings', 'require', 'organizing', 'application', 'transaction', 'provide', 'managers', 'existence', 'areas', 'directors', 'including', 'bank', 'mutual', 'charter', 'iii', 'capital', 'insurance', 'prior', 'plan', 'notice', 'act', 'set', 'expense', 'provisions']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                     |

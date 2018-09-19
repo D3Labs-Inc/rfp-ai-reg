@@ -8,6 +8,21 @@
  CFR-2018-title14-vol4.Pt. 223
 
 
+# Summary
+
+Air carrier means the holder of a certificate of public convenience and necessity issued by the Board under section 401 of the Act authorizing the carriage of persons.
+Foreign air carrier means the holder of a permit issued by the Board under section 402 of the Act authorizing the carriage of persons.
+Pass means a written authorization, other than actual ticket stock, issued by a carrier for free or reduced-rate transportation of persons or property.
+Air carriers and foreign air carriers are exempted from sections 403 and 404(b) of the Act and part 221 of this chapter to the extent necessary to provide free or reduced-rate foreign air transportation, including passes, to the following:
+(c) Technical representatives of companies that have been engaged in the manufacture, development or testing of a particular type of aircraft or aircraft equipment, when the transportation is provided for the purposes of in-flight observation, and subject to applicable regulations of the Federal Aviation Administration such as regulations pertaining to admission of persons to the aircraft flight deck.
+(a) Any air carrier or foreign air carrier desiring special authorization to provide free or reduced-rate foreign air transportation to persons to whom the carrier would not otherwise be authorized to furnish such transportation under the previous provisions of this part may apply to the Board, by letter or other writing, for such authorization.
+
+
+# Tags
+
+['transportation', 'persons', 'carrier means', 'air', 'shall', 'authorizing', 'rules', 'pass', 'requires', 'flight', 'free', 'retirement', 'official', 'including', 'aircraft', 'tariff', 'issued', 'government', 'controls']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                         |

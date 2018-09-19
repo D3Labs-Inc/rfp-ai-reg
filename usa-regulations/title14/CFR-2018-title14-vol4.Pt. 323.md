@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 323
 
 
+# Summary
+
+(3) Terminate or suspend all passenger air transportation that it is providing to any eligible place in the United States for which DOT has not issued an essential air service determination under either &#167;&#8201;325.5 or &#167;&#8201;325.7 of this chapter, when that termination or suspension will leave only one certificated carrier serving that place.
+(4) Reduce passenger air transportation to any eligible place in Alaska for which DOT has not determined the level of essential air service so that the service between that place and every other place served by a certificated carrier is either:
+(5) Terminate, suspend, or reduce passenger air transportation at an eligible place for which DOT has issued, or is required to issue, an essential air service determination under section 41731 or section 41733 of the Statute so that the total available seats of all the carriers linking that place to FAA-designated hubs will be reduced by 33 percent or more during a 90-day period.
+(a) Any person may file an objection requesting DOT to prohibit any termination, suspension, or reduction of air transportation to an eligible place that is the subject of a notice filed under this part.
+
+
+# Tags
+
+['air carriers', 'service', 'shall file', 'transportation', 'notices', 'place', 'dot', 'general', 'stating', 'days', 'reasonably', 'hub', 'include', 'flights', 'airports', 'number', 'scheduled', 'objections', 'times', 'aviation', 'government']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                      |

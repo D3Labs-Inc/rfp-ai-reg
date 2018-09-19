@@ -8,6 +8,23 @@
  CFR-2018-title28-vol2.Pt. 810
 
 
+# Summary
+
+If you are an offender under supervision by the Court Services and Offender Supervision Agency for the District of Columbia (&#8220;CSOSA&#8221;), CSOSA will establish a supervision level for you and your minimum contact requirement (that is, the minimum frequency of face-to-face interactions between you and a Community Supervision Officer (&#8220;CSO&#8221;)).
+(b) The CSO is responsible for monitoring your compliance with the conditions of supervision.
+The accountability contract identifies the following specific activities constituting substance abuse or non-criminal violations of your conditions of supervision.
+(viii) Failure to notify the CSO within 48 hours of being arrested or questioned by a law enforcement officer.
+(x) Failure to adhere to any general or special condition of release.
+(d) The accountability contract will provide for a reduction in your supervision level and/or the removal of previously imposed sanctions if:
+(a) If your CSO has reason to believe that you are failing to abide by the general or specific conditions of release or you are engaging in criminal activity, you will be in violation of the conditions of your supervision.
+Your CSO may then impose administrative sanctions (see paragraph (b) of this section) and/or request a hearing by the releasing authority.
+
+
+# Tags
+
+['supervised', 'sanctions', 'treatment', 'activities', 'cso', 'increased', 'parole', 'community', 'substance', 'officer', 'specialized']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                         |

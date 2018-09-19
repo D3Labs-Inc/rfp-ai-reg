@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 248
 
 
+# Summary
+
+(a) Whenever any air carrier subject to &#167;&#8201;248.1 shall have caused an annual audit of its books, records, and accounts to be made by independent public accountants, such air carrier shall file with the Office of Airline Information, in duplicate, a special report consisting of a true and complete copy of the audit report submitted by such independent public accountants, including all schedules, exhibits, and certificates included in, attached to, or submitted with or separately as a part of, the audit report.
+(b) Each air carrier subject to &#167;&#8201;248.1 that does not cause an annual audit to be made of its books, records, and accounts for any fiscal year shall, at the close of such fiscal year file with the Board's Office of the Comptroller, as a part of its periodic reports, a statement that no such audit has been performed.
+The report required by this part shall be filed with the Office of Airline Information within 15 days after the due date of the appropriate periodic BTS Form 41 Report, filed for the 12-month period covered by the audit report, or the date the accountant submits its audit report to the air carrier, whichever is later.
+The special reports required to be filed by &#167;&#8201;248.2 shall be withheld from public disclosure, until further order of the BTS, if such treatment is requested by the air carrier at the time of filing.
+
+
+# Tags
+
+['report', 'periodic', 'carrier', 'filed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                        |

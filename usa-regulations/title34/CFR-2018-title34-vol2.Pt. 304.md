@@ -8,6 +8,20 @@
  CFR-2018-title34-vol2.Pt. 304
 
 
+# Summary
+
+Individuals who receive scholarship assistance from projects funded under the Special Education&#8212;Personnel Development to Improve Services and Results for Children with Disabilities program are required to complete a service obligation, or repay all or part of the costs of such assistance, in accordance with section 662(h) of the Act and the regulations of this part.
+(g) Scholar means an individual who is pursuing a degree, license, endorsement, or certification related to special education, related services, or early intervention services and who receives scholarship assistance under section 662 of the Act.
+(3) If the position involves supervision (including in the capacity of a principal), teaching at the postsecondary level, research, policy, technical assistance, program development, or administration, the individual spends at least 51 percent of his or her time performing work related to the training for which a scholarship was received under section 662 of the Act.
+(2) A scholar may begin eligible employment subsequent to the completion of one academic year of the training for which the scholarship assistance was received that otherwise meets the requirements of paragraph (1);
+If the scholar is pursuing coursework on a part-time basis, meet the service obligation in this section based on the accumulated academic years of training for which the scholarship is received;
+
+
+# Tags
+
+['means', 'scholar', 'educational', 'time', 'employer', 'services', 'providing', 'follows', 'assistance', 'required', 'period', 'islands', 'receiving', 'act', 'certificate', 'including', 'allowance', 'reasonable']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol5.Pt. 380
 
 
+# Summary
+
+Nothing in this section shall limit or impair any rights of the Corporation as receiver under other applicable law, including any rights under title II of the Dodd-Frank Act to pursue any other claims or causes of action it may have against senior executives and directors of the covered financial company for losses they cause to the covered financial company in the same or separate actions.
+(b) Other than those amounts included in paragraph (a) of this section, unsecured amounts owed to a department, agency or instrumentality of the United States that are obligations incurred in the ordinary course of the business of the covered financial company prior to the appointment of the receiver generally will not be in the class of claims designated as &#8220;amounts owed to the United States&#8221; under section 380.21(a)(3), including, but not limited to:
+The 180-day period described in paragraph (a) of this section may be extended by a written agreement between the claimant and the Corporation as receiver executed not later than 180 days after the date on which the claim against the covered financial company or the receiver is filed with the receiver.
+
+
+# Tags
+
+['shall', 'included', 'company', 'providing', 'financial', 'means', 'insured', 'term', 'claim', 'secure', 'personal service', 'activities', 'receive', 'generally', 'act', 'contracts', 'pursuant', 'asset', 'credit', 'bank', 'follows', 'transfers', 'states', 'transactions', 'corporate', 'agency', 'related', 'agreements', 'information', 'obligation', 'property', 'action', 'debt', 'applicable', 'law', 'investments', 'determination', 'party', 'benefits', 'administrative', 'filed', 'periodic', 'iii', 'operational', 'documentation', 'subsidiary', 'notice', 'post', 'section', 'plans', 'limitations', 'account', 'sell', 'controlled', 'check', 'reason', 'making', 'record', 'prior', 'loan', 'instrumentality', 'exchanging', 'priority', 'issue', 'liquidate', 'authorities', 'materials', 'publication', 'financing', 'litigation', 'described', 'similar', 'unsecured', 'purchases', 'executives', 'stock', 'establishing', 'government', 'accept', 'employee', 'creditor', 'claimant', 'legal', 'non', 'payment', 'holding', 'entity', 'amounts', 'effect', 'final']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

@@ -8,6 +8,19 @@
  CFR-2018-title12-vol7.Pt. 792
 
 
+# Summary
+
+(a) You may obtain copies of the records referenced in &#167;&#8201;792.02 by obtaining the index referred to in &#167;&#8201;792.03 and following the ordering instructions it contains, or by making a written request to NCUA, Office of General Counsel, 1775 Duke Street, Alexandria, Virginia 22314-3428, Attn: FOIA Officer or as indicated on the NCUA Web site.
+(4) The designation made by the submitter in accordance with paragraph (c) of this section appears obviously frivolous; except that in such case, NCUA will provide the submitter with written notice of any final administrative decision to disclose the information within a reasonable number of days prior to the specified disclosure date.
+(3) If a request under paragraphs (b)(1) or (2) of this section presents unusual difficulties in determining whether the records involved are exempt from disclosure, the Privacy Act Officer, in the Office of General Counsel, may extend the time period established by the regulations by 10 working days.
+An individual who does not have access to NCUA's Notice of Systems of Records, and to whom the appropriate address is otherwise unavailable, may submit a request to the Privacy Act Officer, Office of General Counsel, National Credit Union Administration, 1775 Duke Street, Alexandria, Virginia 22314-3428, in which case the request will then be referred to the appropriate system manager.
+
+
+# Tags
+
+['ncua', 'informative', 'record', 'shall', 'request', 'fee', 'includes', 'documentation', 'agencies', 'means', 'individuals', 'requires', 'authorities', 'personally', 'access', 'confidential', 'employees', 'written', 'disclosures', 'publication', 'timely notice', 'report', 'processing', 'procedure', 'security', 'investigation', 'appeals', 'providing', 'administration', 'limitations', 'foia', 'actively', 'responsibility', 'form', 'follows', 'statement', 'officers', 'search', 'determine', 'testimony', 'appropriately', 'identified', 'state', 'reason', 'contained', 'filed', 'exemption', 'actual', 'use', 'review', 'relates', 'concerns', 'acting', 'management', 'generated', 'copy', 'numbers', 'circumstance', 'personnel', 'establishments', 'cost', 'center', 'disclosed', 'maintains', 'subpart', 'particular', 'subject', 'unions', 'national', 'classify', 'federal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                              |

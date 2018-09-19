@@ -8,6 +8,21 @@
  CFR-2018-title28-vol2.Pt. 812
 
 
+# Summary
+
+The Court Services and Offender Supervision Agency for the District of Columbia (&#8220;CSOSA&#8221;) cooperates with other federal agencies to ensure that DNA samples from offenders are appropriately furnished to the Federal Bureau of Investigation (&#8220;FBI&#8221;) for DNA analysis.
+CSOSA is responsible for collecting a DNA sample from each individual under its supervision who is, or has been, convicted of a qualifying District of Columbia Code offense.
+Qualifying District of Columbia Code offenses were designated by the Council of the District of Columbia in the &#8220;DNA Sample Collection Act of 2001.&#8221; CSOSA provides a listing of these offenses in the Appendix to this part.
+(b) CSOSA shall provide the Federal Bureau of Prisons with documentation regarding the collection of a DNA sample from a District of Columbia Code offender when CSOSA returns the District of Columbia Code offender to the custody of the Federal Bureau of Prisons or as requested by the Federal Bureau of Prisons.
+(b) CSOSA has the authority to use such means as are reasonably necessary to collect a sample from an individual who refuses to cooperate in the collection of the sample.
+(c) When an individual has refused to cooperate in the collection of the sample, CSOSA deems the following to be reasonably necessary means for obtaining the sample:
+
+
+# Tags
+
+['csosa', 'collect', 'dna', 'individual', 'supervision', 'code', 'revision']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                      |

@@ -8,6 +8,18 @@
  CFR-2018-title14-vol3.Pt. 151
 
 
+# Summary
+
+(a) Except as provided in paragraph (b) of this section, each sponsor shall incorporate by reference in its project application the final plans and specifications, describing the items of airport development for which it requests United States aid.
+In addition to any other provisions necessary to ensure completion of the work in accordance with the grant agreement, each sponsor entering into a construction contract for an airport development project shall insert in the contract the provisions required by the Secretary of Labor, as set forth in appendix H of this part.
+(b) When the advance planning proposal relates to the selection of an airport site, the advance planning grant agreement provides that Federal funds are paid to the sponsor only after the site is selected and the Administrator is satisfied that the site selected for the airport is reasonably consistent with existing plans of public agencies for development of the area in which the site is located, and will contribute to the accomplishment of the purposes of the Federal-aid Airport Program.
+
+
+# Tags
+
+['include', 'public airports', 'runway', 'land', 'areas', 'cost', 'projects', 'contracts', 'requirements', 'construction', 'working', 'planned', 'sponsors', 'applications', 'faa', 'lighted', 'proposed', 'administrative', 'developed', 'shall', 'generally', 'information', 'specification', 'engineer', 'necessary', 'exists', 'granted', 'agreements', 'payments', 'operation', 'need', 'procedure', 'laborer', 'federal', 'states', 'determining', 'provisions', 'aircraft', 'standards', 'agency', 'form', 'reasonably', 'taxiways', 'zone', 'build', 'acceptance', 'programed', 'follows', 'equipped', 'installation', 'useful', 'items', 'allow', 'acting', 'drainage', 'eligible', 'property', 'submit materials', 'available', 'appropriate', 'funds', 'approach', 'condition', 'national', 'paved', 'approves', 'surface', 'supporting', 'provided', 'maintenance', 'designation', 'section', 'facilities', 'hangars', 'relates', 'advances', 'site', 'aids', 'evidence', 'road', 'remove', 'purposes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

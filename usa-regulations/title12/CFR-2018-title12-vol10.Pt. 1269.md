@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1269
 
 
+# Summary
+
+A Bank, at the time it issues or confirms a standby letter of credit on behalf of a member, shall obtain and maintain a security interest in collateral that is sufficient to secure fully the member's unconditional obligation described in &#167;&#8201;1269.4(a)(2) of this part, and that complies with the requirements set forth in paragraph (c) of this section.
+Each Bank is authorized to issue or confirm on behalf of housing associates standby letters of credit that are fully secured by collateral described in &#167;&#8201;1266.17(b)(1)(i) or (ii) of this chapter, and that otherwise comply with the requirements of this part, for any of the following purposes:
+Each Bank is authorized to issue or confirm on behalf of SHFA associates standby letters of credit that are fully secured by collateral described in &#167;&#8201;1266.17(b)(2)(i)(A),(B) or (C) of this chapter, and that otherwise comply with the requirements of this part, for the purpose of facilitating residential or commercial mortgage lending that benefits individuals or families meeting the income requirements in section 142(d) or 143(f) of the Internal Revenue Code (26 U.S.C. 142(d) or 143(f)).
+(2) Collateral pledged by a member or housing associate to secure a letter of credit issued or confirmed on its behalf by a Bank shall be subject to the provisions of &#167;&#167;&#8201;1266.7(d), 1266.7(e), 1266.8, 1266.9 and 1266.10 of this chapter.
+
+
+# Tags
+
+['means', 'standby', 'collateral', 'finance', 'housing', 'requiring', 'secure', 'associates', 'credit', 'beneficiary', 'small', 'terms', 'shall']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                             |

@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1267
 
 
+# Summary
+
+Interest-only stripped security means a class of mortgage-backed or asset-backed security that is allocated only the interest payments made on the underlying mortgages or loans and receives no principal payments.
+Mortgage-backed security means a security or instrument, including collateralized mortgage obligations (CMOs), and Real Estate Mortgage Investment Trusts (REMICS), that represents an interest in, or is secured by, one or more pools of mortgage loans.
+Principal-only stripped security means a class of mortgage-backed or asset-backed security that is allocated only the principal payments made on the underlying mortgages or loans and receives no interest payments.
+(iii) Marketable direct obligations of state, local, or Tribal government units or agencies, that are investment quality, where the purchase of such obligations by the Bank provides to the issuer the customized terms, necessary liquidity, or favorable pricing required to generate needed funding for housing or community lending;
+(2) A Bank may not enter into indexed principal swaps that have average lives that vary by more than six years under an assumed instantaneous change in interest rates of 300 basis points, unless they are entered into in conjunction with the issuance of consolidated obligations or the purchase of permissible investments or entry into a permissible transaction in which all interest rate risk is passed through to the investor or counterparty.
+
+
+# Tags
+
+['secured', 'derivative', 'mortgages', 'rates', 'investment', 'asset', 'instrument', 'contracts', 'obligation', 'banking', 'loan', 'meaning', 'including', 'states', 'principal', 'requirements', 'values', 'amortize', 'pricing', 'foreign', 'shall']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                     |

@@ -8,6 +8,22 @@
  CFR-2018-title34-vol3.Pt. 411
 
 
+# Summary
+
+The Secretary may directly, or through grants, cooperative agreements, or contracts, conduct applied research on aspects of vocational education that are specially related to the Act, including the following:
+(2) The development and implementation of performance standards and measures that fit within the needs of State boards of vocational education or eligible recipients as defined in 34 CFR 400.4 in carrying out the provisions of the Act and on the relationship of those standards and measures to the data system established under section 421 of the Act. Research may include an evaluation of existing performance standards and measures and dissemination of that information to State boards of vocational education and eligible recipients;
+(25 points) The Secretary reviews each application to determine the quality of the plan of operation for the project, including&#8212;
+(15 points) (1) The Secretary reviews each application to determine the quality of key personnel the applicant plans to use on the project, including&#8212;
+(5 points) The Secretary reviews each application to determine the quality of the evaluation plan for the project, including the extent to which the applicant's methods of evaluation&#8212;
+(5 points) The Secretary reviews each application to determine the adequacy of the resources that the applicant plans to devote to the project, including facilities, equipment, and supplies.
+(5 points) The Secretary reviews each application to determine the quality of the dissemination plan for the project, including&#8212;
+
+
+# Tags
+
+['projects', 'including', 'researcher', 'secretary', 'applications', 'educational', 'points', 'vocational', 'national', 'state', 'program', 'apply', 'activities', 'personnel', 'single', 'advanced', 'evaluating', 'individuals', 'plan', 'private', 'recipients']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                |

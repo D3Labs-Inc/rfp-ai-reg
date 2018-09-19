@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1807
 
 
+# Summary
+
+Loan Loss Reserves means proceeds from the CMF Award that the Recipient will set aside in the form of cash reserves, or through accounting-based accrual reserves, to cover losses on loans, accounts, and notes receivable for Affordable Housing Activities and/or Economic Development Activities, or for related purposes that the CDFI Fund deems appropriate;
+Each Recipient that uses its CMF Award for Affordable Housing Activities must ensure that 100 percent of Eligible Project Costs are attributable to Affordable Housing; meaning, that they comply with the affordability qualifications set forth in this subpart for Eligible-Income Families.
+A Recipient that uses the CMF Award for the eligible activities set forth in &#167;&#8201;1807.301 for Purchase must ensure the purchasing Family and Housing meets the affordability requirements of this subpart.
+The CDFI Fund shall not provide any Payment under this part until a Recipient has satisfied all conditions set forth in the applicable NOFA and Assistance Agreement.
+The Recipient must submit such financial and activity reports, records, statements, and documents at such times, in such forms, and accompanied by such reporting data, as required by the CDFI Fund or the U.S. Department of the Treasury to ensure compliance with the requirements of this part and to evaluate the impact of the CMF Award.
+
+
+# Tags
+
+['means', 'houses', 'require', 'applicable', 'income', 'award', 'funding', 'program', 'including', 'shall', 'united', 'activities', 'projects', 'federally', 'affordability', 'agreement', 'recipient', 'family', 'service', 'document', 'set', 'assisted', 'loans', 'eligibility', 'insures', 'based', 'rents', 'stated', 'single', 'completeness', 'rental', 'homes', 'cost', 'areas', 'availability', 'tenant', 'year', 'period', 'cmf', 'develop', 'reporting', 'facility', 'restriction', 'addition', 'pursuant', 'law', 'economic', 'provides', 'useful', 'generate', 'purchase', 'control', 'cdfi', 'codes', 'section', 'standard', 'financial', 'cfr', 'information', 'acting', 'appropriate', 'date', 'form', 'approved', 'island', 'constructed', 'payment', 'principal', 'agency']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

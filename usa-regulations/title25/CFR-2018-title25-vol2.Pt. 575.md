@@ -8,6 +8,21 @@
  CFR-2018-title25-vol2.Pt. 575
 
 
+# Summary
+
+This part addresses the assessment of civil fines under section 2713(a) of the Act with respect to notices of violation issued under &#167;&#8201;573.3 of this chapter.
+The Chairman may assess a civil fine, not to exceed $51,302 per violation, against a tribe, management contractor, or individual operating Indian gaming for each notice of violation issued under &#167;&#8201;573.3 of this chapter after considering the following factors:
+The Chairman shall consider the extent to which the respondent obtained an economic benefit from the noncompliance that gave rise to a notice of violation, as well as the likelihood of escaping detection.
+(1) A violation cited by the Chairman shall not be considered unless the associated notice of violation is the subject of a final order of the Commission and has not been vacated; and
+(b) The Chairman shall serve a copy of the proposed assessment on the respondent within thirty (30) days after the notice of violation was issued, when practicable.
+(a) If the respondent fails to request a hearing as provided in part 584 or part 585 of this chapter, the proposed civil fine assessment shall become a final order of the Commission.
+
+
+# Tags
+
+['shall', 'violations', 'assess', 'written', 'civil fines', 'respondent', 'factors', 'operating', 'benefits']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                  |

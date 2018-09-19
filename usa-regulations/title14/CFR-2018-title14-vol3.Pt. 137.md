@@ -8,6 +8,20 @@
  CFR-2018-title14-vol3.Pt. 137
 
 
+# Summary
+
+An application for an agricultural aircraft operator certificate is made on a form and in a manner prescribed by the Administrator, and filed with the FAA Flight Standards District Office that has jurisdiction over the area in which the applicant's home base of operations is located.
+However, if an applicant applies for an agricultural aircraft operator certificate containing a prohibition against the dispensing of economic poisons, that applicant is not required to demonstrate the knowledge required in paragraphs (e)(1) (ii) through (iv) of this section.
+(e) Sections 137.31 through 137.35, &#167;&#167;&#8201;137.39, 137.41, 137.51 through 137.59, and subpart D do not apply to persons and rotorcraft used in agricultural aircraft operations conducted by a person holding a certificate under part 133 of this chapter and involving only the dispensing of water on forest fires by rotorcraft external-load means.
+(iii) No person may operate any multiengine aircraft over a congested area below the altitudes prescribed in part 91 of this chapter except during the actual dispensing operation, including the approaches, departures, and turnarounds necessary for that operation.
+(a) Each holder of a commercial agricultural aircraft operator certificate shall maintain and keep current, at the home base of operations designated in his application, the following records:
+
+
+# Tags
+
+['operating', 'shall', 'certificates', 'agricultural aircraft', 'required', 'control', 'dispense', 'flights', 'conducted', 'takeoff', 'inspect', 'areas', 'necessary', 'persons', 'government', 'include', 'safety', 'loaded', 'engine', 'power', 'pilot', 'aviation', 'officer', 'drugs', 'application', 'prescribed', 'stops', 'preceding', 'maximum', 'emergency', 'plants', 'authorized', 'available', 'iii']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                       |

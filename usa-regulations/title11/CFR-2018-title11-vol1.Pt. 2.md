@@ -8,6 +8,19 @@
  CFR-2018-title11-vol1.Pt. 2
 
 
+# Summary
+
+Meetings concerning matters specifically exempted from disclosure by statutes which require public withholding in such a manner as to leave no discretion for the Commission on the issue, or which establish particular types of matters to be withheld, shall be closed to public observation in accordance with the procedures of 11 CFR 2.5.
+(2) For the purpose of this section, any notification or investigation that a violation of the Act has occurred includes, but is not limited to, determinations pursuant to 52 U.S.C. 30109, the issuance of subpoenas, discussion of referrals to the Department of Justice, or consideration of any other matter related to the Commission's enforcement activity, as set forth in 11 CFR part 111.
+(c) A complete verbatim copy of the transcript or a complete electronic recording of each meeting, or portion of a meeting, closed to the public, shall be maintained by the Commission Secretary in confidential files of the Commission, for a minimum of two years subsequent to such meeting, or a minimum of one year after the conclusion of any agency proceeding with respect to which the meeting, or portion of the meeting, was held, whichever occurs later.
+Immediately following this announcement, the Commission shall submit for publication in the Federal Register a notice containing the information required by 11 CFR 2.7(a)(2), including a description of any change from the earlier published notice.
+
+
+# Tags
+
+['shall', 'commission', 'record', 'meetings', 'matter', 'information', 'publication', 'votes', 'including', 'person', 'required', 'exemption', 'announce', 'number', 'cost', 'enforcement', 'closing', 'personnel', 'commissioner', 'specific', 'discussions', 'pursuant', 'means', 'determination']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                 |

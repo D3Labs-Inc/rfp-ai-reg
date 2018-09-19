@@ -8,6 +8,20 @@
  CFR-2018-title34-vol1.Pt. 77
 
 
+# Summary
+
+(This definition is not intended to affect the eligibility provision of grant programs in which eligibility is limited to organizations that may be only components of a legal entity.) The term &#8220;grantee&#8221; does not include any secondary recipients, such as subgrantees and contractors, that may receive funds from a grantee pursuant to a subgrant or contract.
+(a) A public board of education or other public authority legally constituted within a State for either administrative control of or direction of, or to perform service functions for, public elementary or secondary schools in:
+(c) As used in 34 CFR parts 400, 408, 525, 526 and 527 (vocational education programs), the term also includes any other public institution or agency that has administrative control and direction of a vocational education program.
+Moderate evidence means that there is evidence of effectiveness of a key project component in improving a relevant outcome for a sample that overlaps with the populations or settings proposed to receive that component, based on a relevant finding from one of the following:
+Strong evidence means that there is evidence of the effectiveness of a key project component in improving a relevant outcome for a sample that overlaps with the populations and settings proposed to receive that component, based on a relevant finding from one of the following:
+
+
+# Tags
+
+['means', 'educational', 'included', 'project', 'cfr', 'studies', 'state', 'wwc', 'programs', 'services', 'granting agency', 'outcomes', 'group', 'administrative', 'controlled', 'school', 'provided', 'students', 'award', 'components', 'federal', 'performed', 'legal', 'terms', 'public', 'department', 'evidence', 'period', 'practices', 'national', 'authorizing', 'islands', 'regulations']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

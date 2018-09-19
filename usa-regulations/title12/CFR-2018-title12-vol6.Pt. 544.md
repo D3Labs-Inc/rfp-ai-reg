@@ -8,6 +8,19 @@
  CFR-2018-title12-vol6.Pt. 544
 
 
+# Summary
+
+In addition, notwithstanding anything in paragraph (a) of this section to the contrary, the following charter amendments, including the adoption of the Federal mutual charter as set forth in &#167;&#8201;544.1 of this part, shall be effective and deemed approved at the time of adoption, if adopted without change and filed with OTS, within 30 days after adoption, provided the association follows the requirements of its charter in adopting such amendments:
+A Federal mutual savings association may amend its charter by substituting a new home office in section 2, if it has complied with applicable requirements of &#167;&#8201;545.95 of this chapter.
+A Federal mutual savings association may amend its charter by substituting ___ votes per member in section 6.
+A Federal mutual savings association shall operate under bylaws that contain provisions that comply with all requirements specified by the OTS in this section and that are not otherwise inconsistent with the provisions of this section, the association's charter, and all other applicable laws, rules, and regulations provided that, a bylaw provision inconsistent with the provisions of this section may be adopted with the approval of the OTS.
+
+
+# Tags
+
+['shall', 'member', 'directors', 'officers', 'meetings', 'provisions', 'amendments', 'person', 'require', 'bylaws', 'associations adopting', 'charter', 'vote', 'days', 'procedures', 'iii', 'including', 'board', 'savings', 'communication', 'date', 'provide', 'place', 'prior', 'related', 'application', 'notice']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                             |

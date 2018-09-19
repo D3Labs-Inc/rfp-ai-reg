@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1261
 
 
+# Summary
+
+For each member directorship and each independent directorship that is to be filled in an election, each member shall be entitled to cast one vote for each share of Bank stock that the member was required to hold as of the record date.
+If the board of directors of a Bank includes any voting preferences as part of its approved capital plan, those preferences shall supersede the provisions of paragraph (b) of this section that otherwise would allow a member to cast one vote for each share of Bank stock it was required to hold as of the record date.
+Using the information provided on independent director application forms prescribed by FHFA, each Bank shall verify that each nominee for each public interest independent directorship and each other independent directorship meets all eligibility requirements and any knowledge or experience qualifications for such directorship, as set forth in the Bank Act and this subpart.
+(1) For each member directorship filled by the board of a Bank, the name of the director, the name, location, and FHFA ID number of the member the director serves, the director's title or position with the member, the voting State that the director represents, and the expiration date of the director's term of office; and
+
+
+# Tags
+
+['shall', 'director', 'banks', 'directorships', 'members', 'require', 'voting state', 'means', 'number', 'follow', 'nominees', 'elect', 'board', 'date', 'provides', 'business', 'interested', 'term', 'expenses', 'officers', 'eligibility', 'include', 'annually', 'year immediately', 'compensation', 'individuals', 'financial', 'nominated', 'prior', 'ballots', 'promptly', 'determining', 'received', 'management', 'establishes', 'meetings', 'statements']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                        |

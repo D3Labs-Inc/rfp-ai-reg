@@ -8,6 +8,19 @@
  CFR-2018-title29-vol4.Pt. 1425
 
 
+# Summary
+
+(a) In order that the Service may provide assistance to the parties, the party initiating negotiations shall file a notice with the FMCS Notice Processing Unit, 2100 K Street, N.W., Washington, D.C. 20427, at least 30 days prior to the expiration or modification date of an existing agreement, or 30 days prior to the reopener date of an existing agreement.
+(9) When the parties choose the FMCS grievance mediation procedure, they have agreed to abide by these guidelines established by FMCS, and it is understood that the parties and the grievant shall hold FMCS and the mediator appointed by the Service to conduct the mediation conference harmless of any claim of damages arising from the mediation process.
+When the existence of a negotiation dispute comes to the attention of the Service through a specific request for mediation from one or both of the parties, through notification under the provisions of &#167;&#8201;1425.2, or otherwise, the Service will examine the information concerning the dispute and if, in its opinion, the need for mediation exists, the Service will use its best efforts to assist the parties to reach agreement.
+The Service shall not refer a case to FSIP until the mediation process has been exhausted and the parties are at a negotiation impasse.
+
+
+# Tags
+
+['mediators', 'shall', 'party', 'services', 'request', 'fmcs', 'agreement', 'grievance', 'negotiation dispute', 'assisting', 'means', 'impasses']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                            |

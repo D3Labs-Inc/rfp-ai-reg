@@ -8,6 +8,20 @@
  CFR-2018-title25-vol1.Pt. 12
 
 
+# Summary
+
+The Director of the Office of Law Enforcement Services for the Bureau of Indian Affairs (Director) has been delegated the responsibility for the development of law enforcement and detention policies, standards, and management of all Bureau of Indian Affairs (BIA) criminal investigations, drug enforcement, training, internal affairs, inspection and evaluation, emergency response forces, and other national level Indian country law enforcement initiatives.
+All Indian country law enforcement programs receiving Federal funding and/or authority must ensure that all law enforcement officers successfully complete a thorough background investigation no less stringent than required of a Federal officer performing the same duties.
+Law enforcement personnel of any program funded by the Bureau of Indian Affairs must not perform law enforcement duties until they have successfully completed a basic law enforcement training course prescribed by the Director.
+The Director, Office of Law Enforcement Services maintains an internal affairs program that investigates all allegations of misconduct by BIA officers, and any officer receiving funding and/or authority from the BIA.
+Bureau of Indian Affairs funded or commissioned criminal investigators will not be responsible for supervising or managing any patrol, detention, or other uniformed police programs.
+
+
+# Tags
+
+['enforcing', 'laws', 'officers', 'federal', 'trained', 'standards', 'program', 'affairs', 'investigated', 'bia criminal', 'reporting', 'locally', 'personnel', 'policies', 'uniforms', 'indian', 'including', 'detention', 'police', 'action', 'rights', 'commissions', 'receive', 'crimes']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                         |

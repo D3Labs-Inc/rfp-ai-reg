@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 701
 
 
+# Summary
+
+Fees pursuant to the FOIA shall be assessed according to the schedule contained in paragraph (b) of this section for services rendered by the Office in responding to and processing requests for records under this part.
+(1) Records responsive to a request under the FOIA shall be furnished without charge or at a charge reduced below that established under paragraph (b) of this section when the Officer determines, based upon information provided by a requester in support of a fee waiver request or otherwise made known to the Office, that disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
+(2) In order to determine whether the first fee waiver requirement is met&#8212;i.e., that disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of government&#8212;the Office shall consider the following four factors in sequence:
+(3) In order to determine whether the second fee waiver requirement is met&#8212;i.e., that disclosure of the requested information is not primarily in the commercial interest of the requester&#8212;the Office shall consider the following two factors in sequence:
+
+
+# Tags
+
+['shall', 'information', 'requests', 'record', 'fee', 'officer', 'publication', 'including', 'reason', 'specifically', 'disclosure', 'reviewing', 'operating', 'term', 'notice', 'searching', 'agency', 'appeal means', 'determination', 'foia', 'pursuant', 'general', 'commercial', 'news', 'act', 'plus', 'processed', 'lawful', 'personnel', 'disseminators', 'time limits', 'refer', 'costs', 'involve', 'duplicative', 'payment', 'copies', 'exempt', 'institution', 'administration', 'order', 'business', 'provides', 'assessing']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                        |

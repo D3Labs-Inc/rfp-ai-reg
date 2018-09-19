@@ -8,6 +8,21 @@
  CFR-2018-title9-vol1.Pt. 55
 
 
+# Summary
+
+A herd for which unofficial CWD test results, laboratory evidence, or clinical signs suggest a diagnosis of CWD, as determined by an APHIS employee or State representative, but for which official laboratory results have been inconclusive or not yet conducted.
+The CWD Herd Certification Program is a cooperative effort between APHIS, State animal health and wildlife agencies, and deer, elk, and moose owners.
+(9) Requires, based on State law or regulation, and effectively enforces identification of all animals in herds participating in the CWD Herd Certification Program;
+Upon request by an APHIS employee or State representative, the owner must allow either of these officials or a designated accredited veterinarian access to the premises and herd to conduct an inventory.
+In the latter case, the owner must present the entire herd for inspection under conditions where the APHIS employee, State representative, or accredited veterinarian can safely read all identification on the animals.
+Inventory of a herd will be conducted no more frequently than once per year, unless an APHIS employee, State representative, or accredited veterinarian determines that more frequent inventories are needed based on indications that the herd may not be in compliance with CWD Herd Certification Program requirements.
+
+
+# Tags
+
+['animal', 'herd', 'state', 'cwd', 'programs', 'aphis', 'premises', 'requires', 'testing', 'officials', 'approval', 'includes', 'status', 'cervids', 'numbering', 'laboratories', 'owners', 'tissue', 'identification', 'written', 'authority', 'specifying', 'appraise', 'enrolling', 'character', 'health', 'agreements', 'code', 'based', 'federal', 'nationally unique', 'reports', 'administration', 'sample', 'risk', 'complying', 'materials', 'equipment', 'determines', 'provided', 'costs', 'sources', 'years', 'conduct', 'movement', 'recorded', 'inventory', 'islands', 'effective', 'services', 'maintained', 'signs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                             |

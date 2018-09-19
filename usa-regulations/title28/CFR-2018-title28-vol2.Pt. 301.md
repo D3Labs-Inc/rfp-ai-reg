@@ -8,6 +8,19 @@
  CFR-2018-title28-vol2.Pt. 301
 
 
+# Summary
+
+Pursuant to the authority granted at 18 U.S.C. 4126, the procedures set forth in this part govern the payment of accident compensation, necessitated as the result of work-related injuries, to federal prison inmates or their dependents.
+(a) Inmate Accident Compensation may be awarded to former federal inmates or their dependents for physical impairment or death resultant from injuries sustained while performing work assignments in Federal Prison Industries, Inc., in institutional work assignments involving the operation or maintenance of a federal correctional facility, or in approved work assignments for other federal entities; or,
+A claimant may request an in-person hearing or reconsideration by writing to the Inmate Accident Compensation Committee, Federal Bureau of Prisons, 320 First Street NW., Washington, DC 20534.
+The Committee shall mail written notice of its decision to affirm, reverse, or amend the Claims Examiner's initial determination, with the reasons for its decision, to the claimant at the claimant's last known address, or to claimant's duly appointed representative, no later than 30 days after the date of the hearing unless the Committee needs to make a further investigation as a result of information received at the hearing.
+
+
+# Tags
+
+['shall', 'work', 'medically', 'injuries', 'compensation', 'inmate', 'impairment', 'federal', 'claimed', 'committee', 'institution', 'schedule', 'causing', 'related', 'received', 'assigned', 'evidence', 'notice', 'treatment', 'final', 'hearing', 'timely', 'determination', 'examination', 'report', 'set', 'prisons', 'corrections', 'provide', 'authority', 'witnesses', 'accident', 'written', 'staff', 'representative', 'released', 'wage']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                     |

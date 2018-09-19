@@ -8,6 +8,20 @@
  CFR-2018-title12-vol6.Pt. 562
 
 
+# Summary
+
+For purposes of examination by and regulatory reports to the OTS and compliance with this chapter, all savings associations shall use such forms and follow such regulatory reporting requirements as the OTS may require by regulation or otherwise.
+(ii) Incorporate safe and sound practices contained in OTS regulations, bulletins, examination handbooks and instructions to regulatory reports.
+Regulatory reporting requirements that are not consistent with GAAP, if any, are not required to be reflected in audited financial statements, including financial statements contained in securities filings submitted to the OTS pursuant to the Securities and Exchange Act of 1934 or parts 563b, 563d, or 563g of this chapter.
+The OTS may require, at any time, an independent audit of the financial statements of, or the application of procedures agreed upon by the OTS to a savings association, savings and loan holding company, or affiliate (as defined by 12 CFR 563.41) by qualified independent public accountants when needed for any safety and soundness reason identified by the Director.
+(1) When the OTS requires an independent audit because such an audit is needed for safety and soundness purposes, the Director shall determine whether the audit was conducted and filed in a manner satisfactory to the OTS.
+
+
+# Tags
+
+['shall', 'required', 'report', 'accountants', 'ots', 'regulatory', 'audited', 'sound', 'incorporate', 'banking', 'associations', 'economic', 'policies', 'financial']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                         |

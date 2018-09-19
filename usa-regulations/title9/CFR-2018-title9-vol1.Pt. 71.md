@@ -8,6 +8,17 @@
  CFR-2018-title9-vol1.Pt. 71
 
 
+# Summary
+
+(a) Railroad cars, trucks, boats, aircraft, and other means of conveyance which have been used in the interstate transportation of cattle, sheep, goats, swine, poultry, or other animals affected with, or carrying the infection of, any contagious, infectious, or communicable disease of livestock or poultry, other than slight unopened cases of actinomycosis or actinobacillosis (or both), atrophic rhinitis, bovine foot rot, brucellosis, ram epididymitis, ringworm, infectious keratitis, and arthritis (simple lesions only), shall be cleaned and disinfected under APHIS supervision in accordance with &#167;&#167;&#8201;71.7 and 71.10 through 71.12 at the point where the animals are unloaded and the final carrier shall be responsible for such cleaning and disinfecting: Provided, That when APHIS supervision is not available at such point, the means of conveyance may be cleaned and disinfected under the supervision of a State representative or an accredited veterinarian.
+(b) No railroad car, truck, boat, aircraft or other means of conveyance from which poultry or other animals affected with an infectious, contagious or communicable disease of livestock or poultry, other than those specified in &#167;&#8201;71.4(b), have been unloaded shall thereafter be used in connection with the interstate movement of animals, including poultry, or be moved interstate until it has been cleaned and disinfected by the final carrier under the supervision of an APHIS or State representative or an accredited veterinarian in accordance with &#167;&#167;&#8201;71.7 and 71.10 through 71.12.
+
+
+# Tags
+
+['swine', 'shall', 'state', 'animal health', 'diseased', 'officials', 'included', 'identification number', 'facilities', 'livestock', 'test', 'premises', 'follows', 'inspections', 'aphis', 'require', 'disinfectants', 'interstate', 'solutions', 'issuing', 'production', 'water', 'specifically', 'fever', 'provides', 'associated', 'persons', 'contagious', 'poultry', 'slaughtered', 'sheep', 'established', 'administrative', 'transporting', 'location', 'approved', 'thereof', 'moving', 'representatives', 'received', 'chutes', 'regulations', 'movement', 'nationally unique', 'sample', 'list', 'sales', 'agriculture', 'individuals', 'designed', 'federal', 'notice', 'available', 'recorded', 'floors', 'sodium', 'herd', 'carrier', 'agreement', 'service', 'reason', 'scrapie', 'acid', 'involved', 'boat', 'business']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

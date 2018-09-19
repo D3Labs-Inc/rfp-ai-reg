@@ -8,6 +8,22 @@
  CFR-2018-title12-vol6.Pt. 550
 
 
+# Summary
+
+(1) A State-chartered savings association must conduct its fiduciary operations in accordance with applicable State law, and must exercise its fiduciary powers in a safe and sound manner.
+You may deposit funds of a fiduciary account that are awaiting investment or distribution in your other departments, unless prohibited by applicable law.
+You may also deposit funds of a fiduciary account that are awaiting investment or distribution with an affiliated insured depository institution, unless prohibited by applicable law.
+(e) Any other assets that qualify under applicable State law as appropriate security for deposits of fiduciary funds.
+You may not invest funds of a fiduciary account for which you have investment discretion in the following assets, unless authorized by applicable law:
+You may lend, sell or otherwise transfer assets of a fiduciary account for which you have investment discretion to yourself or any of your directors, officers, or employees; to your affiliates or any of their directors, officers, or employees; or to other individuals or organizations with whom you have an interest that might affect the exercise of your best judgment, if you meet one of the following conditions:
+If you act in an exempt fiduciary capacity under &#167;&#8201;550.580 and fiduciary investments are not limited to accounts or deposits insured by the FDIC, you must include the following language in bold type on the first page of any contract documents:
+
+
+# Tags
+
+['fiduciaries', 'state', 'ots', 'law', 'invest', 'including', 'audit', 'follow', 'deposited', 'account', 'assets', 'funds', 'providing information', 'activity', 'secured', 'related', 'adequate', 'required', 'federal', 'employees', 'appropriate', 'shares', 'customer', 'bank', 'regulations govern', 'receiver', 'written', 'authorities', 'trust', 'records', 'practice', 'reasonable', 'accepting', 'services']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                        |

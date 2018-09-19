@@ -8,6 +8,21 @@
  CFR-2018-title12-vol7.Pt. 616
 
 
+# Summary
+
+Each Farm Credit System institution that sells or buys interests in leases must do so only under a policy adopted by its board of directors that addresses the following:
+(1) The types of leases in which the institution may buy or sell an interest and the types of interests which may be bought or sold;
+Each institution that buys an interest in a lease must make a judgment on the payment ability of the lessee that is independent of the originating or lead lessor and any intermediary seller or broker.
+An institution engaged in the making, buying, or syndicating of leases also must adopt written policies and procedures that address the additional risks associated with leasing.
+All leases made by Farm Credit System institutions shall be subject to the lending and leasing limit in subpart J of part 614 of this chapter.
+(a) Each System institution, except the Farm Credit Leasing Services Corporation, making an equipment lease under titles II or III of the Act must require the lessee to buy or own at least one share of stock or one participation certificate in the institution making the lease, in accordance with its bylaws.
+
+
+# Tags
+
+['leased', 'risk', 'including', 'policies', 'payment', 'services', 'institution', 'agreements', 'value', 'lessor', 'purchaser', 'required', 'written', 'lessee', 'tax', 'terms']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                  |

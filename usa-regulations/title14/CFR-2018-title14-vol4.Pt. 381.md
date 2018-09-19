@@ -8,6 +8,19 @@
  CFR-2018-title14-vol4.Pt. 381
 
 
+# Summary
+
+(a) The operator is in physical possession of enough tickets for admission to the event to provide such tickets for a substantial number of seats on the tour; or
+(b) The operator has entered into a written contract with an organization that is the distributor of such tickets or an organization that receives such tickets directly from the distributor (e.g., a bowl committee; football conference, league or team; concert promoter or arena; etc.), the terms of which provide for that organization to furnish the operator enough admission tickets to provide such tickets for a substantial number of seats on the tour; or
+(1) No operator of a Special Event Tour shall accept money for a seat on a Special Event Tour, or authorize an agent to accept such money, unless the operator has physical possession of, or written contracts (in the manner described in &#167;&#8201;381.7) for, a ticket for admission to the event for that individual.
+To the extent that the operator receives an unsolicited booking for which the operator does not have physical possession of or written contracts for a ticket for admission to the event, any payment accompanying that booking must be returned within 3 business days.
+
+
+# Tags
+
+['shall', 'tour', 'events', 'operator', 'air', 'concerts', 'ticket', 'bowl', 'accepted', 'days']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                       |

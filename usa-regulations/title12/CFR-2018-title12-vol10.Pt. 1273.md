@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1273
 
 
+# Summary
+
+FHFA shall have such oversight authority over the OF, the OF board of directors, the officers, employees, agents, attorneys, accountants, or other OF staff as set forth in the Bank Act, the Safety and Soundness Act, and FHFA regulations issued thereunder.
+Each Bank from time to time shall promptly forward funds to the OF in an amount representing its share of the reimbursement described in paragraph (b) of this section when directed to do so by the Chief Executive Officer pursuant to the procedures of the OF board of directors.
+(6) The OF and the OF board of directors, including the Audit Committee, shall comply promptly with any directive of FHFA regarding the preparation, filing, amendment, or distribution of the combined Bank System annual or quarterly financial reports.
+The OF board of directors shall provide FHFA with relevant biographic and background information, including information demonstrating that the new Independent Director meets the requirements of paragraph (a)(2) of this section, at least 20 business days before the person assumes any duties as a member of the OF board of directors.
+
+
+# Tags
+
+['shall', 'director', 'banks', 'fhfa', 'committees', 'funding', 'set', 'pursuant', 'accounts', 'term', 'independent', 'include', 'report', 'information', 'provide', 'issuing', 'business', 'law', 'reasonable', 'debt', 'combination', 'require', 'policy', 'management', 'corporation', 'general', 'person', 'timely', 'material', 'practices', 'markets', 'financial', 'written', 'act', 'elected', 'consist']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                |

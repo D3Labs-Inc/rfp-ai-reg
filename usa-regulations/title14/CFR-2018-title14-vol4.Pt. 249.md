@@ -8,6 +8,18 @@
  CFR-2018-title14-vol4.Pt. 249
 
 
+# Summary
+
+A paper or microfilm record shall not be destroyed after transfer to a machine-readable medium before expiration of the prescribed period: however, a waiver permitting the early destruction of paper or microfilm records transferred to a machine-readable medium may be granted by the Director, Office of Airline Information, when it is demonstrated by the requesting carrier that the substantive purpose of the retention requirement will be met by retention of the information in machine-readable form (see &#167;&#8201;249.10).
+(c) Each carrier that has been named a party to an enforcement proceeding or against whom a third-party complaint has been filed shall retain all records relating to the case until the receipt of formal notification from the Director, Office of Airline Information, following a written application from the carrier, which authorizes the destruction of these records.
+(e) Each carrier that is a party to litigation in a Federal court of which the DOT is also a party shall retain all records relating to the case until the receipt of formal notification from the Director, Office of Airline Information, following a written application from the carrier, which authorizes the destruction of these records.
+
+
+# Tags
+
+['shall', 'records include', 'carrier', 'mail', 'air', 'period', 'operating', 'microfilmed', 'means', 'information', 'requirements', 'list', 'prescribed', 'authorizing', 'form', 'charter', 'identify', 'retention', 'regulation', 'applicability', 'paper', 'preserved', 'issued', 'case', 'statements', 'certificates']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                         |

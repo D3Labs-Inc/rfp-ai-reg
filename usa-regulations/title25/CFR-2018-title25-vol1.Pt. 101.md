@@ -8,6 +8,19 @@
  CFR-2018-title25-vol1.Pt. 101
 
 
+# Summary
+
+(c) Before a United States direct loan is approved, the Commissioner may require the applicants to prepare a market and capacity report on existing or proposed economic enterprises for which financing is requested if the operation involves manufacturing, selling or providing services.
+(a) On United States direct loans from the revolving loan fund and modifications thereof to provide additional loan funds which will involve excavations, road or street construction, land development or disturbance of land on known or reported historical or archeological sites, the Commissioner will take or require appropriate action to assure compliance with the applicable provisions of the Act of June 27, 1960 (74 Stat.
+Loan agreements between the United States and tribes, corporations, partnerships, cooperative associations and individual Indians for financing economic enterprises, and to relending organizations, will require that borrowers establish and maintain accounting and operating records that are satisfactory to the Commissioner and submit written reports as required by the Commissioner.
+Collections on loans made by relending organizations which have been declared in default in which the Commissioner has taken control of the assets of the program (including loans made with balances owing) will be made to an authorized collection officer of the Bureau of Indian Affairs who shall issue a receipt to the payor and deposit the collection in the United States revolving loan fund.
+
+
+# Tags
+
+['loans', 'organized', 'funds', 'shall', 'indian', 'including', 'approved', 'applications', 'commissioner', 'corporation', 'means', 'federal', 'requirements', 'borrowing', 'credited', 'states', 'operations', 'stat', 'tribes', 'collections', 'document', 'provided', 'land', 'security', 'tribal', 'report', 'addition', 'financing', 'relending', 'balance', 'information', 'lending', 'services', 'acts', 'claim', 'economic enterprise', 'office', 'repayable', 'accounts', 'business', 'assistance', 'dated', 'income', 'cost', 'legal']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

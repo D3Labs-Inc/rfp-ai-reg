@@ -8,6 +8,18 @@
  CFR-2018-title12-vol7.Pt. 703
 
 
+# Summary
+
+The documentation should include, where applicable, bids and prices at purchase and sale and for periodic updates, relevant disclosure documents or a description of the security from an industry-recognized information provider, financial data, and tests and reports required by the Federal credit union's investment policy and this part.
+A federal credit union that received a composite CAMEL rating of &#8220;1&#8221; or &#8220;2&#8221; for the last two (2) full examinations and maintained a net worth classification of &#8220;well capitalized&#8221; under part 702 of this chapter for the six (6) immediately preceding quarters or, if subject to a risk-based net worth (RBNW) requirement under part 702 of this chapter, has remained &#8220;well capitalized&#8221; for the six (6) immediately preceding quarters after applying the applicable RBNW requirement, may purchase a zero-coupon investment with a maturity date that is no greater than 30 years from the related settlement date.
+(a) A Federal credit union with derivatives authority may subsequently apply for approval to use additional products and characteristics, fescribed in &#167;&#8201;703.102 of this subpart, that it did not request in its initial application, subject to the following:
+
+
+# Tags
+
+['security', 'meaning', 'investment', 'derives', 'includes', 'union', 'rate', 'transacting', 'financial', 'manage', 'limits', 'credit', 'reports', 'risks', 'maturity', 'written', 'provided', 'requires', 'following', 'dates', 'trade', 'related', 'contracted', 'mortgage', 'purchased', 'approved', 'obligates', 'collateral', 'applicable', 'office', 'received', 'options', 'futures', 'director', 'pricing', 'accounted', 'period', 'member', 'values', 'characteristic', 'policies', 'agreement', 'activities', 'exchangeable', 'deposited', 'times', 'parties', 'control', 'loan', 'ncua', 'information', 'program', 'funds', 'federally', 'basis', 'board', 'issuing', 'specify', 'business', 'subpart', 'associated', 'internally', 'authorize', 'strategies', 'asset', 'standard', 'external', 'day']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

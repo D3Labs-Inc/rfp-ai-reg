@@ -8,6 +8,18 @@
  CFR-2018-title14-vol3.Pt. 120
 
 
+# Summary
+
+No covered employee who has actual knowledge of an accident involving an aircraft for which he or she performed a safety-sensitive function at or near the time of the accident shall use alcohol for 8 hours following the accident, unless he or she has been given a post-accident test under subpart F of this part, or the employer has determined that the employee's performance could not have contributed to the accident.
+No covered employee who has actual knowledge of an accident involving an aircraft for which he or she performed a safety-sensitive function at or near the time of the accident shall use alcohol for 8 hours following the accident, unless he or she has been given a post-accident test under subpart F of this part, or the employer has determined that the employee's performance could not have contributed to the accident.
+(b) Except as provided in paragraph (c) of this section, no certificate holder or operator may use any individual who meets the definition of covered employee in subpart A of this part to perform a safety-sensitive function listed in that subpart F of this part unless that individual is subject to testing for alcohol misuse in accordance with the provisions of that subpart.
+
+
+# Tags
+
+['shall', 'employee', 'tested', 'alcohols including', 'duty', 'requirements', 'employer', 'follows', 'drug', 'program', 'conducts', 'information', 'performance', 'individual', 'records', 'medication', 'random', 'regulations', 'means', 'number', 'result', 'trained', 'function', 'years', 'subpart', 'covering', 'reports', 'maintenance providers', 'operations', 'services', 'positive rate', 'office', 'mro', 'use', 'specification', 'reasonably', 'receive', 'faa', 'certificates', 'iii', 'administrator', 'documents', 'laboratory', 'control', 'availability']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                  |

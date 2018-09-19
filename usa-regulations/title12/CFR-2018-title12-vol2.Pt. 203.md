@@ -8,6 +8,20 @@
  CFR-2018-title12-vol2.Pt. 203
 
 
+# Summary
+
+The regulation requires an institution to report data to its supervisory agency about home purchase loans, home improvement loans, and refinancings that it originates or purchases, or for which it receives applications; and to disclose certain data to the public.
+(2) Any office of a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that takes applications from the public for home purchase loans, home improvement loans, or refinancings.
+A for-profit mortgage-lending institution is also deemed to have a branch office in an MSA or in a Metropolitan Division, if, in the preceding calendar year, it received applications for, originated, or purchased five or more home purchase loans, home improvement loans, or refinancings related to property located in that MSA or Metropolitan Division, respectively.
+A financial institution shall collect data regarding applications for, and originations and purchases of, home purchase loans, home improvement loans, and refinancings for each calendar year.
+Banks and savings associations that are required to report data on small business, small farm, and community development lending under regulations that implement the Community Reinvestment Act of 1977 (12 U.S.C. 2901 et seq.) shall also collect the location of property located outside MSAs and Metropolitan Divisions in which the institution has a home or branch office, or outside any MSA.
+
+
+# Tags
+
+['loan', 'data', 'shall', 'institution', 'applicant', 'home', 'mortgage', 'lending', 'means', 'act', 'public', 'credit', 'pricing', 'disclosure', 'requirement', 'calendar', 'included', 'regulations', 'offices', 'available', 'report', 'development', 'action', 'stated', 'following', 'federal', 'agency', 'transactions', 'located', 'request', 'rate', 'board', 'property', 'register']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                           |

@@ -8,6 +8,20 @@
  CFR-2018-title11-vol1.Pt. 102
 
 
+# Summary
+
+All disbursements, contributions, expenditures, and transfers by the committee in connection with any Federal election shall be made from its Federal account, except as otherwise permitted for State, district and local party committees by 11 CFR part 300 and paragraph (a)(5) of this section.
+The collecting agent shall comply with the requirements of 11 CFR 102.8 regarding transmittal of contributions and contributor information to the separate segregated fund, except that if contributions of $50 or less are received at a mass collection, a record shall be kept of the date, the total amount collected, and the name of the function at which the collection was made.
+This separate committee shall be a reporting political committee and shall collect contributions, pay fundraising costs from gross proceeds and from funds advanced by participants, and disburse net proceeds to each participant.
+Participating political committees shall report joint fundraising proceeds in accordance with 11 CFR 102.17(c)(8) when such funds are received from the fundraising representative.
+Each participating political committee shall also file a memo Schedule A itemizing its share of gross receipts as contributions from original contributors to the extent required under 11 CFR 104.3(a).
+
+
+# Tags
+
+['shall', 'contribute', 'account', 'political committees', 'funds', 'report', 'participating', 'elections', 'fundraising', 'organization', 'separate', 'state', 'federal', 'statement', 'received', 'requirement', 'included', 'activities', 'expenses', 'represents', 'record', 'receipt', 'cfr', 'check', 'set', 'written', 'contributors', 'allocated', 'iii', 'national', 'usc', 'designated', 'pursuant', 'solicitation', 'filed', 'party']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                            |

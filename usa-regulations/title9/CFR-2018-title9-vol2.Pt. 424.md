@@ -8,6 +8,19 @@
  CFR-2018-title9-vol2.Pt. 424
 
 
+# Summary
+
+No meat or poultry product shall bear or contain any food ingredient that would render it adulterated or misbranded, or which is not approved in this part, part 318 or part 319 of this chapter, or by the Administrator in specific cases.
+Food ingredients and sources of radiation listed or approved for use in the production of meat or poultry products in 21 CFR Chapter I, subchapter A or subchapter B, may be listed or approved for such use under this chapter by the Administrator in &#167;&#8201;424.21, subject to declaration requirements in parts 316 and 317, or subparts M and N, of part 381 of this chapter.
+No meat or poultry product shall bear or contain any food ingredient that would render it adulterated or misbranded, or which is not approved in this part, or by the Administrator in specific cases.
+Official establishments must irradiate meat food and poultry products in accordance with 21 CFR 179.26(b), the Hazard Analysis and Critical Control Point (HACCP) system requirements in part 417 of this chapter, and the provisions of this section.
+
+
+# Tags
+
+['products', 'shall', 'meat', 'sample', 'bacon', 'food ingredients', 'radiation', 'contain', 'irradiation', 'sodium', 'iii', 'requirements', 'establishment', 'produced', 'acting', 'sugar', 'additive', 'dose', 'cfr', 'specify', 'sources', 'procedure', 'chapter', 'lot', 'general', 'results', 'point', 'uses', 'nitrosamine', 'states', 'regulations', 'acid', 'color', 'level', 'labeling', 'documents', 'cure', 'listed']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                   |

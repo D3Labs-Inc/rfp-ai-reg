@@ -8,6 +8,17 @@
  CFR-2018-title11-vol1.Pt. 105
 
 
+# Summary
+
+Except as provided in paragraph (b) of this section, all designations, statements, reports, and notices as well as any modification(s) or amendment(s) thereto, required to be filed under 11 CFR parts 101, 102, and 104 by a candidate for nomination or election to the office of United States Senator, by his or her principal campaign committee or by any other political committee(s) that supports only candidates for nomination for election or election to the Senate of the United States shall be filed in original form with, and received by, the Secretary of the Senate, as custodian for the Federal Election Commission.
+All designations, statements, reports, and notices, as well as any modification(s) or amendment(s) thereto, required to be filed under 11 CFR parts 101, 102 and 104 by a candidate for nomination for election or election to the office of President or Vice President of the United States or by his or her principal campaign committee shall be filed in original form with the Federal Election Commission.
+
+
+# Tags
+
+['committee shall', 'filing', 'reports', 'candidate']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                     |

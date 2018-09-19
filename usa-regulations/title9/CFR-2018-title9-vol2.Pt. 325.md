@@ -8,6 +8,17 @@
  CFR-2018-title9-vol2.Pt. 325
 
 
+# Summary
+
+(a) Carcasses, parts thereof, meat and meat food products (other than rendered animal fats) that have been treated in accordance with the provisions of this paragraph shall be considered denatured for the purposes of the regulations in this part, except as otherwise provided in part 314 of this subchapter for articles condemned at official establishments.
+(b) In case of wreck or similar extraordinary emergency, the Department seals on a railroad car or other means of conveyance containing any inspected and passed product may be broken by the carrier, and if necessary, the articles may be reloaded into another means of conveyance, or the shipment may be diverted from the original destination, without another shipper's certificate; but in all such cases the carrier shall immediately report the facts by telephone or telegraph to the Regional Director in the area in which the emergency occurs.
+
+
+# Tags
+
+['shall', 'products', 'food', 'sealed', 'meats', 'inspection', 'forms', 'fats', 'transporting', 'requiring', 'contain', 'denatured', 'certificate', 'state', 'animal', 'provided', 'establishments', 'inedible', 'article', 'parts', 'number', 'agents', 'thereof', 'identified', 'cars', 'carcass', 'remove', 'original', 'renderers', 'manufactured', 'percent', 'materials', 'livestock', 'condition', 'permitted', 'lettering', 'following', 'oil', 'size', 'appropriate', 'coloring', 'carriers', 'tape', 'persons', 'acid', 'said', 'subchapter', 'marked', 'lungs']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                            |

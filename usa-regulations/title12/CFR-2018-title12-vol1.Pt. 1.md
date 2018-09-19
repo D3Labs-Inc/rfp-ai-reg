@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 1
 
 
+# Summary
+
+(1) Obligations issued by a State, or a political subdivision or agency of a State, for housing, university, or dormitory purposes that would not satisfy the definition of Type I securities pursuant to paragraph (j) of &#167;&#8201;1.2;
+A national bank may purchase and sell Type V securities for its own account provided that the aggregate par value of Type V securities issued by any one issuer held by the bank does not exceed 25 percent of the bank's capital and surplus.
+Pursuant to &#167;&#8201;1.2(b), an obligation issued by an obligor not possessing general powers of taxation qualifies as a general obligation of a State or political subdivision for the purposes of 12 U.S.C. 24 (Seventh), if a party possessing general powers of taxation unconditionally promises to make sufficient funds available for all required payments in connection with the obligation.
+(b) If the interest earnings from the escrowed Type I securities alone are not sufficient to guarantee the full repayment of an obligation, a promise of a State or a political subdivision possessing general powers of taxation to maintain a reserve fund for the timely payment of interest on, and principal of, the obligation may further support a guarantee of the full repayment of an obligation.
+
+
+# Tags
+
+['securities', 'obligations', 'bank', 'investment', 'reason', 'purposes', 'holding', 'funds', 'capitalized', 'limits', 'included', 'revenue', 'shall', 'accounting', 'general', 'mean', 'provided', 'state', 'qualify', 'authorization', 'leases', 'types', 'activity', 'purchased', 'companies', 'obligors', 'bonds', 'risk', 'usc', 'university', 'credit', 'hospital', 'taxation', 'require', 'commit', 'issuer']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                      |

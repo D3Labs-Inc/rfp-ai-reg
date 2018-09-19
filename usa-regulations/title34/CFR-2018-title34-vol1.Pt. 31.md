@@ -8,6 +8,19 @@
  CFR-2018-title34-vol1.Pt. 31
 
 
+# Summary
+
+(ii) An employee requests a hearing after the deadlines established in &#167;&#8201;31.5(a), but submits evidence satisfactory to the Secretary that the request was not made in a timely manner because the employee did not have notice of the proposed offset, or was prevented from making the request by factors beyond his or her control, until after the deadlines had passed;
+(B) 15 days after the date on which the Secretary makes available to the employee the relevant, requested documents if the employee had requested an opportunity to inspect and copy documents within 20 days of the date of the pre-offset notice provided under &#167;&#8201;31.3; and
+(i) An explanation of reasons why the employee believes that the issues raised regarding the enforceability of the debt or a claim of extreme financial hardship cannot be resolved adequately by a review of the written statements and documents provided with the request for a hearing;
+(2) The sixty-fifth day after the date of the pre-offset notice under &#167;&#8201;31.3 if the employee did not timely request either a hearing in accordance with &#167;&#8201;31.5 (a) and (d) or an opportunity to inspect and copy documents related to the debt under &#167;&#8201;31.4; or
+
+
+# Tags
+
+['secretary', 'federal employee', 'pay', 'documents', 'official', 'department', 'offset', 'period', 'written', 'include', 'payment', 'requests', 'days', 'hearing', 'debts', 'means', 'retirement', 'authorizing', 'essential', 'city', 'service', 'stating', 'shall', 'judicial', 'expenses', 'taxes', 'submit', 'timely', 'set']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                  |

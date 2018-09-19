@@ -8,6 +8,20 @@
  CFR-2018-title12-vol3.Pt. 224
 
 
+# Summary
+
+This part implements section 7(f) of the Act (15 U.S.C. 78g(f)), the purpose of which is to require that credit obtained within or outside the United States complies with the limitations of the Board's Margin Regulations T and U (12 CFR parts 220 and 221, respectively).
+The Act and this part apply the Board's margin regulations to United States persons and foreign persons controlled by or acting on behalf of or in conjunction with United States persons (hereinafter borrowers), who obtain credit outside the United States to purchase or carry United States securities, or within the United States to purchase or carry any securities (both types of credit are hereinafter referred to as purpose credit).
+No borrower shall obtain purpose credit from outside the United States unless it conforms to the following margin regulations:
+(3) Regulation U (12 CFR part 221), as it applies to nonbank lenders, if the credit is obtained from any other lender outside the United States, except for the requirement of a purpose statement (12 CFR 221.3(c)(1)(ii) and (c)(2)(ii)).
+Any borrower who willfully causes credit to be extended in contravention of Regulations T and U (12 CFR parts 220 and 221), and who, therefore, is not exempted by &#167;&#8201;224.1(b)(1), must conform the credit to the margin regulation that applies to the lender.
+
+
+# Tags
+
+['persons', 'securities', 'borrower', 'states', 'purpose', 'credit', 'act']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                        |

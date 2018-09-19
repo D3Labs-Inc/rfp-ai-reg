@@ -8,6 +8,19 @@
  CFR-2018-title9-vol1.Pt. 85
 
 
+# Summary
+
+An official document issued for and prior to the interstate movement of pseudorabies infected, exposed or vaccinated swine under this part by an Animal and Plant Health Inspection Service representative, State representative, or an accredited veterinarian which states: (a) The number of swine to be moved; (b) the purpose for which the swine are to be moved; (c) the points of origin and destination; (d) the consignor and the consignee; and (e) any additional information required by this part.
+Pseudorabies vaccinate swine, except swine from qualified negative gene-altered vaccinated herds, not known to be infected with or exposed to pseudorabies shall be moved interstate directly to a quarantined herd or quarantined feedlot only if:
+(2) The permit in addition to information described in &#167;&#8201;85.1 states: (i) The pseudorabies status of the herd; (ii) the identification of the swine required by &#167;&#8201;71.19 of this chapter; (iii) the date of the vaccination for pseudorabies; and (iv) that approval for the interstate movement has been issued by the State animal health official of the State of destination prior to the interstate movement of the swine.
+Swine from a qualified negative gene-altered vaccinated herd, and not known to be infected with or exposed to pseudorabies, may be moved interestate only in accordance with the following provisions:
+
+
+# Tags
+
+['tested', 'pseudorabies', 'vaccinated swine', 'official', 'livestock', 'herd', 'approval', 'shall', 'required', 'state disease', 'interstate', 'federally', 'services', 'day', 'qualified negative', 'moving', 'common', 'status', 'quarantine', 'inspection', 'animal', 'infected', 'clinical', 'person', 'directly', 'isolation', 'slaughtering']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                    |

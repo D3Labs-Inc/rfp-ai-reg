@@ -8,6 +8,17 @@
  CFR-2018-title12-vol5.Pt. 359
 
 
+# Summary
+
+(v) Any payment made pursuant to a nondiscriminatory severance pay plan or arrangement which provides for payment of severance benefits to all eligible employees upon involuntary termination other than for cause, voluntary resignation, or early retirement; provided, however, that no employee shall receive any such payment which exceeds the base compensation paid to such employee during the twelve months (or such longer period or greater benefit as the Corporation shall consent to) immediately preceding termination of employment, resignation or early retirement, and such severance pay plan or arrangement shall not have been adopted or modified to increase the amount or scope of severance benefits at a time when the insured depository institution or depository institution holding company was in a condition specified in paragraph (f)(1)(ii) of this section or in contemplation of such a condition without the prior written consent of the appropriate federal banking agency; or
+(ii) The term prohibited indemnification payment shall not include any reasonable payment by an insured depository institution or depository institution holding company that represents partial indemnification for legal or professional expenses specifically attributable to particular charges for which there has been a formal and final adjudication or finding in connection with a settlement that the IAP has not violated certain banking laws or regulations or has not engaged in certain unsafe or unsound banking practices or breaches of fiduciary duty, unless the administrative action or civil proceeding has resulted in a final prohibition order against the IAP.
+
+
+# Tags
+
+['shall', 'plans', 'payment', 'benefit', 'compensation', 'iap', 'banking', 'insurance', 'institution holding companies', 'prohibits', 'means', 'certain', 'federally', 'action', 'reason', 'conditions', 'indemnification', 'severance', 'retirement', 'requested', 'financial', 'employees', 'acted', 'claim', 'provides', 'penalty', 'state', 'pursuant', 'legal', 'required', 'corporation']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                              |

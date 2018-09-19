@@ -8,6 +8,21 @@
  CFR-2018-title2-vol1.Pt. 415
 
 
+# Summary
+
+(b) These regulations are intended to foster an intergovernmental partnership and a strengthened Federalism by relying on State processes and on State, areawide, regional and local coordination for review of proposed Federal financial assistance and direct Federal development.
+(b) If a State adopts a process under the Order to review and coordinate proposed Federal financial assistance and direct Federal development, the Secretary, to the extent permitted by law:
+(2) At least 60 days from the date established by the Secretary to comment on proposed direct Federal development or Federal financial assistance other than noncompeting continuation awards.
+(d) If a program or activity is not selected by a State process, State, areawide, regional and local officials and entities may submit comments either to the applicant or to the Department.
+In addition, if a State process recommendation for a non-selected program or activity is transmitted to the Department by the single point of contact, the Secretary follows the procedures of &#167;&#8201;415.12.
+(3) Making efforts to identify and notify the affected State, areawide, regional and local officials and entities in those States that have not adopted a process under the Order or do not select the Department's program or activity; and
+
+
+# Tags
+
+['federalism', 'shall', 'awards', 'states', 'applications', 'program', 'official', 'planned', 'secretary', 'agency', 'activity', 'publications', 'requirements', 'appropriate means', 'commenting', 'officer', 'intergovernmental', 'proposals', 'written', 'funding', 'audiovisual', 'processing', 'reviewers', 'supports', 'design', 'islands', 'local', 'submission', 'periodical']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                            |

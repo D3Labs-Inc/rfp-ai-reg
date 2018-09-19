@@ -8,6 +8,18 @@
  CFR-2018-title12-vol10.Pt. 1511
 
 
+# Summary
+
+For purposes of the application of the matters specified in paragraph (a) of this section, the Federal Reserve Bank maintaining the Securities Account is a clearing corporation, and the Participant's interest in a Book-entry Funding Corporation Security is a Security Entitlement.
+To the extent required by such law or regulation or set forth in an agreement with a Federal Reserve Bank, or the Federal Reserve Bank Operating Circular, a security interest in a Security Entitlement that is in favor of a Federal Reserve Bank, the Funding Corporation, or a Person may be created and perfected by a Federal Reserve Bank marking its books to record the security interest.
+(a) Except in the case of a security interest in favor of the United States or a Federal Reserve Bank or otherwise as provided in &#167;&#8201;1511.4(c)(1), for the purposes of this part 1511, the Funding Corporation and the Federal Reserve Banks shall treat the Participant to whose Securities Account an interest in a Book-entry Funding Corporation Security has been credited as the Person exclusively entitled to issue a Transfer Message, to receive interest and other payments with respect thereof and otherwise to exercise all the rights and powers with respect to such Security, notwithstanding any information or notice to the contrary.
+
+
+# Tags
+
+['securities', 'bank', 'mean', 'law', 'including', 'corporation', 'book', 'accounts', 'states', 'office', 'entitled', 'specify', 'maintained', 'federal', 'governs', 'person', 'street', 'transfer', 'thereof', 'treasury', 'rules']
+
+
 # Structured Analysis Summary
 
 | Type      | Values                                                                                                                                                     |

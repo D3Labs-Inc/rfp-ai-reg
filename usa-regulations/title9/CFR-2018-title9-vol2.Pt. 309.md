@@ -8,6 +8,18 @@
  CFR-2018-title9-vol2.Pt. 309
 
 
+# Summary
+
+(j) Any livestock which is affected with vesicular exanthema or vesicular stomatitis, but which has recovered to the extent that the lesions are in process of healing, the temperature is within normal range, and the livestock shows a return to normal appetite and activity, shall be identified as U.S. Suspect and disposed of as provided in &#167;&#8201;311.32 of this subchapter, except that if desired, such livestock may be set apart and held under supervision of a Program employee or other official designated by the area supervisor for treatment.
+(n) Each animal identified as a U.S. Suspect on ante-mortem inspection shall be set apart and shall be slaughtered separately from other livestock at that establishment unless disposed of as otherwise provided in this part.
+(d) Livestock which have been injected with anthrax vaccines (live organisms) within 6 weeks, and those bearing evidence of reaction to such treatment, such as inflammation, tumefaction, or edema at the site of the injection, shall be condemned on ante-mortem inspection, or such animals may be held under supervision of a Program employee or other official designated by the area supervisor until the expiration of the 6-week period and the disappearance of any evidence of reaction to the treatment.
+
+
+# Tags
+
+['shall', 'livestock', 'inspection', 'official', 'act', 'tag', 'swine', 'identification', 'slaughtered', 'animal', 'condemnation', 'condition', 'following', 'suspect', 'tissues', 'state', 'veterinary', 'acute', 'residues', 'anthrax', 'prior', 'drugs', 'diseases', 'approved', 'employee', 'shows', 'biologic', 'services', 'administrator', 'regulations', 'vesicular', 'general', 'including', 'required', 'products', 'infection', 'food']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                  |

@@ -8,6 +8,18 @@
  CFR-2018-title12-vol4.Pt. 269
 
 
+# Summary
+
+(e) Subject to the provisions of &#167;&#8201;269.8, the exclusive recognition of a labor organization shall not preclude any employee, regardless of labor organization membership, from bringing matters of personal concern not governed by a collective bargaining agreement to the attention of appropriate officers, managers or supervisory personnel in accordance with applicable law, rule, regulation, or established Bank policy, or from choosing his or her own representative in such matters.
+(a) If a labor organization asserts in writing to a Bank that it holds cards requesting a representation election signed by at least thirty percent (30%) of the employees in a unit which that organization considers to be an appropriate bargaining unit, the labor organization and the Bank shall each designate a representative who together shall request the American Arbitration Association (hereinafter referred to as &#8220;Association&#8221;) to submit to them from its National Panel of Professional Labor Arbitrators a list of seven (7) impartial, qualified professional arbitrators.
+Neither the Special Tribunal nor the Federal Reserve System Labor Relations Panel shall have the authority to direct a Bank to recognize a labor organization as the exclusive collective bargaining representative without a valid election being held in which a majority of the employees actually voting have so designated such labor organization.
+
+
+# Tags
+
+['shall', 'employees', 'labor', 'organizations', 'election', 'bank', 'united', 'arbitrator', 'matters affecting', 'panel', 'working', 'appropriate', 'including', 'grievance', 'personnel', 'represents', 'tribunal', 'require', 'management', 'agreements', 'office', 'requested', 'procedure', 'bargaining', 'provided', 'specifically']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                              |

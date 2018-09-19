@@ -8,6 +8,20 @@
  CFR-2018-title12-vol10.Pt. 1200
 
 
+# Summary
+
+The Director is responsible for overseeing the prudential operations of each regulated entity, and for ensuring that each regulated entity: Operates in a safe and sound manner; operates and acts to foster liquid, efficient, competitive, and resilient national housing financing markets; complies with the Safety and Soundness Act, its authorizing statute, and rules, regulations, guidelines, and orders issued under those statutes; carries out its mission only through activities that are authorized by statute; and acts and operates consistent with the public interest.
+The Deputy Director provides management oversight, direction, and support for all examination activity involving the Enterprises, the development of supervision findings, and preparation of the annual reports of examination.
+The Deputy Director provides management oversight, direction and support for all examination activity involving the Banks, the development of supervision findings, and preparation of the annual reports of examination.
+In support of FHFA's mission and the Director's responsibilities as a member of the Federal Housing Finance Oversight Board, the Financial Stability Oversight Board, and the Financial Stability Oversight Committee, the division also oversees and coordinates FHFA activities that involve certain data analysis, and analysis affecting housing finance and financial markets.
+The office is responsible for all matters of FHFA relating to diversity in management, employment, and business activities, and for supervising the diversity requirements applicable to the regulated entities and the OF.
+
+
+# Tags
+
+['fhfa', 'officers', 'acts', 'official', 'director', 'federal', 'oversight', 'financial', 'omb', 'agency', 'regulations', 'house', 'information', 'manages', 'activities', 'supervisory', 'policy', 'division', 'examinations', 'operations', 'controls', 'including']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                           |

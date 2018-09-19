@@ -8,6 +8,19 @@
  CFR-2018-title12-vol1.Pt. 5
 
 
+# Summary
+
+(A) Any bylaw amendment shall be submitted to the appropriate OCC licensing office for OCC approval if it would render more difficult or discourage a merger, proxy contest, the assumption of control by a mutual account holder of the association, or the removal of incumbent management; involve a significant issue of law or policy, including indemnification, conflicts of interest, and limitations on director or officer liability; or be inconsistent with the requirements of this paragraph or with applicable laws, rules, regulations, or the association's charter.
+This section sets forth the procedures governing OCC review and approval of an application, and in certain cases the filing of a notice, by a national bank or Federal savings association to exercise fiduciary powers.
+(i) Except as provided in paragraph (e)(2)(ii) of this section, a national bank or Federal savings association that desires to exercise fiduciary powers shall submit to the OCC an application requesting approval.
+A national bank may file a combined certification and notice with the appropriate OCC licensing office at least five business days prior to acquiring control of, or holding an interest in, a financial subsidiary, or commencing a new activity authorized pursuant to section 5136A(a)(2)(A)(i) of the Revised Statutes in an existing subsidiary.
+
+
+# Tags
+
+['shall', 'includable', 'occ', 'banking', 'associations', 'iii', 'applicable', 'requirements', 'provides', 'offices', 'capitalized', 'sections', 'notices', 'approval', 'businesses', 'investments', 'active', 'means', 'service', 'inform', 'filed', 'financial', 'corporations', 'stock', 'personal', 'follows', 'federally', 'institutions', 'meets', 'procedure', 'authorities', 'branching', 'stating', 'secure', 'publication', 'chartered', 'generally', 'prior', 'materials', 'propose', 'operational', 'insured', 'subsidiary', 'addition', 'issue', 'managing', 'national', 'loans', 'votes', 'limitations', 'transactions', 'usc', 'pursuant', 'action', 'shareholders', 'acting', 'directors qualifying shares', 'company', 'controlled', 'communities', 'timely', 'acquired', 'exist', 'present', 'certification', 'written', 'law', 'assets', 'request', 'transfers', 'policy', 'agency', 'periods', 'plans', 'certain', 'subjects', 'term', 'date', 'credit', 'describing', 'relation', 'appropriate', 'report', 'provisions', 'combine', 'dividend', 'forms', 'new', 'establishment', 'submit', 'account', 'powers', 'fiduciary', 'board', 'conditioned', 'receive', 'orders', 'liquidate', 'debt', 'containing', 'offering', 'immediately', 'solely', 'similar', 'agreements', 'regulator', 'addressed', 'legal', 'considers', 'involve', 'proxies', 'processing', 'organizer', 'changes', 'purpose', 'resulted', 'amendment', 'savings', 'sets', 'trust', 'mergers', 'instrument', 'conducts', 'reasonable', 'affiliations', 'government']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

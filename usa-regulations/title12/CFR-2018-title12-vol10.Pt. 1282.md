@@ -8,6 +8,19 @@
  CFR-2018-title12-vol10.Pt. 1282
 
 
+# Summary
+
+Subject to FHFA's determination of whether an Enterprise shall receive full, partial, or no credit for a transaction toward achievement of any of the housing goals as provided in paragraph (a) of this section, the transactions and activities identified in this paragraph (c) shall be treated as mortgage purchases as described.
+An Enterprise may include in its Plan other activities to serve very low-, low-, or moderate-income families in the manufactured housing market consistent with paragraph (b) of this section, subject to FHFA determination of whether the Additional Activity is eligible to receive duty to serve credit.
+An Enterprise may include in its Plan other activities to serve very low-, low-, or moderate-income families in the affordable housing preservation market consistent with paragraph (b) of this section, subject to FHFA determination of whether the activities are eligible to receive duty to serve credit.
+(2) When an Enterprise lacks sufficient information to determine whether a rental unit in a single-family or multifamily property securing a mortgage purchased by the Enterprise receives duty to serve credit under the loan purchase evaluation area because rental data are not available, the Enterprise's performance with respect to such unit may be evaluated using estimated affordability information, except that an Enterprise may not estimate affordability of rental units for purposes of receiving extra credit for residential economic diversity activities.
+
+
+# Tags
+
+['mortgages', 'house', 'shall', 'enterprise', 'fhfa', 'include', 'united', 'areas', 'plan', 'income', 'means', 'markets', 'data', 'year', 'loans', 'property', 'affordable', 'purchases', 'information', 'program', 'credits', 'require', 'family', 'rental', 'evaluate', 'activity', 'act', 'provides', 'rents', 'financed', 'periods', 'time', 'based', 'goal', 'federal', 'insured', 'follows', 'determining', 'report', 'term', 'public', 'day', 'single', 'rate', 'homes', 'securities', 'originally', 'annually', 'additional', 'shared', 'tenant', 'usc', 'transaction', 'residents', 'date', 'pursuant', 'section', 'iii', 'residential', 'performance', 'counts', 'levels', 'manufactured', 'financial', 'generally', 'governing', 'payment', 'subgoals', 'rural', 'objective', 'establishes', 'sale']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

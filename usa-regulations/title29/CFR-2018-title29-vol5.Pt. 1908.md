@@ -8,6 +8,17 @@
  CFR-2018-title29-vol5.Pt. 1908
 
 
+# Summary
+
+In its publicity for the program, in response to any inquiry, and before an employer's request for a consultative visit may be accepted, the state shall clearly explain that the service is provided at no cost to an employer with federal and state funds for the purpose of assisting the employer in establishing and maintaining effective programs for providing safe and healthful places of employment for employees, in accord with the requirements of the applicable state or federal laws and regulations.
+(iii) Performance of individual consultants shall be measured in terms of their ability to identify hazards in the workplaces which they have visited; their ability to determine employee exposure and risk, and in particular their performance under &#167;&#8201;1908.6 (e) and (f); their knowledge and application of applicable Federal or State statutes, regulations or standards; their knowledge and application of appropriate hazard correction techniques and approaches; their knowledge and application of the requirements of an effective workplace safety and health program; and their ability to communicate effectively their findings and recommendations and the reasons for them to employers, and relevant information, skills and techniques to employers and employees.
+
+
+# Tags
+
+['shall', 'states', 'employer', 'hazard', 'consultative services', 'information', 'osha', 'requirements', 'means', 'programs', 'included', 'employee', 'visits', 'healthful', 'inspections', 'requesting', 'reports', 'federal', 'providing', 'established', 'assisting', 'conducted', 'activity', 'correction', 'actions', 'agreement', 'effectively', 'addition', 'compliance', 'condition', 'reasonably', 'performance', 'written', 'identify', 'publicizing', 'safety', 'periodically', 'evaluating', 'faith', 'newspaper', 'representing', 'working', 'onsite', 'recognition', 'enforcement', 'issued', 'specifications']
+
+
 # Structured Analysis Summary
 
 | Type        | Values                                                                                                                                                                                                                                                                                                                        |
