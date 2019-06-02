@@ -1,4 +1,4 @@
-# Results for the Response to RFP for the Provision of Artificial Intelligence Insights into Regulations
+# Artificial Intelligence Insights into Canadian Regulations and Acts
 
 
 
